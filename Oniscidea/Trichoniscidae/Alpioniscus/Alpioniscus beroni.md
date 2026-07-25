@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Alpioniscus beroni
+authorship: "Andreev, 2013"
+genus: Alpioniscus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 8989364
+gbif_url: https://www.gbif.org/species/8989364
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Alpioniscus beroni Andreev, 2013
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Alpioniscus|Alpioniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/8989364

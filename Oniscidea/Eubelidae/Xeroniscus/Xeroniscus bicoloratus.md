@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Xeroniscus bicoloratus
+authorship: "(Barnard, 1941)"
+genus: Xeroniscus
+family: Eubelidae
+suborder: Oniscidea
+gbif_id: 2200399
+gbif_url: https://www.gbif.org/species/2200399
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, eubelidae]
+---
+
+# Xeroniscus bicoloratus (Barnard, 1941)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Eubelidae Index|Eubelidae]] > **Genus** [[_Xeroniscus|Xeroniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2200399

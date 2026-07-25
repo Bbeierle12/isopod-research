@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Haplophthalmus lombardicus
+authorship: "Strouhal, 1948"
+genus: Haplophthalmus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 4416792
+gbif_url: https://www.gbif.org/species/4416792
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Haplophthalmus lombardicus Strouhal, 1948
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Haplophthalmus|Haplophthalmus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/4416792

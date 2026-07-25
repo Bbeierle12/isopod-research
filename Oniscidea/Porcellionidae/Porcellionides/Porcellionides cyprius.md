@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Porcellionides cyprius
+authorship: "(Strouhal, 1968)"
+genus: Porcellionides
+family: Porcellionidae
+suborder: Oniscidea
+gbif_id: 2211440
+gbif_url: https://www.gbif.org/species/2211440
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, porcellionidae]
+---
+
+# Porcellionides cyprius (Strouhal, 1968)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellionides|Porcellionides]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2211440

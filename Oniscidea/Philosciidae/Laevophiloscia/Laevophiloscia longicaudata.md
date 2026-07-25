@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Laevophiloscia longicaudata
+authorship: "(Wahrberg, 1922)"
+genus: Laevophiloscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209924
+gbif_url: https://www.gbif.org/species/2209924
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Laevophiloscia longicaudata (Wahrberg, 1922)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Laevophiloscia|Laevophiloscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209924

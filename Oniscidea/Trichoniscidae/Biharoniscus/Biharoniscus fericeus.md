@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Biharoniscus fericeus
+authorship: "Tabacaru, 1973"
+genus: Biharoniscus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 4416788
+gbif_url: https://www.gbif.org/species/4416788
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Biharoniscus fericeus Tabacaru, 1973
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Biharoniscus|Biharoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/4416788

@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Scleropactes cotopaxii
+authorship: "Schmidt, 2007"
+genus: Scleropactes
+family: Scleropactidae
+suborder: Oniscidea
+gbif_id: 9000910
+gbif_url: https://www.gbif.org/species/9000910
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, scleropactidae]
+---
+
+# Scleropactes cotopaxii Schmidt, 2007
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Scleropactidae Index|Scleropactidae]] > **Genus** [[_Scleropactes|Scleropactes]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9000910

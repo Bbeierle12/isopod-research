@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Palaeospherarmadillo rotundus
+authorship: "Broly, 2018"
+genus: Palaeospherarmadillo
+family: Scleropactidae
+suborder: Oniscidea
+gbif_id: 10633825
+gbif_url: https://www.gbif.org/species/10633825
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, scleropactidae]
+---
+
+# Palaeospherarmadillo rotundus Broly, 2018
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Scleropactidae Index|Scleropactidae]] > **Genus** [[_Palaeospherarmadillo|Palaeospherarmadillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/10633825

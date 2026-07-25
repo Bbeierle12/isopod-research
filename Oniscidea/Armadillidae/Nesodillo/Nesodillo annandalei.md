@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Nesodillo annandalei
+authorship: "(Collinge, 1914)"
+genus: Nesodillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 8774533
+gbif_url: https://www.gbif.org/species/8774533
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Nesodillo annandalei (Collinge, 1914)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Nesodillo|Nesodillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/8774533

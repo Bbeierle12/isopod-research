@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Hybodillo monocellatus
+authorship: "Ferrara & Taiti, 1982"
+genus: Hybodillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 5175891
+gbif_url: https://www.gbif.org/species/5175891
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Hybodillo monocellatus Ferrara & Taiti, 1982
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Hybodillo|Hybodillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5175891

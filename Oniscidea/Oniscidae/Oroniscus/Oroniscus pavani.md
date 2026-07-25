@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Oroniscus pavani
+authorship: "Arcangeli, 1939"
+genus: Oroniscus
+family: Oniscidae
+suborder: Oniscidea
+gbif_id: 2205430
+gbif_url: https://www.gbif.org/species/2205430
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, oniscidae]
+---
+
+# Oroniscus pavani Arcangeli, 1939
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Oniscidae Index|Oniscidae]] > **Genus** [[_Oroniscus|Oroniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2205430

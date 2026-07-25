@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Cubaris nacrum
+authorship: "Collinge, 1915"
+genus: Cubaris
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 9215784
+gbif_url: https://www.gbif.org/species/9215784
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Cubaris nacrum Collinge, 1915
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Cubaris|Cubaris]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9215784

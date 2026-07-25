@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Troglophiloscia laevis
+authorship: "Schultz, 1977"
+genus: Troglophiloscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209586
+gbif_url: https://www.gbif.org/species/2209586
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Troglophiloscia laevis Schultz, 1977
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Troglophiloscia|Troglophiloscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209586

@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Philoscia mendica
+authorship: "Budde-Lund, 1898"
+genus: Philoscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 5176864
+gbif_url: https://www.gbif.org/species/5176864
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Philoscia mendica Budde-Lund, 1898
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Philoscia|Philoscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5176864

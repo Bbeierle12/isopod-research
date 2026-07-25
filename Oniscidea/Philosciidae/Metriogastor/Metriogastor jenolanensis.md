@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Metriogastor jenolanensis
+authorship: "Vandel, 1973"
+genus: Metriogastor
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2210051
+gbif_url: https://www.gbif.org/species/2210051
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Metriogastor jenolanensis Vandel, 1973
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Metriogastor|Metriogastor]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2210051

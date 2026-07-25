@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Oritoniscus violaceus
+authorship: "Dalens, Rousset & Fournier, 1996"
+genus: Oritoniscus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2207993
+gbif_url: https://www.gbif.org/species/2207993
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Oritoniscus violaceus Dalens, Rousset & Fournier, 1996
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Oritoniscus|Oritoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2207993

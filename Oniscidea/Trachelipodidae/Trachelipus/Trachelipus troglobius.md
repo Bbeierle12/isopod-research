@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Trachelipus troglobius
+authorship: "Tabacaru & Boghean, 1989"
+genus: Trachelipus
+family: Trachelipodidae
+suborder: Oniscidea
+gbif_id: 2209100
+gbif_url: https://www.gbif.org/species/2209100
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trachelipodidae]
+---
+
+# Trachelipus troglobius Tabacaru & Boghean, 1989
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Trachelipus|Trachelipus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209100

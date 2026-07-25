@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Caucasonethes borutzkyi
+authorship: "Verhoeff, 1932"
+genus: Caucasonethes
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2208339
+gbif_url: https://www.gbif.org/species/2208339
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Caucasonethes borutzkyi Verhoeff, 1932
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Caucasonethes|Caucasonethes]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2208339

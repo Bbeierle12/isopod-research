@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Parasphaerillo cingulatus
+authorship: "(Barnard, 1932)"
+genus: Parasphaerillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 9091782
+gbif_url: https://www.gbif.org/species/9091782
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Parasphaerillo cingulatus (Barnard, 1932)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Parasphaerillo|Parasphaerillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9091782

@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Vandeloniscellus bulgaricus
+authorship: "(Vandel, 1967)"
+genus: Vandeloniscellus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2208358
+gbif_url: https://www.gbif.org/species/2208358
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Vandeloniscellus bulgaricus (Vandel, 1967)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Vandeloniscellus|Vandeloniscellus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2208358

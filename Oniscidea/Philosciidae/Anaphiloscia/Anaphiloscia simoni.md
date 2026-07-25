@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Anaphiloscia simoni
+authorship: "Racovitza, 1907"
+genus: Anaphiloscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209655
+gbif_url: https://www.gbif.org/species/2209655
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Anaphiloscia simoni Racovitza, 1907
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Anaphiloscia|Anaphiloscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209655

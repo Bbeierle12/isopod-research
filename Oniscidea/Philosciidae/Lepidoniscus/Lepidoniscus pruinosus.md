@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Lepidoniscus pruinosus
+authorship: "(Carl, 1908)"
+genus: Lepidoniscus
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209965
+gbif_url: https://www.gbif.org/species/2209965
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Lepidoniscus pruinosus (Carl, 1908)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Lepidoniscus|Lepidoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209965

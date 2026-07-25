@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Nesodillo monticola
+authorship: "(Vandel, 1973)"
+genus: Nesodillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 9010510
+gbif_url: https://www.gbif.org/species/9010510
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Nesodillo monticola (Vandel, 1973)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Nesodillo|Nesodillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9010510

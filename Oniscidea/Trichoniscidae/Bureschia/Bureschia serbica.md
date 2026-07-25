@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Bureschia serbica
+authorship: "Karaman & Horvatović, 2022"
+genus: Bureschia
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 12227591
+gbif_url: https://www.gbif.org/species/12227591
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Bureschia serbica Karaman & Horvatović, 2022
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Bureschia|Bureschia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/12227591

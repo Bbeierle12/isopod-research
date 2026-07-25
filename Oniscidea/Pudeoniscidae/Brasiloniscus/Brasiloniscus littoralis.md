@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Brasiloniscus littoralis
+authorship: "Cardoso, Campos-Filho & Araujo, 2018"
+genus: Brasiloniscus
+family: Pudeoniscidae
+suborder: Oniscidea
+gbif_id: 9738721
+gbif_url: https://www.gbif.org/species/9738721
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, pudeoniscidae]
+---
+
+# Brasiloniscus littoralis Cardoso, Campos-Filho & Araujo, 2018
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Pudeoniscidae Index|Pudeoniscidae]] > **Genus** [[_Brasiloniscus|Brasiloniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9738721

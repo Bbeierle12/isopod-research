@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Littorophiloscia visayensis
+authorship: "Kim & Kwon, 2002"
+genus: Littorophiloscia
+family: Halophilosciidae
+suborder: Oniscidea
+gbif_id: 2210149
+gbif_url: https://www.gbif.org/species/2210149
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, halophilosciidae]
+---
+
+# Littorophiloscia visayensis Kim & Kwon, 2002
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Halophilosciidae Index|Halophilosciidae]] > **Genus** [[_Littorophiloscia|Littorophiloscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2210149

@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Trichonethes kosswigi
+authorship: "Strouhal, 1953"
+genus: Trichonethes
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2208026
+gbif_url: https://www.gbif.org/species/2208026
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Trichonethes kosswigi Strouhal, 1953
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Trichonethes|Trichonethes]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2208026

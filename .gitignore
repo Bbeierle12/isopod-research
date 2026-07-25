@@ -1,0 +1,10 @@
+# Obsidian per-machine UI state / caches (keep plugin + appearance config)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini

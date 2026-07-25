@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Desertoniscus subterraneus
+authorship: "Verhoeff, 1930"
+genus: Desertoniscus
+family: Agnaridae
+suborder: Oniscidea
+gbif_id: 2209312
+gbif_url: https://www.gbif.org/species/2209312
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, agnaridae]
+---
+
+# Desertoniscus subterraneus Verhoeff, 1930
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Agnaridae Index|Agnaridae]] > **Genus** [[_Desertoniscus|Desertoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209312

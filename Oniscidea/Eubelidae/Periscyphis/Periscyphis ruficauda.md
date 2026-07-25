@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Periscyphis ruficauda
+authorship: "Budde-Lund, 1908"
+genus: Periscyphis
+family: Eubelidae
+suborder: Oniscidea
+gbif_id: 2200258
+gbif_url: https://www.gbif.org/species/2200258
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, eubelidae]
+---
+
+# Periscyphis ruficauda Budde-Lund, 1908
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Eubelidae Index|Eubelidae]] > **Genus** [[_Periscyphis|Periscyphis]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2200258

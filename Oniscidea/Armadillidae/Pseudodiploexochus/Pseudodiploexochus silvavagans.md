@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Pseudodiploexochus silvavagans
+authorship: "(Barnard, 1958)"
+genus: Pseudodiploexochus
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 5175706
+gbif_url: https://www.gbif.org/species/5175706
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Pseudodiploexochus silvavagans (Barnard, 1958)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Pseudodiploexochus|Pseudodiploexochus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5175706

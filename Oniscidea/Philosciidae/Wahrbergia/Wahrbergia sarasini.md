@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Wahrbergia sarasini
+authorship: "Verhoeff, 1926"
+genus: Wahrbergia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2210058
+gbif_url: https://www.gbif.org/species/2210058
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Wahrbergia sarasini Verhoeff, 1926
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Wahrbergia|Wahrbergia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2210058

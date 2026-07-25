@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ischioscia plurimaculata
+authorship: "Leistikow, 2000"
+genus: Ischioscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 9094688
+gbif_url: https://www.gbif.org/species/9094688
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Ischioscia plurimaculata Leistikow, 2000
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Ischioscia|Ischioscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9094688

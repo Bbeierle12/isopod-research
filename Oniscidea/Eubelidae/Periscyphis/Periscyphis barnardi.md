@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Periscyphis barnardi
+authorship: "Ferrara & Taiti, 1986"
+genus: Periscyphis
+family: Eubelidae
+suborder: Oniscidea
+gbif_id: 2200220
+gbif_url: https://www.gbif.org/species/2200220
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, eubelidae]
+---
+
+# Periscyphis barnardi Ferrara & Taiti, 1986
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Eubelidae Index|Eubelidae]] > **Genus** [[_Periscyphis|Periscyphis]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2200220

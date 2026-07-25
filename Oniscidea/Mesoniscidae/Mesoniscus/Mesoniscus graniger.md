@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Mesoniscus graniger
+authorship: "(Frivaldszky, 1865)"
+genus: Mesoniscus
+family: Mesoniscidae
+suborder: Oniscidea
+gbif_id: 2205377
+gbif_url: https://www.gbif.org/species/2205377
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, mesoniscidae]
+---
+
+# Mesoniscus graniger (Frivaldszky, 1865)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Mesoniscidae Index|Mesoniscidae]] > **Genus** [[_Mesoniscus|Mesoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2205377

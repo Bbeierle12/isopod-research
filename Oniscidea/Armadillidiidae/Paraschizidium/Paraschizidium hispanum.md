@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Paraschizidium hispanum
+authorship: "Arcangeli, 1935"
+genus: Paraschizidium
+family: Armadillidiidae
+suborder: Oniscidea
+gbif_id: 2203528
+gbif_url: https://www.gbif.org/species/2203528
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidiidae]
+---
+
+# Paraschizidium hispanum Arcangeli, 1935
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Paraschizidium|Paraschizidium]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2203528

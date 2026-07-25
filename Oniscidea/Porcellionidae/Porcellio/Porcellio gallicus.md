@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Porcellio gallicus
+authorship: "Dollfus, 1904"
+genus: Porcellio
+family: Porcellionidae
+suborder: Oniscidea
+gbif_id: 6284307
+gbif_url: https://www.gbif.org/species/6284307
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, porcellionidae]
+---
+
+# Porcellio gallicus Dollfus, 1904
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/6284307

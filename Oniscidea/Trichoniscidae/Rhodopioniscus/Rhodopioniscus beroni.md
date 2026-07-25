@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Rhodopioniscus beroni
+authorship: "(Vandel, 1965)"
+genus: Rhodopioniscus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2208136
+gbif_url: https://www.gbif.org/species/2208136
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Rhodopioniscus beroni (Vandel, 1965)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Rhodopioniscus|Rhodopioniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2208136

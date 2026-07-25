@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Phalloniscus occidentalis
+authorship: "Vandel, 1977"
+genus: Phalloniscus
+family: Oniscidae
+suborder: Oniscidea
+gbif_id: 2212779
+gbif_url: https://www.gbif.org/species/2212779
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, oniscidae]
+---
+
+# Phalloniscus occidentalis Vandel, 1977
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Oniscidae Index|Oniscidae]] > **Genus** [[_Phalloniscus|Phalloniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2212779

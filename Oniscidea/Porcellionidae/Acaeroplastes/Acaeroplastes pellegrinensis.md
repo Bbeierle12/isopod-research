@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Acaeroplastes pellegrinensis
+authorship: "(Verhoeff, 1918)"
+genus: Acaeroplastes
+family: Porcellionidae
+suborder: Oniscidea
+gbif_id: 8805007
+gbif_url: https://www.gbif.org/species/8805007
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, porcellionidae]
+---
+
+# Acaeroplastes pellegrinensis (Verhoeff, 1918)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Acaeroplastes|Acaeroplastes]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/8805007

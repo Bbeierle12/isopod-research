@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Sinhaloscia dimorpha
+authorship: "Manicastri & Taiti, 1987"
+genus: Sinhaloscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209562
+gbif_url: https://www.gbif.org/species/2209562
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Sinhaloscia dimorpha Manicastri & Taiti, 1987
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Sinhaloscia|Sinhaloscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209562

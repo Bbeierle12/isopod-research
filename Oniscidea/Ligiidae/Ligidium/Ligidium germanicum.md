@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ligidium germanicum
+authorship: "Verhoeff, 1901"
+genus: Ligidium
+family: Ligiidae
+suborder: Oniscidea
+gbif_id: 2201456
+gbif_url: https://www.gbif.org/species/2201456
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, ligiidae]
+---
+
+# Ligidium germanicum Verhoeff, 1901
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Ligiidae Index|Ligiidae]] > **Genus** [[_Ligidium|Ligidium]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2201456

@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Pagana platysoma
+authorship: "Taiti & Ferrara, 1983"
+genus: Pagana
+family: Trachelipodidae
+suborder: Oniscidea
+gbif_id: 5176818
+gbif_url: https://www.gbif.org/species/5176818
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trachelipodidae]
+---
+
+# Pagana platysoma Taiti & Ferrara, 1983
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Pagana|Pagana]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5176818

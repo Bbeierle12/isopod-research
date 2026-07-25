@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Porcellionides bermudezi
+authorship: "Boone, 1934"
+genus: Porcellionides
+family: Porcellionidae
+suborder: Oniscidea
+gbif_id: 2211321
+gbif_url: https://www.gbif.org/species/2211321
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, porcellionidae]
+---
+
+# Porcellionides bermudezi Boone, 1934
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellionides|Porcellionides]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2211321

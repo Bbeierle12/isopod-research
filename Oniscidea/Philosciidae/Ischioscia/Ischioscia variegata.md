@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ischioscia variegata
+authorship: "(Dollfus, 1893)"
+genus: Ischioscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209646
+gbif_url: https://www.gbif.org/species/2209646
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Ischioscia variegata (Dollfus, 1893)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Ischioscia|Ischioscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209646

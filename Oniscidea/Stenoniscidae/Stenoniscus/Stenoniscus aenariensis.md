@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Stenoniscus aenariensis
+authorship: "(Verhoeff, 1942)"
+genus: Stenoniscus
+family: Stenoniscidae
+suborder: Oniscidea
+gbif_id: 9061439
+gbif_url: https://www.gbif.org/species/9061439
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, stenoniscidae]
+---
+
+# Stenoniscus aenariensis (Verhoeff, 1942)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Stenoniscidae Index|Stenoniscidae]] > **Genus** [[_Stenoniscus|Stenoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9061439

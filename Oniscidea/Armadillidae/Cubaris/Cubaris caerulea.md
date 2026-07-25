@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Cubaris caerulea
+authorship: "Collinge, 1914"
+genus: Cubaris
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 5175842
+gbif_url: https://www.gbif.org/species/5175842
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Cubaris caerulea Collinge, 1914
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Cubaris|Cubaris]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5175842

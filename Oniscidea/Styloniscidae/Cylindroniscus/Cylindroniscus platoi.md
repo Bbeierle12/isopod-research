@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Cylindroniscus platoi
+authorship: "Fernandes, Campos-Filho & Bichuette, 2018"
+genus: Cylindroniscus
+family: Styloniscidae
+suborder: Oniscidea
+gbif_id: 10566415
+gbif_url: https://www.gbif.org/species/10566415
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, styloniscidae]
+---
+
+# Cylindroniscus platoi Fernandes, Campos-Filho & Bichuette, 2018
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Styloniscidae Index|Styloniscidae]] > **Genus** [[_Cylindroniscus|Cylindroniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/10566415

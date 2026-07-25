@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Namiboniscus brevicornis
+authorship: "Schmidt, 2001"
+genus: Namiboniscus
+family: Olibrinidae
+suborder: Oniscidea
+gbif_id: 8889434
+gbif_url: https://www.gbif.org/species/8889434
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, olibrinidae]
+---
+
+# Namiboniscus brevicornis Schmidt, 2001
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Olibrinidae Index|Olibrinidae]] > **Genus** [[_Namiboniscus|Namiboniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/8889434

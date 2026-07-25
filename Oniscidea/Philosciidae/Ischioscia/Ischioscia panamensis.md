@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ischioscia panamensis
+authorship: "Leistikow, 1999"
+genus: Ischioscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209622
+gbif_url: https://www.gbif.org/species/2209622
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Ischioscia panamensis Leistikow, 1999
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Ischioscia|Ischioscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209622

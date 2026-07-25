@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Neotroponiscus tuberculatus
+authorship: "Cardoso & Araujo, 2017"
+genus: Neotroponiscus
+family: Bathytropidae
+suborder: Oniscidea
+gbif_id: 9268596
+gbif_url: https://www.gbif.org/species/9268596
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, bathytropidae]
+---
+
+# Neotroponiscus tuberculatus Cardoso & Araujo, 2017
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Bathytropidae Index|Bathytropidae]] > **Genus** [[_Neotroponiscus|Neotroponiscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9268596

@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Adeloscia dawsoni
+authorship: "Vandel, 1977"
+genus: Adeloscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209999
+gbif_url: https://www.gbif.org/species/2209999
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Adeloscia dawsoni Vandel, 1977
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Adeloscia|Adeloscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209999

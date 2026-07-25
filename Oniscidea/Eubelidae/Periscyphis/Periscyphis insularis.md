@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Periscyphis insularis
+authorship: "Ferrara & Taiti, 1988"
+genus: Periscyphis
+family: Eubelidae
+suborder: Oniscidea
+gbif_id: 2200243
+gbif_url: https://www.gbif.org/species/2200243
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, eubelidae]
+---
+
+# Periscyphis insularis Ferrara & Taiti, 1988
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Eubelidae Index|Eubelidae]] > **Genus** [[_Periscyphis|Periscyphis]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2200243

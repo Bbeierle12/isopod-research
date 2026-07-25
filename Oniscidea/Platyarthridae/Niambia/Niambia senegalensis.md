@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Niambia senegalensis
+authorship: "Schmalfuss & Ferrara, 1978"
+genus: Niambia
+family: Platyarthridae
+suborder: Oniscidea
+gbif_id: 2205066
+gbif_url: https://www.gbif.org/species/2205066
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, platyarthridae]
+---
+
+# Niambia senegalensis Schmalfuss & Ferrara, 1978
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Platyarthridae Index|Platyarthridae]] > **Genus** [[_Niambia|Niambia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2205066

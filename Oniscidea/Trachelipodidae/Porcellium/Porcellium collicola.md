@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Porcellium collicola
+authorship: "(Verhoeff, 1907)"
+genus: Porcellium
+family: Trachelipodidae
+suborder: Oniscidea
+gbif_id: 2209190
+gbif_url: https://www.gbif.org/species/2209190
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trachelipodidae]
+---
+
+# Porcellium collicola (Verhoeff, 1907)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Porcellium|Porcellium]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209190

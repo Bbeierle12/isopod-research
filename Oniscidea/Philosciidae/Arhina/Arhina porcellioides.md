@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Arhina porcellioides
+authorship: "Budde-Lund, 1904"
+genus: Arhina
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 5715508
+gbif_url: https://www.gbif.org/species/5715508
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Arhina porcellioides Budde-Lund, 1904
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Arhina|Arhina]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5715508

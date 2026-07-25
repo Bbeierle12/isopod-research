@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Echinodillo cavaticus
+authorship: "Green, 1963"
+genus: Echinodillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 2202745
+gbif_url: https://www.gbif.org/species/2202745
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Echinodillo cavaticus Green, 1963
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Echinodillo|Echinodillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2202745

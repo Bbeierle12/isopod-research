@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Paraschizidium esterelanum
+authorship: "Juchault & Legrand, 1962"
+genus: Paraschizidium
+family: Armadillidiidae
+suborder: Oniscidea
+gbif_id: 9194313
+gbif_url: https://www.gbif.org/species/9194313
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidiidae]
+---
+
+# Paraschizidium esterelanum Juchault & Legrand, 1962
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Paraschizidium|Paraschizidium]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9194313

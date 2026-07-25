@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Congocellio uniformis
+authorship: "Arcangeli, 1950"
+genus: Congocellio
+family: Porcellionidae
+suborder: Oniscidea
+gbif_id: 2211281
+gbif_url: https://www.gbif.org/species/2211281
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, porcellionidae]
+---
+
+# Congocellio uniformis Arcangeli, 1950
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Congocellio|Congocellio]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2211281

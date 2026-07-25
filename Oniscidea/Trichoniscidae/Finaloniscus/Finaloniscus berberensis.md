@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Finaloniscus berberensis
+authorship: "Vandel, 1959"
+genus: Finaloniscus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2208347
+gbif_url: https://www.gbif.org/species/2208347
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Finaloniscus berberensis Vandel, 1959
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Finaloniscus|Finaloniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2208347

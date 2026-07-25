@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Venezillo jamaicensis
+authorship: "(Richardson, 1912)"
+genus: Venezillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 2202509
+gbif_url: https://www.gbif.org/species/2202509
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Venezillo jamaicensis (Richardson, 1912)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Venezillo|Venezillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2202509

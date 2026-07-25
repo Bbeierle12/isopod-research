@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Brackenridgia villalobosi
+authorship: "(Rioja, 1950)"
+genus: Brackenridgia
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 5176754
+gbif_url: https://www.gbif.org/species/5176754
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Brackenridgia villalobosi (Rioja, 1950)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Brackenridgia|Brackenridgia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5176754

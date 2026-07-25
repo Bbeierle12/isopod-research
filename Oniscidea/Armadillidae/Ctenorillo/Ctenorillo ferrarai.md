@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ctenorillo ferrarai
+authorship: "Campos-Filho, Araujo & Taiti, 2014"
+genus: Ctenorillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 8900357
+gbif_url: https://www.gbif.org/species/8900357
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Ctenorillo ferrarai Campos-Filho, Araujo & Taiti, 2014
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Ctenorillo|Ctenorillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/8900357

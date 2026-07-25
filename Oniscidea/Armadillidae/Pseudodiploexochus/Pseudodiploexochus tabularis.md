@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Pseudodiploexochus tabularis
+authorship: "(Barnard, 1932)"
+genus: Pseudodiploexochus
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 5175718
+gbif_url: https://www.gbif.org/species/5175718
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Pseudodiploexochus tabularis (Barnard, 1932)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Pseudodiploexochus|Pseudodiploexochus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5175718

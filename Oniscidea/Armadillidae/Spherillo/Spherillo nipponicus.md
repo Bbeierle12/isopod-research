@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Spherillo nipponicus
+authorship: "Arcangeli, 1952"
+genus: Spherillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 2202283
+gbif_url: https://www.gbif.org/species/2202283
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Spherillo nipponicus Arcangeli, 1952
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Spherillo|Spherillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2202283

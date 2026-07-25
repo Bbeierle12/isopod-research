@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Pseudodiploexochus pilosus
+authorship: "Taiti & Ferrara, 1979"
+genus: Pseudodiploexochus
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 5175697
+gbif_url: https://www.gbif.org/species/5175697
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Pseudodiploexochus pilosus Taiti & Ferrara, 1979
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Pseudodiploexochus|Pseudodiploexochus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/5175697

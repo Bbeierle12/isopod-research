@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ligidium longisetosum
+authorship: "Verhoeff & Strouhal, 1967"
+genus: Ligidium
+family: Ligiidae
+suborder: Oniscidea
+gbif_id: 8843219
+gbif_url: https://www.gbif.org/species/8843219
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, ligiidae]
+---
+
+# Ligidium longisetosum Verhoeff & Strouhal, 1967
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Ligiidae Index|Ligiidae]] > **Genus** [[_Ligidium|Ligidium]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/8843219

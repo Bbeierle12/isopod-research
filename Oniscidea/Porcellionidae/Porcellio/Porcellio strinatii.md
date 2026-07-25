@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Porcellio strinatii
+authorship: "Vandel, 1960"
+genus: Porcellio
+family: Porcellionidae
+suborder: Oniscidea
+gbif_id: 6284451
+gbif_url: https://www.gbif.org/species/6284451
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, porcellionidae]
+---
+
+# Porcellio strinatii Vandel, 1960
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/6284451

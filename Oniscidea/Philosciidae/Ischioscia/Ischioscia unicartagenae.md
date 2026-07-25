@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ischioscia unicartagenae
+authorship: "Campos-Filho, Carpio-Díaz & López-Orozco, 2020"
+genus: Ischioscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 10865153
+gbif_url: https://www.gbif.org/species/10865153
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Ischioscia unicartagenae Campos-Filho, Carpio-Díaz & López-Orozco, 2020
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Ischioscia|Ischioscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/10865153

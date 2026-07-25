@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Armadillidium niger
+authorship: "Kortshagin, 1887"
+genus: Armadillidium
+family: Armadillidiidae
+suborder: Oniscidea
+gbif_id: 8943344
+gbif_url: https://www.gbif.org/species/8943344
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidiidae]
+---
+
+# Armadillidium niger Kortshagin, 1887
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Armadillidium|Armadillidium]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/8943344

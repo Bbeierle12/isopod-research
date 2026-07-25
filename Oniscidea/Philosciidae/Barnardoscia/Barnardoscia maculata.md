@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Barnardoscia maculata
+authorship: "Taiti & Ferrara, 1982"
+genus: Barnardoscia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209576
+gbif_url: https://www.gbif.org/species/2209576
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Barnardoscia maculata Taiti & Ferrara, 1982
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Barnardoscia|Barnardoscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209576

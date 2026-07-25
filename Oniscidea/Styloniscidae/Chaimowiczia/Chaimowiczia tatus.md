@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Chaimowiczia tatus
+authorship: "Cardoso, Bastos-Pereira, Souza & Ferreira, 2021"
+genus: Chaimowiczia
+family: Styloniscidae
+suborder: Oniscidea
+gbif_id: 11134214
+gbif_url: https://www.gbif.org/species/11134214
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, styloniscidae]
+---
+
+# Chaimowiczia tatus Cardoso, Bastos-Pereira, Souza & Ferreira, 2021
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Styloniscidae Index|Styloniscidae]] > **Genus** [[_Chaimowiczia|Chaimowiczia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/11134214

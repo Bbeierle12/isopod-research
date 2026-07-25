@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Lepidoniscus germanicus
+authorship: "(Verhoeff, 1896)"
+genus: Lepidoniscus
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209969
+gbif_url: https://www.gbif.org/species/2209969
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Lepidoniscus germanicus (Verhoeff, 1896)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Lepidoniscus|Lepidoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209969

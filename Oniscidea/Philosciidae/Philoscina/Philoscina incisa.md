@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Philoscina incisa
+authorship: "Ferrara & Taiti, 1985"
+genus: Philoscina
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209340
+gbif_url: https://www.gbif.org/species/2209340
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Philoscina incisa Ferrara & Taiti, 1985
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Philoscina|Philoscina]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209340

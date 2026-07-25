@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Lucasius andalusicus
+authorship: "Garcia, 2019"
+genus: Lucasius
+family: Porcellionidae
+suborder: Oniscidea
+gbif_id: 10160897
+gbif_url: https://www.gbif.org/species/10160897
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, porcellionidae]
+---
+
+# Lucasius andalusicus Garcia, 2019
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Lucasius|Lucasius]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/10160897

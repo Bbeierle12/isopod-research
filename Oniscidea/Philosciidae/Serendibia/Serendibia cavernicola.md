@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Serendibia cavernicola
+authorship: "Taiti & Checcucci, 2009"
+genus: Serendibia
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 9218416
+gbif_url: https://www.gbif.org/species/9218416
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Serendibia cavernicola Taiti & Checcucci, 2009
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Serendibia|Serendibia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9218416

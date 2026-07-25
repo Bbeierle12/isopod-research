@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Tendosphaera verrucosa
+authorship: "Verhoeff, 1930"
+genus: Tendosphaera
+family: Tendosphaeridae
+suborder: Oniscidea
+gbif_id: 2213557
+gbif_url: https://www.gbif.org/species/2213557
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, tendosphaeridae]
+---
+
+# Tendosphaera verrucosa Verhoeff, 1930
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Tendosphaeridae Index|Tendosphaeridae]] > **Genus** [[_Tendosphaera|Tendosphaera]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2213557

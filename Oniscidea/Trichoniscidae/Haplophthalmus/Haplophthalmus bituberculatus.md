@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Haplophthalmus bituberculatus
+authorship: "Strouhal, 1963"
+genus: Haplophthalmus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2208226
+gbif_url: https://www.gbif.org/species/2208226
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Haplophthalmus bituberculatus Strouhal, 1963
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Haplophthalmus|Haplophthalmus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2208226

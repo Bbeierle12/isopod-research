@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Burmoniscus mossambicus
+authorship: "(Ferrara & Taiti, 1985)"
+genus: Burmoniscus
+family: Philosciidae
+suborder: Oniscidea
+gbif_id: 2209731
+gbif_url: https://www.gbif.org/species/2209731
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, philosciidae]
+---
+
+# Burmoniscus mossambicus (Ferrara & Taiti, 1985)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Burmoniscus|Burmoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2209731

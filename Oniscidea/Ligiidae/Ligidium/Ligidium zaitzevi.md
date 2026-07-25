@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Ligidium zaitzevi
+authorship: "Borutzky, 1950"
+genus: Ligidium
+family: Ligiidae
+suborder: Oniscidea
+gbif_id: 2201486
+gbif_url: https://www.gbif.org/species/2201486
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, ligiidae]
+---
+
+# Ligidium zaitzevi Borutzky, 1950
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Ligiidae Index|Ligiidae]] > **Genus** [[_Ligidium|Ligidium]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2201486

@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Buchnerillo litoralis
+authorship: "Verhoeff, 1942"
+genus: Buchnerillo
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2212086
+gbif_url: https://www.gbif.org/species/2212086
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Buchnerillo litoralis Verhoeff, 1942
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Buchnerillo|Buchnerillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2212086

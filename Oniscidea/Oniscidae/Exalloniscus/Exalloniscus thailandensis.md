@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Exalloniscus thailandensis
+authorship: "Dalens, 1987"
+genus: Exalloniscus
+family: Oniscidae
+suborder: Oniscidea
+gbif_id: 2205452
+gbif_url: https://www.gbif.org/species/2205452
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, oniscidae]
+---
+
+# Exalloniscus thailandensis Dalens, 1987
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Oniscidae Index|Oniscidae]] > **Genus** [[_Exalloniscus|Exalloniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2205452

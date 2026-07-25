@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Tachysoniscus austriacus
+authorship: "(Verhoeff, 1908)"
+genus: Tachysoniscus
+family: Trichoniscidae
+suborder: Oniscidea
+gbif_id: 2208466
+gbif_url: https://www.gbif.org/species/2208466
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, trichoniscidae]
+---
+
+# Tachysoniscus austriacus (Verhoeff, 1908)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Tachysoniscus|Tachysoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2208466

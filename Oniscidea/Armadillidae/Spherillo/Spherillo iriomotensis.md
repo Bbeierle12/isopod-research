@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Spherillo iriomotensis
+authorship: "Nunomura, 1990"
+genus: Spherillo
+family: Armadillidae
+suborder: Oniscidea
+gbif_id: 4303659
+gbif_url: https://www.gbif.org/species/4303659
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, armadillidae]
+---
+
+# Spherillo iriomotensis Nunomura, 1990
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Spherillo|Spherillo]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/4303659

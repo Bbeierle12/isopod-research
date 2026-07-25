@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Littorophiloscia insularis
+authorship: "(Lemos de Castro & Souza, 1986)"
+genus: Littorophiloscia
+family: Halophilosciidae
+suborder: Oniscidea
+gbif_id: 9225271
+gbif_url: https://www.gbif.org/species/9225271
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, halophilosciidae]
+---
+
+# Littorophiloscia insularis (Lemos de Castro & Souza, 1986)
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Halophilosciidae Index|Halophilosciidae]] > **Genus** [[_Littorophiloscia|Littorophiloscia]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/9225271

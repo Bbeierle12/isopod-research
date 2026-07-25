@@ -1,0 +1,40 @@
+---
+type: species
+scientificName: Paranotoniscus montanus
+authorship: "Barnard, 1932"
+genus: Paranotoniscus
+family: Styloniscidae
+suborder: Oniscidea
+gbif_id: 2203067
+gbif_url: https://www.gbif.org/species/2203067
+common_name: 
+distribution: 
+habitat: 
+size_mm: 
+temperature_c: 
+humidity: 
+substrate: 
+diet: 
+in_culture: 
+morphs: 
+difficulty: 
+sources: 
+status: stub
+tags: [isopod, oniscidea, styloniscidae]
+---
+
+# Paranotoniscus montanus Barnard, 1932
+
+**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Styloniscidae Index|Styloniscidae]] > **Genus** [[_Paranotoniscus|Paranotoniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## Husbandry / culture notes
+
+
+## References
+- GBIF: https://www.gbif.org/species/2203067
