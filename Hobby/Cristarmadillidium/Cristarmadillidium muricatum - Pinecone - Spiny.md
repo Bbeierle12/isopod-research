@@ -21,7 +21,7 @@ humidity:
 substrate: 
 difficulty: 
 bioactive_use: 
-sources: 
+sources: []
 ---
 
 # Cristarmadillidium muricatum — Pinecone / Spiny

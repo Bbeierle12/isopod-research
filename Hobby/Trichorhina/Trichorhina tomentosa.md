@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "(Budde-Lund, 1893)"
 conglobation: NONE
 tags: [isopod, hobby, platyarthridae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Dwarf white isopod
+adult_size_mm: 3-5 mm
+origin_region: Pantropical
+temperature_c: 20-26
+humidity: High; keep consistently moist
+substrate: Coco fiber + leaf litter kept consistently damp
+difficulty: beginner
+bioactive_use: Premier micro cleanup crew for humid / dart-frog vivariums; parthenogenetic
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Trichorhina tomentosa

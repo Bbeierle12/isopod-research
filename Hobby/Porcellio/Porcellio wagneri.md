@@ -13,14 +13,14 @@ authority: "Brandt, 1841"
 conglobation: NONE
 tags: [isopod, hobby, porcellionidae, described, form]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+adult_size_mm: 12-17 mm
+origin_region: N Africa (Morocco)
+temperature_c: 20-25
+humidity: Moderate; damp corner
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
+difficulty: beginner-intermediate
+bioactive_use: Hardy display + cleanup
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Porcellio wagneri

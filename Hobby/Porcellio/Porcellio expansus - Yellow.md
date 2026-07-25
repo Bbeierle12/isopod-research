@@ -14,14 +14,14 @@ parent: porcellio-expansus
 conglobation: NONE
 tags: [isopod, hobby, porcellionidae, described, morph]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+adult_size_mm: 18-28 mm
+origin_region: S Spain
+temperature_c: 22-26
+humidity: Dry with a humid corner
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
+difficulty: intermediate
+bioactive_use: Large display species
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Porcellio expansus — Yellow

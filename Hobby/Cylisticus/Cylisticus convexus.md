@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "(De Geer, 1778)"
 conglobation: PARTIAL
 tags: [isopod, hobby, cylisticidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Curly isopod
+adult_size_mm: 10-15 mm
+origin_region: Holarctic
+temperature_c: 18-24
+humidity: Moderate; damp corner
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
+difficulty: beginner
+bioactive_use: Hardy cleanup crew; a partial roller
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Cylisticus convexus

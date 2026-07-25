@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "(Budde-Lund, 1885)"
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Dwarf pill isopod
+adult_size_mm: 4-6 mm
+origin_region: Pantropical
+temperature_c: 22-26
+humidity: High
+substrate: Coco fiber + leaf litter kept consistently damp
+difficulty: beginner-intermediate
+bioactive_use: Tiny rolling cleanup crew for humid vivs
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Venezillo parvus

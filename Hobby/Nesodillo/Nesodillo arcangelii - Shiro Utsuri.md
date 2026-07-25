@@ -21,7 +21,7 @@ humidity:
 substrate: 
 difficulty: 
 bioactive_use: 
-sources: 
+sources: []
 ---
 
 # Nesodillo arcangelii — Shiro Utsuri

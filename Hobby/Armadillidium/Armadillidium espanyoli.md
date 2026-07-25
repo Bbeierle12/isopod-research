@@ -13,14 +13,14 @@ authority: "Cruz, 1990"
 conglobation: FULL
 tags: [isopod, hobby, armadillidiidae, described, form]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+adult_size_mm: 9-12 mm
+origin_region: Spain
+temperature_c: 20-25
+humidity: Moderate; well ventilated
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
+difficulty: beginner
+bioactive_use: Display + cleanup
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Armadillidium espanyoli

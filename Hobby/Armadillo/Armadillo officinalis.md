@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "Duméril, 1816"
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Orange/Sicilian isopod
+adult_size_mm: 18-22 mm
+origin_region: Mediterranean
+temperature_c: 22-26
+humidity: "Moderate; deep substrate with a humid zone, strong ventilation"
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
+difficulty: intermediate
+bioactive_use: "Large display species; needs depth, calcium and airflow; can stridulate (buzz)"
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Armadillo officinalis

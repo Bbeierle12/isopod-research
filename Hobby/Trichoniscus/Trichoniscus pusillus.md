@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "Brandt, 1833"
 conglobation: NONE
 tags: [isopod, hobby, trichoniscidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Common pygmy woodlouse
+adult_size_mm: 4-5 mm
+origin_region: Europe
+temperature_c: 14-20
+humidity: Damp; moisture-loving
+substrate: Coco fiber + leaf litter kept consistently damp
+difficulty: beginner-intermediate
+bioactive_use: Tiny moisture-dependent cleanup
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Trichoniscus pusillus

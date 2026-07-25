@@ -60,7 +60,7 @@ def split_note(text):
             return fm, body
     return {}, text
 
-def build_frontmatter(managed_vals, preserved):
+def build_frontmatter(managed_vals, preserved, defaults):
     lines = ["---"]
     for k in MANAGED:
         if k in managed_vals:
@@ -69,8 +69,13 @@ def build_frontmatter(managed_vals, preserved):
                 if v == "" and k in ("accepted_name","parent","morph_name","trade_name","locality"):
                     continue
                 lines.append("%s: %s" % (k, v))
+    # husbandry: fill-if-empty — an existing note value always wins over a catalog default
     for k in HUSBANDRY:
-        lines.append("%s: %s" % (k, preserved.get(k, "")))
+        if preserved.get(k):
+            lines.append("%s: %s" % (k, preserved[k]))
+        else:
+            v = defaults.get(k, "")
+            lines.append("%s: %s" % (k, emit_val(v) if v != "" else ""))
     # any other user-added keys we don't recognise -> keep
     for k, v in preserved.items():
         if k in HUSBANDRY or k in MANAGED: continue
@@ -126,7 +131,8 @@ def upsert(path, r):
         preserved = {k: v for k, v in fm.items() if k not in MANAGED}
     else:
         preserved, body = {}, "\n" + body_template(r)
-    text = build_frontmatter(managed, preserved) + "\n" + body
+    defaults = {k: r.get(k, "") for k in HUSBANDRY}
+    text = build_frontmatter(managed, preserved, defaults) + "\n" + body
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         f.write(text)
@@ -184,7 +190,8 @@ def main():
     # ---- CSV export ----
     cols = ["id","record_type","family","genus","species","is_described","taxon_status",
             "accepted_name","authority","gbif_id","trade_name","locality","morph_name",
-            "parent_id","conglobation"]
+            "parent_id","conglobation","common_name","adult_size_mm","origin_region",
+            "temperature_c","humidity","substrate","difficulty","bioactive_use"]
     with open(os.path.join(VAULT, "data", "isopods.csv"), "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         w.writerow(cols)

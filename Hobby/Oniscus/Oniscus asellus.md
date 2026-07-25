@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "Linnaeus, 1758"
 conglobation: NONE
 tags: [isopod, hobby, oniscidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Common shiny woodlouse
+adult_size_mm: 14-16 mm
+origin_region: W/N Europe
+temperature_c: 16-22
+humidity: Higher humidity; keep damp
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
+difficulty: beginner
+bioactive_use: "Good cleanup for humid temperate vivariums; prefers cooler, damp conditions"
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Oniscus asellus

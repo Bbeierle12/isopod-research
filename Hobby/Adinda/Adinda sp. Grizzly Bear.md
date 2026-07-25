@@ -18,7 +18,7 @@ humidity:
 substrate: 
 difficulty: 
 bioactive_use: 
-sources: 
+sources: []
 ---
 
 # Adinda sp. "Grizzly Bear"

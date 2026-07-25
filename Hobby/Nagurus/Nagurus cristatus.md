@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "(Dollfus, 1889)"
 conglobation: NONE
 tags: [isopod, hobby, trachelipodidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Dwarf ridge isopod
+adult_size_mm: 4-6 mm
+origin_region: Pantropical
+temperature_c: 20-26
+humidity: High; keep moist
+substrate: Coco fiber + leaf litter kept consistently damp
+difficulty: beginner
+bioactive_use: Micro cleanup crew
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Nagurus cristatus

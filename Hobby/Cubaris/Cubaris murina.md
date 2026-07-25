@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "Brandt, 1833"
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Little Sea isopod
+adult_size_mm: 8-12 mm
+origin_region: SE Asia / pantropical
+temperature_c: 22-26
+humidity: High (75-85%)
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
+difficulty: intermediate
+bioactive_use: Tropical cleanup; needs humidity and calcium
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Cubaris murina

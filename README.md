@@ -37,9 +37,12 @@ Pipeline (idempotent):
 ```
 python scripts/seed.py       # one-time bootstrap of data/isopods.json
 python scripts/validate.py   # verify described records against GBIF (in place)
+python scripts/husbandry.py  # set husbandry DEFAULTS for well-documented forms (in place)
 python scripts/generate.py   # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
 ```
 
-`generate.py` rewrites only generator-managed frontmatter; your husbandry fields and note
-prose are preserved. Browse from [`Hobby/_Hobby Catalog.md`](Hobby/_Hobby%20Catalog.md).
-Currently 112 forms (88 described, 24 provisional) + 34 morphs across 40 genera.
+`generate.py` rewrites only generator-managed frontmatter; husbandry is **fill-if-empty**,
+so a value you type into a note always beats the catalog default, and your note prose is
+never touched. Browse from [`Hobby/_Hobby Catalog.md`](Hobby/_Hobby%20Catalog.md).
+Currently 112 forms (88 described, 24 provisional) + 34 morphs across 40 genera; husbandry
+defaults populated for 55 well-documented forms (the rest intentionally left blank).

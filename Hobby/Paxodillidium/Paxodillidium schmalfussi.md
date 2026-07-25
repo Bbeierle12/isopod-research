@@ -17,7 +17,7 @@ humidity:
 substrate: 
 difficulty: 
 bioactive_use: 
-sources: 
+sources: []
 ---
 
 # Paxodillidium schmalfussi

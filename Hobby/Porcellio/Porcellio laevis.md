@@ -12,15 +12,15 @@ taxon_status: accepted
 authority: "Latreille, 1804"
 conglobation: NONE
 tags: [isopod, hobby, porcellionidae, described, form]
-common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+common_name: Smooth / dairy-cow woodlouse
+adult_size_mm: 15-20 mm
+origin_region: Cosmopolitan
+temperature_c: 20-25
+humidity: Moderate-high; fast growing
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
+difficulty: beginner
+bioactive_use: "Very fast, prolific cleanup crew and feeder; can outcompete slower species"
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Porcellio laevis

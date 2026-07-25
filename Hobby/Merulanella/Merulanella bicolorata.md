@@ -13,14 +13,14 @@ authority: "(Budde-Lund, 1895)"
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, described, form]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+adult_size_mm: 8-12 mm
+origin_region: SE Asia
+temperature_c: 22-26
+humidity: High (80%+)
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
+difficulty: advanced
+bioactive_use: Sensitive tropical display; stable humidity and calcium are critical
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Merulanella bicolorata

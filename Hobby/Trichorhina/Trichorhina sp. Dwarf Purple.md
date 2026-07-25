@@ -11,14 +11,14 @@ trade_name: Dwarf Purple
 conglobation: NONE
 tags: [isopod, hobby, platyarthridae, provisional, form]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+adult_size_mm: 3-5 mm
+origin_region: Pantropical
+temperature_c: 20-26
+humidity: High; keep moist
+substrate: Coco fiber + leaf litter kept consistently damp
+difficulty: beginner
+bioactive_use: Micro cleanup crew for humid vivariums
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Trichorhina sp. "Dwarf Purple"

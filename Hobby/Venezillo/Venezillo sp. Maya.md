@@ -11,14 +11,14 @@ trade_name: Maya
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
-sources: 
+adult_size_mm: 4-8 mm
+origin_region: Pantropical / Americas
+temperature_c: 22-26
+humidity: High
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
+difficulty: intermediate
+bioactive_use: Small tropical rolling species
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 ---
 
 # Venezillo sp. "Maya"
