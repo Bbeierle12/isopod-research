@@ -1,0 +1,147 @@
+id,record_type,family,genus,species,is_described,taxon_status,accepted_name,authority,gbif_id,trade_name,locality,morph_name,parent_id,conglobation
+armadillidium-vulgare,form,Armadillidiidae,Armadillidium,vulgare,True,accepted,,"(Latreille, 1804)",2203611,,,,,FULL
+armadillidium-vulgare--magic-potion,morph,Armadillidiidae,Armadillidium,vulgare,True,inherit,,,2203611,,,Magic Potion,armadillidium-vulgare,FULL
+armadillidium-vulgare--punto-rojo,morph,Armadillidiidae,Armadillidium,vulgare,True,inherit,,,2203611,,,Punto Rojo,armadillidium-vulgare,FULL
+armadillidium-vulgare--orange-vigor,morph,Armadillidiidae,Armadillidium,vulgare,True,inherit,,,2203611,,,Orange Vigor,armadillidium-vulgare,FULL
+armadillidium-vulgare--st-lucia,morph,Armadillidiidae,Armadillidium,vulgare,True,inherit,,,2203611,,,St. Lucia,armadillidium-vulgare,FULL
+armadillidium-vulgare--high-white,morph,Armadillidiidae,Armadillidium,vulgare,True,inherit,,,2203611,,,High White,armadillidium-vulgare,FULL
+armadillidium-maculatum,form,Armadillidiidae,Armadillidium,maculatum,True,accepted,,"(Risso, 1816)",2203614,,,,,FULL
+armadillidium-klugii,form,Armadillidiidae,Armadillidium,klugii,True,accepted,,"Brandt, 1833",2203775,,,,,FULL
+armadillidium-gestroi,form,Armadillidiidae,Armadillidium,gestroi,True,accepted,,"Tua, 1900",2203795,,,,,FULL
+armadillidium-granulatum,form,Armadillidiidae,Armadillidium,granulatum,True,accepted,,"Brandt, 1833",2203769,,,,,FULL
+armadillidium-werneri,form,Armadillidiidae,Armadillidium,werneri,True,accepted,,"Strouhal, 1927",2203862,,,,,FULL
+armadillidium-peraccae,form,Armadillidiidae,Armadillidium,peraccae,True,accepted,,"Tua, 1900",2203760,,,,,FULL
+armadillidium-depressum,form,Armadillidiidae,Armadillidium,depressum,True,accepted,,"Brandt, 1833",2203804,,,,,FULL
+armadillidium-badium,form,Armadillidiidae,Armadillidium,badium,True,accepted,,"Budde-Lund, 1885",2203648,,,,,FULL
+armadillidium-nasatum,form,Armadillidiidae,Armadillidium,nasatum,True,accepted,,"Budde-Lund, 1885",2203739,,,,,FULL
+armadillidium-nasatum--peach,morph,Armadillidiidae,Armadillidium,nasatum,True,inherit,,,2203739,,,Peach,armadillidium-nasatum,FULL
+armadillidium-espanyoli,form,Armadillidiidae,Armadillidium,espanyoli,True,accepted,,"Cruz, 1990",2203738,,,,,FULL
+armadillidium-espanyoli--marbleize,morph,Armadillidiidae,Armadillidium,espanyoli,True,inherit,,,2203738,,,Marbleize,armadillidium-espanyoli,FULL
+armadillidium-arcangelii,form,Armadillidiidae,Armadillidium,arcangelii,True,accepted,,"Strouhal, 1929",2203734,,,,,FULL
+armadillidium-frontirostre,form,Armadillidiidae,Armadillidium,frontirostre,True,synonym,Armadillidium pallasii,"Budde-Lund, 1885",2203629,,,,,FULL
+armadillidium-pictum,form,Armadillidiidae,Armadillidium,pictum,True,accepted,,"Brandt, 1833",2203750,,,,,FULL
+armadillidium-versicolor,form,Armadillidiidae,Armadillidium,versicolor,True,accepted,,"Stein, 1859",2203641,,,,,FULL
+armadillidium-decorum,form,Armadillidiidae,Armadillidium,decorum,True,accepted,,"Brandt, 1833",2203836,,,,,FULL
+armadillidium-album,form,Armadillidiidae,Armadillidium,album,True,accepted,,"Dollfus, 1887",2203834,,,,,FULL
+cristarmadillidium-muricatum,form,Armadillidiidae,Cristarmadillidium,muricatum,True,accepted,,"(Budde-Lund, 1885)",2203545,,,,,FULL
+cristarmadillidium-muricatum--pinecone-spiny,morph,Armadillidiidae,Cristarmadillidium,muricatum,True,inherit,,,2203545,,,Pinecone / Spiny,cristarmadillidium-muricatum,FULL
+paxodillidium-schmalfussi,form,Armadillidiidae,Paxodillidium,schmalfussi,True,unmatched,,,,,,,,FULL
+schizidium-tiberianum,form,Armadillidiidae,Schizidium,tiberianum,True,accepted,,"Verhoeff, 1923",2203582,,,,,FULL
+schizidium-hybridum,form,Armadillidiidae,Schizidium,hybridum,True,accepted,,"(Budde-Lund, 1896)",2203586,,,,,FULL
+eluma-caelata,form,Armadillidiidae,Eluma,caelata,True,accepted,,"(Miers, 1878)",5176082,,,,,FULL
+cubaris-murina,form,Armadillidae,Cubaris,murina,True,accepted,,"Brandt, 1833",5175817,,,,,FULL
+cubaris-sp-rubber-ducky,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Rubber Ducky,,,,FULL
+cubaris-sp-panda-king,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Panda King,,,,FULL
+cubaris-sp-pak-chong,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Pak Chong,,,,FULL
+cubaris-sp-jupiter,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Jupiter,,,,FULL
+cubaris-sp-cappuccino,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Cappuccino,,,,FULL
+cubaris-sp-amber-firefly,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Amber Firefly,,,,FULL
+cubaris-sp-penguin,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Penguin,,,,FULL
+cubaris-sp-blue-pigeon,form,Armadillidae,Cubaris,sp.,False,provisional,,,,Blue Pigeon,,,,FULL
+armadillo-officinalis,form,Armadillidae,Armadillo,officinalis,True,accepted,,"Duméril, 1816",2202347,,,,,FULL
+armadillo-tuberculatus,form,Armadillidae,Armadillo,tuberculatus,True,accepted,,"Vogl, 1876",2202329,,,,,FULL
+troglodillo-rotundatus,form,Armadillidae,Troglodillo,rotundatus,True,accepted,,"Kwon & Taiti, 1993",2202140,,,,,FULL
+troglodillo-sp-soil,form,Armadillidae,Troglodillo,sp.,False,provisional,,,,Soil,,,,FULL
+troglodillo-sp-green-spots,form,Armadillidae,Troglodillo,sp.,False,provisional,,,,Green Spots,,,,FULL
+venezillo-parvus,form,Armadillidae,Venezillo,parvus,True,accepted,,"(Budde-Lund, 1885)",2202566,,,,,FULL
+venezillo-arizonicus,form,Armadillidae,Venezillo,arizonicus,True,accepted,,"(Mulaik & Mulaik, 1942)",2202413,,,,,FULL
+venezillo-sp-tank,form,Armadillidae,Venezillo,sp.,False,provisional,,,,Tank,,,,FULL
+venezillo-sp-maya,form,Armadillidae,Venezillo,sp.,False,provisional,,,,Maya,,,,FULL
+nesodillo-arcangelii,form,Armadillidae,Nesodillo,arcangelii,True,accepted,,"Verhoeff, 1928",2202080,,,,,FULL
+nesodillo-arcangelii--shiro-utsuri,morph,Armadillidae,Nesodillo,arcangelii,True,inherit,,,2202080,,,Shiro Utsuri,nesodillo-arcangelii,FULL
+merulanella-bicolorata,form,Armadillidae,Merulanella,bicolorata,True,accepted,,"(Budde-Lund, 1895)",9206897,,,,,FULL
+merulanella-sp-yellow-panda,form,Armadillidae,Merulanella,sp.,False,provisional,,,,Yellow Panda,,,,FULL
+merulanella-sp-ember-bee,form,Armadillidae,Merulanella,sp.,False,provisional,,,,Ember Bee,,,,FULL
+merulanella-sp-scarlet,form,Armadillidae,Merulanella,sp.,False,provisional,,,,Scarlet,,,,FULL
+merulanella-sp-red-diablo,form,Armadillidae,Merulanella,sp.,False,provisional,,,,Red Diablo,,,,FULL
+merulanella-sp-tricolor,form,Armadillidae,Merulanella,sp.,False,provisional,,,,Tricolor,,,,FULL
+dryadillo-sp-feather,form,Armadillidae,Dryadillo,sp.,False,provisional,,,,Feather,,,,FULL
+filipinodillo-sp-sp,form,Armadillidae,Filipinodillo,sp.,False,provisional,,,,sp.,,,,FULL
+laureola-sp-arboreal-spiny,form,Armadillidae,Laureola,sp.,False,provisional,,,,Arboreal Spiny,,,,FULL
+reductoniscus-costulatus,form,Armadillidae,Reductoniscus,costulatus,True,accepted,,"Kesselyak, 1930",2202641,,,,,FULL
+spherillo-danae,form,Armadillidae,Spherillo,danae,True,accepted,,"Heller, 1865",2202250,,,,,FULL
+tuberillo-sp-spiny-hedgehog,form,Armadillidae,Tuberillo,sp.,False,provisional,,,,Spiny Hedgehog,,,,FULL
+tuberillo-sp-bumpy,form,Armadillidae,Tuberillo,sp.,False,provisional,,,,Bumpy,,,,FULL
+adinda-sp-grizzly-bear,form,Scleropactidae,Adinda,sp.,False,provisional,,,,Grizzly Bear,,,,FULL
+pseudarmadillo-spinosus,form,Delatorreiidae,Pseudarmadillo,spinosus,True,accepted,,"De Armas & Juarrero de Varona, 1999",2204269,,,,,FULL
+pseudarmadillo-spinosus--caribbean-armored,morph,Delatorreiidae,Pseudarmadillo,spinosus,True,inherit,,,2204269,,,Caribbean Armored,pseudarmadillo-spinosus,FULL
+porcellio-scaber,form,Porcellionidae,Porcellio,scaber,True,accepted,,"Latreille, 1804",6284337,,,,,NONE
+porcellio-scaber--dalmatian,morph,Porcellionidae,Porcellio,scaber,True,inherit,,,6284337,,,Dalmatian,porcellio-scaber,NONE
+porcellio-scaber--orange,morph,Porcellionidae,Porcellio,scaber,True,inherit,,,6284337,,,Orange,porcellio-scaber,NONE
+porcellio-scaber--koi,morph,Porcellionidae,Porcellio,scaber,True,inherit,,,6284337,,,Koi,porcellio-scaber,NONE
+porcellio-scaber--piebald,morph,Porcellionidae,Porcellio,scaber,True,inherit,,,6284337,,,Piebald,porcellio-scaber,NONE
+porcellio-scaber--ghost,morph,Porcellionidae,Porcellio,scaber,True,inherit,,,6284337,,,Ghost,porcellio-scaber,NONE
+porcellio-scaber--lava,morph,Porcellionidae,Porcellio,scaber,True,inherit,,,6284337,,,Lava,porcellio-scaber,NONE
+porcellio-scaber--spanish-orange,morph,Porcellionidae,Porcellio,scaber,True,inherit,,,6284337,,,Spanish Orange,porcellio-scaber,NONE
+porcellio-laevis,form,Porcellionidae,Porcellio,laevis,True,accepted,,"Latreille, 1804",6284535,,,,,NONE
+porcellio-laevis--dairy-cow,morph,Porcellionidae,Porcellio,laevis,True,inherit,,,6284535,,,Dairy Cow,porcellio-laevis,NONE
+porcellio-laevis--orange,morph,Porcellionidae,Porcellio,laevis,True,inherit,,,6284535,,,Orange,porcellio-laevis,NONE
+porcellio-laevis--white,morph,Porcellionidae,Porcellio,laevis,True,inherit,,,6284535,,,White,porcellio-laevis,NONE
+porcellio-laevis--milkback,morph,Porcellionidae,Porcellio,laevis,True,inherit,,,6284535,,,Milkback,porcellio-laevis,NONE
+porcellio-dilatatus,form,Porcellionidae,Porcellio,dilatatus,True,accepted,,"Brandt, 1831",6284372,,,,,NONE
+porcellio-hoffmannseggii,form,Porcellionidae,Porcellio,hoffmannseggii,True,accepted,,"Brandt, 1833",6284350,,,,,NONE
+porcellio-werneri,form,Porcellionidae,Porcellio,werneri,True,accepted,,"Strouhal, 1929",6284434,,,,,NONE
+porcellio-magnificus,form,Porcellionidae,Porcellio,magnificus,True,accepted,,"Dollfus, 1892",6284298,,,,,NONE
+porcellio-haasi,form,Porcellionidae,Porcellio,haasi,True,accepted,,"Arcangeli, 1925",6284431,,,,,NONE
+porcellio-ornatus,form,Porcellionidae,Porcellio,ornatus,True,accepted,,"Milne Edwards, 1840",6284527,,,,,NONE
+porcellio-ornatus--high-yellow,morph,Porcellionidae,Porcellio,ornatus,True,inherit,,,6284527,,,High Yellow,porcellio-ornatus,NONE
+porcellio-ornatus--yellow-ducky,morph,Porcellionidae,Porcellio,ornatus,True,inherit,,,6284527,,,Yellow Ducky,porcellio-ornatus,NONE
+porcellio-ornatus--south,morph,Porcellionidae,Porcellio,ornatus,True,inherit,,,6284527,,,South,porcellio-ornatus,NONE
+porcellio-expansus,form,Porcellionidae,Porcellio,expansus,True,accepted,,"Dollfus, 1892",6284469,,,,,NONE
+porcellio-expansus--yellow,morph,Porcellionidae,Porcellio,expansus,True,inherit,,,6284469,,,Yellow,porcellio-expansus,NONE
+porcellio-expansus--orange,morph,Porcellionidae,Porcellio,expansus,True,inherit,,,6284469,,,Orange,porcellio-expansus,NONE
+porcellio-nicklesi,form,Porcellionidae,Porcellio,nicklesi,True,accepted,,"Dollfus, 1892",6284387,,,,,NONE
+porcellio-spatulatus,form,Porcellionidae,Porcellio,spatulatus,True,accepted,,"Costa, 1882",6284514,,,,,NONE
+porcellio-spinicornis,form,Porcellionidae,Porcellio,spinicornis,True,accepted,,"Say, 1818",6284504,,,,,NONE
+porcellio-incanus,form,Porcellionidae,Porcellio,incanus,True,accepted,,"Budde-Lund, 1885",6284292,,,,,NONE
+porcellio-echinatus,form,Porcellionidae,Porcellio,echinatus,True,accepted,,"Lucas, 1849",6284565,,,,,NONE
+porcellio-lamellatus,form,Porcellionidae,Porcellio,lamellatus,True,accepted,,"Budde-Lund, 1885",2210957,,,,,NONE
+porcellio-wagneri,form,Porcellionidae,Porcellio,wagneri,True,accepted,,"Brandt, 1841",6284446,,,,,NONE
+porcellio-bolivari,form,Porcellionidae,Porcellio,bolivari,True,accepted,,"Dollfus, 1892",6284561,,,,,NONE
+porcellio-sevilla,form,Porcellionidae,Porcellio,sevilla,True,needs_review,,,,,,,,NONE
+porcellio-albinus,form,Porcellionidae,Porcellio,albinus,True,accepted,,"Budde-Lund, 1885",6284472,,,,,NONE
+porcellio-gallicus,form,Porcellionidae,Porcellio,gallicus,True,accepted,,"Dollfus, 1904",6284307,,,,,NONE
+porcellio-obsoletus,form,Porcellionidae,Porcellio,obsoletus,True,accepted,,"Budde-Lund, 1885",6284328,,,,,NONE
+porcellio-monticola,form,Porcellionidae,Porcellio,monticola,True,accepted,,"Lereboullet, 1853",6284432,,,,,NONE
+porcellio-silvestrii,form,Porcellionidae,Porcellio,silvestrii,True,accepted,,"Arcangeli, 1924",6284560,,,,,NONE
+porcellio-succinctus,form,Porcellionidae,Porcellio,succinctus,True,accepted,,"Budde-Lund, 1885",6284428,,,,,NONE
+porcellio-flavomarginatus,form,Porcellionidae,Porcellio,flavomarginatus,True,accepted,,"Lucas, 1853",6284355,,,,,NONE
+porcellio-duboscqui,form,Porcellionidae,Porcellio,duboscqui,True,accepted,,"Paulian de Félice, 1941",6284575,,,,,NONE
+porcellionides-pruinosus,form,Porcellionidae,Porcellionides,pruinosus,True,accepted,,"(Brandt, 1833)",2211355,,,,,NONE
+porcellionides-pruinosus--powder-blue,morph,Porcellionidae,Porcellionides,pruinosus,True,inherit,,,2211355,,,Powder Blue,porcellionides-pruinosus,NONE
+porcellionides-pruinosus--powder-orange,morph,Porcellionidae,Porcellionides,pruinosus,True,inherit,,,2211355,,,Powder Orange,porcellionides-pruinosus,NONE
+porcellionides-pruinosus--white-out,morph,Porcellionidae,Porcellionides,pruinosus,True,inherit,,,2211355,,,White Out,porcellionides-pruinosus,NONE
+porcellionides-floria,form,Porcellionidae,Porcellionides,floria,True,accepted,,"Garthwaite & Sassaman, 1985",2211425,,,,,NONE
+porcellionides-myrmecophilus,form,Porcellionidae,Porcellionides,myrmecophilus,True,accepted,,"(Stein, 1859)",2211403,,,,,NONE
+porcellionides-sexfasciatus,form,Porcellionidae,Porcellionides,sexfasciatus,True,accepted,,"(Budde-Lund, 1885)",9773232,,,,,NONE
+agabiformius-lentus,form,Porcellionidae,Agabiformius,lentus,True,accepted,,"(Budde-Lund, 1885)",2211255,,,,,NONE
+agabiformius-lentus--persimmon,morph,Porcellionidae,Agabiformius,lentus,True,inherit,,,2211255,,,Persimmon,agabiformius-lentus,NONE
+cylisticus-convexus,form,Cylisticidae,Cylisticus,convexus,True,accepted,,"(De Geer, 1778)",2208749,,,,,PARTIAL
+oniscus-asellus,form,Oniscidae,Oniscus,asellus,True,accepted,,"Linnaeus, 1758",5176315,,,,,NONE
+oniscus-asellus--mardi-gras,morph,Oniscidae,Oniscus,asellus,True,inherit,,,5176315,,,Mardi Gras,oniscus-asellus,NONE
+oniscus-asellus--dwarf,morph,Oniscidae,Oniscus,asellus,True,inherit,,,5176315,,,Dwarf,oniscus-asellus,NONE
+oniscus-asellus--bc-maple,morph,Oniscidae,Oniscus,asellus,True,inherit,,,5176315,,,BC Maple,oniscus-asellus,NONE
+philoscia-muscorum,form,Philosciidae,Philoscia,muscorum,True,accepted,,"(Scopoli, 1763)",2209507,,,,,NONE
+philoscia-affinis,form,Philosciidae,Philoscia,affinis,True,accepted,,"Verhoeff, 1908",2209541,,,,,NONE
+atlantoscia-floridana,form,Philosciidae,Atlantoscia,floridana,True,accepted,,"(Van Name, 1940)",2209843,,,,,NONE
+trachelipus-rathkii,form,Trachelipodidae,Trachelipus,rathkii,True,accepted,,"(Brandt, 1833)",2209087,,,,,NONE
+trachelipus-squamatus,form,Trachelipodidae,Trachelipus,squamatus,True,unmatched,,,,,,,,NONE
+nagurus-cristatus,form,Trachelipodidae,Nagurus,cristatus,True,accepted,,"(Dollfus, 1889)",2209044,,,,,NONE
+nagurus-nanus,form,Trachelipodidae,Nagurus,nanus,True,accepted,,"(Budde-Lund, 1908)",2209042,,,,,NONE
+trichorhina-tomentosa,form,Platyarthridae,Trichorhina,tomentosa,True,accepted,,"(Budde-Lund, 1893)",2204981,,,,,NONE
+trichorhina-sp-dwarf-purple,form,Platyarthridae,Trichorhina,sp.,False,provisional,,,,Dwarf Purple,,,,NONE
+platyarthrus-hoffmannseggii,form,Platyarthridae,Platyarthrus,hoffmannseggii,True,accepted,,"Brandt, 1833",2205012,,,,,NONE
+platyarthrus-aiasensis,form,Platyarthridae,Platyarthrus,aiasensis,True,accepted,,"Legrand, 1954",2205017,,,,,NONE
+niambia-capensis,form,Platyarthridae,Niambia,capensis,True,accepted,,"(Dollfus, 1895)",2205060,,,,,NONE
+androniscus-dentiger,form,Trichoniscidae,Androniscus,dentiger,True,accepted,,"Verhoeff, 1908",2208095,,,,,NONE
+androniscus-dentiger--rosy,morph,Trichoniscidae,Androniscus,dentiger,True,inherit,,,2208095,,,Rosy,androniscus-dentiger,NONE
+trichoniscus-pusillus,form,Trichoniscidae,Trichoniscus,pusillus,True,accepted,,"Brandt, 1833",2207872,,,,,NONE
+buddelundiella-cataractae,form,Trichoniscidae,Buddelundiella,cataractae,True,accepted,,"Verhoeff, 1930",2212099,,,,,NONE
+hemilepistus-reaumuri,form,Agnaridae,Hemilepistus,reaumuri,True,accepted,,"(Audouin, 1826)",8873635,,,,,NONE
+hemilepistus-elongatus,form,Agnaridae,Hemilepistus,elongatus,True,accepted,,"Budde-Lund, 1885",2208987,,,,,NONE
+ligia-exotica,form,Ligiidae,Ligia,exotica,True,accepted,,"Roux, 1828",5175654,,,,,NONE
+ligia-oceanica,form,Ligiidae,Ligia,oceanica,True,accepted,,"(Linnaeus, 1767)",5175631,,,,,NONE
+ligidium-hypnorum,form,Ligiidae,Ligidium,hypnorum,True,accepted,,"(Cuvier, 1792)",4416652,,,,,NONE
+tylos-punctatus,form,Tylidae,Tylos,punctatus,True,accepted,,"Holmes & Gay, 1909",2205112,,,,,FULL
+helleria-brevicornis,form,Tylidae,Helleria,brevicornis,True,accepted,,"Ebner, 1868",2205089,,,,,PARTIAL
+deto-echinata,form,Detonidae,Deto,echinata,True,accepted,,"Guérin-Méneville, 1836",2207603,,,,,NONE

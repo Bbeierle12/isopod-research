@@ -25,3 +25,21 @@ Species notes are stubs (`status: stub`) with blank husbandry frontmatter fields
 
 > **Note:** add new species by pulling accepted names from GBIF/WoRMS rather than typing
 > them from memory, to keep the dataset free of fabricated names.
+
+## Hobby Master Dataset
+
+`data/isopods.json` is the canonical, structured catalog of **hobby-relevant** isopods —
+described species, undescribed `sp.` trade forms, and morph cultivars — kept separate from
+the scientific taxonomy above (see `docs/superpowers/specs/2026-07-25-hobby-isopod-master-dataset-design.md`).
+
+Pipeline (idempotent):
+
+```
+python scripts/seed.py       # one-time bootstrap of data/isopods.json
+python scripts/validate.py   # verify described records against GBIF (in place)
+python scripts/generate.py   # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
+```
+
+`generate.py` rewrites only generator-managed frontmatter; your husbandry fields and note
+prose are preserved. Browse from [`Hobby/_Hobby Catalog.md`](Hobby/_Hobby%20Catalog.md).
+Currently 112 forms (88 described, 24 provisional) + 34 morphs across 40 genera.
