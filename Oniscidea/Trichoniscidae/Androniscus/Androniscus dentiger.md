@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: Small damp-loving temperate species
 status: hobby
 tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---

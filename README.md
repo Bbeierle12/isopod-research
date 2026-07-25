@@ -41,8 +41,12 @@ python scripts/husbandry.py  # set husbandry DEFAULTS for well-documented forms 
 python scripts/generate.py   # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
 ```
 
-`generate.py` rewrites only generator-managed frontmatter; husbandry is **fill-if-empty**,
-so a value you type into a note always beats the catalog default, and your note prose is
-never touched. Browse from [`Hobby/_Hobby Catalog.md`](Hobby/_Hobby%20Catalog.md).
-Currently 112 forms (88 described, 24 provisional) + 34 morphs across 40 genera; husbandry
-defaults populated for 55 well-documented forms (the rest intentionally left blank).
+**Described species are consolidated onto their scientific note** in `Oniscidea/` — `generate.py`
+enriches each with husbandry, `conglobation`, and `bioactive_use` (fill-if-empty, so a value you
+type always wins and note prose is never touched). `Hobby/` therefore holds only the **undescribed
+`sp.` trade forms and morph cultivars** (which have no taxonomy note), avoiding duplicate/ambiguous
+notes. The full picture is the generated index [`Hobby/_Hobby Catalog.md`](Hobby/_Hobby%20Catalog.md),
+which links described species to their `Oniscidea/` note and lists the trade forms + morphs.
+
+Currently 112 forms (88 described, 24 provisional) + 34 morphs across 40 genera; husbandry defaults
+populated for 55 well-documented forms (the rest intentionally left blank).

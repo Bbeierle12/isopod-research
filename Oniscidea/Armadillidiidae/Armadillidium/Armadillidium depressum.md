@@ -19,6 +19,7 @@ in_culture: yes
 morphs: 
 difficulty: 
 sources: 
+conglobation: FULL
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

@@ -19,6 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
+conglobation: FULL
 status: stub
 tags: [isopod, oniscidea, tylidae]
 ---

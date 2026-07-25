@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Mardi Gras, Dwarf
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: "Good cleanup for humid temperate vivariums; prefers cooler, damp conditions"
 status: hobby
 tags: [isopod, oniscidea, oniscidae, hobby]
 ---

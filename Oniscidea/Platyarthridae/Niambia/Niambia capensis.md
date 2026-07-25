@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: Hardy small cleanup crew
 status: hobby
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---

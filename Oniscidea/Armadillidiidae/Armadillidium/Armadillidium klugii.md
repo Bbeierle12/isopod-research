@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Montenegro, Dubrovnik
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: Display species; needs calcium and ventilation
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

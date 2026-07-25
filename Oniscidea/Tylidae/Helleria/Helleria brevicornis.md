@@ -19,6 +19,7 @@ in_culture: yes
 morphs: 
 difficulty: 
 sources: 
+conglobation: PARTIAL
 status: hobby
 tags: [isopod, oniscidea, tylidae, hobby]
 ---

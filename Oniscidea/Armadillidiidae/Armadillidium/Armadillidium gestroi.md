@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: beginner-intermediate
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: Colorful display species
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

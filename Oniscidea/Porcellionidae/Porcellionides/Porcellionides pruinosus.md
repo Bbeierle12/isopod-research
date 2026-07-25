@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Powder Blue, Powder Orange, Oreo Crumble, White Panda
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: Extremely fast and prolific feeder/cleanup colony; great starter and feeder species
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

@@ -19,6 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
+conglobation: NONE
 status: stub
 tags: [isopod, oniscidea, detonidae]
 ---

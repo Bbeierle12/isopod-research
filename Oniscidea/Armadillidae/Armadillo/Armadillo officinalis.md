@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Sicily, Spain localities
 difficulty: intermediate
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: "Large display species; needs depth, calcium and airflow; can stridulate (buzz)"
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

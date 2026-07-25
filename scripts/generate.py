@@ -139,49 +139,58 @@ def upsert(path, r):
 
 ONISCIDEA = os.path.join(VAULT, "Oniscidea")
 
-def fill_blank_fields(path, updates):
-    """Fill ONLY fields that exist and are currently blank; preserve everything
-    else (other fields, order, and the note body). Returns True if changed."""
-    if not os.path.exists(path):
-        return False
-    with open(path, "r", encoding="utf-8") as f:
-        t = f.read()
-    orig = t
-    for k, v in updates.items():
-        if not v:
-            continue
-        val = emit_val(v)
-        t = re.sub(r"^(%s:)[ \t]*$" % re.escape(k),
-                   lambda m: "%s %s" % (m.group(1), val), t, count=1, flags=re.M)
-    if t != orig:
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(t)
-        return True
-    return False
+def _set_or_add(fm, key, value, before="tags"):
+    """Within a frontmatter string: fill the field if it exists but is blank;
+    if it's missing entirely, insert it before the `before` key. A non-blank
+    existing value is left untouched (fill-if-empty)."""
+    if not value:
+        return fm
+    val = emit_val(value)
+    if re.search(r"^%s:" % re.escape(key), fm, re.M):
+        return re.sub(r"^(%s:)[ \t]*$" % re.escape(key),
+                      lambda m: "%s %s" % (m.group(1), val), fm, count=1, flags=re.M)
+    line = "%s: %s\n" % (key, val)
+    m = re.search(r"^%s:" % re.escape(before), fm, re.M)
+    return (fm[:m.start()] + line + fm[m.start():]) if m else (fm + line)
 
-def sync_taxonomy_husbandry(forms):
-    """Push husbandry defaults from described hobby forms into the matching
-    Oniscidea species note (fill-if-empty). Keeps the scientific note the user
-    browses in sync with the hobby catalog without overwriting hand edits."""
+def taxonomy_path(r):
+    """Path of the Oniscidea scientific note for a described form (accepted name),
+    or None if it has no accepted taxonomy note."""
+    if r["taxon_status"] == "accepted":
+        genus, species, family = r["genus"], r["species"], r["family"]
+    elif r["taxon_status"] == "synonym" and r.get("accepted_name"):
+        parts = r["accepted_name"].split(" ", 1)
+        genus = parts[0]; species = parts[1] if len(parts) > 1 else r["species"]; family = r["family"]
+    else:
+        return None
+    return os.path.join(ONISCIDEA, safe(family), safe(genus), safe("%s %s" % (genus, species)) + ".md")
+
+def enrich_taxonomy(described):
+    """Consolidate hobby data onto the scientific note for each described species:
+    fill husbandry (fill-if-empty) and add conglobation / bioactive_use if missing.
+    The note body and any hand-edited values are preserved."""
     n = 0
-    for r in forms:
-        if not r["is_described"]:
+    for r in described:
+        path = taxonomy_path(r)
+        if not path or not os.path.exists(path):
             continue
-        if r["taxon_status"] == "accepted":
-            genus, species, family = r["genus"], r["species"], r["family"]
-        elif r["taxon_status"] == "synonym" and r.get("accepted_name"):
-            parts = r["accepted_name"].split(" ", 1)
-            genus = parts[0]; species = parts[1] if len(parts) > 1 else r["species"]; family = r["family"]
-        else:
+        with open(path, "r", encoding="utf-8") as f:
+            t = f.read()
+        m = re.match(r"^(---\r?\n)(.*?\r?\n)(---\r?\n)(.*)$", t, re.S)
+        if not m:
             continue
-        path = os.path.join(ONISCIDEA, safe(family), safe(genus), safe("%s %s" % (genus, species)) + ".md")
-        updates = {
-            "common_name": r.get("common_name", ""), "size_mm": r.get("adult_size_mm", ""),
-            "distribution": r.get("origin_region", ""), "temperature_c": r.get("temperature_c", ""),
-            "humidity": r.get("humidity", ""), "substrate": r.get("substrate", ""),
-            "difficulty": r.get("difficulty", ""), "sources": r.get("sources", ""),
-        }
-        if fill_blank_fields(path, updates):
+        fm = m.group(2)
+        for k, v in [("common_name", r.get("common_name","")), ("size_mm", r.get("adult_size_mm","")),
+                     ("distribution", r.get("origin_region","")), ("temperature_c", r.get("temperature_c","")),
+                     ("humidity", r.get("humidity","")), ("substrate", r.get("substrate","")),
+                     ("difficulty", r.get("difficulty","")), ("sources", r.get("sources",""))]:
+            fm = _set_or_add(fm, k, v)
+        fm = _set_or_add(fm, "conglobation", r.get("conglobation",""), before="status")
+        fm = _set_or_add(fm, "bioactive_use", r.get("bioactive_use",""), before="status")
+        new = m.group(1) + fm + m.group(3) + m.group(4)
+        if new != t:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(new)
             n += 1
     return n
 
@@ -191,13 +200,30 @@ def main():
     forms = [r for r in records if r["record_type"] == "form"]
     morphs = [r for r in records if r["record_type"] == "morph"]
     for r in forms: PARENTS[r["id"]] = r
+    described = [r for r in forms if r["is_described"]]
+    undescribed = [r for r in forms if not r["is_described"]]
 
-    for r in forms:
+    # described species are consolidated onto their Oniscidea taxonomy note;
+    # remove any stale duplicate Hobby note left from earlier runs
+    removed = 0
+    for r in described:
+        p = os.path.join(HOBBY, safe(r["genus"]), safe(form_stem(r)) + ".md")
+        if os.path.exists(p):
+            os.remove(p); removed += 1
+
+    # Hobby/ holds only undescribed sp. trade forms and morph sub-records
+    for r in undescribed:
         upsert(os.path.join(HOBBY, safe(r["genus"]), safe(form_stem(r)) + ".md"), r)
     for r in morphs:
         p = PARENTS.get(r["parent_id"])
         stem = "%s - %s" % (form_stem(p) if p else r["genus"], r["morph_name"])
         upsert(os.path.join(HOBBY, safe(r["genus"]), safe(stem) + ".md"), r)
+
+    # prune now-empty genus folders
+    for d in list(os.listdir(HOBBY)):
+        dp = os.path.join(HOBBY, d)
+        if os.path.isdir(dp) and not os.listdir(dp):
+            os.rmdir(dp)
 
     # ---- catalog index ----
     from collections import defaultdict
@@ -214,9 +240,10 @@ def main():
          "+ **%d morphs** across **%d genera**." % (len(forms), nd, len(forms)-nd, len(morphs), len(genera)),
          "",
          "> [!info] Taxonomy vs. hobby nomenclature",
-         "> Described species are verified against GBIF (`taxon_status: accepted`). Synonyms keep the "
-         "hobby's working name with the accepted name recorded. Undescribed imports are `provisional` "
-         "trade forms with no scientific name. Regenerate with `scripts/validate.py` + `scripts/generate.py`.",
+         "> Described species are verified against GBIF (`taxon_status: accepted`). Their husbandry lives on "
+         "the scientific note in `Oniscidea/` (linked in the tables below); `Hobby/` holds only the "
+         "undescribed `sp.` trade forms and morph cultivars. Synonyms keep the hobby's working name with the "
+         "accepted name recorded. Regenerate with `scripts/validate.py` + `scripts/husbandry.py` + `scripts/generate.py`.",
          ""]
     for g in genera:
         items = sorted(bygen[g], key=lambda r: (not r["is_described"], r["species"], r["trade_name"]))
@@ -246,10 +273,11 @@ def main():
         for r in records:
             w.writerow([r.get(c, "") for c in cols])
 
-    synced = sync_taxonomy_husbandry(forms)
-    print("generated %d form notes + %d morph notes, catalog, and CSV across %d genera."
-          % (len(forms), len(morphs), len(genera)))
-    print("synced husbandry into %d Oniscidea taxonomy notes (fill-if-empty)." % synced)
+    enriched = enrich_taxonomy(described)
+    print("Hobby/: %d undescribed form notes + %d morph notes (described species consolidated onto taxonomy)."
+          % (len(undescribed), len(morphs)))
+    print("removed %d stale described-species Hobby notes; enriched %d Oniscidea taxonomy notes."
+          % (removed, enriched))
 
 if __name__ == "__main__":
     main()

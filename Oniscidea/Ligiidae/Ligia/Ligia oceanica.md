@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: advanced
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: Specialist coastal species; not a terrarium cleanup crew
 status: hobby
 tags: [isopod, oniscidea, ligiidae, hobby]
 ---

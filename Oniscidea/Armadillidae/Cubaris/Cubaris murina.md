@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: intermediate
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: Tropical cleanup; needs humidity and calcium
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

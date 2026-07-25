@@ -19,6 +19,7 @@ in_culture: yes
 morphs: 
 difficulty: 
 sources: 
+conglobation: NONE
 status: hobby
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---

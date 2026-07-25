@@ -19,6 +19,8 @@ in_culture:
 morphs: 
 difficulty: advanced
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: Sensitive tropical display; stable humidity and calcium are critical
 status: stub
 tags: [isopod, oniscidea, armadillidae]
 ---

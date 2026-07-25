@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Dairy Cow, Orange, White, Milkback
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: "Very fast, prolific cleanup crew and feeder; can outcompete slower species"
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

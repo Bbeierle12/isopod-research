@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Yellow, Orange
 difficulty: intermediate
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: Large display species
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

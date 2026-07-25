@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Dalmatian, Orange, Koi, Piebald, Ghost, Lava, Spanish Orange
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: "Outstanding cleanup crew; hardy and prolific, many morphs"
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

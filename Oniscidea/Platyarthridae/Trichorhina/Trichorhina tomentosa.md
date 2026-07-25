@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: Premier micro cleanup crew for humid / dart-frog vivariums; parthenogenetic
 status: hobby
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---

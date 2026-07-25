@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: PARTIAL
+bioactive_use: Hardy cleanup crew; a partial roller
 status: hobby
 tags: [isopod, oniscidea, cylisticidae, hobby]
 ---

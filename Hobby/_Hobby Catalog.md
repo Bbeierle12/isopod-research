@@ -12,7 +12,7 @@ tags: [isopod, hobby, catalog]
 Generated from `data/isopods.json`. **112 forms** (88 described, 24 provisional trade forms) + **34 morphs** across **40 genera**.
 
 > [!info] Taxonomy vs. hobby nomenclature
-> Described species are verified against GBIF (`taxon_status: accepted`). Synonyms keep the hobby's working name with the accepted name recorded. Undescribed imports are `provisional` trade forms with no scientific name. Regenerate with `scripts/validate.py` + `scripts/generate.py`.
+> Described species are verified against GBIF (`taxon_status: accepted`). Their husbandry lives on the scientific note in `Oniscidea/` (linked in the tables below); `Hobby/` holds only the undescribed `sp.` trade forms and morph cultivars. Synonyms keep the hobby's working name with the accepted name recorded. Regenerate with `scripts/validate.py` + `scripts/husbandry.py` + `scripts/generate.py`.
 
 ## Adinda
 

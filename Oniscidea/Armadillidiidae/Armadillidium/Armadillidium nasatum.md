@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Peach
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: Good tolerant cleanup crew
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

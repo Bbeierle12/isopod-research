@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: intermediate
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: "Large display species; needs warmth, calcium and ventilation"
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

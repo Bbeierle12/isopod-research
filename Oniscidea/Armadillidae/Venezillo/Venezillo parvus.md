@@ -19,6 +19,8 @@ in_culture: yes
 morphs: 
 difficulty: beginner-intermediate
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: Tiny rolling cleanup crew for humid vivs
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

@@ -19,6 +19,8 @@ in_culture: yes
 morphs: High Yellow, Yellow Ducky, South
 difficulty: intermediate
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: NONE
+bioactive_use: Display species; several color forms
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

@@ -19,6 +19,8 @@ in_culture: yes
 morphs: Magic Potion, Punto Rojo, Orange Vigor, St. Lucia
 difficulty: beginner
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation: FULL
+bioactive_use: "Excellent all-round cleanup crew; hardy, tolerates drier vivariums"
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
