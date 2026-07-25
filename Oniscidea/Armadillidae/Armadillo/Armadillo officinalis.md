@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2202347
 gbif_url: https://www.gbif.org/species/2202347
 common_name: Orange isopod (common Armadillo)
-distribution: 
+distribution: Mediterranean
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 18-22 mm
+temperature_c: 22-26
+humidity: "Moderate; deep substrate with a humid zone, strong ventilation"
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: yes
 morphs: Sicily, Spain localities
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

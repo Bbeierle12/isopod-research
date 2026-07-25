@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 8873635
 gbif_url: https://www.gbif.org/species/8873635
 common_name: Desert isopod
-distribution: 
+distribution: N Africa / Middle East deserts
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: up to 22 mm
+temperature_c: "25-30 day, cooler night"
+humidity: "Very dry; deep burrows, minimal moisture"
+substrate: "Deep sand/clay, sparse leaf litter"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: advanced
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, agnaridae, hobby]
 ---

@@ -7,18 +7,18 @@ family: Ligiidae
 suborder: Oniscidea
 gbif_id: 5175654
 gbif_url: https://www.gbif.org/species/5175654
-common_name: 
-distribution: 
+common_name: Sea roach / wharf louse
+distribution: Warm coasts (introduced widely)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: up to 30 mm
+temperature_c: 18-26
+humidity: "Coastal splash zone; brackish, high humidity, ventilated"
+substrate: Rock / brackish coastal
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: advanced
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: stub
 tags: [isopod, oniscidea, ligiidae]
 ---

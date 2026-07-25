@@ -137,6 +137,54 @@ def upsert(path, r):
     with open(path, "w", encoding="utf-8") as f:
         f.write(text)
 
+ONISCIDEA = os.path.join(VAULT, "Oniscidea")
+
+def fill_blank_fields(path, updates):
+    """Fill ONLY fields that exist and are currently blank; preserve everything
+    else (other fields, order, and the note body). Returns True if changed."""
+    if not os.path.exists(path):
+        return False
+    with open(path, "r", encoding="utf-8") as f:
+        t = f.read()
+    orig = t
+    for k, v in updates.items():
+        if not v:
+            continue
+        val = emit_val(v)
+        t = re.sub(r"^(%s:)[ \t]*$" % re.escape(k),
+                   lambda m: "%s %s" % (m.group(1), val), t, count=1, flags=re.M)
+    if t != orig:
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(t)
+        return True
+    return False
+
+def sync_taxonomy_husbandry(forms):
+    """Push husbandry defaults from described hobby forms into the matching
+    Oniscidea species note (fill-if-empty). Keeps the scientific note the user
+    browses in sync with the hobby catalog without overwriting hand edits."""
+    n = 0
+    for r in forms:
+        if not r["is_described"]:
+            continue
+        if r["taxon_status"] == "accepted":
+            genus, species, family = r["genus"], r["species"], r["family"]
+        elif r["taxon_status"] == "synonym" and r.get("accepted_name"):
+            parts = r["accepted_name"].split(" ", 1)
+            genus = parts[0]; species = parts[1] if len(parts) > 1 else r["species"]; family = r["family"]
+        else:
+            continue
+        path = os.path.join(ONISCIDEA, safe(family), safe(genus), safe("%s %s" % (genus, species)) + ".md")
+        updates = {
+            "common_name": r.get("common_name", ""), "size_mm": r.get("adult_size_mm", ""),
+            "distribution": r.get("origin_region", ""), "temperature_c": r.get("temperature_c", ""),
+            "humidity": r.get("humidity", ""), "substrate": r.get("substrate", ""),
+            "difficulty": r.get("difficulty", ""), "sources": r.get("sources", ""),
+        }
+        if fill_blank_fields(path, updates):
+            n += 1
+    return n
+
 def main():
     with open(DATA, "r", encoding="utf-8") as f:
         records = json.load(f)["records"]
@@ -198,8 +246,10 @@ def main():
         for r in records:
             w.writerow([r.get(c, "") for c in cols])
 
+    synced = sync_taxonomy_husbandry(forms)
     print("generated %d form notes + %d morph notes, catalog, and CSV across %d genera."
           % (len(forms), len(morphs), len(genera)))
+    print("synced husbandry into %d Oniscidea taxonomy notes (fill-if-empty)." % synced)
 
 if __name__ == "__main__":
     main()

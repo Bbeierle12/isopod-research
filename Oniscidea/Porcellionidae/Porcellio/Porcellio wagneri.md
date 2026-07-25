@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 6284446
 gbif_url: https://www.gbif.org/species/6284446
 common_name: 
-distribution: 
+distribution: N Africa (Morocco)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 12-17 mm
+temperature_c: 20-25
+humidity: Moderate; damp corner
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner-intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

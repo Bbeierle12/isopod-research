@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 6284527
 gbif_url: https://www.gbif.org/species/6284527
 common_name: Ornate isopod
-distribution: 
+distribution: Mediterranean / N Africa
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 15-25 mm
+temperature_c: 22-26
+humidity: Drier with a humid retreat
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: yes
 morphs: High Yellow, Yellow Ducky, South
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

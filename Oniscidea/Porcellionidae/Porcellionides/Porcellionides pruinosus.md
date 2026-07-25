@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2211355
 gbif_url: https://www.gbif.org/species/2211355
 common_name: Powder blue isopod
-distribution: 
+distribution: Cosmopolitan
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 20-26
+humidity: Moderate; very tolerant
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: Powder Blue, Powder Orange, Oreo Crumble, White Panda
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

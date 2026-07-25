@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2209507
 gbif_url: https://www.gbif.org/species/2209507
 common_name: Common striped woodlouse
-distribution: 
+distribution: Europe
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 6-11 mm
+temperature_c: 16-22
+humidity: Moderate; damp
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---

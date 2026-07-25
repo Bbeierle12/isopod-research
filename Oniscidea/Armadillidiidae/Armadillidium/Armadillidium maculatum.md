@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2203614
 gbif_url: https://www.gbif.org/species/2203614
 common_name: Zebra isopod
-distribution: 
+distribution: SW Europe (S France)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 12-18 mm
+temperature_c: 18-24
+humidity: Moderate; well cross-ventilated with a damp corner
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

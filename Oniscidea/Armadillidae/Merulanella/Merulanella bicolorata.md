@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 9206897
 gbif_url: https://www.gbif.org/species/9206897
 common_name: 
-distribution: 
+distribution: SE Asia
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 22-26
+humidity: High (80%+)
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: advanced
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: stub
 tags: [isopod, oniscidea, armadillidae]
 ---

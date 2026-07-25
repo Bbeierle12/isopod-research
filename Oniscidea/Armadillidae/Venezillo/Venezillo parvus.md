@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2202566
 gbif_url: https://www.gbif.org/species/2202566
 common_name: Dwarf pill isopod
-distribution: 
+distribution: Pantropical
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 4-6 mm
+temperature_c: 22-26
+humidity: High
+substrate: Coco fiber + leaf litter kept consistently damp
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner-intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

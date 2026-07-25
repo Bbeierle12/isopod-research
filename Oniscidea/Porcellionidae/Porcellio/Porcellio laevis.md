@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 6284535
 gbif_url: https://www.gbif.org/species/6284535
 common_name: Smooth woodlouse
-distribution: 
+distribution: Cosmopolitan
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 15-20 mm
+temperature_c: 20-25
+humidity: Moderate-high; fast growing
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: Dairy Cow, Orange, White, Milkback
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

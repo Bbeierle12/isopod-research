@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 6284337
 gbif_url: https://www.gbif.org/species/6284337
 common_name: Common rough woodlouse
-distribution: 
+distribution: Europe (cosmopolitan)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 12-20 mm
+temperature_c: 18-24
+humidity: Moderate; damp corner with good airflow
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: Dalmatian, Orange, Koi, Piebald, Ghost, Lava, Spanish Orange
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

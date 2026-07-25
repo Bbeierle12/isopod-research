@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 6284298
 gbif_url: https://www.gbif.org/species/6284298
 common_name: 
-distribution: 
+distribution: SE Spain
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: up to 30 mm
+temperature_c: 22-26
+humidity: Dry with a humid corner; ventilated
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

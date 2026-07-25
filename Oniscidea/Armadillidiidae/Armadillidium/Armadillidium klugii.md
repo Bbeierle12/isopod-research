@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2203775
 gbif_url: https://www.gbif.org/species/2203775
 common_name: Klug's pillbug
-distribution: 
+distribution: Balkans (Montenegro/Croatia)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 13-18 mm
+temperature_c: 20-25
+humidity: Moderate with a humid retreat
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: yes
 morphs: Montenegro, Dubrovnik
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

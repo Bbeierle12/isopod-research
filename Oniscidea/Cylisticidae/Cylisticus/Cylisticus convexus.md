@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2208749
 gbif_url: https://www.gbif.org/species/2208749
 common_name: Curly isopod
-distribution: 
+distribution: Holarctic
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 10-15 mm
+temperature_c: 18-24
+humidity: Moderate; damp corner
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, cylisticidae, hobby]
 ---

@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 5175631
 gbif_url: https://www.gbif.org/species/5175631
 common_name: Sea slater
-distribution: 
+distribution: NE Atlantic coasts
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: up to 30 mm
+temperature_c: 12-20
+humidity: Coastal splash zone; needs seawater/high humidity and ventilation
+substrate: Rock / brackish coastal
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: advanced
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, ligiidae, hobby]
 ---

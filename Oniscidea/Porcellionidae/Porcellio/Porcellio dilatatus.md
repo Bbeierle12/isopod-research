@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 6284372
 gbif_url: https://www.gbif.org/species/6284372
 common_name: Giant Canyon isopod
-distribution: 
+distribution: S Europe
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 15-20 mm
+temperature_c: 18-24
+humidity: Moderate; damp corner
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

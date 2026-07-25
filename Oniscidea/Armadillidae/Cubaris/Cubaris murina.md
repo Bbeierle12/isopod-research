@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 5175817
 gbif_url: https://www.gbif.org/species/5175817
 common_name: Little Sea isopod
-distribution: 
+distribution: SE Asia / pantropical
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 22-26
+humidity: High (75-85%)
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

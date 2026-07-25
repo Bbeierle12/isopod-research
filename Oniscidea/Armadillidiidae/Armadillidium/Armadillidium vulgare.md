@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2203611
 gbif_url: https://www.gbif.org/species/2203611
 common_name: Common pillbug (roly-poly)
-distribution: 
+distribution: Europe (cosmopolitan)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 9-15 mm
+temperature_c: 18-24
+humidity: Moderate; mostly-dry surface with one damp corner
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: Magic Potion, Punto Rojo, Orange Vigor, St. Lucia
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

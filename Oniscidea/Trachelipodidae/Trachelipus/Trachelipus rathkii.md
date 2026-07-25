@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2209087
 gbif_url: https://www.gbif.org/species/2209087
 common_name: Rathke's woodlouse
-distribution: 
+distribution: Holarctic
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 10-15 mm
+temperature_c: 16-24
+humidity: Moderate; damp
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---

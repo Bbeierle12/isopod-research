@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 6284350
 gbif_url: https://www.gbif.org/species/6284350
 common_name: Giant Spanish isopod
-distribution: 
+distribution: Iberia / N Africa
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: up to 30 mm
+temperature_c: 22-26
+humidity: Drier with a humid retreat; strong ventilation
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

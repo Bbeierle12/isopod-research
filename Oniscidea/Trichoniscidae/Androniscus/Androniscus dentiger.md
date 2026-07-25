@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2208095
 gbif_url: https://www.gbif.org/species/2208095
 common_name: Rosy woodlouse
-distribution: 
+distribution: Europe
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 5-6 mm
+temperature_c: 16-22
+humidity: Damp
+substrate: Coco fiber + leaf litter kept consistently damp
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---

@@ -8,17 +8,17 @@ suborder: Oniscidea
 gbif_id: 2209843
 gbif_url: https://www.gbif.org/species/2209843
 common_name: Florida dwarf isopod
-distribution: 
+distribution: Americas
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 3-5 mm
+temperature_c: 20-26
+humidity: Moderate-high
+substrate: Coco fiber + leaf litter kept consistently damp
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 status: hobby
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
