@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, philosciidae]
+status: hobby
+tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 
 # Chaetophiloscia elongata (Dollfus, 1884)

@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, platyarthridae]
+status: hobby
+tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 
 # Niambia capensis (Dollfus, 1895)

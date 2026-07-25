@@ -7,7 +7,7 @@ family: Trichoniscidae
 suborder: Oniscidea
 gbif_id: 2208095
 gbif_url: https://www.gbif.org/species/2208095
-common_name: 
+common_name: Rosy woodlouse
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, trichoniscidae]
+status: hobby
+tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---
 
 # Androniscus dentiger Verhoeff, 1908

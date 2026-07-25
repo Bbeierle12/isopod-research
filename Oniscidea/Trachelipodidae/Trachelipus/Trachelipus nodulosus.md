@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, trachelipodidae]
+status: hobby
+tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---
 
 # Trachelipus nodulosus (C.Koch, 1838)
