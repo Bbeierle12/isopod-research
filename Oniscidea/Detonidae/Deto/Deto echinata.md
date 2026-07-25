@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2207603
 gbif_url: https://www.gbif.org/species/2207603
 common_name: 
-distribution: 
+distribution: S Africa / Australia (coastal)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 10-15 mm
+temperature_c: 18-24
+humidity: "Coastal supralittoral; humid, salt-tolerant, ventilated"
+substrate: Sandy coastal substrate with wrack & leaf litter
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: advanced
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Coastal specialist; not a standard terrarium cleanup crew
 status: stub
 tags: [isopod, oniscidea, detonidae]
 ---

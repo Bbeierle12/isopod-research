@@ -201,6 +201,24 @@ SPECIES = {
     "Calcicole; associated with limestone walls and mortar"),
  "Porcellio succinctus": IBERIAN("10-14 mm", "Iberia", "Iberian woodlouse"),
  "Porcellio werneri": MEDIT("12-16 mm", "Greece / Balkans", "Balkan woodlouse", diff="intermediate"),
+ "Porcellio spatulatus": IBERIAN("10-14 mm", "Iberia / N Africa", "Iberian woodlouse"),
+ "Armadillidium frontirostre": MEDIT("10-14 mm", "S Europe / Mediterranean", "Mediterranean pillbug (syn. of A. pallasii)"),
+
+ # ---- coastal / desert / taxonomically-uncertain specialists ----
+ "Deto echinata": H("", "10-15 mm", "S Africa / Australia (coastal)", "18-24",
+    "Coastal supralittoral; humid, salt-tolerant, ventilated", "Sandy coastal substrate with wrack & leaf litter",
+    "advanced", "Coastal specialist; not a standard terrarium cleanup crew"),
+ "Tylos punctatus": H("Beach pillbug", "up to 20 mm", "Pacific coast (California to Mexico)", "18-24",
+    "Coastal; deep moist sand for burrowing, brackish-tolerant", "Deep fine coastal sand, sparse organic matter",
+    "advanced", "Beach-burrowing specialist; needs deep sand and coastal conditions"),
+ "Hemilepistus elongatus": H("", "up to 18 mm", "Central Asian deserts", "25-30 day, cooler night",
+    "Very dry; deep burrows, minimal moisture", "Deep sand/clay, sparse leaf litter", "advanced",
+    "Social desert specialist; challenging, not a cleanup crew"),
+ "Porcellionides floria": H("", "8-12 mm", "S USA / subtropical Americas", "20-26",
+    "Moderate; very tolerant", TEMP_SUB, "beginner", "Fast, prolific feeder/cleanup crew, similar to P. pruinosus"),
+ "Porcellio sevilla": IBERIAN("12-16 mm", "Iberia (Seville region)", "Iberian woodlouse; hobby name, GBIF status uncertain"),
+ "Paxodillidium schmalfussi": MEDIT("6-10 mm", "Mediterranean", "Roller; GBIF resolves only to genus", diff="intermediate"),
+ "Trachelipus squamatus": TEMPERATE("10-15 mm", "Europe / W Asia", "Temperate woodlouse; GBIF resolves only to genus"),
 }
 
 # genus-level defaults for undescribed provisional sp. trade forms
@@ -219,6 +237,14 @@ GENUS = {
     "Bumpy/spiny tropical display species"),
  "Trichorhina": H("", "3-5 mm", "Pantropical", "20-26", "High; keep moist", MOIST_SUB, "beginner",
     "Micro cleanup crew for humid vivariums"),
+ "Adinda": H("", "6-12 mm", "SE Asia", "22-26", "High", TROP_SUB, "intermediate-advanced",
+    "Spiny tropical display species"),
+ "Dryadillo": H("", "6-10 mm", "SE Asia", "22-26", "High", TROP_SUB, "intermediate",
+    "Tropical display species"),
+ "Filipinodillo": H("", "6-12 mm", "Philippines / SE Asia", "22-26", "High", TROP_SUB, "intermediate",
+    "Tropical display species"),
+ "Laureola": H("", "8-14 mm", "SE Asia", "22-26", "High; arboreal microhabitat", TROP_SUB, "advanced",
+    "Arboreal spiny tropical species; specialized microhabitat"),
 }
 
 CARRY = ["adult_size_mm","origin_region","temperature_c","humidity","substrate",

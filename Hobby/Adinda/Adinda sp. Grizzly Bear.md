@@ -11,13 +11,13 @@ trade_name: Grizzly Bear
 conglobation: FULL
 tags: [isopod, hobby, scleropactidae, provisional, form]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
+adult_size_mm: 6-12 mm
+origin_region: SE Asia
+temperature_c: 22-26
+humidity: High
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
+difficulty: intermediate-advanced
+bioactive_use: Spiny tropical display species
 sources: []
 ---
 

@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2208987
 gbif_url: https://www.gbif.org/species/2208987
 common_name: 
-distribution: 
+distribution: Central Asian deserts
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: up to 18 mm
+temperature_c: "25-30 day, cooler night"
+humidity: "Very dry; deep burrows, minimal moisture"
+substrate: "Deep sand/clay, sparse leaf litter"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: advanced
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: "Social desert specialist; challenging, not a cleanup crew"
 status: hobby
 tags: [isopod, oniscidea, agnaridae, hobby]
 ---

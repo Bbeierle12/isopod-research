@@ -165,6 +165,10 @@ def taxonomy_path(r):
         return None
     return os.path.join(ONISCIDEA, safe(family), safe(genus), safe("%s %s" % (genus, species)) + ".md")
 
+def has_taxonomy(r):
+    p = taxonomy_path(r)
+    return bool(p) and os.path.exists(p)
+
 def enrich_taxonomy(described):
     """Consolidate hobby data onto the scientific note for each described species:
     fill husbandry (fill-if-empty) and add conglobation / bioactive_use if missing.
@@ -217,9 +221,9 @@ def note_husbandry(path):
 def record_note_path(r):
     """Where a record's husbandry actually lives: the Oniscidea taxonomy note for
     described forms, otherwise its Hobby/ note."""
-    if r["record_type"] == "form" and r["is_described"]:
-        return taxonomy_path(r)
     if r["record_type"] == "form":
+        if r["is_described"] and has_taxonomy(r):
+            return taxonomy_path(r)
         return os.path.join(HOBBY, safe(r["genus"]), safe(form_stem(r)) + ".md")
     p = PARENTS.get(r["parent_id"])
     stem = "%s - %s" % (form_stem(p) if p else r["genus"], r["morph_name"])
@@ -233,17 +237,21 @@ def main():
     for r in forms: PARENTS[r["id"]] = r
     described = [r for r in forms if r["is_described"]]
     undescribed = [r for r in forms if not r["is_described"]]
+    on_taxonomy = [r for r in described if has_taxonomy(r)]     # accepted/synonym -> scientific note
+    orphan = [r for r in described if not has_taxonomy(r)]      # unmatched/needs-review -> no taxonomy note
+    hobby_forms = undescribed + orphan
 
-    # described species are consolidated onto their Oniscidea taxonomy note;
+    # described species with an accepted scientific note are consolidated there;
     # remove any stale duplicate Hobby note left from earlier runs
     removed = 0
-    for r in described:
+    for r in on_taxonomy:
         p = os.path.join(HOBBY, safe(r["genus"]), safe(form_stem(r)) + ".md")
         if os.path.exists(p):
             os.remove(p); removed += 1
 
-    # Hobby/ holds only undescribed sp. trade forms and morph sub-records
-    for r in undescribed:
+    # Hobby/ holds undescribed sp. forms, described forms GBIF can't place
+    # (unmatched/needs-review), and all morph sub-records
+    for r in hobby_forms:
         upsert(os.path.join(HOBBY, safe(r["genus"]), safe(form_stem(r)) + ".md"), r)
     for r in morphs:
         p = PARENTS.get(r["parent_id"])
@@ -258,7 +266,7 @@ def main():
 
     # consolidate described-species hobby data onto their scientific notes
     # (before catalog/CSV so the export reads current husbandry)
-    enriched = enrich_taxonomy(described)
+    enriched = enrich_taxonomy(on_taxonomy)
 
     # ---- catalog index ----
     from collections import defaultdict
@@ -310,8 +318,8 @@ def main():
             h = note_husbandry(record_note_path(r))
             w.writerow([r.get(c, "") for c in base_cols] + [h.get(c, "") for c in husb_cols])
 
-    print("Hobby/: %d undescribed form notes + %d morph notes (described species consolidated onto taxonomy)."
-          % (len(undescribed), len(morphs)))
+    print("Hobby/: %d form notes (%d undescribed + %d unmatched-described) + %d morph notes."
+          % (len(hobby_forms), len(undescribed), len(orphan), len(morphs)))
     print("removed %d stale described-species Hobby notes; enriched %d Oniscidea taxonomy notes."
           % (removed, enriched))
 

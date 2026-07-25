@@ -11,13 +11,13 @@ trade_name: Arboreal Spiny
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
+adult_size_mm: 8-14 mm
+origin_region: SE Asia
+temperature_c: 22-26
+humidity: High; arboreal microhabitat
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
+difficulty: advanced
+bioactive_use: Arboreal spiny tropical species; specialized microhabitat
 sources: []
 ---
 

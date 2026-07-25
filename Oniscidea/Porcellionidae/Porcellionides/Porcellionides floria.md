@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2211425
 gbif_url: https://www.gbif.org/species/2211425
 common_name: 
-distribution: 
+distribution: S USA / subtropical Americas
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 20-26
+humidity: Moderate; very tolerant
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: "Fast, prolific feeder/cleanup crew, similar to P. pruinosus"
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

@@ -7,19 +7,20 @@ family: Tylidae
 suborder: Oniscidea
 gbif_id: 2205112
 gbif_url: https://www.gbif.org/species/2205112
-common_name: 
-distribution: 
+common_name: Beach pillbug
+distribution: Pacific coast (California to Mexico)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: up to 20 mm
+temperature_c: 18-24
+humidity: "Coastal; deep moist sand for burrowing, brackish-tolerant"
+substrate: "Deep fine coastal sand, sparse organic matter"
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: advanced
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Beach-burrowing specialist; needs deep sand and coastal conditions
 status: stub
 tags: [isopod, oniscidea, tylidae]
 ---
