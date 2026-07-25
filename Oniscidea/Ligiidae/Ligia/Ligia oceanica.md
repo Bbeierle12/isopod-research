@@ -7,7 +7,7 @@ family: Ligiidae
 suborder: Oniscidea
 gbif_id: 5175631
 gbif_url: https://www.gbif.org/species/5175631
-common_name: 
+common_name: Sea slater
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, ligiidae]
+status: hobby
+tags: [isopod, oniscidea, ligiidae, hobby]
 ---
 
 # Ligia oceanica (Linnaeus, 1767)

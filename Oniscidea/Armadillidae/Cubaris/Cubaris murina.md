@@ -7,7 +7,7 @@ family: Armadillidae
 suborder: Oniscidea
 gbif_id: 5175817
 gbif_url: https://www.gbif.org/species/5175817
-common_name: 
+common_name: Little Sea isopod
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, armadillidae]
+status: hobby
+tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 
 # Cubaris murina Brandt, 1833

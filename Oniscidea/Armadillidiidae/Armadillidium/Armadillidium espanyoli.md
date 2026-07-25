@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
-morphs: 
+in_culture: yes
+morphs: Marbleize
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, armadillidiidae]
+status: hobby
+tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 
 # Armadillidium espanyoli Cruz, 1990

@@ -7,7 +7,7 @@ family: Porcellionidae
 suborder: Oniscidea
 gbif_id: 6284372
 gbif_url: https://www.gbif.org/species/6284372
-common_name: 
+common_name: Giant Canyon isopod
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, porcellionidae]
+status: hobby
+tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 
 # Porcellio dilatatus Brandt, 1831

@@ -7,7 +7,7 @@ family: Porcellionidae
 suborder: Oniscidea
 gbif_id: 6284337
 gbif_url: https://www.gbif.org/species/6284337
-common_name: 
+common_name: Common rough woodlouse
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
-morphs: 
+in_culture: yes
+morphs: Dalmatian, Orange, Koi, Piebald, Ghost, Lava, Spanish Orange
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, porcellionidae]
+status: hobby
+tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 
 # Porcellio scaber Latreille, 1804

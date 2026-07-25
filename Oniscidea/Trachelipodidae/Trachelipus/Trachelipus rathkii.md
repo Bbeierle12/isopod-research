@@ -7,7 +7,7 @@ family: Trachelipodidae
 suborder: Oniscidea
 gbif_id: 2209087
 gbif_url: https://www.gbif.org/species/2209087
-common_name: 
+common_name: Rathke's woodlouse
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, trachelipodidae]
+status: hobby
+tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---
 
 # Trachelipus rathkii (Brandt, 1833)

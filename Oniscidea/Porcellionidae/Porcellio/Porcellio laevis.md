@@ -7,7 +7,7 @@ family: Porcellionidae
 suborder: Oniscidea
 gbif_id: 6284535
 gbif_url: https://www.gbif.org/species/6284535
-common_name: 
+common_name: Smooth woodlouse
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
-morphs: 
+in_culture: yes
+morphs: Dairy Cow, Orange, White, Milkback
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, porcellionidae]
+status: hobby
+tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 
 # Porcellio laevis Latreille, 1804

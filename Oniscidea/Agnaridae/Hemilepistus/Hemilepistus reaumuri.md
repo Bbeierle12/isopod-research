@@ -7,7 +7,7 @@ family: Agnaridae
 suborder: Oniscidea
 gbif_id: 8873635
 gbif_url: https://www.gbif.org/species/8873635
-common_name: 
+common_name: Desert isopod
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, agnaridae]
+status: hobby
+tags: [isopod, oniscidea, agnaridae, hobby]
 ---
 
 # Hemilepistus reaumuri (Audouin, 1826)

@@ -7,7 +7,7 @@ family: Cylisticidae
 suborder: Oniscidea
 gbif_id: 2208749
 gbif_url: https://www.gbif.org/species/2208749
-common_name: 
+common_name: Curly isopod
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, cylisticidae]
+status: hobby
+tags: [isopod, oniscidea, cylisticidae, hobby]
 ---
 
 # Cylisticus convexus (De Geer, 1778)

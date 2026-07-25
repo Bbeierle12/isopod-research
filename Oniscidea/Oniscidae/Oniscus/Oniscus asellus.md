@@ -7,7 +7,7 @@ family: Oniscidae
 suborder: Oniscidea
 gbif_id: 5176315
 gbif_url: https://www.gbif.org/species/5176315
-common_name: 
+common_name: Common shiny woodlouse
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
-morphs: 
+in_culture: yes
+morphs: Mardi Gras, Dwarf
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, oniscidae]
+status: hobby
+tags: [isopod, oniscidea, oniscidae, hobby]
 ---
 
 # Oniscus asellus Linnaeus, 1758

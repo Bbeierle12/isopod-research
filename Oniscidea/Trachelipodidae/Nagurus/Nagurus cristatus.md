@@ -7,7 +7,7 @@ family: Trachelipodidae
 suborder: Oniscidea
 gbif_id: 2209044
 gbif_url: https://www.gbif.org/species/2209044
-common_name: 
+common_name: Dwarf isopod
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, trachelipodidae]
+status: hobby
+tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---
 
 # Nagurus cristatus (Dollfus, 1889)

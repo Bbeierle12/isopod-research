@@ -7,7 +7,7 @@ family: Armadillidiidae
 suborder: Oniscidea
 gbif_id: 2203795
 gbif_url: https://www.gbif.org/species/2203795
-common_name: 
+common_name: Marbled pillbug
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, armadillidiidae]
+status: hobby
+tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 
 # Armadillidium gestroi Tua, 1900

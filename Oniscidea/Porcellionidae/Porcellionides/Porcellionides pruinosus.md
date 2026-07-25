@@ -7,7 +7,7 @@ family: Porcellionidae
 suborder: Oniscidea
 gbif_id: 2211355
 gbif_url: https://www.gbif.org/species/2211355
-common_name: 
+common_name: Powder blue isopod
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
-morphs: 
+in_culture: yes
+morphs: Powder Blue, Powder Orange, Oreo Crumble, White Panda
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, porcellionidae]
+status: hobby
+tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 
 # Porcellionides pruinosus (Brandt, 1833)

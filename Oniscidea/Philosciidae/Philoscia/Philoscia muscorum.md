@@ -7,7 +7,7 @@ family: Philosciidae
 suborder: Oniscidea
 gbif_id: 2209507
 gbif_url: https://www.gbif.org/species/2209507
-common_name: 
+common_name: Common striped woodlouse
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, philosciidae]
+status: hobby
+tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 
 # Philoscia muscorum (Scopoli, 1763)

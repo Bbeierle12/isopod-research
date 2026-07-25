@@ -7,7 +7,7 @@ family: Armadillidiidae
 suborder: Oniscidea
 gbif_id: 2203739
 gbif_url: https://www.gbif.org/species/2203739
-common_name: 
+common_name: Nosy pillbug
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
-morphs: 
+in_culture: yes
+morphs: Peach
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, armadillidiidae]
+status: hobby
+tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 
 # Armadillidium nasatum Budde-Lund, 1885

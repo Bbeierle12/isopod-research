@@ -7,7 +7,7 @@ family: Platyarthridae
 suborder: Oniscidea
 gbif_id: 2204981
 gbif_url: https://www.gbif.org/species/2204981
-common_name: 
+common_name: Dwarf white isopod
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, platyarthridae]
+status: hobby
+tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 
 # Trichorhina tomentosa (Budde-Lund, 1893)

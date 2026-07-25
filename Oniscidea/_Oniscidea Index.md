@@ -26,6 +26,12 @@ This vault section covers **42 families, 567 genera, and 4,226 accepted species*
 - One folder per **genus**, each with a `_<Genus>` index note listing its species.
 - One note per **species**, with a husbandry/research frontmatter template ready to fill in.
 
+> [!tip] Hobby species
+> The species kept in the pet / bioactive hobby are flagged with `in_culture: yes` and the `#hobby`
+> tag, and gathered in **[[_Hobby Species|Hobby & Cultured Isopods]]** (48 described species). Note that
+> many popular trade animals are *undescribed* forms (e.g. *Cubaris* "Rubber Ducky") with no scientific
+> name, so they are not part of this taxonomy.
+
 ## Families
 
 | Family | Genera | Species |

@@ -7,7 +7,7 @@ family: Armadillidiidae
 suborder: Oniscidea
 gbif_id: 2203611
 gbif_url: https://www.gbif.org/species/2203611
-common_name: 
+common_name: Common pillbug (roly-poly)
 distribution: 
 habitat: 
 size_mm: 
@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
-morphs: 
+in_culture: yes
+morphs: Magic Potion, Punto Rojo, Orange Vigor, St. Lucia
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, armadillidiidae]
+status: hobby
+tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 
 # Armadillidium vulgare (Latreille, 1804)

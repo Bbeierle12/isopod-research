@@ -15,12 +15,12 @@ temperature_c:
 humidity: 
 substrate: 
 diet: 
-in_culture: 
+in_culture: yes
 morphs: 
 difficulty: 
 sources: 
-status: stub
-tags: [isopod, oniscidea, trachelipodidae]
+status: hobby
+tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---
 
 # Nagurus nanus (Budde-Lund, 1908)
