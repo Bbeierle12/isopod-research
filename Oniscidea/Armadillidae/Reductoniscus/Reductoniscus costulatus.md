@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2202641
 gbif_url: https://www.gbif.org/species/2202641
 common_name: 
-distribution: 
+distribution: Indo-Pacific (pantropical)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 3-5 mm
+temperature_c: 22-26
+humidity: High; keep moist
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Tiny tropical rolling species; micro cleanup in humid vivariums
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

@@ -7,19 +7,20 @@ family: Trachelipodidae
 suborder: Oniscidea
 gbif_id: 2209042
 gbif_url: https://www.gbif.org/species/2209042
-common_name: 
-distribution: 
+common_name: Dwarf isopod
+distribution: Pantropical
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 3-5 mm
+temperature_c: 20-26
+humidity: High; keep moist
+substrate: Coco fiber + leaf litter kept consistently damp
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Tiny tropical micro cleanup crew
 status: hobby
 tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---

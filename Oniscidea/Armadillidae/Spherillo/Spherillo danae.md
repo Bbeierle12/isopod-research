@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2202250
 gbif_url: https://www.gbif.org/species/2202250
 common_name: 
-distribution: 
+distribution: Australia
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 22-26
+humidity: High
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Australian tropical/subtropical rolling display species
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

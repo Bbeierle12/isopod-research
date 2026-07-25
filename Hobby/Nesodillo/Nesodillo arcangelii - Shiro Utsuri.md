@@ -14,13 +14,13 @@ parent: nesodillo-arcangelii
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, described, morph]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
+adult_size_mm: 8-12 mm
+origin_region: SE Asia
+temperature_c: 22-26
+humidity: High (75-85%)
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
+difficulty: intermediate
+bioactive_use: Tropical rolling display species; humidity and calcium important
 sources: []
 ---
 

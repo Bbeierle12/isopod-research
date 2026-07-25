@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2202080
 gbif_url: https://www.gbif.org/species/2202080
 common_name: 
-distribution: 
+distribution: SE Asia
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 22-26
+humidity: High (75-85%)
+substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyster shell; keep humid"
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Tropical rolling display species; humidity and calcium important
 status: stub
 tags: [isopod, oniscidea, armadillidae]
 ---

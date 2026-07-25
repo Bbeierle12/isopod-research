@@ -115,6 +115,23 @@ SPECIES = {
     "advanced", "Specialist coastal species; not a terrarium cleanup crew"),
  "Merulanella bicolorata": H("", "8-12 mm", "SE Asia", "22-26", "High (80%+)", TROP_SUB, "advanced",
     "Sensitive tropical display; stable humidity and calcium are critical"),
+
+ # tropical / warm-climate described species (genus-level tropicals filled explicitly)
+ "Nesodillo arcangelii": H("", "8-12 mm", "SE Asia", "22-26", "High (75-85%)", TROP_SUB, "intermediate",
+    "Tropical rolling display species; humidity and calcium important"),
+ "Troglodillo rotundatus": H("", "8-14 mm", "SE Asia", "22-26", "High (75-85%)", TROP_SUB, "intermediate",
+    "Tropical rolling display species"),
+ "Reductoniscus costulatus": H("", "3-5 mm", "Indo-Pacific (pantropical)", "22-26", "High; keep moist",
+    TROP_SUB, "intermediate", "Tiny tropical rolling species; micro cleanup in humid vivariums"),
+ "Pseudarmadillo spinosus": H("", "8-12 mm", "Caribbean", "22-26", "High", TROP_SUB, "intermediate-advanced",
+    "Armored Caribbean display species; humidity and calcium critical"),
+ "Spherillo danae": H("", "8-12 mm", "Australia", "22-26", "High", TROP_SUB, "intermediate",
+    "Australian tropical/subtropical rolling display species"),
+ "Nagurus nanus": H("Dwarf isopod", "3-5 mm", "Pantropical", "20-26", "High; keep moist", MOIST_SUB,
+    "beginner", "Tiny tropical micro cleanup crew"),
+ "Venezillo arizonicus": H("", "4-6 mm", "SW USA (Arizona)", "22-26",
+    "Moderate-high; tolerates drier conditions than tropical Venezillo", MED_SUB, "beginner-intermediate",
+    "Small warm-climate rolling species; more arid-tolerant than its tropical relatives"),
 }
 
 # genus-level defaults for undescribed provisional sp. trade forms

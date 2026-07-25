@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2202413
 gbif_url: https://www.gbif.org/species/2202413
 common_name: 
-distribution: 
+distribution: SW USA (Arizona)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 4-6 mm
+temperature_c: 22-26
+humidity: Moderate-high; tolerates drier conditions than tropical Venezillo
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner-intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Small warm-climate rolling species; more arid-tolerant than its tropical relatives
 status: stub
 tags: [isopod, oniscidea, armadillidae]
 ---
