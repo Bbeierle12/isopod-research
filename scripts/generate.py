@@ -194,6 +194,37 @@ def enrich_taxonomy(described):
             n += 1
     return n
 
+def _unquote(v):
+    return v[1:-1].replace('\\"', '"') if len(v) >= 2 and v[0] == '"' and v[-1] == '"' else v
+
+def note_husbandry(path):
+    """Read effective husbandry from a note's frontmatter (reflects defaults +
+    any hand-edits). Maps the taxonomy-note field names to the catalog's."""
+    if not path or not os.path.exists(path):
+        return {}
+    with open(path, "r", encoding="utf-8") as f:
+        fm, _ = split_note(f.read())
+    g = lambda k: _unquote(fm.get(k, ""))
+    return {
+        "common_name": g("common_name"),
+        "adult_size_mm": g("adult_size_mm") or g("size_mm"),
+        "origin_region": g("origin_region") or g("distribution"),
+        "temperature_c": g("temperature_c"), "humidity": g("humidity"),
+        "substrate": g("substrate"), "difficulty": g("difficulty"),
+        "bioactive_use": g("bioactive_use"),
+    }
+
+def record_note_path(r):
+    """Where a record's husbandry actually lives: the Oniscidea taxonomy note for
+    described forms, otherwise its Hobby/ note."""
+    if r["record_type"] == "form" and r["is_described"]:
+        return taxonomy_path(r)
+    if r["record_type"] == "form":
+        return os.path.join(HOBBY, safe(r["genus"]), safe(form_stem(r)) + ".md")
+    p = PARENTS.get(r["parent_id"])
+    stem = "%s - %s" % (form_stem(p) if p else r["genus"], r["morph_name"])
+    return os.path.join(HOBBY, safe(r["genus"]), safe(stem) + ".md")
+
 def main():
     with open(DATA, "r", encoding="utf-8") as f:
         records = json.load(f)["records"]
@@ -224,6 +255,10 @@ def main():
         dp = os.path.join(HOBBY, d)
         if os.path.isdir(dp) and not os.listdir(dp):
             os.rmdir(dp)
+
+    # consolidate described-species hobby data onto their scientific notes
+    # (before catalog/CSV so the export reads current husbandry)
+    enriched = enrich_taxonomy(described)
 
     # ---- catalog index ----
     from collections import defaultdict
@@ -263,17 +298,18 @@ def main():
         f.write("\n".join(L) + "\n")
 
     # ---- CSV export ----
-    cols = ["id","record_type","family","genus","species","is_described","taxon_status",
-            "accepted_name","authority","gbif_id","trade_name","locality","morph_name",
-            "parent_id","conglobation","common_name","adult_size_mm","origin_region",
-            "temperature_c","humidity","substrate","difficulty","bioactive_use"]
+    base_cols = ["id","record_type","family","genus","species","is_described","taxon_status",
+                 "accepted_name","authority","gbif_id","trade_name","locality","morph_name",
+                 "parent_id","conglobation"]
+    husb_cols = ["common_name","adult_size_mm","origin_region","temperature_c","humidity",
+                 "substrate","difficulty","bioactive_use"]
     with open(os.path.join(VAULT, "data", "isopods.csv"), "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
-        w.writerow(cols)
+        w.writerow(base_cols + husb_cols)
         for r in records:
-            w.writerow([r.get(c, "") for c in cols])
+            h = note_husbandry(record_note_path(r))
+            w.writerow([r.get(c, "") for c in base_cols] + [h.get(c, "") for c in husb_cols])
 
-    enriched = enrich_taxonomy(described)
     print("Hobby/: %d undescribed form notes + %d morph notes (described species consolidated onto taxonomy)."
           % (len(undescribed), len(morphs)))
     print("removed %d stale described-species Hobby notes; enriched %d Oniscidea taxonomy notes."
