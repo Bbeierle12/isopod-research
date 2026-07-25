@@ -76,9 +76,10 @@ husbandry defaults on all 146 records.
 
 ## License
 
-Dual-licensed — see [`LICENSE`](LICENSE):
+Dual-licensed:
 
-- **Data & written content** (notes, `data/`, `Research/`, taxonomy compilation): **CC BY 4.0**.
-- **Source code** (`scripts/`): **MIT**.
+- **Source code** (`scripts/`): **MIT** — see [`LICENSE`](LICENSE).
+- **Data & written content** (notes, `data/`, `Research/`, taxonomy compilation): **CC BY 4.0** —
+  see [`LICENSE-DATA`](LICENSE-DATA).
 
 Attribution: *Bbeierle12 / isopod-research*, and **GBIF** for the underlying taxonomy.

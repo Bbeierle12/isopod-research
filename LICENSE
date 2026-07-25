@@ -1,26 +1,4 @@
-Isopod Research Vault — Licensing
-==================================
-
-This repository is dual-licensed:
-
-1. SOURCE CODE — everything under `scripts/` — is licensed under the MIT License
-   (below).
-
-2. DATA & WRITTEN CONTENT — all Markdown notes, the `data/` directory, the
-   `Research/` directory, and the taxonomy compilation — is licensed under the
-   Creative Commons Attribution 4.0 International License (CC BY 4.0).
-   Human-readable summary: https://creativecommons.org/licenses/by/4.0/
-   Full legal code:        https://creativecommons.org/licenses/by/4.0/legalcode
-
-   You are free to share and adapt this material for any purpose, provided you
-   give appropriate credit. Attribute to: "Bbeierle12 / isopod-research", and
-   attribute the underlying taxonomy to the GBIF Secretariat (GBIF Backbone
-   Taxonomy, https://www.gbif.org/, CC BY 4.0), of which this dataset is a
-   derivative work. Husbandry and trade-name data are hobby-community consensus
-   and are provided without warranty of accuracy.
-
---------------------------------------------------------------------------------
-MIT License (applies to `scripts/`)
+MIT License
 
 Copyright (c) 2026 Bbeierle12 and isopod-research contributors
 

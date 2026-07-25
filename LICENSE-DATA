@@ -1,0 +1,31 @@
+Data & Content License — CC BY 4.0
+==================================
+
+The MIT License in `LICENSE` covers the SOURCE CODE in `scripts/` only.
+
+All DATA AND WRITTEN CONTENT in this repository — the Markdown notes, the
+`data/` directory (isopods.json / isopods.csv), the `Research/` directory, and
+the taxonomy compilation — is licensed under the
+
+    Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+    Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+    Full legal code:        https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt this material for any purpose, provided you give
+appropriate credit, link to the license, and indicate if changes were made.
+
+Attribution
+-----------
+- Attribute this work to: "Bbeierle12 / isopod-research".
+- Attribute the underlying taxonomy to the GBIF Secretariat: GBIF Backbone
+  Taxonomy (https://www.gbif.org/, CC BY 4.0). This dataset is a derivative work
+  of GBIF-mediated data.
+
+Disclaimer
+----------
+Husbandry and trade-name data are hobby-community consensus and are provided
+"as is", without warranty of accuracy. Scientific names should be verified
+against WoRMS (https://www.marinespecies.org/) or primary literature before
+formal use. Ecology data carries an explicit evidence grade (a = published fact,
+b = inferred from relatives, c = unstudied) — see the Research/ notes.
