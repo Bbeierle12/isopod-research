@@ -29,12 +29,12 @@ def safe(n):
 def form_display(r):
     if r["is_described"]:
         return "%s %s" % (r["genus"], r["species"])
-    return '%s sp. "%s"' % (r["genus"], r["trade_name"])
+    return '%s sp. "%s"' % (r["genus"], r["trade_name"]) if r["trade_name"] else "%s sp." % r["genus"]
 
 def form_stem(r):
     if r["is_described"]:
         return "%s %s" % (r["genus"], r["species"])
-    return "%s sp. %s" % (r["genus"], r["trade_name"])
+    return ("%s sp. %s" % (r["genus"], r["trade_name"])) if r["trade_name"] else "%s sp." % r["genus"]
 
 def emit_val(v):
     if isinstance(v, bool): return "true" if v else "false"

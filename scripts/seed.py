@@ -37,7 +37,7 @@ G = {
  "Merulanella": ("Armadillidae", FULL, {"bicolorata": {}},
     ["Yellow Panda","Ember Bee","Scarlet","Red Diablo","Tricolor"]),
  "Dryadillo": ("Armadillidae", FULL, {}, ["Feather"]),
- "Filipinodillo": ("Armadillidae", FULL, {}, ["sp."]),
+ "Filipinodillo": ("Armadillidae", FULL, {}, [""]),
  "Laureola": ("Armadillidae", FULL, {}, ["Arboreal Spiny"]),
  "Reductoniscus": ("Armadillidae", FULL, {"costulatus": {}}, []),
  "Spherillo": ("Armadillidae", FULL, {"danae": {}}, []),

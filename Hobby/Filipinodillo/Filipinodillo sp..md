@@ -1,13 +1,12 @@
 ---
-id: filipinodillo-sp-sp
+id: filipinodillo-sp
 record_type: form
 family: Armadillidae
 genus: Filipinodillo
 species: sp.
-scientificName: "Filipinodillo sp. \"sp.\""
+scientificName: Filipinodillo sp.
 is_described: false
 taxon_status: provisional
-trade_name: sp.
 conglobation: FULL
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
@@ -21,7 +20,7 @@ bioactive_use:
 sources: 
 ---
 
-# Filipinodillo sp. "sp."
+# Filipinodillo sp.
 
 **Taxonomy** [[_Filipinodillo]] · **Conglobation:** FULL
 

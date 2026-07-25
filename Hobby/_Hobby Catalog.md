@@ -121,7 +121,7 @@ Generated from `data/isopods.json`. **112 forms** (88 described, 24 provisional 
 
 | Form | Status | Described | Conglob. | Morphs | GBIF |
 |---|---|---|---|---|---|
-| [[Filipinodillo sp. sp.]] | provisional | no | FULL | — | — |
+| [[Filipinodillo sp.]] | provisional | no | FULL | — | — |
 
 ## Helleria
 

@@ -1482,7 +1482,7 @@
    "localities": []
   },
   {
-   "id": "filipinodillo-sp-sp",
+   "id": "filipinodillo-sp",
    "record_type": "form",
    "family": "Armadillidae",
    "genus": "Filipinodillo",
@@ -1491,7 +1491,7 @@
    "gbif_id": null,
    "taxon_status": "provisional",
    "authority": "",
-   "trade_name": "sp.",
+   "trade_name": "",
    "locality": "",
    "morph_name": "",
    "parent_id": null,
