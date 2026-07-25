@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 6284355
 gbif_url: https://www.gbif.org/species/6284355
 common_name: 
-distribution: 
+distribution: S Spain
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 12-18 mm
+temperature_c: 20-26
+humidity: Dry with a humid corner; strong ventilation
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Large Iberian woodlouse
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 5176082
 gbif_url: https://www.gbif.org/species/5176082
 common_name: 
-distribution: 
+distribution: W European coasts
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 18-24
+humidity: Moderate; damp corner with good airflow
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Burrowing coastal woodlouse
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

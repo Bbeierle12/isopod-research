@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2203582
 gbif_url: https://www.gbif.org/species/2203582
 common_name: 
-distribution: 
+distribution: E Mediterranean (Levant)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 6-10 mm
+temperature_c: 20-26
+humidity: Dry with a humid corner; strong ventilation
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Roller from the arid E Mediterranean
 status: stub
 tags: [isopod, oniscidea, armadillidiidae]
 ---

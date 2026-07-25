@@ -14,13 +14,13 @@ parent: agabiformius-lentus
 conglobation: NONE
 tags: [isopod, hobby, porcellionidae, described, morph]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
+adult_size_mm: 5-7 mm
+origin_region: Mediterranean (warm cosmopolitan)
+temperature_c: 20-26
+humidity: Moderate; tolerant
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
+difficulty: beginner
+bioactive_use: Small hardy warm-climate cleanup crew
 sources: []
 ---
 

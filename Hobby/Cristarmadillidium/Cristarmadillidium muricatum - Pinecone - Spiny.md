@@ -14,13 +14,13 @@ parent: cristarmadillidium-muricatum
 conglobation: FULL
 tags: [isopod, hobby, armadillidiidae, described, morph]
 common_name: 
-adult_size_mm: 
-origin_region: 
-temperature_c: 
-humidity: 
-substrate: 
-difficulty: 
-bioactive_use: 
+adult_size_mm: 8-12 mm
+origin_region: Corsica & Sardinia
+temperature_c: 20-25
+humidity: Moderate; ventilated with a humid retreat
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
+difficulty: intermediate
+bioactive_use: Spiny Mediterranean display species
 sources: []
 ---
 

@@ -7,19 +7,20 @@ family: Armadillidiidae
 suborder: Oniscidea
 gbif_id: 2203804
 gbif_url: https://www.gbif.org/species/2203804
-common_name: 
-distribution: 
+common_name: Flat pillbug
+distribution: W Europe
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 9-14 mm
+temperature_c: 18-24
+humidity: Moderate; damp corner with good airflow
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Flat-backed European pillbug
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2202329
 gbif_url: https://www.gbif.org/species/2202329
 common_name: 
-distribution: 
+distribution: Mediterranean
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 12-18 mm
+temperature_c: 22-26
+humidity: Drier with a humid retreat; ventilated
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: "Mediterranean roller; warmth, calcium and airflow"
 status: hobby
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---

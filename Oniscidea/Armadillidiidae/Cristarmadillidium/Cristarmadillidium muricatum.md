@@ -7,19 +7,20 @@ family: Armadillidiidae
 suborder: Oniscidea
 gbif_id: 2203545
 gbif_url: https://www.gbif.org/species/2203545
-common_name: 
-distribution: 
+common_name: Pinecone isopod
+distribution: Corsica & Sardinia
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 20-25
+humidity: Moderate; ventilated with a humid retreat
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Spiny Mediterranean display species
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

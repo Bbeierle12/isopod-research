@@ -7,19 +7,20 @@ family: Armadillidiidae
 suborder: Oniscidea
 gbif_id: 2203750
 gbif_url: https://www.gbif.org/species/2203750
-common_name: 
-distribution: 
+common_name: Painted pillbug
+distribution: Central/E Europe (montane woodland)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 6-9 mm
+temperature_c: 16-22
+humidity: "Higher humidity; cool, damp woodland"
+substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, cuttlebone for calcium"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Cool woodland species; legally protected in parts of Europe
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

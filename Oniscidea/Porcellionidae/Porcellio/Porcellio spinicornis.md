@@ -7,19 +7,20 @@ family: Porcellionidae
 suborder: Oniscidea
 gbif_id: 6284504
 gbif_url: https://www.gbif.org/species/6284504
-common_name: 
-distribution: 
+common_name: Calcicole woodlouse
+distribution: Europe (calcareous walls)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 10-15 mm
+temperature_c: 18-24
+humidity: Moderate; needs calcium (limestone/mortar)
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: beginner
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Calcicole; associated with limestone walls and mortar
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

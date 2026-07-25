@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 6284472
 gbif_url: https://www.gbif.org/species/6284472
 common_name: 
-distribution: 
+distribution: Iberia (sand dunes)
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 20-26
+humidity: "Dry, sandy; strong ventilation with a humid corner"
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Sand-dune specialist; needs sand and ventilation
 status: stub
 tags: [isopod, oniscidea, porcellionidae]
 ---

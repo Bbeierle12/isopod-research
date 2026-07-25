@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 6284560
 gbif_url: https://www.gbif.org/species/6284560
 common_name: 
-distribution: 
+distribution: Italy
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 10-14 mm
+temperature_c: 20-25
+humidity: Drier surface with a humid retreat; ventilated
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Italian woodlouse
 status: hobby
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---

@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2203834
 gbif_url: https://www.gbif.org/species/2203834
 common_name: Coastal pillbug
-distribution: 
+distribution: W European coasts
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 8-12 mm
+temperature_c: 18-24
+humidity: "Moderate; coastal/sandy, ventilated"
+substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone; add ventilation"
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: FULL
+bioactive_use: Coastal dune species; sandy substrate and airflow
 status: hobby
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---

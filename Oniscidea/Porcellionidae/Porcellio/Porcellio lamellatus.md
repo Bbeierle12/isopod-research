@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2210957
 gbif_url: https://www.gbif.org/species/2210957
 common_name: 
-distribution: 
+distribution: Mediterranean coasts
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 10-15 mm
+temperature_c: 20-25
+humidity: "Coastal; sandy, ventilated"
+substrate: "Topsoil + sand/limestone, leaf litter, cork/wood hides; strong cross-ventilation"
 diet: 
 in_culture: 
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Coastal sand species
 status: stub
 tags: [isopod, oniscidea, porcellionidae]
 ---

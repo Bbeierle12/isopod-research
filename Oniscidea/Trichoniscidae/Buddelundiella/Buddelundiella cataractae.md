@@ -8,18 +8,19 @@ suborder: Oniscidea
 gbif_id: 2212099
 gbif_url: https://www.gbif.org/species/2212099
 common_name: 
-distribution: 
+distribution: W/Central Europe
 habitat: 
-size_mm: 
-temperature_c: 
-humidity: 
-substrate: 
+size_mm: 2-4 mm
+temperature_c: 16-22
+humidity: Damp; tiny cryptic species
+substrate: Coco fiber + leaf litter kept consistently damp
 diet: 
 in_culture: yes
 morphs: 
-difficulty: 
-sources: 
+difficulty: intermediate
+sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
+bioactive_use: Very small cryptic species; keep humid
 status: hobby
 tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---
