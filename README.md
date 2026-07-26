@@ -1,6 +1,6 @@
 # Insect & Reptile Research — Isopod Vault
 
-An [Obsidian](https://obsidian.md) vault and open dataset for **terrestrial isopod (Oniscidea)**
+An [Obsidian](https://obsidian.md) vault and open dataset for **isopod (Isopoda)**
 research and the bioactive-terrarium keeping hobby. It pairs a full GBIF-derived scientific
 taxonomy with a structured, husbandry-annotated catalog of the species and morphs kept in the
 hobby, plus a cited research layer.
@@ -16,7 +16,7 @@ hobby, plus a cited research layer.
 | Path | What it is |
 |---|---|
 | `Isopods.md` | Entry point / map of content |
-| `Oniscidea/` | Scientific taxonomy — family → genus → species notes (GBIF) |
+| `Isopoda/` | Scientific taxonomy — suborder → family → genus → species notes (GBIF) |
 | `Hobby/` | Undescribed `sp.` trade forms + morph cultivars; `_Hobby Catalog.md` |
 | `data/isopods.json` · `.csv` | Canonical hobby catalog (source of truth) + flat export |
 | `data/ecology.json` | Research axes (ecomorph, stratum, trophic, life-history) + evidence grades |
@@ -25,9 +25,9 @@ hobby, plus a cited research layer.
 | `Research/` | Categorization outline, per-species ecology data, source PDFs |
 | `docs/superpowers/specs/` | Design spec for the master dataset |
 
-## Scientific taxonomy (`Oniscidea/`)
+## Scientific taxonomy (`Isopoda/`)
 
-**42 families · 567 genera · 4,226 accepted species** — one folder per family → genus → species.
+**11 suborders · 154 families · ~11,500 accepted species** — one folder per suborder → family → genus → species.
 Taxonomy was pulled from the **GBIF Backbone Taxonomy** (`api.gbif.org`) on **2026-07-24**,
 restricted to `taxonomicStatus = ACCEPTED` (synonyms/doubtful/unranked excluded). Every species
 note carries its GBIF id and URL. Start at [`Isopods.md`](Isopods.md).
@@ -48,7 +48,7 @@ python scripts/generate.py   # build Hobby/ notes, _Hobby Catalog.md, data/isopo
 python scripts/atlas.py      # build Maps/ facet maps + Patterns + _Isopod Atlas hub
 ```
 
-**Described species are consolidated onto their `Oniscidea/` scientific note** (`generate.py`
+**Described species are consolidated onto their `Isopoda/` scientific note** (`generate.py`
 enriches each with husbandry, `conglobation`, `bioactive_use`, fill-if-empty so hand edits always
 win); `Hobby/` holds only undescribed trade forms + morphs. Browse
 [`Hobby/_Hobby Catalog.md`](Hobby/_Hobby%20Catalog.md).
@@ -76,7 +76,7 @@ husbandry defaults on all 146 records.
 dashboard, built by `scripts/atlas.py`. Two kinds of filter, at two scopes:
 
 - **Research axes** — ecomorph type (Schmalfuss), degree of terrestrialization, habitat stratum,
-  trophic guild, reproduction — **span all 4,226 Oniscidea species** (hobby + non-hobby). Every
+  trophic guild, reproduction — **span all ~11,500 Isopoda species** (hobby + non-hobby). Every
   species note carries these fields, scaffolded **blank until researched** (no family-level
   guessing); studied taxa (~33 so far) are populated with **a/b/c** evidence grades. Extend
   coverage by adding rows to `data/ecology.json`.
