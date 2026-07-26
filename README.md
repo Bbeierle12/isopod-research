@@ -27,7 +27,7 @@ hobby, plus a cited research layer.
 
 ## Scientific taxonomy (`Isopoda/`)
 
-**11 suborders + `incertae sedis` · 145 families · 11,293 accepted species** (+142 documented synonym records) — one folder per suborder →
+**11 suborders + `incertae sedis` · 145 families · 11,326 accepted species** (+109 documented synonym records) — one folder per suborder →
 family → genus → species. The species tree was pulled from the **GBIF Backbone Taxonomy**
 (`api.gbif.org`), restricted to `taxonomicStatus = ACCEPTED`; suborder and realm placement follows
 **WoRMS**, the World List of Marine, Freshwater and Terrestrial Isopod Crustaceans.
@@ -109,9 +109,9 @@ husbandry defaults on all 146 records.
 dashboard, built by `scripts/atlas.py`. Two kinds of filter, at two scopes:
 
 - **Taxonomy-wide axes** — realm, plus ecomorph type (Schmalfuss), degree of terrestrialization,
-  habitat stratum, trophic guild and reproduction — **span all 11,293 accepted Isopoda species**
+  habitat stratum, trophic guild and reproduction — **span all 11,326 accepted Isopoda species**
   (hobby + non-hobby). Every species note carries these fields, scaffolded **blank until researched** (no
-  family-level guessing); **33** studied taxa are populated with **a/b/c** evidence grades and
+  family-level guessing); **34** studied taxa are populated with **a/b/c** evidence grades and
   CrossRef-verified citations. Note that ecomorph and terrestrialization are *terrestrial-isopod*
   concepts (Schmalfuss 1984) — they do not apply to the aquatic majority. Extend coverage by adding
   rows to `data/ecology.json`.
