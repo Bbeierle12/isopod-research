@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Androniscus carynthiacus
 authorship: "Verhoeff, 1908"
 genus: Androniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 258612
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258612"
 worms_status: junior subjective synonym
 worms_accepted: Androniscus roseus
+accepted_name: Androniscus roseus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Androniscus carynthiacus Verhoeff, 1908
+
+> [!warning] Junior synonym
+> WoRMS treats **Androniscus carynthiacus** as *junior subjective synonym*. The accepted name is **[[Androniscus roseus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Androniscus|Androniscus]]
 

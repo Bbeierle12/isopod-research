@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Epicepon japonicum
 authorship: "Nierstrasz & Brender à Brandis, 1931"
 genus: Epicepon
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 260265
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260265"
 worms_status: misspelling - incorrect original spelling
 worms_accepted: Metathelges japonicus
+accepted_name: Metathelges japonicus
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 
 # Epicepon japonicum Nierstrasz & Brender
+
+> [!warning] Junior synonym
+> WoRMS treats **Epicepon japonicum** as *misspelling - incorrect original spelling*. The accepted name is **Metathelges japonicus**.
 
 **Order** Isopoda › **Suborder** Epicaridea › **Family** [[_Bopyridae Index|Bopyridae]] › **Genus** [[_Epicepon|Epicepon]]
 

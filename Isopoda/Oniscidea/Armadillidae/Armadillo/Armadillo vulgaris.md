@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadillo vulgaris
 authorship: ", 1999"
 genus: Armadillo
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 1355386
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1355386"
 worms_status: unaccepted
 worms_accepted: Armadillidium vulgare
+accepted_name: Armadillidium vulgare
 tags: [isopod, oniscidea, armadillidae]
 ---
 
 # Armadillo vulgaris , 1999
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadillo vulgaris** as *unaccepted*. The accepted name is **[[Armadillidium vulgare]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Armadillo|Armadillo]]
 

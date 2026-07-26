@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trichoniscus sorrentinus
 authorship: "Verhoeff, 1908"
 genus: Trichoniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 887257
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=887257"
 worms_status: junior subjective synonym
 worms_accepted: Trichoniscus matulici matulici
+accepted_name: Trichoniscus matulici matulici
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Trichoniscus sorrentinus Verhoeff, 1908
+
+> [!warning] Junior synonym
+> WoRMS treats **Trichoniscus sorrentinus** as *junior subjective synonym*. The accepted name is **Trichoniscus matulici matulici**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Trichoniscus|Trichoniscus]]
 

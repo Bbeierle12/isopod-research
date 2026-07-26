@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Ligia shinjiensis
 authorship: "Tsuge, 2008"
 genus: Ligia
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 883991
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=883991"
 worms_status: junior subjective synonym
 worms_accepted: Ligia (Megaligia) exotica
+accepted_name: Ligia (Megaligia) exotica
 tags: [isopod, oniscidea, ligiidae]
 ---
 
 # Ligia shinjiensis Tsuge, 2008
+
+> [!warning] Junior synonym
+> WoRMS treats **Ligia shinjiensis** as *junior subjective synonym*. The accepted name is **Ligia (Megaligia) exotica**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Ligiidae Index|Ligiidae]] > **Genus** [[_Ligia|Ligia]]
 

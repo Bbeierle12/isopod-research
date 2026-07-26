@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Haplophthalmus thermophilus
 authorship: "Calgar, 1948"
 genus: Haplophthalmus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 260552
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260552"
 worms_status: superseded combination
 worms_accepted: Graeconiscus thermophilus
+accepted_name: Graeconiscus thermophilus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Haplophthalmus thermophilus Calgar, 1948
+
+> [!warning] Junior synonym
+> WoRMS treats **Haplophthalmus thermophilus** as *superseded combination*. The accepted name is **[[Graeconiscus thermophilus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Haplophthalmus|Haplophthalmus]]
 

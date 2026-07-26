@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Schmalfuss (1984) ecomorphological strategy — a terrestrial-isopod axis.
 
-**33 of 11448 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**33 of 11306 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## Runner  <small>(5)</small>
 

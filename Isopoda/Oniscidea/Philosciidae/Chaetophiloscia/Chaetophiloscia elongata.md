@@ -32,6 +32,7 @@ worms_aphia_id: 259722
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259722"
 worms_status: alternative representation
 worms_accepted: Chaetophiloscia elongata elongata
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Chaetophiloscia elongata elongata
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 

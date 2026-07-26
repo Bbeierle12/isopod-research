@@ -27,16 +27,18 @@ hobby, plus a cited research layer.
 
 ## Scientific taxonomy (`Isopoda/`)
 
-**11 suborders + `incertae sedis` · 145 families · 11,435 species** — one folder per suborder →
+**11 suborders + `incertae sedis` · 145 families · 11,293 accepted species** (+142 documented synonym records) — one folder per suborder →
 family → genus → species. The species tree was pulled from the **GBIF Backbone Taxonomy**
 (`api.gbif.org`), restricted to `taxonomicStatus = ACCEPTED`; suborder and realm placement follows
 **WoRMS**, the World List of Marine, Freshwater and Terrestrial Isopod Crustaceans.
 
 Every species note carries **both authorities** — `gbif_id`/`gbif_url` and, where WoRMS has a
 record, `worms_aphia_id`/`worms_url` — plus `worms_status`. GBIF acceptance and WoRMS acceptance
-are not the same claim: **90.5%** of the tree is accepted in WoRMS, **5.0%** is not (synonyms,
-superseded combinations, *taxon inquirendum*, misspellings — each note records the accepted name in
-`worms_accepted`), and **4.5%** are fossil taxa WoRMS does not register (flagged `extinct`).
+are not the same claim. Names WoRMS supersedes have been resolved — renamed into the accepted
+combination (old name kept as an Obsidian alias) or turned into a `type: synonym` record pointing at
+the accepted name — leaving **92.5%** accepted, **4.6%** fossil taxa WoRMS does not register
+(flagged `extinct`), and **2.9%** that cannot be mechanically resolved (*taxon inquirendum*,
+*nomen nudum*, dissolved genera), each annotated with a `worms_note`.
 Start at [`Isopods.md`](Isopods.md).
 
 ## Hobby master dataset
@@ -57,6 +59,7 @@ python scripts/husbandry.py      # set husbandry DEFAULTS (in place)
 python scripts/generate.py       # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
 python scripts/atlas.py          # build Maps/ facet maps + Patterns + _Isopod Atlas hub
 python scripts/worms_match.py --fetch --write   # cross-match species against WoRMS
+python scripts/resolve_synonyms.py --apply      # rename/merge the names WoRMS supersedes
 python scripts/build_db.py       # (optional) load into a constraint-checked SQLite db
 ```
 
@@ -97,8 +100,8 @@ husbandry defaults on all 146 records.
 dashboard, built by `scripts/atlas.py`. Two kinds of filter, at two scopes:
 
 - **Taxonomy-wide axes** — realm, plus ecomorph type (Schmalfuss), degree of terrestrialization,
-  habitat stratum, trophic guild and reproduction — **span all 11,435 Isopoda species** (hobby +
-  non-hobby). Every species note carries these fields, scaffolded **blank until researched** (no
+  habitat stratum, trophic guild and reproduction — **span all 11,293 accepted Isopoda species**
+  (hobby + non-hobby). Every species note carries these fields, scaffolded **blank until researched** (no
   family-level guessing); **33** studied taxa are populated with **a/b/c** evidence grades and
   CrossRef-verified citations. Note that ecomorph and terrestrialization are *terrestrial-isopod*
   concepts (Schmalfuss 1984) — they do not apply to the aquatic majority. Extend coverage by adding

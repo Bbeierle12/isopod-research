@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadillidium schulzi
 authorship: "Strouhal, 1929"
 genus: Armadillidium
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 257796
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257796"
 worms_status: junior subjective synonym
 worms_accepted: Armadillidium bicurvatum
+accepted_name: Armadillidium bicurvatum
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 
 # Armadillidium schulzi Strouhal, 1929
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadillidium schulzi** as *junior subjective synonym*. The accepted name is **[[Armadillidium bicurvatum]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Armadillidium|Armadillidium]]
 

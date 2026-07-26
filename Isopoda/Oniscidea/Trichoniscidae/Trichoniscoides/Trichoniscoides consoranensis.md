@@ -32,6 +32,7 @@ worms_aphia_id: 263627
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263627"
 worms_status: alternative representation
 worms_accepted: Trichoniscoides consoranensis consoranensis
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Trichoniscoides consoranensis consoranensis
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Spherillo lifouensis
 authorship: "Verhoeff, 1926"
 genus: Spherillo
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 263157
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263157"
 worms_status: superseded combination
 worms_accepted: Xestodillo lifouensis
+accepted_name: Xestodillo lifouensis
 tags: [isopod, oniscidea, armadillidae]
 ---
 
 # Spherillo lifouensis Verhoeff, 1926
+
+> [!warning] Junior synonym
+> WoRMS treats **Spherillo lifouensis** as *superseded combination*. The accepted name is **[[Xestodillo lifouensis]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Spherillo|Spherillo]]
 

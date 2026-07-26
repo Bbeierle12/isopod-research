@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Haloporcellio sphinx
 authorship: "(Verhoeff, 1931)"
 genus: Haloporcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 883692
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=883692"
 worms_status: junior subjective synonym
 worms_accepted: Porcellio lamellatus
+accepted_name: Porcellio lamellatus
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Haloporcellio sphinx (Verhoeff, 1931)
+
+> [!warning] Junior synonym
+> WoRMS treats **Haloporcellio sphinx** as *junior subjective synonym*. The accepted name is **[[Porcellio lamellatus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Haloporcellio|Haloporcellio]]
 

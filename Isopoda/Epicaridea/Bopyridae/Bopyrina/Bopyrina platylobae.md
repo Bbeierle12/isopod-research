@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Bopyrina platylobae
 authorship: "Bourdon, 1983"
 genus: Bopyrina
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 1650758
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1650758"
 worms_status: superseded combination
 worms_accepted: Schizobopyrina platylobae
+accepted_name: Schizobopyrina platylobae
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 
 # Bopyrina platylobae Bourdon, 1983
+
+> [!warning] Junior synonym
+> WoRMS treats **Bopyrina platylobae** as *superseded combination*. The accepted name is **[[Schizobopyrina platylobae]]**.
 
 **Order** Isopoda › **Suborder** Epicaridea › **Family** [[_Bopyridae Index|Bopyridae]] › **Genus** [[_Bopyrina|Bopyrina]]
 

@@ -32,6 +32,7 @@ worms_aphia_id: 263622
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263622"
 worms_status: alternative representation
 worms_accepted: Trichoniscoides cadurcensis cadurcensis
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Trichoniscoides cadurcensis cadurcensis
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

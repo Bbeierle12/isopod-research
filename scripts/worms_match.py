@@ -58,9 +58,7 @@ def get(url, attempts=4):
 def vault_species():
     """{scientificName: [note paths]} for every species note."""
     out = {}
-    for note in V.ISOPODA.rglob("*.md"):
-        if note.name.startswith("_"):
-            continue
+    for note in V.species_note_paths():
         parsed = V.parse_frontmatter(V.read_text(note))
         if not parsed:
             continue

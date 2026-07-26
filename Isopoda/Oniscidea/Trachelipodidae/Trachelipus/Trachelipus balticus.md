@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trachelipus balticus
 authorship: "(Verhoeff, 1907)"
 genus: Trachelipus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 1774018
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1774018"
 worms_status: junior subjective synonym
 worms_accepted: Trachelipus nodulosus
+accepted_name: Trachelipus nodulosus
 tags: [isopod, oniscidea, trachelipodidae]
 ---
 
 # Trachelipus balticus Verhoeff
+
+> [!warning] Junior synonym
+> WoRMS treats **Trachelipus balticus** as *junior subjective synonym*. The accepted name is **[[Trachelipus nodulosus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Trachelipus|Trachelipus]]
 

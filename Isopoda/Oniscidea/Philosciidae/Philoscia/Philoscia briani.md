@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Philoscia briani
 authorship: "Moreira, 1927"
 genus: Philoscia
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 258232
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258232"
 worms_status: superseded combination
 worms_accepted: Cubanophiloscia briani
+accepted_name: Cubanophiloscia briani
 tags: [isopod, oniscidea, philosciidae]
 ---
 
 # Philoscia briani Moreira, 1927
+
+> [!warning] Junior synonym
+> WoRMS treats **Philoscia briani** as *superseded combination*. The accepted name is **[[Cubanophiloscia briani]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Philoscia|Philoscia]]
 

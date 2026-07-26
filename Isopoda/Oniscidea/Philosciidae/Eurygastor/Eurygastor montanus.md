@@ -32,6 +32,7 @@ worms_aphia_id: 260332
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260332"
 worms_status: alternative representation
 worms_accepted: Eurygastor montanus montanus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Eurygastor montanus montanus
 tags: [isopod, oniscidea, philosciidae]
 ---
 

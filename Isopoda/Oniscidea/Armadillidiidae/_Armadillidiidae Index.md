@@ -3,7 +3,7 @@ type: index
 group: Armadillidiidae
 suborder: Oniscidea
 genus_count: 18
-species_count: 297
+species_count: 291
 realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, family-index]
@@ -11,14 +11,14 @@ tags: [isopod, oniscidea, family-index]
 
 # Armadillidiidae (Family)
 
-Suborder Oniscidea · 18 genera · 297 accepted species.
+Suborder Oniscidea · 18 genera · 291 accepted species.
 
 ## Genera
 
 | Genus | Species |
 |---|---:|
 | [[_Alloschizidium|Alloschizidium]] | 17 |
-| [[_Armadillidium|Armadillidium]] | 209 |
+| [[_Armadillidium|Armadillidium]] | 203 |
 | [[_Ballodillium|Ballodillium]] | 1 |
 | [[_Cristarmadillidium|Cristarmadillidium]] | 6 |
 | [[_Cyphodillidium|Cyphodillidium]] | 1 |
@@ -35,5 +35,5 @@ Suborder Oniscidea · 18 genera · 297 accepted species.
 | [[_Troglarmadillidium|Troglarmadillidium]] | 1 |
 | [[_Trogleluma|Trogleluma]] | 2 |
 | [[_Typhlarmadillidium|Typhlarmadillidium]] | 4 |
-| **TOTAL** | **297** |
+| **TOTAL** | **291** |
 

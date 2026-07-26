@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Glossobius linearis
 authorship: "(Dana, 1853) "
 genus: Glossobius
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 256809
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256809"
 worms_status: junior subjective synonym
 worms_accepted: Glossobius impressus
+accepted_name: Glossobius impressus
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 
 # Glossobius linearis (Dana, 1853) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Glossobius linearis** as *junior subjective synonym*. The accepted name is **[[Glossobius impressus]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Cymothoidae Index|Cymothoidae]] › **Genus** [[_Glossobius|Glossobius]]
 

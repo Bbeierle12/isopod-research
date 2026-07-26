@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Cylisticus ciscaucasius
 authorship: "Borutzky, 1977"
 genus: Cylisticus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 260072
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260072"
 worms_status: junior subjective synonym
 worms_accepted: Parcylisticus dentifrons
+accepted_name: Parcylisticus dentifrons
 tags: [isopod, oniscidea, cylisticidae]
 ---
 
 # Cylisticus ciscaucasius Borutzky, 1977
+
+> [!warning] Junior synonym
+> WoRMS treats **Cylisticus ciscaucasius** as *junior subjective synonym*. The accepted name is **[[Parcylisticus dentifrons]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Cylisticidae Index|Cylisticidae]] > **Genus** [[_Cylisticus|Cylisticus]]
 

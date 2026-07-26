@@ -32,6 +32,7 @@ worms_aphia_id: 259721
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259721"
 worms_status: alternative representation
 worms_accepted: Chaetophiloscia cellaria cellaria
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Chaetophiloscia cellaria cellaria
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 

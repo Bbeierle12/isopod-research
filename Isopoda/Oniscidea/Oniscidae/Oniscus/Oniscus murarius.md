@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Oniscus murarius
 authorship: "Cuvier, 1792"
 genus: Oniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 884545
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=884545"
 worms_status: junior subjective synonym
 worms_accepted: Oniscus asellus
+accepted_name: Oniscus asellus
 tags: [isopod, oniscidea, oniscidae]
 ---
 
 # Oniscus murarius Cuvier, 1792
+
+> [!warning] Junior synonym
+> WoRMS treats **Oniscus murarius** as *junior subjective synonym*. The accepted name is **[[Oniscus asellus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Oniscidae Index|Oniscidae]] > **Genus** [[_Oniscus|Oniscus]]
 

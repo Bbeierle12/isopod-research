@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Pseudione ampla
 authorship: "Markham, 1988"
 genus: Pseudione
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 255291
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=255291"
 worms_status: junior subjective synonym
 worms_accepted: Cryptione parviramus
+accepted_name: Cryptione parviramus
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 
 # Pseudione ampla Markham, 1988
+
+> [!warning] Junior synonym
+> WoRMS treats **Pseudione ampla** as *junior subjective synonym*. The accepted name is **[[Cryptione parviramus]]**.
 
 **Order** Isopoda › **Suborder** Epicaridea › **Family** [[_Bopyridae Index|Bopyridae]] › **Genus** [[_Pseudione|Pseudione]]
 

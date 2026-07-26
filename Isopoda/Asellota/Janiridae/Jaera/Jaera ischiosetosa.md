@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Jaera ischiosetosa
 authorship: "Forsman, 1949"
 genus: Jaera
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118719
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118719"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) ischiosetosa
+accepted_name: Jaera (Jaera) ischiosetosa
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera ischiosetosa Forsman, 1949
+
+> [!warning] Junior synonym
+> WoRMS treats **Jaera ischiosetosa** as *alternative representation*. The accepted name is **Jaera (Jaera) ischiosetosa**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

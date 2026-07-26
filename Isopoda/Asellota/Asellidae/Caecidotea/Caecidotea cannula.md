@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Caecidotea cannula
 authorship: "(Steeves, 1963) "
 genus: Caecidotea
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 259534
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259534"
 worms_status: superseded combination
 worms_accepted: Pseudobaicalasellus cannulus
+accepted_name: Pseudobaicalasellus cannulus
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 
 # Caecidotea cannula (Steeves, 1963) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Caecidotea cannula** as *superseded combination*. The accepted name is **Pseudobaicalasellus cannulus**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Asellidae Index|Asellidae]] › **Genus** [[_Caecidotea|Caecidotea]]
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Coxicerberus minutus
 authorship: "(Coineau & Botosaneanu, 1973) "
 genus: Coxicerberus
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257245
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257245"
 worms_status: superseded combination
 worms_accepted: Robustura minuta
+accepted_name: Robustura minuta
 tags: [isopod, isopoda, asellota, microcerberidae]
 ---
 
 # Coxicerberus minutus (Coineau & Botosaneanu, 1973) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Coxicerberus minutus** as *superseded combination*. The accepted name is **Robustura minuta**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Microcerberidae Index|Microcerberidae]] › **Genus** [[_Coxicerberus|Coxicerberus]]
 

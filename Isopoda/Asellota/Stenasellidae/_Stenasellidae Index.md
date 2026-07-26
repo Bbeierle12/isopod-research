@@ -3,7 +3,7 @@ type: index
 group: Stenasellidae
 suborder: Asellota
 genus_count: 11
-species_count: 76
+species_count: 75
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, asellota, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, asellota, family-index]
 
 # Stenasellidae (Family)
 
-Suborder Asellota · 11 genera · 76 accepted species.
+Suborder Asellota · 11 genera · 75 accepted species.
 
 ## Genera
 
@@ -27,6 +27,6 @@ Suborder Asellota · 11 genera · 76 accepted species.
 | [[_Mexistenasellus|Mexistenasellus]] | 8 |
 | [[_Parastenasellus|Parastenasellus]] | 1 |
 | [[_Protelsonia|Protelsonia]] | 5 |
-| [[_Stenasellus|Stenasellus]] | 41 |
-| **TOTAL** | **76** |
+| [[_Stenasellus|Stenasellus]] | 40 |
+| **TOTAL** | **75** |
 

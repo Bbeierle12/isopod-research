@@ -3,7 +3,7 @@ type: index
 group: Cirolanidae
 suborder: Cymothoida
 genus_count: 70
-species_count: 601
+species_count: 597
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, cymothoida, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, cymothoida, family-index]
 
 # Cirolanidae (Family)
 
-Suborder Cymothoida · 70 genera · 601 accepted species.
+Suborder Cymothoida · 70 genera · 597 accepted species.
 
 ## Genera
 
@@ -22,7 +22,7 @@ Suborder Cymothoida · 70 genera · 601 accepted species.
 | [[_Antrolana|Antrolana]] | 1 |
 | [[_Aphantolana|Aphantolana]] | 4 |
 | [[_Arubolana|Arubolana]] | 4 |
-| [[_Atarbolana|Atarbolana]] | 6 |
+| [[_Atarbolana|Atarbolana]] | 5 |
 | [[_Bahalana|Bahalana]] | 7 |
 | [[_Baharilana|Baharilana]] | 5 |
 | [[_Bathylana|Bathylana]] | 1 |
@@ -59,7 +59,7 @@ Suborder Cymothoida · 70 genera · 601 accepted species.
 | [[_Marocolana|Marocolana]] | 1 |
 | [[_Metacirolana|Metacirolana]] | 37 |
 | [[_Mexilana|Mexilana]] | 1 |
-| [[_Natatolana|Natatolana]] | 80 |
+| [[_Natatolana|Natatolana]] | 77 |
 | [[_Neocirolana|Neocirolana]] | 11 |
 | [[_Odysseylana|Odysseylana]] | 4 |
 | [[_Oncilorpheus|Oncilorpheus]] | 2 |
@@ -87,5 +87,5 @@ Suborder Cymothoida · 70 genera · 601 accepted species.
 | [[_Xylolana|Xylolana]] | 1 |
 | [[_Yucatalana|Yucatalana]] | 1 |
 | [[_Zulialana|Zulialana]] | 1 |
-| **TOTAL** | **601** |
+| **TOTAL** | **597** |
 

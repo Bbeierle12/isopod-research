@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadillo conglobator
 authorship: "Budde-Lund, 1904"
 genus: Armadillo
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 1671263
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1671263"
 worms_status: nomen nudum
 worms_accepted: Cubaris murina
+accepted_name: Cubaris murina
 tags: [isopod, oniscidea, armadillidae]
 ---
 
 # Armadillo conglobator Budde-Lund, 1904
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadillo conglobator** as *nomen nudum*. The accepted name is **[[Cubaris murina]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Armadillo|Armadillo]]
 

@@ -24,6 +24,7 @@ worms_aphia_id: 260248
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260248"
 worms_status: alternative representation
 worms_accepted: Enckella lucei lucei
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Enckella lucei lucei
 tags: [isopod, isopoda, asellota, protojaniridae]
 ---
 

@@ -32,6 +32,7 @@ worms_aphia_id: 259822
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259822"
 worms_status: alternative representation
 worms_accepted: Colchidoniscus kutaissianus kutaissianus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Colchidoniscus kutaissianus kutaissianus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

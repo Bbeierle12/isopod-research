@@ -3,7 +3,7 @@ type: index
 group: Janiridae
 suborder: Asellota
 genus_count: 22
-species_count: 183
+species_count: 168
 realm: marine, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, asellota, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, asellota, family-index]
 
 # Janiridae (Family)
 
-Suborder Asellota · 22 genera · 183 accepted species.
+Suborder Asellota · 22 genera · 168 accepted species.
 
 ## Genera
 
@@ -27,7 +27,7 @@ Suborder Asellota · 22 genera · 183 accepted species.
 | [[_Iais|Iais]] | 10 |
 | [[_Ianiropsis|Ianiropsis]] | 24 |
 | [[_Iathrippa|Iathrippa]] | 11 |
-| [[_Jaera|Jaera]] | 20 |
+| [[_Jaera|Jaera]] | 5 |
 | [[_Janaira|Janaira]] | 2 |
 | [[_Janira|Janira]] | 6 |
 | [[_Janiralata|Janiralata]] | 35 |
@@ -39,5 +39,5 @@ Suborder Asellota · 22 genera · 183 accepted species.
 | [[_Protocharon|Protocharon]] | 2 |
 | [[_Rostrobagatus|Rostrobagatus]] | 1 |
 | [[_Trogloianiropsis|Trogloianiropsis]] | 1 |
-| **TOTAL** | **183** |
+| **TOTAL** | **168** |
 

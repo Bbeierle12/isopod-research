@@ -23,6 +23,7 @@ status: stub
 worms_aphia_id: 256578
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256578"
 worms_status: taxon inquirendum
+worms_note: "WoRMS caveat: taxon inquirendum"
 tags: [isopod, isopoda, cymothoida, cirolanidae]
 ---
 

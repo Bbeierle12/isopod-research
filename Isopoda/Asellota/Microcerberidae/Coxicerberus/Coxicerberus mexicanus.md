@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Coxicerberus mexicanus
 authorship: "(Pennak, 1958) "
 genus: Coxicerberus
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257244
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257244"
 worms_status: superseded combination
 worms_accepted: Robustura mexicana
+accepted_name: Robustura mexicana
 tags: [isopod, isopoda, asellota, microcerberidae]
 ---
 
 # Coxicerberus mexicanus (Pennak, 1958) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Coxicerberus mexicanus** as *superseded combination*. The accepted name is **Robustura mexicana**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Microcerberidae Index|Microcerberidae]] › **Genus** [[_Coxicerberus|Coxicerberus]]
 

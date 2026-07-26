@@ -182,12 +182,13 @@ def load_hobby(cur, checkfail, dedup):
     return n
 
 
-FM_KEYS = re.compile(r"^(scientificName|authorship|suborder|family|realm|gbif_id|extinct|worms_aphia_id|worms_status|worms_accepted):[ \t]*(.*)$", re.M)
+FM_KEYS = re.compile(r"^(scientificName|authorship|suborder|family|realm|gbif_id|extinct"
+                     r"|worms_aphia_id|worms_status|worms_accepted|type|accepted_name):[ \t]*(.*)$", re.M)
 
 
 def load_taxonomy(cur, checkfail, dedup, families):
     n = 0
-    for note in V.ISOPODA.rglob("*.md"):
+    for note in sorted(V.ISOPODA.rglob("*.md")):
         if note.name.startswith("_"):
             continue
         parsed = V.parse_frontmatter(V.read_text(note))
@@ -203,14 +204,15 @@ def load_taxonomy(cur, checkfail, dedup, families):
                     genus=g, species_epithet=s, subspecies_epithet=ss,
                     authority_author=author, authority_year=year,
                     is_reassigned=1 if reassigned else 0,
-                    record_kind="taxon", status="accepted",
+                    record_kind="taxon",
+                    status=("synonym" if fm.get("type") == "synonym" else "accepted"),
                     suborder=fm.get("suborder"),
                     family=fam if fam in families else None,
                     extinct=1 if fm.get("extinct") == "true" else 0,
                     gbif_id=fm.get("gbif_id") or None,
                     worms_aphia_id=fm.get("worms_aphia_id") or None,
                     worms_status=fm.get("worms_status") or None,
-                    worms_accepted=fm.get("worms_accepted") or None)
+                    worms_accepted=fm.get("worms_accepted") or fm.get("accepted_name") or None)
     return n
 
 

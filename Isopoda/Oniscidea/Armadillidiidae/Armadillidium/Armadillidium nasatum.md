@@ -40,6 +40,7 @@ worms_aphia_id: 257751
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257751"
 worms_status: alternative representation
 worms_accepted: Armadillidium nasatum nasatum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Armadillidium nasatum nasatum
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

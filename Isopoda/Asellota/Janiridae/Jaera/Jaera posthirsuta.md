@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Jaera posthirsuta
 authorship: "Forsman, 1949"
 genus: Jaera
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 157893
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=157893"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) posthirsuta
+accepted_name: Jaera (Jaera) posthirsuta
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera posthirsuta Forsman, 1949
+
+> [!warning] Junior synonym
+> WoRMS treats **Jaera posthirsuta** as *alternative representation*. The accepted name is **Jaera (Jaera) posthirsuta**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

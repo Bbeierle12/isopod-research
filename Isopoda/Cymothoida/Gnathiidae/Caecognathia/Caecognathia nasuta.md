@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Caecognathia nasuta
 authorship: ""
 genus: Caecognathia
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257118
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257118"
 worms_status: superseded combination
 worms_accepted: Gnathia nasuta
+accepted_name: Gnathia nasuta
 tags: [isopod, isopoda, cymothoida, gnathiidae]
 ---
 
 # Caecognathia nasuta 
+
+> [!warning] Junior synonym
+> WoRMS treats **Caecognathia nasuta** as *superseded combination*. The accepted name is **[[Gnathia nasuta]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Gnathiidae Index|Gnathiidae]] › **Genus** [[_Caecognathia|Caecognathia]]
 

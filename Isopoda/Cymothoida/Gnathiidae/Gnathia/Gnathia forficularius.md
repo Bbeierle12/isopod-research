@@ -23,6 +23,7 @@ status: stub
 worms_aphia_id: 1658829
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1658829"
 worms_status: taxon inquirendum
+worms_note: "WoRMS caveat: taxon inquirendum"
 tags: [isopod, isopoda, cymothoida, gnathiidae]
 ---
 

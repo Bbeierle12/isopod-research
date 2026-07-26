@@ -32,6 +32,7 @@ worms_aphia_id: 260535
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260535"
 worms_status: alternative representation
 worms_accepted: Haplophthalmus mengii mengii
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Haplophthalmus mengii mengii
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

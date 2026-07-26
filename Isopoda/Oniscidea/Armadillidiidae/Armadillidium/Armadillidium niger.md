@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadillidium niger
 authorship: "Kortshagin, 1887"
 genus: Armadillidium
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 882822
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=882822"
 worms_status: nomen nudum
 worms_accepted: Armadillidium studiosorum
+accepted_name: Armadillidium studiosorum
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 
 # Armadillidium niger Kortshagin, 1887
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadillidium niger** as *nomen nudum*. The accepted name is **Armadillidium studiosorum**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Armadillidium|Armadillidium]]
 

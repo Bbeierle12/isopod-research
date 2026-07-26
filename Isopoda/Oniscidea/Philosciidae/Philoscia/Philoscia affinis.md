@@ -40,6 +40,7 @@ worms_aphia_id: 258225
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258225"
 worms_status: alternative representation
 worms_accepted: Philoscia affinis affinis
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Philoscia affinis affinis
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 

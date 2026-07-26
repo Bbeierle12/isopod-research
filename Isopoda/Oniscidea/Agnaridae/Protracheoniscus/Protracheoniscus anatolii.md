@@ -32,6 +32,7 @@ worms_aphia_id: 262635
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262635"
 worms_status: alternative representation
 worms_accepted: Protracheoniscus anatolii anatolii
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Protracheoniscus anatolii anatolii
 tags: [isopod, oniscidea, agnaridae]
 ---
 

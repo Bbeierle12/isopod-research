@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Cilicaea hamata
 authorship: "Stephenson, 1927"
 genus: Cilicaea
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 256935
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256935"
 worms_status: superseded combination
 worms_accepted: Cymodoce perversa
+accepted_name: Cymodoce perversa
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 
 # Cilicaea hamata Stephenson, 1927
+
+> [!warning] Junior synonym
+> WoRMS treats **Cilicaea hamata** as *superseded combination*. The accepted name is **[[Cymodoce perversa]]**.
 
 **Order** Isopoda › **Suborder** Sphaeromatidea › **Family** [[_Sphaeromatidae Index|Sphaeromatidae]] › **Genus** [[_Cilicaea|Cilicaea]]
 

@@ -17,8 +17,8 @@ Suborder Cymothoida · 7 genera · 87 accepted species.
 
 | Genus | Species |
 |---|---:|
-| [[_Alcirona|Alcirona]] | 9 |
-| [[_Argathona|Argathona]] | 17 |
+| [[_Alcirona|Alcirona]] | 8 |
+| [[_Argathona|Argathona]] | 18 |
 | [[_Corallana|Corallana]] | 16 |
 | [[_Corilana|Corilana]] | 1 |
 | [[_Excorallana|Excorallana]] | 27 |

@@ -32,6 +32,7 @@ worms_aphia_id: 262170
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262170"
 worms_status: alternative representation
 worms_accepted: Platyarthrus schoblii schoblii
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Platyarthrus schoblii schoblii
 tags: [isopod, oniscidea, platyarthridae]
 ---
 

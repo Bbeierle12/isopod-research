@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadillidium albigauni
 authorship: "Arcangeli, 1935"
 genus: Armadillidium
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 257627
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257627"
 worms_status: junior subjective synonym
 worms_accepted: Armadillidium gestroi
+accepted_name: Armadillidium gestroi
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 
 # Armadillidium albigauni Arcangeli, 1935
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadillidium albigauni** as *junior subjective synonym*. The accepted name is **[[Armadillidium gestroi]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Armadillidium|Armadillidium]]
 

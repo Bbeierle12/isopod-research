@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Nerocila pulicatensis
 authorship: "Jayadev Babu & Sanjeeva Raj, 1980"
 genus: Nerocila
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 256864
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256864"
 worms_status: junior subjective synonym
 worms_accepted: Nerocila serra
+accepted_name: Nerocila serra
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 
 # Nerocila pulicatensis Jayadev Babu & Sanjeeva Raj, 1980
+
+> [!warning] Junior synonym
+> WoRMS treats **Nerocila pulicatensis** as *junior subjective synonym*. The accepted name is **[[Nerocila serra]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Cymothoidae Index|Cymothoidae]] › **Genus** [[_Nerocila|Nerocila]]
 

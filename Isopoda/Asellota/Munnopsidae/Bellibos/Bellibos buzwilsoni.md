@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Bellibos buzwilsoni
 authorship: "Haugsness & Hessler, 1979"
 genus: Bellibos
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118603
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118603"
 worms_status: alternative representation
 worms_accepted: Bellibos (Bellibos) buzwilsoni
+accepted_name: Bellibos (Bellibos) buzwilsoni
 tags: [isopod, isopoda, asellota, munnopsidae]
 ---
 
 # Bellibos buzwilsoni Haugsness & Hessler, 1979
+
+> [!warning] Junior synonym
+> WoRMS treats **Bellibos buzwilsoni** as *alternative representation*. The accepted name is **Bellibos (Bellibos) buzwilsoni**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Munnopsidae Index|Munnopsidae]] › **Genus** [[_Bellibos|Bellibos]]
 

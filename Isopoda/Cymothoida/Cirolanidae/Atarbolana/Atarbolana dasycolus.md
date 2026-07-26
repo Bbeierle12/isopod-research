@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Atarbolana dasycolus
 authorship: "Yasmeen, 2004"
 genus: Atarbolana
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 259140
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259140"
 worms_status: junior subjective synonym
 worms_accepted: Atarbolana setosa
+accepted_name: Atarbolana setosa
 tags: [isopod, isopoda, cymothoida, cirolanidae]
 ---
 
 # Atarbolana dasycolus Yasmeen, 2004
+
+> [!warning] Junior synonym
+> WoRMS treats **Atarbolana dasycolus** as *junior subjective synonym*. The accepted name is **[[Atarbolana setosa]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Cirolanidae Index|Cirolanidae]] › **Genus** [[_Atarbolana|Atarbolana]]
 

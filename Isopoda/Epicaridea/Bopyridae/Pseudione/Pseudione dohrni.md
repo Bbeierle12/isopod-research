@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Pseudione dohrni
 authorship: "Bonnier, 1900"
 genus: Pseudione
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118239
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118239"
 worms_status: junior subjective synonym
 worms_accepted: Pseudione callianassae
+accepted_name: Pseudione callianassae
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 
 # Pseudione dohrni Bonnier, 1900
+
+> [!warning] Junior synonym
+> WoRMS treats **Pseudione dohrni** as *junior subjective synonym*. The accepted name is **[[Pseudione callianassae]]**.
 
 **Order** Isopoda › **Suborder** Epicaridea › **Family** [[_Bopyridae Index|Bopyridae]] › **Genus** [[_Pseudione|Pseudione]]
 

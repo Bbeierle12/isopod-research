@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadillidium frontexcavatum
 authorship: "Verhoeff, 1931"
 genus: Armadillidium
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 882810
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=882810"
 worms_status: junior subjective synonym
 worms_accepted: Armadillidium furcatum
+accepted_name: Armadillidium furcatum
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 
 # Armadillidium frontexcavatum Verhoeff, 1931
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadillidium frontexcavatum** as *junior subjective synonym*. The accepted name is **[[Armadillidium furcatum]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Armadillidium|Armadillidium]]
 

@@ -32,6 +32,7 @@ worms_aphia_id: 257604
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257604"
 worms_status: alternative representation
 worms_accepted: Tylos ponticus ponticus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Tylos ponticus ponticus
 tags: [isopod, oniscidea, tylidae]
 ---
 

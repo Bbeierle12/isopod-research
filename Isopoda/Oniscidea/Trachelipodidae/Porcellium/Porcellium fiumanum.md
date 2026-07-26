@@ -32,6 +32,7 @@ worms_aphia_id: 262570
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262570"
 worms_status: alternative representation
 worms_accepted: Porcellium fiumanum fiumanum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Porcellium fiumanum fiumanum
 tags: [isopod, oniscidea, trachelipodidae]
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellio antiochius
 authorship: "Verhoeff, 1949"
 genus: Porcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 262219
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262219"
 worms_status: superseded combination
 worms_accepted: Proporcellio antiochius
+accepted_name: Proporcellio antiochius
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellio antiochius Verhoeff, 1949
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellio antiochius** as *superseded combination*. The accepted name is **[[Proporcellio antiochius]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
 

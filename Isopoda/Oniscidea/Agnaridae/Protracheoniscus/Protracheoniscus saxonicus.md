@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Protracheoniscus saxonicus
 authorship: "Verhoeff, 1927"
 genus: Protracheoniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 262686
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262686"
 worms_status: junior subjective synonym
 worms_accepted: Protracheoniscus politus
+accepted_name: Protracheoniscus politus
 tags: [isopod, oniscidea, agnaridae]
 ---
 
 # Protracheoniscus saxonicus Verhoeff, 1927
+
+> [!warning] Junior synonym
+> WoRMS treats **Protracheoniscus saxonicus** as *junior subjective synonym*. The accepted name is **[[Protracheoniscus politus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Agnaridae Index|Agnaridae]] > **Genus** [[_Protracheoniscus|Protracheoniscus]]
 

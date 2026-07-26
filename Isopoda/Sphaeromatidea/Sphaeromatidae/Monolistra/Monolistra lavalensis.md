@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Monolistra lavalensis
 authorship: "Stoch, 1984"
 genus: Monolistra
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118965
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118965"
 worms_status: alternative representation
 worms_accepted: Monolistra (Typhlosphaeroma) lavalensis
+accepted_name: Monolistra (Typhlosphaeroma) lavalensis
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 
 # Monolistra lavalensis Stoch, 1984
+
+> [!warning] Junior synonym
+> WoRMS treats **Monolistra lavalensis** as *alternative representation*. The accepted name is **Monolistra (Typhlosphaeroma) lavalensis**.
 
 **Order** Isopoda › **Suborder** Sphaeromatidea › **Family** [[_Sphaeromatidae Index|Sphaeromatidae]] › **Genus** [[_Monolistra|Monolistra]]
 

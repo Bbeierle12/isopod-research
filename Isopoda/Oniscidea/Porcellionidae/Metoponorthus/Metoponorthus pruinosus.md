@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Metoponorthus pruinosus
 authorship: "(Brandt, 1833)"
 genus: Metoponorthus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 294411
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=294411"
 worms_status: superseded combination
 worms_accepted: Porcellionides pruinosus
+accepted_name: Porcellionides pruinosus
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Metoponorthus pruinosus (Brandt, 1833)
+
+> [!warning] Junior synonym
+> WoRMS treats **Metoponorthus pruinosus** as *superseded combination*. The accepted name is **[[Porcellionides pruinosus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Metoponorthus|Metoponorthus]]
 

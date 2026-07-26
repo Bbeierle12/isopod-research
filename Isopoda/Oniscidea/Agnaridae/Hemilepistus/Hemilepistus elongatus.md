@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Hemilepistus elongatus
 authorship: "Budde-Lund, 1885"
 genus: Hemilepistus
@@ -21,7 +21,7 @@ difficulty: advanced
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
 conglobation: NONE
 bioactive_use: "Social desert specialist; challenging, not a cleanup crew"
-status: hobby
+status: synonym
 conglobation_type: Non-roller
 size_class: Large
 biome: Desert
@@ -40,10 +40,14 @@ worms_aphia_id: 1353279
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1353279"
 worms_status: superseded combination
 worms_accepted: Hemilepistus (Desertellio) elongatus
+accepted_name: Hemilepistus (Desertellio) elongatus
 tags: [isopod, oniscidea, agnaridae, hobby]
 ---
 
 # Hemilepistus elongatus Budde-Lund, 1885
+
+> [!warning] Junior synonym
+> WoRMS treats **Hemilepistus elongatus** as *superseded combination*. The accepted name is **Hemilepistus (Desertellio) elongatus**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Agnaridae Index|Agnaridae]] > **Genus** [[_Hemilepistus|Hemilepistus]]
 

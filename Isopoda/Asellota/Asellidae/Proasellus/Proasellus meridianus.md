@@ -24,6 +24,7 @@ worms_aphia_id: 258561
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258561"
 worms_status: alternative representation
 worms_accepted: Proasellus meridianus meridianus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Proasellus meridianus meridianus
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

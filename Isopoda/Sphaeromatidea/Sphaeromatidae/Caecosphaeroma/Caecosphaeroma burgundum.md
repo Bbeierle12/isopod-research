@@ -24,6 +24,7 @@ worms_aphia_id: 1669572
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1669572"
 worms_status: unaccepted
 worms_accepted: Caecosphaeroma (Vireia) burgundum burgundum
+worms_note: genus placement unresolved in WoRMS (Caecosphaeroma (Vireia) burgundum burgundum)
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 

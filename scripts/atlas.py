@@ -304,13 +304,9 @@ def run():
         })
 
     # ---- Pass 2: scaffold research fields onto EVERY Isopoda species note ----
-    tax_species = []   # (name, family, path)
-    for dirpath, _, files in os.walk(ISOPODA):
-        for fn in files:
-            if fn.endswith(".md") and not fn.startswith("_"):
-                name = fn[:-3]
-                family = os.path.basename(os.path.dirname(os.path.dirname(os.path.join(dirpath, fn))))
-                tax_species.append((name, family, os.path.join(dirpath, fn)))
+    tax_species = []   # (name, family, path) — accepted species only
+    for note in V.species_note_paths():
+        tax_species.append((note.stem, note.parent.parent.name, str(note)))
 
     scaffolded = 0
     rrows = []          # research rows spanning the taxonomy

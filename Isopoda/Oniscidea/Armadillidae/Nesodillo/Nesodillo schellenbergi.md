@@ -32,6 +32,7 @@ worms_aphia_id: 261507
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261507"
 worms_status: alternative representation
 worms_accepted: Nesodillo schellenbergi schellenbergi
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Nesodillo schellenbergi schellenbergi
 tags: [isopod, oniscidea, armadillidae]
 ---
 

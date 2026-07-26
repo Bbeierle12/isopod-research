@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Lipomera curvintestinata
 authorship: "Wilson, 1989"
 genus: Lipomera
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 1776116
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1776116"
 worms_status: alternative representation
 worms_accepted: Lipomera (Tetracope) curvintestinata
+accepted_name: Lipomera (Tetracope) curvintestinata
 tags: [isopod, isopoda, asellota, munnopsidae]
 ---
 
 # Lipomera curvintestinata Wilson, 1989
+
+> [!warning] Junior synonym
+> WoRMS treats **Lipomera curvintestinata** as *alternative representation*. The accepted name is **Lipomera (Tetracope) curvintestinata**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Munnopsidae Index|Munnopsidae]] › **Genus** [[_Lipomera|Lipomera]]
 

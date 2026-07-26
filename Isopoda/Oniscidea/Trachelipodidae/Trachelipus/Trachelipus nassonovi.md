@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trachelipus nassonovi
 authorship: "(Korčagin, 1888)"
 genus: Trachelipus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 887202
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=887202"
 worms_status: nomen nudum
 worms_accepted: Trachelipus nassanovi
+accepted_name: Trachelipus nassanovi
 tags: [isopod, oniscidea, trachelipodidae]
 ---
 
 # Trachelipus nassonovi (Korčagin, 1888)
+
+> [!warning] Junior synonym
+> WoRMS treats **Trachelipus nassonovi** as *nomen nudum*. The accepted name is **Trachelipus nassanovi**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Trachelipus|Trachelipus]]
 

@@ -32,6 +32,7 @@ worms_aphia_id: 261138
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261138"
 worms_status: alternative representation
 worms_accepted: Merulana translucida var. translucida
+worms_note: genus placement unresolved in WoRMS (Merulana translucida var. translucida)
 tags: [isopod, oniscidea, armadillidae]
 ---
 

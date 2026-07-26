@@ -3,7 +3,7 @@ type: index
 group: Serolidae
 suborder: Sphaeromatidea
 genus_count: 23
-species_count: 114
+species_count: 113
 realm: marine
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, sphaeromatidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, sphaeromatidea, family-index]
 
 # Serolidae (Family)
 
-Suborder Sphaeromatidea · 23 genera · 114 accepted species.
+Suborder Sphaeromatidea · 23 genera · 113 accepted species.
 
 ## Genera
 
@@ -37,8 +37,8 @@ Suborder Sphaeromatidea · 23 genera · 114 accepted species.
 | [[_Septemserolis|Septemserolis]] | 3 |
 | [[_Serolella|Serolella]] | 3 |
 | [[_Serolina|Serolina]] | 12 |
-| [[_Serolis|Serolis]] | 13 |
+| [[_Serolis|Serolis]] | 12 |
 | [[_Spinoserolis|Spinoserolis]] | 2 |
 | [[_Thysanoserolis|Thysanoserolis]] | 3 |
-| **TOTAL** | **114** |
+| **TOTAL** | **113** |
 

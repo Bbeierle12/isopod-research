@@ -24,6 +24,7 @@ worms_aphia_id: 118806
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118806"
 worms_status: misspelling - incorrect subsequent spelling
 worms_accepted: Stenetriidae incertae sedis caicosense
+worms_note: genus placement unresolved in WoRMS (Stenetriidae incertae sedis caicosense)
 tags: [isopod, isopoda, asellota, stenetriidae]
 ---
 

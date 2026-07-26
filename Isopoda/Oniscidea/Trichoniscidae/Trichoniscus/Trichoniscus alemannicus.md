@@ -32,6 +32,7 @@ worms_aphia_id: 263658
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263658"
 worms_status: alternative representation
 worms_accepted: Trichoniscus alemannicus alemannicus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Trichoniscus alemannicus alemannicus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

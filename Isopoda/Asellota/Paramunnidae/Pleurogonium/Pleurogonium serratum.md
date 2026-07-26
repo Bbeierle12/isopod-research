@@ -24,6 +24,7 @@ worms_aphia_id: 256348
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256348"
 worms_status: superseded combination
 worms_accepted: Paramunnidae incertae sedis serratum
+worms_note: genus placement unresolved in WoRMS (Paramunnidae incertae sedis serratum)
 tags: [isopod, isopoda, asellota, paramunnidae]
 ---
 

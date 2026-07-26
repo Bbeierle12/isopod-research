@@ -32,6 +32,7 @@ worms_aphia_id: 260929
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260929"
 worms_status: alternative representation
 worms_accepted: Lepidoniscus pruinosus pruinosus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Lepidoniscus pruinosus pruinosus
 tags: [isopod, oniscidea, philosciidae]
 ---
 

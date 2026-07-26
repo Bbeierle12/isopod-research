@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Cymodoce granulata
 authorship: "Miers, 1876"
 genus: Cymodoce
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 256961
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256961"
 worms_status: junior subjective synonym
 worms_accepted: Cerceis trispinosa
+accepted_name: Cerceis trispinosa
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 
 # Cymodoce granulata Miers, 1876
+
+> [!warning] Junior synonym
+> WoRMS treats **Cymodoce granulata** as *junior subjective synonym*. The accepted name is **[[Cerceis trispinosa]]**.
 
 **Order** Isopoda › **Suborder** Sphaeromatidea › **Family** [[_Sphaeromatidae Index|Sphaeromatidae]] › **Genus** [[_Cymodoce|Cymodoce]]
 

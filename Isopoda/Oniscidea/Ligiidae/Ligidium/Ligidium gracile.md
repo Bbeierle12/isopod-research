@@ -32,6 +32,7 @@ worms_aphia_id: 260984
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260984"
 worms_status: alternative representation
 worms_accepted: Ligidium gracile gracile
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Ligidium gracile gracile
 tags: [isopod, oniscidea, ligiidae]
 ---
 

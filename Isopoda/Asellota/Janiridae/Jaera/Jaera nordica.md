@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Jaera nordica
 authorship: "Lemercier, 1958"
 genus: Jaera
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118722
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118722"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) nordica
+accepted_name: Jaera (Jaera) nordica
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera nordica Lemercier, 1958
+
+> [!warning] Junior synonym
+> WoRMS treats **Jaera nordica** as *alternative representation*. The accepted name is **Jaera (Jaera) nordica**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

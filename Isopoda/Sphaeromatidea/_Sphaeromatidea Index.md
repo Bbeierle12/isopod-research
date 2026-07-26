@@ -2,8 +2,8 @@
 type: index
 group: Sphaeromatidea
 family_count: 7
-genus_count: 141
-species_count: 874
+genus_count: 142
+species_count: 863
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, sphaeromatidea, master-index]
@@ -11,7 +11,7 @@ tags: [isopod, sphaeromatidea, master-index]
 
 # Sphaeromatidea (Suborder)
 
-This vault section covers **7 families, 141 genera, and 874 accepted species**. Realm: marine, brackish, freshwater
+This vault section covers **7 families, 142 genera, and 863 accepted species**. Realm: marine, brackish, freshwater
 
 ## Families
 
@@ -21,8 +21,8 @@ This vault section covers **7 families, 141 genera, and 874 accepted species**. 
 | [[_Basserolidae Index\|Basserolidae]] | 1 | 2 |
 | [[_Bathynataliidae Index\|Bathynataliidae]] | 3 | 4 |
 | [[_Plakarthriidae Index\|Plakarthriidae]] | 1 | 3 |
-| [[_Serolidae Index\|Serolidae]] | 23 | 114 |
-| [[_Sphaeromatidae Index\|Sphaeromatidae]] | 110 | 724 |
+| [[_Serolidae Index\|Serolidae]] | 23 | 113 |
+| [[_Sphaeromatidae Index\|Sphaeromatidae]] | 111 | 714 |
 | [[_Tecticipitidae Index\|Tecticipitidae]] | 1 | 12 |
-| **TOTAL** | **141** | **874** |
+| **TOTAL** | **142** | **863** |
 

@@ -24,6 +24,7 @@ worms_aphia_id: 261725
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261725"
 worms_status: superseded combination
 worms_accepted: Antarcturidae incertae sedis
+worms_note: genus placement unresolved in WoRMS (Antarcturidae incertae sedis)
 tags: [isopod, isopoda, valvifera, antarcturidae]
 ---
 

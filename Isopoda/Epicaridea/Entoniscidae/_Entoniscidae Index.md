@@ -3,7 +3,7 @@ type: index
 group: Entoniscidae
 suborder: Epicaridea
 genus_count: 18
-species_count: 43
+species_count: 42
 realm: marine, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, epicaridea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, epicaridea, family-index]
 
 # Entoniscidae (Family)
 
-Suborder Epicaridea · 18 genera · 43 accepted species.
+Suborder Epicaridea · 18 genera · 42 accepted species.
 
 ## Genera
 
@@ -22,7 +22,7 @@ Suborder Epicaridea · 18 genera · 43 accepted species.
 | [[_Cancrion|Cancrion]] | 9 |
 | [[_Cryptocancrion|Cryptocancrion]] | 1 |
 | [[_Diogenion|Diogenion]] | 1 |
-| [[_Entione|Entione]] | 2 |
+| [[_Entione|Entione]] | 1 |
 | [[_Entionella|Entionella]] | 4 |
 | [[_Entoniscoides|Entoniscoides]] | 1 |
 | [[_Entoniscus|Entoniscus]] | 4 |
@@ -35,5 +35,5 @@ Suborder Epicaridea · 18 genera · 43 accepted species.
 | [[_Synalpheion|Synalpheion]] | 1 |
 | [[_Tiarinion|Tiarinion]] | 2 |
 | [[_Xanthion|Xanthion]] | 1 |
-| **TOTAL** | **43** |
+| **TOTAL** | **42** |
 

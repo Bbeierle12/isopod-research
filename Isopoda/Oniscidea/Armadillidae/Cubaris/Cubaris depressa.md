@@ -31,6 +31,7 @@ realm: terrestrial
 worms_aphia_id: 259978
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259978"
 worms_status: taxon inquirendum
+worms_note: "WoRMS caveat: taxon inquirendum"
 tags: [isopod, oniscidea, armadillidae]
 ---
 

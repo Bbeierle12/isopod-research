@@ -32,6 +32,7 @@ worms_aphia_id: 262395
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262395"
 worms_status: alternative representation
 worms_accepted: Porcellio orarum orarum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Porcellio orarum orarum
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

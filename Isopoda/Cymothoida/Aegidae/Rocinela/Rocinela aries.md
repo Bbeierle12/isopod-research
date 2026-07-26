@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Rocinela aries
 authorship: "Schioedte & Meinert, 1879"
 genus: Rocinela
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 1743935
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1743935"
 worms_status: junior subjective synonym
 worms_accepted: Rocinela signata
+accepted_name: Rocinela signata
 tags: [isopod, isopoda, cymothoida, aegidae]
 ---
 
 # Rocinela aries Schioedte & Meinert
+
+> [!warning] Junior synonym
+> WoRMS treats **Rocinela aries** as *junior subjective synonym*. The accepted name is **[[Rocinela signata]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Aegidae Index|Aegidae]] › **Genus** [[_Rocinela|Rocinela]]
 

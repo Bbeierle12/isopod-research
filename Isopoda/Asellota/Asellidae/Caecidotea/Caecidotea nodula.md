@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Caecidotea nodula
 authorship: "(Williams, 1970) "
 genus: Caecidotea
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 259569
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259569"
 worms_status: superseded combination
 worms_accepted: Conasellus nodulus
+accepted_name: Conasellus nodulus
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 
 # Caecidotea nodula (Williams, 1970) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Caecidotea nodula** as *superseded combination*. The accepted name is **Conasellus nodulus**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Asellidae Index|Asellidae]] › **Genus** [[_Caecidotea|Caecidotea]]
 

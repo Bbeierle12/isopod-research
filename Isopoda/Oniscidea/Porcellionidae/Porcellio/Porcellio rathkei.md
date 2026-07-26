@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellio rathkei
 authorship: "Brandt, 1833"
 genus: Porcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 1670610
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1670610"
 worms_status: misspelling - incorrect subsequent spelling
 worms_accepted: Trachelipus rathkii
+accepted_name: Trachelipus rathkii
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellio rathkei Brandt, 1833
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellio rathkei** as *misspelling - incorrect subsequent spelling*. The accepted name is **[[Trachelipus rathkii]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Oniscus convexus
 authorship: "C.Koch & Behrendt, 1854"
 genus: Oniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 884525
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=884525"
 worms_status: superseded combination
 worms_accepted: Cylisticus convexus
+accepted_name: Cylisticus convexus
 tags: [isopod, oniscidea, oniscidae]
 ---
 
 # Oniscus convexus C.Koch & Behrendt, 1854
+
+> [!warning] Junior synonym
+> WoRMS treats **Oniscus convexus** as *superseded combination*. The accepted name is **[[Cylisticus convexus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Oniscidae Index|Oniscidae]] > **Genus** [[_Oniscus|Oniscus]]
 

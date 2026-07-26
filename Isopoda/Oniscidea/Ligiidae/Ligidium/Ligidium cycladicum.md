@@ -32,6 +32,7 @@ worms_aphia_id: 260974
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260974"
 worms_status: alternative representation
 worms_accepted: Ligidium cycladicum cycladicum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Ligidium cycladicum cycladicum
 tags: [isopod, oniscidea, ligiidae]
 ---
 

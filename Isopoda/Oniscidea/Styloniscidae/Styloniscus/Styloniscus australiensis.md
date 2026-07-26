@@ -32,6 +32,7 @@ worms_aphia_id: 263319
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263319"
 worms_status: alternative representation
 worms_accepted: Styloniscus australiensis australiensis
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Styloniscus australiensis australiensis
 tags: [isopod, oniscidea, styloniscidae]
 ---
 

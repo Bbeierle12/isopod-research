@@ -24,6 +24,7 @@ worms_aphia_id: 258531
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258531"
 worms_status: alternative representation
 worms_accepted: Proasellus gjorgjevici gjorgjevici
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Proasellus gjorgjevici gjorgjevici
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Troglarmadillo cavernae
 authorship: "Arcangeli, 1957"
 genus: Troglarmadillo
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 263870
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263870"
 worms_status: superseded combination
 worms_accepted: Armadillo (Troglarmadillo) cavernae
+accepted_name: Armadillo (Troglarmadillo) cavernae
 tags: [isopod, oniscidea, armadillidae]
 ---
 
 # Troglarmadillo cavernae Arcangeli, 1957
+
+> [!warning] Junior synonym
+> WoRMS treats **Troglarmadillo cavernae** as *superseded combination*. The accepted name is **Armadillo (Troglarmadillo) cavernae**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Troglarmadillo|Troglarmadillo]]
 

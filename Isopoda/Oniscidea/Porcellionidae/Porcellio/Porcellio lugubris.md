@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellio lugubris
 authorship: ""
 genus: Porcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 262359
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262359"
 worms_status: unaccepted
 worms_accepted: Porcellio monticola
+accepted_name: Porcellio monticola
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellio lugubris 
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellio lugubris** as *unaccepted*. The accepted name is **[[Porcellio monticola]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
 

@@ -105,11 +105,50 @@ pusillus* triploid/diploid system is Fussey (1984).
 `scripts/build_db.py` loads `reference_source`, `ecology_claim` and
 `ecology_claim_source`, so citation provenance is enforced by FOREIGN KEY.
 
+## Resolving the 577 WoRMS-unaccepted names
+
+`scripts/resolve_synonyms.py` acts on the crossmatch. "Resolving" is not one
+operation — a blanket rename would have introduced errors — so the 577 are
+classified and treated per class:
+
+| action | n | what happens |
+|---|---:|---|
+| **RENAME** | 105 | same animal, new name (new genus combination or corrected misspelling). Note moved to the accepted binomial and into the accepted genus/family directory via `git mv`; old name kept in `former_name` and as an Obsidian `aliases` entry so existing links still resolve. |
+| **MERGED** | 19 | rename target already existed → converted to a synonym record instead of duplicating a species. |
+| **SYNONYM** | 78 | junior synonym of a *different* taxon → `type: synonym`, `accepted_name`, excluded from species counts. |
+| **DEMOTED** | 45 | now a subspecies of another species → synonym record (the vault does not carry subspecies as notes). |
+| **SUBSP_REPR** | 100 | WoRMS also carries the *nominotypical* subspecies (`Alpioniscus absoloni` → `… absoloni absoloni`). The species name is valid — **renaming these would be wrong** — so annotated only. |
+| **UNPLACEABLE** | 28 | accepted placement is `Family incertae sedis <epithet>`; the genus is dissolved and there is no binomial to move to. Annotated. |
+| **FLAG_ONLY** | 202 | *taxon inquirendum* / *uncertain* / *nomen nudum* with no alternative name. Nothing to move. |
+
+Result — the accepted-species tree is now **11,293 notes** (142 synonym records
+are documented in place but no longer counted), and WoRMS acceptance rose from
+**90.46% → 92.48%**:
+
+| status | n | % |
+|---|---:|---:|
+| accepted | 10,444 | 92.48% |
+| no record (fossils) | 514 | 4.55% |
+| taxon inquirendum / uncertain / nomen nudum / dubium | 206 | 1.82% |
+| alternative representation (valid species) | 101 | 0.89% |
+| unplaceable genus | 28 | 0.25% |
+
+Every one of the 335 residual cases is one that **cannot** be mechanically
+resolved: 206 are names of doubtful identity with no alternative, 101 are valid
+species whose only "issue" is that WoRMS also lists their nominotypical
+subspecies, and 28 have no accepted binomial to move to. All are annotated with
+`worms_status` and a `worms_note` explaining why.
+
+Counting is consistent end to end: `isopoda_index.py`, `atlas.py`,
+`worms_match.py` and `build_db.py` all exclude `type: synonym` notes from
+accepted-species counts (via `_vault.species_note_paths()`), while `build_db.py`
+still loads them as rows with `status='synonym'` and their accepted name, so the
+database records every name and its verdict.
+
 ## Remaining known limitations
 
-- The 577 WoRMS-unaccepted species are **recorded, not resolved** — each note
-  states its status and accepted name, but the notes have not been renamed or
-  merged. That is a taxonomic-curation decision, not a mechanical one.
 - 21 authorships still lack a publication year (absent from both GBIF and WoRMS).
 - `Merulanella *` and `Cubaris *` remain genus-wildcard ecology rows; as the
   audit noted, hobby "Cubaris" is not a monophyletic grouping.
+- The 514 fossil taxa have no WoRMS record by design (WoRMS registers extant
+  taxa); they are flagged `extinct` and excluded from the ecology axes.

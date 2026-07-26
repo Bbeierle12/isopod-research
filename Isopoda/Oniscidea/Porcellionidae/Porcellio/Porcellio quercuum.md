@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellio quercuum
 authorship: "Verhoeff, 1952"
 genus: Porcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 886242
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=886242"
 worms_status: junior subjective synonym
 worms_accepted: Trachelipus ratzeburgii
+accepted_name: Trachelipus ratzeburgii
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellio quercuum Verhoeff, 1952
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellio quercuum** as *junior subjective synonym*. The accepted name is **[[Trachelipus ratzeburgii]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
 

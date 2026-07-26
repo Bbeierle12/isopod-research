@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Coxicerberus magnus
 authorship: "(Albuquerque, 1978) "
 genus: Coxicerberus
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257243
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257243"
 worms_status: superseded combination
 worms_accepted: Robustura magna
+accepted_name: Robustura magna
 tags: [isopod, isopoda, asellota, microcerberidae]
 ---
 
 # Coxicerberus magnus (Albuquerque, 1978) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Coxicerberus magnus** as *superseded combination*. The accepted name is **Robustura magna**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Microcerberidae Index|Microcerberidae]] › **Genus** [[_Coxicerberus|Coxicerberus]]
 

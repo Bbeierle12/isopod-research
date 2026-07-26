@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trichoniscus stebbingi
 authorship: "Graeve, 1914"
 genus: Trichoniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 263767
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263767"
 worms_status: superseded combination
 worms_accepted: Cordioniscus stebbingi
+accepted_name: Cordioniscus stebbingi
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Trichoniscus stebbingi Graeve, 1914
+
+> [!warning] Junior synonym
+> WoRMS treats **Trichoniscus stebbingi** as *superseded combination*. The accepted name is **[[Cordioniscus stebbingi]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Trichoniscus|Trichoniscus]]
 

@@ -17,11 +17,11 @@ Suborder Oniscidea · 6 genera · 13 accepted species.
 
 | Genus | Species |
 |---|---:|
-| [[_Brasiloniscus|Brasiloniscus]] | 3 |
+| [[_Brasiloniscus|Brasiloniscus]] | 4 |
 | [[_Iansaoniscus|Iansaoniscus]] | 4 |
 | [[_Lorentoniscus|Lorentoniscus]] | 1 |
 | [[_Loretoniscus|Loretoniscus]] | 1 |
 | [[_Oxossioniscus|Oxossioniscus]] | 2 |
-| [[_Pudeoniscus|Pudeoniscus]] | 2 |
+| [[_Pudeoniscus|Pudeoniscus]] | 1 |
 | **TOTAL** | **13** |
 

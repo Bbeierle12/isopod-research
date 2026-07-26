@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Ligia novizealandiae
 authorship: "(Dana, 1853)"
 genus: Ligia
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 257556
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257556"
 worms_status: superseded combination
 worms_accepted: Ligia (Nesoligia) novizealandiae
+accepted_name: Ligia (Nesoligia) novizealandiae
 tags: [isopod, oniscidea, ligiidae]
 ---
 
 # Ligia novizealandiae (Dana, 1853)
+
+> [!warning] Junior synonym
+> WoRMS treats **Ligia novizealandiae** as *superseded combination*. The accepted name is **Ligia (Nesoligia) novizealandiae**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Ligiidae Index|Ligiidae]] > **Genus** [[_Ligia|Ligia]]
 

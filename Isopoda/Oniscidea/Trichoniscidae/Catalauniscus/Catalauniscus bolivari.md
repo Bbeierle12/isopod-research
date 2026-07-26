@@ -32,6 +32,7 @@ worms_aphia_id: 259676
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259676"
 worms_status: alternative representation
 worms_accepted: Catalauniscus bolivari bolivari
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Catalauniscus bolivari bolivari
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

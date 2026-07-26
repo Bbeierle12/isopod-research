@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trichoniscus albidus
 authorship: "Budde-Lund, 1880"
 genus: Trichoniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 863092
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=863092"
 worms_status: nomen nudum
 worms_accepted: Trichoniscoides albidus albidus
+accepted_name: Trichoniscoides albidus albidus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Trichoniscus albidus Budde-Lund, 1880
+
+> [!warning] Junior synonym
+> WoRMS treats **Trichoniscus albidus** as *nomen nudum*. The accepted name is **Trichoniscoides albidus albidus**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Trichoniscus|Trichoniscus]]
 

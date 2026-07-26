@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Caecidotea incurva
 authorship: "Steeves & Holsinger, 1968"
 genus: Caecidotea
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 259556
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259556"
 worms_status: superseded combination
 worms_accepted: Pseudobaicalasellus incurvus
+accepted_name: Pseudobaicalasellus incurvus
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 
 # Caecidotea incurva Steeves & Holsinger, 1968
+
+> [!warning] Junior synonym
+> WoRMS treats **Caecidotea incurva** as *superseded combination*. The accepted name is **Pseudobaicalasellus incurvus**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Asellidae Index|Asellidae]] › **Genus** [[_Caecidotea|Caecidotea]]
 

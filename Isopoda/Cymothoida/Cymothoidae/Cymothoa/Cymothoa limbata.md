@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Cymothoa limbata
 authorship: "Schioedte & Meinert, 1884"
 genus: Cymothoa
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 256764
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256764"
 worms_status: junior subjective synonym
 worms_accepted: Cymothoa eremita
+accepted_name: Cymothoa eremita
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 
 # Cymothoa limbata Schioedte & Meinert, 1884
+
+> [!warning] Junior synonym
+> WoRMS treats **Cymothoa limbata** as *junior subjective synonym*. The accepted name is **[[Cymothoa eremita]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Cymothoidae Index|Cymothoidae]] › **Genus** [[_Cymothoa|Cymothoa]]
 

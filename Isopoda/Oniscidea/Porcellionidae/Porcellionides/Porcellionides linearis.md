@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellionides linearis
 authorship: "(Budde-Lund, 1885)"
 genus: Porcellionides
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 262526
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262526"
 worms_status: superseded combination
 worms_accepted: Desertoniscus linearus
+accepted_name: Desertoniscus linearus
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellionides linearis (Budde-Lund, 1885)
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellionides linearis** as *superseded combination*. The accepted name is **Desertoniscus linearus**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellionides|Porcellionides]]
 

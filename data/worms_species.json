@@ -4148,6 +4148,18 @@
   "authority": "Paulian de Félice, 1950",
   "status": "accepted"
  },
+ "Anneckella ficki": {
+  "accepted": "Anneckella ficki",
+  "aphia_id": 1714604,
+  "authority": "Chappuis & Delamare, 1957",
+  "status": "accepted"
+ },
+ "Anneckella perbrincki": {
+  "accepted": "Anneckella perbrincki",
+  "aphia_id": 1716552,
+  "authority": "(Barnard, 1955)",
+  "status": "accepted"
+ },
  "Anneckella srilankae": {
   "accepted": "Anneckella srilankae srilankae",
   "aphia_id": 258913,
@@ -5168,6 +5180,12 @@
   "authority": "Stock, 1960",
   "status": "misspelling - incorrect original spelling"
  },
+ "Apocepon digitatus": {
+  "accepted": "Apocepon digitatus",
+  "aphia_id": 1767453,
+  "authority": "Stock, 1960",
+  "status": "accepted"
+ },
  "Apocepon leucosiae": {
   "accepted": "Apocepon leucosiae",
   "aphia_id": 258981,
@@ -5762,6 +5780,12 @@
   "authority": "Kussakin, 1982",
   "status": "accepted"
  },
+ "Ardentiella bicolorata": {
+  "accepted": "Ardentiella bicolorata",
+  "aphia_id": 1804751,
+  "authority": "(Budde-Lund, 1895)",
+  "status": "accepted"
+ },
  "Argathona confine": {
   "accepted": "Argathona confine",
   "aphia_id": 259027,
@@ -5772,6 +5796,12 @@
   "accepted": "Argathona crenulata",
   "aphia_id": 259028,
   "authority": "Bruce, 1982",
+  "status": "accepted"
+ },
+ "Argathona grandis": {
+  "accepted": "Argathona grandis",
+  "aphia_id": 1862040,
+  "authority": "(Nunomura, 2006)",
   "status": "accepted"
  },
  "Argathona hirsuta": {
@@ -8433,6 +8463,12 @@
   "accepted": "Atarbolana setosa",
   "aphia_id": 259142,
   "authority": "Javed & Yasmeen, 1989",
+  "status": "accepted"
+ },
+ "Ateleriosignum capensis": {
+  "accepted": "Ateleriosignum capensis",
+  "aphia_id": 1874461,
+  "authority": "(Kensley, 1977)",
   "status": "accepted"
  },
  "Athelges aegyptius": {
@@ -11132,6 +11168,12 @@
   "authority": "(Lemos de Castro, 1973)",
   "status": "accepted"
  },
+ "Brasiloniscus obscurus": {
+  "accepted": "Brasiloniscus obscurus",
+  "aphia_id": 1889121,
+  "authority": "(Lemos de Castro, 1973)",
+  "status": "accepted"
+ },
  "Brasiloniscus verrucosus": {
   "accepted": "Brasiloniscus verrucosus",
   "aphia_id": 1674666,
@@ -11228,10 +11270,22 @@
   "authority": "Storey & Poore, 2009",
   "status": "accepted"
  },
+ "Brucethoa alvaradoensis": {
+  "accepted": "Brucethoa alvaradoensis",
+  "aphia_id": 1760773,
+  "authority": "(Rocha-Ramírez, Chávez-López & Bruce, 2005)",
+  "status": "accepted"
+ },
  "Brucethoa bharata": {
   "accepted": "Brucethoa bharata",
   "aphia_id": 1486873,
   "authority": "Aneesh, Hadfield, Smit & Kumar, 2020",
+  "status": "accepted"
+ },
+ "Brucethoa epinepheli": {
+  "accepted": "Brucethoa epinepheli",
+  "aphia_id": 1760774,
+  "authority": "(Trilles & Justine, 2010)",
   "status": "accepted"
  },
  "Brunnaega labuttensis": {
@@ -13475,6 +13529,12 @@
   "authority": "An, Yu & Williams, 2012",
   "status": "misspelling - incorrect original spelling"
  },
+ "Cancricepon multituberosus": {
+  "accepted": "Cancricepon multituberosus",
+  "aphia_id": 1767455,
+  "authority": "An, Yu & Williams, 2012",
+  "status": "accepted"
+ },
  "Cancricepon pilula": {
   "accepted": "Cancricepon pilula",
   "aphia_id": 118207,
@@ -14706,6 +14766,12 @@
   "accepted": "Chaetophiloscia leucadia",
   "aphia_id": 259733,
   "authority": "Strouhal, 1936",
+  "status": "accepted"
+ },
+ "Chaetophiloscia levantina": {
+  "accepted": "Chaetophiloscia levantina",
+  "aphia_id": 1889112,
+  "authority": "(Cruz & Dalens, 1990)",
   "status": "accepted"
  },
  "Chaetophiloscia penteliconensis": {
@@ -16862,6 +16928,36 @@
   "authority": "Just, 2009",
   "status": "accepted"
  },
+ "Conasellus communis": {
+  "accepted": "Conasellus communis",
+  "aphia_id": 1859880,
+  "authority": "(Say, 1818)",
+  "status": "accepted"
+ },
+ "Conasellus forbesi": {
+  "accepted": "Conasellus forbesi",
+  "aphia_id": 1849273,
+  "authority": "(Williams, 1970)",
+  "status": "accepted"
+ },
+ "Conasellus kenki": {
+  "accepted": "Conasellus kenki",
+  "aphia_id": 1849352,
+  "authority": "(Bowman, 1967)",
+  "status": "accepted"
+ },
+ "Conasellus packardi": {
+  "accepted": "Conasellus packardi",
+  "aphia_id": 1859695,
+  "authority": "(Mackin & Hubricht, 1940)",
+  "status": "accepted"
+ },
+ "Conasellus pricei": {
+  "accepted": "Conasellus pricei",
+  "aphia_id": 1849353,
+  "authority": "(Levi, 1949)",
+  "status": "accepted"
+ },
  "Congethelum hauseri": {
   "accepted": "Congethelum hauseri",
   "aphia_id": 259857,
@@ -17736,6 +17832,72 @@
   "accepted": "Cryosignum nordenstami",
   "aphia_id": 1551313,
   "authority": "Just & Wilson, 2021",
+  "status": "accepted"
+ },
+ "Cryptione affinis": {
+  "accepted": "Cryptione affinis",
+  "aphia_id": 1776996,
+  "authority": "(G. O. Sars, 1882)",
+  "status": "accepted"
+ },
+ "Cryptione chiloensis": {
+  "accepted": "Cryptione chiloensis",
+  "aphia_id": 1776997,
+  "authority": "(Román-Contreras & Wehrtmann, 1997)",
+  "status": "accepted"
+ },
+ "Cryptione clevai": {
+  "accepted": "Cryptione clevai",
+  "aphia_id": 1776998,
+  "authority": "(Boyko, 2004)",
+  "status": "accepted"
+ },
+ "Cryptione cognata": {
+  "accepted": "Cryptione cognata",
+  "aphia_id": 1776999,
+  "authority": "(Markham, 1985)",
+  "status": "accepted"
+ },
+ "Cryptione elongata": {
+  "accepted": "Cryptione elongata",
+  "aphia_id": 295010,
+  "authority": "Hansen, 1897",
+  "status": "accepted"
+ },
+ "Cryptione indica": {
+  "accepted": "Cryptione indica",
+  "aphia_id": 1777000,
+  "authority": "(Chopra, 1930)",
+  "status": "accepted"
+ },
+ "Cryptione magna": {
+  "accepted": "Cryptione magna",
+  "aphia_id": 1777001,
+  "authority": "(Shiino, 1951)",
+  "status": "accepted"
+ },
+ "Cryptione parviramus": {
+  "accepted": "Cryptione parviramus",
+  "aphia_id": 1777002,
+  "authority": "(Adkison, 1988)",
+  "status": "accepted"
+ },
+ "Cryptione pontocari": {
+  "accepted": "Cryptione pontocari",
+  "aphia_id": 1777003,
+  "authority": "(Page, 1985)",
+  "status": "accepted"
+ },
+ "Cryptione stylopoda": {
+  "accepted": "Cryptione stylopoda",
+  "aphia_id": 1777004,
+  "authority": "(Boyko, 2004)",
+  "status": "accepted"
+ },
+ "Cryptione tattersalli": {
+  "accepted": "Cryptione tattersalli",
+  "aphia_id": 1777005,
+  "authority": "(Nierstrasz & Brender à Brandis, 1923)",
   "status": "accepted"
  },
  "Cryptobopyrus elongatus": {
@@ -19844,6 +20006,12 @@
   "authority": "Schioedte & Meinert, 1884",
   "status": "accepted"
  },
+ "Cymothoa ricinoides": {
+  "accepted": "Cymothoa ricinoides",
+  "aphia_id": 118899,
+  "authority": "Risso, 1816",
+  "status": "nomen dubium"
+ },
  "Cymothoa rotunda": {
   "accepted": "Cymothoa rotunda",
   "aphia_id": 256773,
@@ -20726,6 +20894,12 @@
  "Diploexochus albesens": {
   "status": "no record"
  },
+ "Diploexochus brevispinis": {
+  "accepted": "Diploexochus brevispinis",
+  "aphia_id": 1791134,
+  "authority": "(Pearse, 1915)",
+  "status": "accepted"
+ },
  "Diploexochus cataractae": {
   "accepted": "Diploexochus cataractae",
   "aphia_id": 260184,
@@ -21422,11 +21596,23 @@
   "authority": "Boone, 1923",
   "status": "accepted"
  },
+ "Dynamenella dilatata": {
+  "accepted": "Dynamenella dilatata",
+  "aphia_id": 1673499,
+  "authority": "(Richardson, 1899)",
+  "status": "taxon inquirendum"
+ },
  "Dynamenella dioxus": {
   "accepted": "Dynamenella dioxus",
   "aphia_id": 291371,
   "authority": "Barnard, 1914",
   "status": "accepted"
+ },
+ "Dynamenella glabra": {
+  "accepted": "Dynamenella glabra",
+  "aphia_id": 1673497,
+  "authority": "(Richardson, 1899)",
+  "status": "taxon inquirendum"
  },
  "Dynamenella granulata": {
   "accepted": "Dynamenella granulata",
@@ -25166,6 +25352,12 @@
   "authority": "Dow, 1958",
   "status": "misspelling - incorrect original spelling"
  },
+ "Exosphaeroma inornatus": {
+  "accepted": "Exosphaeroma inornatus",
+  "aphia_id": 1767473,
+  "authority": "Dow, 1958",
+  "status": "accepted"
+ },
  "Exosphaeroma kraussi": {
   "accepted": "Exosphaeroma kraussi",
   "aphia_id": 257026,
@@ -25228,6 +25420,12 @@
   "aphia_id": 257032,
   "authority": "Chilton, 1924",
   "status": "misspelling - incorrect original spelling"
+ },
+ "Exosphaeroma parvus": {
+  "accepted": "Exosphaeroma parvus",
+  "aphia_id": 1767474,
+  "authority": "Chilton, 1924",
+  "status": "accepted"
  },
  "Exosphaeroma paydenae": {
   "accepted": "Exosphaeroma paydenae",
@@ -25784,6 +25982,12 @@
   "authority": "Wilson & Keable, 2002",
   "status": "accepted"
  },
+ "Geliduosignum magnum": {
+  "accepted": "Geliduosignum magnum",
+  "aphia_id": 1874455,
+  "authority": "(Vanhöffen, 1914)",
+  "status": "accepted"
+ },
  "Gelsana abnormis": {
   "accepted": "Gelsana abnormis",
   "aphia_id": 260426,
@@ -26078,6 +26282,12 @@
   "authority": "(Krauss, 1843)",
   "status": "misspelling - incorrect subsequent spelling"
  },
+ "Glyptidotea lichtensteinii": {
+  "accepted": "Glyptidotea lichtensteinii",
+  "aphia_id": 246305,
+  "authority": "(Krauss, 1843)",
+  "status": "accepted"
+ },
  "Glyptonotus acutus": {
   "accepted": "Glyptonotus acutus",
   "aphia_id": 293504,
@@ -26088,6 +26298,24 @@
   "accepted": "Glyptonotus antarcticus",
   "aphia_id": 174803,
   "authority": "Eights, 1852",
+  "status": "accepted"
+ },
+ "Glyptothoa caudata": {
+  "accepted": "Glyptothoa caudata",
+  "aphia_id": 1749375,
+  "authority": "(Schioedte & Meinert, 1884)",
+  "status": "accepted"
+ },
+ "Glyptothoa myripristae": {
+  "accepted": "Glyptothoa myripristae",
+  "aphia_id": 1749372,
+  "authority": "(Bruce, 1990)",
+  "status": "accepted"
+ },
+ "Glyptothoa propinqua": {
+  "accepted": "Glyptothoa propinqua",
+  "aphia_id": 1749371,
+  "authority": "(Richardson, 1904)",
   "status": "accepted"
  },
  "Gnathia acrorudus": {
@@ -26259,6 +26487,12 @@
   "accepted": "Gnathia clementensis",
   "aphia_id": 257169,
   "authority": "Schultz, 1966",
+  "status": "accepted"
+ },
+ "Gnathia consobrina": {
+  "accepted": "Gnathia consobrina",
+  "aphia_id": 295475,
+  "authority": "Monod, 1926",
   "status": "accepted"
  },
  "Gnathia cooki": {
@@ -27341,6 +27575,12 @@
   "authority": "Markham, 1988",
   "status": "misspelling - incorrect original spelling"
  },
+ "Grapsicepon belizeianus": {
+  "accepted": "Grapsicepon belizeianus",
+  "aphia_id": 1767456,
+  "authority": "Markham, 1988",
+  "status": "accepted"
+ },
  "Grapsicepon edwardsi": {
   "accepted": "Grapsicepon edwardsi",
   "aphia_id": 118215,
@@ -27353,6 +27593,12 @@
   "authority": "Shiino, 1936",
   "status": "misspelling - incorrect original spelling"
  },
+ "Grapsicepon magnus": {
+  "accepted": "Grapsicepon magnus",
+  "aphia_id": 1767458,
+  "authority": "Shiino, 1936",
+  "status": "accepted"
+ },
  "Grapsicepon messoris": {
   "accepted": "Grapsicepon messoris",
   "aphia_id": 255238,
@@ -27364,6 +27610,12 @@
   "aphia_id": 255239,
   "authority": "Shiino, 1942",
   "status": "misspelling - incorrect original spelling"
+ },
+ "Grapsicepon micronesianus": {
+  "accepted": "Grapsicepon micronesianus",
+  "aphia_id": 1767459,
+  "authority": "Shiino, 1942",
+  "status": "accepted"
  },
  "Grapsicepon rotundum": {
   "accepted": "Grapsicepon rotundum",
@@ -29333,6 +29585,12 @@
   "authority": "(Sayce, 1900)",
   "status": "accepted"
  },
+ "Heterocepon globosus": {
+  "accepted": "Heterocepon globosus",
+  "aphia_id": 1770278,
+  "authority": "(Markham, 1992)",
+  "status": "accepted"
+ },
  "Heterocepon marginatum": {
   "accepted": "Heterocepon marginatum",
   "aphia_id": 260628,
@@ -29575,6 +29833,12 @@
  },
  "Heterosphaeroma priscum": {
   "status": "no record"
+ },
+ "Heteruropus faxoni": {
+  "accepted": "Heteruropus faxoni",
+  "aphia_id": 1674766,
+  "authority": "(Richardson, 1905)",
+  "status": "accepted"
  },
  "Hiallelgon jeanneli": {
   "accepted": "Hiallelgon jeanneli",
@@ -30581,6 +30845,12 @@
   "authority": "Shen, 1940",
   "status": "accepted"
  },
+ "Ichthyoxenos enigmatica": {
+  "accepted": "Ichthyoxenos enigmatica",
+  "aphia_id": 1889453,
+  "authority": "(Fryer, 1968)",
+  "status": "accepted"
+ },
  "Ichthyoxenos expansus": {
   "accepted": "Ichthyoxenos expansus",
   "aphia_id": 260720,
@@ -31525,6 +31795,12 @@
   "aphia_id": 260838,
   "authority": "Leistikow, 1997",
   "status": "accepted"
+ },
+ "Ischioscia nitida": {
+  "accepted": "Ischioscia nitida",
+  "aphia_id": 260839,
+  "authority": "(Miers, 1878)",
+  "status": "nomen dubium"
  },
  "Ischioscia panamensis": {
   "accepted": "Ischioscia panamensis",
@@ -36218,6 +36494,12 @@
   "authority": "Nunomura, 2008",
   "status": "accepted"
  },
+ "Lucasioides vannamei": {
+  "accepted": "Lucasioides vannamei",
+  "aphia_id": 1760770,
+  "authority": "(Arcangeli, 1927)",
+  "status": "accepted"
+ },
  "Lucasioides xiaoi": {
   "accepted": "Lucasioides xiaoi",
   "aphia_id": 884180,
@@ -37289,6 +37571,12 @@
   "authority": "An, Boyko & Li, 2012",
   "status": "misspelling - incorrect original spelling"
  },
+ "Megacepon disparatus": {
+  "accepted": "Megacepon disparatus",
+  "aphia_id": 1767461,
+  "authority": "An, Boyko & Li, 2012",
+  "status": "accepted"
+ },
  "Megacepon goetici": {
   "accepted": "Megacepon goetici",
   "aphia_id": 261125,
@@ -38129,6 +38417,12 @@
   "authority": "Bourdon & Stock, 1979",
   "status": "misspelling - incorrect original spelling"
  },
+ "Metacepon pleopodatus": {
+  "accepted": "Metacepon pleopodatus",
+  "aphia_id": 1767462,
+  "authority": "Bourdon & Stock, 1979",
+  "status": "accepted"
+ },
  "Metacirolana agaricicola": {
   "accepted": "Metacirolana agaricicola",
   "aphia_id": 256620,
@@ -38505,6 +38799,12 @@
   "accepted": "Metastenoniscus osellai",
   "aphia_id": 261210,
   "authority": "Taiti & Ferrara, 1982",
+  "status": "accepted"
+ },
+ "Metathelges belema": {
+  "accepted": "Metathelges belema",
+  "aphia_id": 1821173,
+  "authority": "(Boyko & Williams, 2021)",
   "status": "accepted"
  },
  "Metathelges muelleri": {
@@ -38965,6 +39265,12 @@
   "aphia_id": 256151,
   "authority": "Cvetkov, 1965",
   "status": "misspelling - incorrect subsequent spelling"
+ },
+ "Microcharon eurydici": {
+  "accepted": "Microcharon eurydici",
+  "aphia_id": 1767362,
+  "authority": "(Cvetkov, 1965)",
+  "status": "accepted"
  },
  "Microcharon galapagoensis": {
   "accepted": "Microcharon galapagoensis",
@@ -39839,6 +40145,12 @@
   "authority": "Nunomura, 2010",
   "status": "accepted"
  },
+ "Mongoloniscus bocki": {
+  "accepted": "Mongoloniscus bocki",
+  "aphia_id": 1837932,
+  "authority": "(Verhoeff, 1940)",
+  "status": "accepted"
+ },
  "Mongoloniscus chevronus": {
   "accepted": "Mongoloniscus chevronus",
   "aphia_id": 1548343,
@@ -39855,6 +40167,12 @@
   "accepted": "Mongoloniscus hokurikuensis",
   "aphia_id": 884306,
   "authority": "(Nunomura, 1987)",
+  "status": "accepted"
+ },
+ "Mongoloniscus hummeli": {
+  "accepted": "Mongoloniscus hummeli",
+  "aphia_id": 1837922,
+  "authority": "(Verhoeff, 1940)",
   "status": "accepted"
  },
  "Mongoloniscus ishikawai": {
@@ -44582,6 +44900,12 @@
   "authority": "(Nordenstam, 1946)",
   "status": "accepted"
  },
+ "Onychatrium euchirum": {
+  "accepted": "Onychatrium euchirum",
+  "aphia_id": 1721241,
+  "authority": "(Nobili, 1906)",
+  "status": "taxon inquirendum"
+ },
  "Onychatrium forceps": {
   "accepted": "Onychatrium forceps",
   "aphia_id": 850371,
@@ -44617,6 +44941,12 @@
   "aphia_id": 261622,
   "authority": "Shiino, 1936",
   "status": "misspelling - incorrect original spelling"
+ },
+ "Onychocepon resupinus": {
+  "accepted": "Onychocepon resupinus",
+  "aphia_id": 1767463,
+  "authority": "Shiino, 1936",
+  "status": "accepted"
  },
  "Orbimorphus constrictus": {
   "accepted": "Orbimorphus constrictus",
@@ -46097,6 +46427,12 @@
   "authority": "Lombardo, 1988",
   "status": "misspelling - incorrect subsequent spelling"
  },
+ "Paracerceis richardsoni": {
+  "accepted": "Paracerceis richardsoni",
+  "aphia_id": 261826,
+  "authority": "Lombardo, 1988",
+  "status": "accepted"
+ },
  "Paracerceis sculpta": {
   "accepted": "Paracerceis sculpta",
   "aphia_id": 261827,
@@ -46520,11 +46856,23 @@
   "authority": "Müller, 1990",
   "status": "misspelling - incorrect original spelling"
  },
+ "Paraleptosphaeroma indicus": {
+  "accepted": "Paraleptosphaeroma indicus",
+  "aphia_id": 1767475,
+  "authority": "Müller, 1990",
+  "status": "accepted"
+ },
  "Paraleptosphaeroma japonica": {
   "accepted": "Paraleptosphaeroma japonicus",
   "aphia_id": 1115397,
   "authority": "Nunomura, 2017",
   "status": "misspelling - incorrect original spelling"
+ },
+ "Paraleptosphaeroma japonicus": {
+  "accepted": "Paraleptosphaeroma japonicus",
+  "aphia_id": 1767476,
+  "authority": "Nunomura, 2017",
+  "status": "accepted"
  },
  "Paralimnoria andrewsi": {
   "accepted": "Paralimnoria andrewsi",
@@ -49860,6 +50208,12 @@
   "accepted": "Pleurocryptella infecta",
   "aphia_id": 255276,
   "authority": "Nierstrasz & Brender à Brandis, 1923",
+  "status": "accepted"
+ },
+ "Pleurocryptella kossmanni": {
+  "accepted": "Pleurocryptella kossmanni",
+  "aphia_id": 1845617,
+  "authority": "(Nierstrasz & Brender à Brendis, 1923)",
   "status": "accepted"
  },
  "Pleurocryptella laevis": {
@@ -54587,6 +54941,48 @@
   "authority": "Taiti & Ferrara, 2004",
   "status": "accepted"
  },
+ "Pseudobaicalasellus bowmani": {
+  "accepted": "Pseudobaicalasellus bowmani",
+  "aphia_id": 1793287,
+  "authority": "(Lewis, 1980)",
+  "status": "accepted"
+ },
+ "Pseudobaicalasellus circulus": {
+  "accepted": "Pseudobaicalasellus circulus",
+  "aphia_id": 1859879,
+  "authority": "(Steeves & Holsinger, 1968)",
+  "status": "accepted"
+ },
+ "Pseudobaicalasellus henroti": {
+  "accepted": "Pseudobaicalasellus henroti",
+  "aphia_id": 1648738,
+  "authority": "(Bresson, 1955)",
+  "status": "accepted"
+ },
+ "Pseudobaicalasellus holsingeri": {
+  "accepted": "Pseudobaicalasellus holsingeri",
+  "aphia_id": 1793288,
+  "authority": "(Steeves, 1963)",
+  "status": "accepted"
+ },
+ "Pseudobaicalasellus mausi": {
+  "accepted": "Pseudobaicalasellus mausi",
+  "aphia_id": 1805290,
+  "authority": "(Lewis & Bowman in Lewis, 2009)",
+  "status": "accepted"
+ },
+ "Pseudobaicalasellus simonini": {
+  "accepted": "Pseudobaicalasellus simonini",
+  "aphia_id": 1859694,
+  "authority": "(Bresson, 1955)",
+  "status": "accepted"
+ },
+ "Pseudobaicalasellus vandeli": {
+  "accepted": "Pseudobaicalasellus vandeli",
+  "aphia_id": 1793507,
+  "authority": "(Bresson, 1955)",
+  "status": "accepted"
+ },
  "Pseudobuddelundiella hostensis": {
   "accepted": "Pseudobuddelundiella hostensis",
   "aphia_id": 262735,
@@ -55697,6 +56093,12 @@
   "authority": "Bunkley-Williams & Williams, 1987",
   "status": "accepted"
  },
+ "Revelosa cassida": {
+  "accepted": "Revelosa cassida",
+  "aphia_id": 1845173,
+  "authority": "(Budde-Lund, 1908)",
+  "status": "accepted"
+ },
  "Rhabdoniscus robustus": {
   "status": "no record"
  },
@@ -55959,6 +56361,162 @@
   "accepted": "Robinione overstreeti",
   "aphia_id": 1049514,
   "authority": "(Adkison & Heard, 1995)",
+  "status": "accepted"
+ },
+ "Robustura abbotti": {
+  "accepted": "Robustura abbotti",
+  "aphia_id": 1674407,
+  "authority": "(Lang, 1961)",
+  "status": "accepted"
+ },
+ "Robustura andamanensis": {
+  "accepted": "Robustura andamanensis",
+  "aphia_id": 1674409,
+  "authority": "(Coineau & Rao, 1972)",
+  "status": "accepted"
+ },
+ "Robustura arenicola": {
+  "accepted": "Robustura arenicola",
+  "aphia_id": 1674411,
+  "authority": "(Chappuis & Delamare-Deboutteville, 1952)",
+  "status": "accepted"
+ },
+ "Robustura boninensis": {
+  "accepted": "Robustura boninensis",
+  "aphia_id": 1674412,
+  "authority": "(Ito, 1975)",
+  "status": "accepted"
+ },
+ "Robustura brasiliensis": {
+  "accepted": "Robustura brasiliensis",
+  "aphia_id": 1674413,
+  "authority": "(Albuquerque, 1978)",
+  "status": "accepted"
+ },
+ "Robustura delamarei": {
+  "accepted": "Robustura delamarei",
+  "aphia_id": 1674414,
+  "authority": "(Remane & Siewing, 1953)",
+  "status": "accepted"
+ },
+ "Robustura enckelli": {
+  "accepted": "Robustura enckelli",
+  "aphia_id": 1674415,
+  "authority": "(Messana, Argano & Baldari, 1978)",
+  "status": "accepted"
+ },
+ "Robustura fukudai": {
+  "accepted": "Robustura fukudai",
+  "aphia_id": 1674416,
+  "authority": "(Itô, 1974)",
+  "status": "accepted"
+ },
+ "Robustura insularis": {
+  "accepted": "Robustura insularis",
+  "aphia_id": 1674417,
+  "authority": "(Vonk & Wagner, 1992)",
+  "status": "accepted"
+ },
+ "Robustura interstitialis": {
+  "accepted": "Robustura interstitialis",
+  "aphia_id": 1674418,
+  "authority": "(Chappuis, Delamare Deboutteville & Paulian, 1956)",
+  "status": "accepted"
+ },
+ "Robustura kiiensis": {
+  "accepted": "Robustura kiiensis",
+  "aphia_id": 1674419,
+  "authority": "(Nunomura, 1973)",
+  "status": "accepted"
+ },
+ "Robustura littoralis": {
+  "accepted": "Robustura littoralis",
+  "aphia_id": 1674420,
+  "authority": "(Chappuis & Delamare-Deboutteville, 1956)",
+  "status": "accepted"
+ },
+ "Robustura machadoi": {
+  "accepted": "Robustura machadoi",
+  "aphia_id": 1674421,
+  "authority": "(Delamare-Deboutteville & Chappuis, 1957)",
+  "status": "accepted"
+ },
+ "Robustura mirabilis": {
+  "accepted": "Robustura mirabilis",
+  "aphia_id": 1674425,
+  "authority": "(Chappuis & Delamare-Deboutteville, 1956)",
+  "status": "accepted"
+ },
+ "Robustura nunezi": {
+  "accepted": "Robustura nunezi",
+  "aphia_id": 1674426,
+  "authority": "(Coineau & Botosaneanu, 1973)",
+  "status": "accepted"
+ },
+ "Robustura pauliani": {
+  "accepted": "Robustura pauliani",
+  "aphia_id": 1674428,
+  "authority": "(Chappuis & Delamare-Deboutteville, 1956)",
+  "status": "accepted"
+ },
+ "Robustura predatoris": {
+  "accepted": "Robustura predatoris",
+  "aphia_id": 867871,
+  "authority": "Gnanamuthu, 1954",
+  "status": "accepted"
+ },
+ "Robustura ramosae": {
+  "accepted": "Robustura ramosae",
+  "aphia_id": 1674429,
+  "authority": "(Albuquerque, 1978)",
+  "status": "accepted"
+ },
+ "Robustura redangensis": {
+  "accepted": "Robustura redangensis",
+  "aphia_id": 1674430,
+  "authority": "(Baldari & Argano, 1984)",
+  "status": "accepted"
+ },
+ "Robustura remanei": {
+  "accepted": "Robustura remanei",
+  "aphia_id": 1674431,
+  "authority": "(Chappuis & Delamare-Deboutteville, 1952)",
+  "status": "accepted"
+ },
+ "Robustura renaudi": {
+  "accepted": "Robustura renaudi",
+  "aphia_id": 1674432,
+  "authority": "(Chappuis & Delamare-Deboutteville, 1956)",
+  "status": "accepted"
+ },
+ "Robustura rossii": {
+  "accepted": "Robustura rossii",
+  "aphia_id": 1674433,
+  "authority": "(Baldari & Argano, 1982)",
+  "status": "accepted"
+ },
+ "Robustura ruffoi": {
+  "accepted": "Robustura ruffoi",
+  "aphia_id": 1674434,
+  "authority": "(Chappuis, 1953)",
+  "status": "accepted"
+ },
+ "Robustura simplex": {
+  "accepted": "Robustura simplex",
+  "aphia_id": 1674435,
+  "authority": "(Coineau & Botosaneanu, 1973)",
+  "status": "accepted"
+ },
+ "Robustura singhalensis": {
+  "accepted": "Robustura singhalensis",
+  "aphia_id": 1674436,
+  "authority": "(Enckell, 1970)",
+  "status": "accepted"
+ },
+ "Robustura tabai": {
+  "accepted": "Robustura tabai",
+  "aphia_id": 1674438,
+  "authority": "(Wägele, 1982)",
   "status": "accepted"
  },
  "Rocinela affinis": {
@@ -56391,6 +56949,30 @@
   "accepted": "Salvatiella polynesica",
   "aphia_id": 262898,
   "authority": "Müller, 1990",
+  "status": "accepted"
+ },
+ "Sandythoa arnoglossi": {
+  "accepted": "Sandythoa arnoglossi",
+  "aphia_id": 1760746,
+  "authority": "(Trilles & Justine, 2006)",
+  "status": "accepted"
+ },
+ "Sandythoa moritakii": {
+  "accepted": "Sandythoa moritakii",
+  "aphia_id": 1760749,
+  "authority": "(Saito & Yamauchi, 2016)",
+  "status": "accepted"
+ },
+ "Sandythoa parabothi": {
+  "accepted": "Sandythoa parabothi",
+  "aphia_id": 1760747,
+  "authority": "(Trilles & Justine, 2004)",
+  "status": "accepted"
+ },
+ "Sandythoa samariscii": {
+  "accepted": "Sandythoa samariscii",
+  "aphia_id": 1760748,
+  "authority": "(Shiino, 1951)",
   "status": "accepted"
  },
  "Sanfilippia concii": {
@@ -57086,6 +57668,12 @@
   "authority": "Barnard, 1940",
   "status": "accepted"
  },
+ "Scyracepon oceanica": {
+  "accepted": "Scyracepon oceanica",
+  "aphia_id": 1767464,
+  "authority": "Shiino, 1942",
+  "status": "accepted"
+ },
  "Scyracepon oceanicum": {
   "accepted": "Scyracepon oceanica",
   "aphia_id": 255337,
@@ -57102,6 +57690,12 @@
   "accepted": "Scyracepon pseudoliomerae",
   "aphia_id": 1469892,
   "authority": "An, Zheng, Liang & Paulay, 2020",
+  "status": "accepted"
+ },
+ "Scyracepon quadrihamata": {
+  "accepted": "Scyracepon quadrihamata",
+  "aphia_id": 1767466,
+  "authority": "Shiino, 1936",
   "status": "accepted"
  },
  "Scyracepon quadrihamatum": {
@@ -58253,6 +58847,12 @@
   "authority": "Whitelegge, 1902",
   "status": "misspelling - incorrect original spelling"
  },
+ "Sphaeroma plumosum": {
+  "accepted": "Sphaeroma plumosum",
+  "aphia_id": 1767477,
+  "authority": "Whitelegge, 1902",
+  "status": "accepted"
+ },
  "Sphaeroma podicipitis": {
   "accepted": "Sphaeroma podicipitis",
   "aphia_id": 118971,
@@ -58270,6 +58870,12 @@
   "aphia_id": 257075,
   "authority": "Nicolet, 1849",
   "status": "misspelling - incorrect original spelling"
+ },
+ "Sphaeroma propinquum": {
+  "accepted": "Sphaeroma propinquum",
+  "aphia_id": 1767482,
+  "authority": "Nicolet, 1849",
+  "status": "accepted"
  },
  "Sphaeroma quadridentatum": {
   "accepted": "Sphaeroma quadridentatum",
@@ -58301,6 +58907,12 @@
   "authority": "(J. C. Fabricius, 1787)",
   "status": "accepted"
  },
+ "Sphaeroma shimantoense": {
+  "accepted": "Sphaeroma shimantoense",
+  "aphia_id": 1767483,
+  "authority": "Nunomura, 2003",
+  "status": "accepted"
+ },
  "Sphaeroma shimantoensis": {
   "accepted": "Sphaeroma shimantoense",
   "aphia_id": 257078,
@@ -58317,6 +58929,12 @@
   "accepted": "Sphaeroma silvai",
   "aphia_id": 488006,
   "authority": "Khalaji-Pirbalouty & Wägele, 2010",
+  "status": "accepted"
+ },
+ "Sphaeroma sinense": {
+  "accepted": "Sphaeroma sinense",
+  "aphia_id": 1767484,
+  "authority": "Yu & Li, 2002",
   "status": "accepted"
  },
  "Sphaeroma sinensis": {
@@ -59040,6 +59658,12 @@
   "accepted": "Spinogonium decoratum",
   "aphia_id": 411088,
   "authority": "Shimomura, 2009",
+  "status": "accepted"
+ },
+ "Spinogonium pulchrum": {
+  "accepted": "Spinogonium pulchrum",
+  "aphia_id": 1874463,
+  "authority": "(Hansen, 1916)",
   "status": "accepted"
  },
  "Spinogonium spinosum": {
@@ -62181,6 +62805,12 @@
   "accepted": "Tholozodium ocellatum",
   "aphia_id": 263522,
   "authority": "Eleftheriou, Holdich & Harrison, 1980",
+  "status": "accepted"
+ },
+ "Tholozodium rhombofrontale": {
+  "accepted": "Tholozodium rhombofrontale",
+  "aphia_id": 1746988,
+  "authority": "(Giambiagi, 1922)",
   "status": "accepted"
  },
  "Tholozodium rhombofrontalis": {

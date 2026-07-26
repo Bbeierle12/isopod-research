@@ -24,6 +24,7 @@ worms_aphia_id: 256364
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256364"
 worms_status: unaccepted
 worms_accepted: Stenetriidae incertae sedis wilsoni
+worms_note: genus placement unresolved in WoRMS (Stenetriidae incertae sedis wilsoni)
 tags: [isopod, isopoda, asellota, stenetriidae]
 ---
 

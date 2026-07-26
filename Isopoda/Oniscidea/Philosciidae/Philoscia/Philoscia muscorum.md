@@ -40,6 +40,7 @@ worms_aphia_id: 258268
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258268"
 worms_status: alternative representation
 worms_accepted: Philoscia muscorum muscorum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Philoscia muscorum muscorum
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 

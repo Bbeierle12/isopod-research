@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Cubaris caerulea
 authorship: "Collinge, 1914"
 genus: Cubaris
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 259970
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259970"
 worms_status: superseded combination
 worms_accepted: Ardentiella caerula
+accepted_name: Ardentiella caerula
 tags: [isopod, oniscidea, armadillidae]
 ---
 
 # Cubaris caerulea Collinge, 1914
+
+> [!warning] Junior synonym
+> WoRMS treats **Cubaris caerulea** as *superseded combination*. The accepted name is **Ardentiella caerula**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Cubaris|Cubaris]]
 

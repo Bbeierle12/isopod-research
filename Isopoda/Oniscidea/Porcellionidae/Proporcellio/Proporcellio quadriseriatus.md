@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Proporcellio quadriseriatus
 authorship: "(Verhoeff, 1917)"
 genus: Proporcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 262597
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262597"
 worms_status: junior subjective synonym
 worms_accepted: Proporcellio vulkanius
+accepted_name: Proporcellio vulkanius
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Proporcellio quadriseriatus (Verhoeff, 1917)
+
+> [!warning] Junior synonym
+> WoRMS treats **Proporcellio quadriseriatus** as *junior subjective synonym*. The accepted name is **[[Proporcellio vulkanius]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Proporcellio|Proporcellio]]
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trichoniscus riparius
 authorship: "Semenkewitsch, 1931"
 genus: Trichoniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 263760
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263760"
 worms_status: superseded combination
 worms_accepted: Hyloniscus riparius
+accepted_name: Hyloniscus riparius
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Trichoniscus riparius Semenkewitsch, 1931
+
+> [!warning] Junior synonym
+> WoRMS treats **Trichoniscus riparius** as *superseded combination*. The accepted name is **[[Hyloniscus riparius]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Trichoniscus|Trichoniscus]]
 

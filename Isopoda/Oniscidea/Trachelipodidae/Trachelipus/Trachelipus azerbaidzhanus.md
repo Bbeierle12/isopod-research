@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trachelipus azerbaidzhanus
 authorship: "Schmalfuss, 1986"
 genus: Trachelipus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 263560
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263560"
 worms_status: junior subjective synonym
 worms_accepted: Trachelipus lencoranicus
+accepted_name: Trachelipus lencoranicus
 tags: [isopod, oniscidea, trachelipodidae]
 ---
 
 # Trachelipus azerbaidzhanus Schmalfuss, 1986
+
+> [!warning] Junior synonym
+> WoRMS treats **Trachelipus azerbaidzhanus** as *junior subjective synonym*. The accepted name is **[[Trachelipus lencoranicus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Trachelipus|Trachelipus]]
 

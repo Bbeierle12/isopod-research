@@ -32,6 +32,7 @@ worms_aphia_id: 261318
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261318"
 worms_status: alternative representation
 worms_accepted: Moserius percoi percoi
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Moserius percoi percoi
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

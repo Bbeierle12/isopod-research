@@ -32,6 +32,7 @@ worms_aphia_id: 262862
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262862"
 worms_status: unaccepted
 worms_accepted: Rhyscotus bicolor bicolor
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Rhyscotus bicolor bicolor
 tags: [isopod, oniscidea, rhyscotidae]
 ---
 

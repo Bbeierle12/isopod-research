@@ -51,7 +51,8 @@ def scan_tree():
             for gen_dir in sorted(p for p in fam_dir.iterdir() if p.is_dir()):
                 fam["genera"].add(gen_dir.name)
                 n = sum(1 for f in gen_dir.iterdir()
-                        if f.suffix == ".md" and not f.name.startswith("_"))
+                        if f.suffix == ".md" and not f.name.startswith("_")
+                        and not V.is_synonym_note(f))
                 fam["species"] += n
     return tree
 
@@ -141,7 +142,8 @@ def main():
             for gen_name in sorted(fam["genera"]):
                 gen_dir = fam_dir / gen_name
                 n = sum(1 for f in gen_dir.iterdir()
-                        if f.suffix == ".md" and not f.name.startswith("_"))
+                        if f.suffix == ".md" and not f.name.startswith("_")
+                        and not V.is_synonym_note(f))
                 genera_species[gen_name] = n
                 wrote += V.write_if_changed(
                     gen_dir / ("_%s.md" % gen_name),

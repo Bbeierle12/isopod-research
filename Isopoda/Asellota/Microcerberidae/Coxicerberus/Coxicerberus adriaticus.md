@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Coxicerberus adriaticus
 authorship: "(Karaman, 1955) "
 genus: Coxicerberus
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 119002
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=119002"
 worms_status: superseded combination
 worms_accepted: Robustura adriatica
+accepted_name: Robustura adriatica
 tags: [isopod, isopoda, asellota, microcerberidae]
 ---
 
 # Coxicerberus adriaticus (Karaman, 1955) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Coxicerberus adriaticus** as *superseded combination*. The accepted name is **Robustura adriatica**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Microcerberidae Index|Microcerberidae]] › **Genus** [[_Coxicerberus|Coxicerberus]]
 

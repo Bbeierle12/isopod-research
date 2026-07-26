@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Merulanella latissima
 authorship: "Herold, 1931"
 genus: Merulanella
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 261142
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261142"
 worms_status: superseded combination
 worms_accepted: Floresiodillo latissimus
+accepted_name: Floresiodillo latissimus
 tags: [isopod, oniscidea, armadillidae]
 ---
 
 # Merulanella latissima Herold, 1931
+
+> [!warning] Junior synonym
+> WoRMS treats **Merulanella latissima** as *superseded combination*. The accepted name is **Floresiodillo latissimus**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Merulanella|Merulanella]]
 

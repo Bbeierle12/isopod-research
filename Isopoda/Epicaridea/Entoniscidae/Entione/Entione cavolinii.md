@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Entione cavolinii
 authorship: "(Giard, 1878) "
 genus: Entione
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 1399340
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1399340"
 worms_status: junior objective synonym
 worms_accepted: Entione squilliformis
+accepted_name: Entione squilliformis
 tags: [isopod, isopoda, epicaridea, entoniscidae]
 ---
 
 # Entione cavolinii (Giard, 1878) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Entione cavolinii** as *junior objective synonym*. The accepted name is **Entione squilliformis**.
 
 **Order** Isopoda › **Suborder** Epicaridea › **Family** [[_Entoniscidae Index|Entoniscidae]] › **Genus** [[_Entione|Entione]]
 

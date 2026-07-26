@@ -32,6 +32,7 @@ worms_aphia_id: 257717
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257717"
 worms_status: alternative representation
 worms_accepted: Armadillidium insulanum insulanum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Armadillidium insulanum insulanum
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 

@@ -32,6 +32,7 @@ worms_aphia_id: 261658
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261658"
 worms_status: alternative representation
 worms_accepted: Oritoniscus trajani trajani
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Oritoniscus trajani trajani
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

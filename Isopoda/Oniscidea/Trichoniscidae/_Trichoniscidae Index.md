@@ -3,7 +3,7 @@ type: index
 group: Trichoniscidae
 suborder: Oniscidea
 genus_count: 92
-species_count: 566
+species_count: 556
 realm: freshwater, terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, oniscidea, family-index]
 
 # Trichoniscidae (Family)
 
-Suborder Oniscidea · 92 genera · 566 accepted species.
+Suborder Oniscidea · 92 genera · 556 accepted species.
 
 ## Genera
 
@@ -25,7 +25,7 @@ Suborder Oniscidea · 92 genera · 566 accepted species.
 | [[_Alpioniscus|Alpioniscus]] | 40 |
 | [[_Amerigoniscus|Amerigoniscus]] | 9 |
 | [[_Anatoliscus|Anatoliscus]] | 1 |
-| [[_Androniscus|Androniscus]] | 14 |
+| [[_Androniscus|Androniscus]] | 12 |
 | [[_Autrigoniscus|Autrigoniscus]] | 1 |
 | [[_Baeticoniscus|Baeticoniscus]] | 1 |
 | [[_Balearonethes|Balearonethes]] | 1 |
@@ -60,7 +60,7 @@ Suborder Oniscidea · 92 genera · 566 accepted species.
 | [[_Escualdoniscus|Escualdoniscus]] | 2 |
 | [[_Finaloniscus|Finaloniscus]] | 3 |
 | [[_Graeconiscus|Graeconiscus]] | 13 |
-| [[_Haplophthalmus|Haplophthalmus]] | 51 |
+| [[_Haplophthalmus|Haplophthalmus]] | 49 |
 | [[_Helenoniscus|Helenoniscus]] | 2 |
 | [[_Hondoniscus|Hondoniscus]] | 3 |
 | [[_Hyloniscus|Hyloniscus]] | 32 |
@@ -85,7 +85,7 @@ Suborder Oniscidea · 92 genera · 566 accepted species.
 | [[_Oregoniscus|Oregoniscus]] | 1 |
 | [[_Oritoniscus|Oritoniscus]] | 30 |
 | [[_Paracyphoniscus|Paracyphoniscus]] | 2 |
-| [[_Philougria|Philougria]] | 1 |
+| [[_Philougria|Philougria]] | 0 |
 | [[_Phymatoniscus|Phymatoniscus]] | 3 |
 | [[_Protonethes|Protonethes]] | 1 |
 | [[_Psachonethes|Psachonethes]] | 2 |
@@ -102,12 +102,12 @@ Suborder Oniscidea · 92 genera · 566 accepted species.
 | [[_Titanethes|Titanethes]] | 1 |
 | [[_Trichonethes|Trichonethes]] | 1 |
 | [[_Trichoniscoides|Trichoniscoides]] | 54 |
-| [[_Trichoniscus|Trichoniscus]] | 121 |
+| [[_Trichoniscus|Trichoniscus]] | 116 |
 | [[_Tricyphoniscus|Tricyphoniscus]] | 1 |
 | [[_Troglocyphoniscus|Troglocyphoniscus]] | 3 |
 | [[_Troglonethes|Troglonethes]] | 4 |
 | [[_Turkonethes|Turkonethes]] | 2 |
 | [[_Typhlotricholigioides|Typhlotricholigioides]] | 1 |
 | [[_Vandeloniscellus|Vandeloniscellus]] | 1 |
-| **TOTAL** | **566** |
+| **TOTAL** | **556** |
 

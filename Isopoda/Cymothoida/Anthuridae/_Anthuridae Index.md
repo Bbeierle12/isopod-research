@@ -3,7 +3,7 @@ type: index
 group: Anthuridae
 suborder: Cymothoida
 genus_count: 26
-species_count: 317
+species_count: 316
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, cymothoida, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, cymothoida, family-index]
 
 # Anthuridae (Family)
 
-Suborder Cymothoida · 26 genera · 317 accepted species.
+Suborder Cymothoida · 26 genera · 316 accepted species.
 
 ## Genera
 
@@ -39,9 +39,9 @@ Suborder Cymothoida · 26 genera · 317 accepted species.
 | [[_Pilosanthura|Pilosanthura]] | 2 |
 | [[_Ptilanthura|Ptilanthura]] | 2 |
 | [[_Quantanthura|Quantanthura]] | 13 |
-| [[_Sauranthura|Sauranthura]] | 2 |
+| [[_Sauranthura|Sauranthura]] | 1 |
 | [[_Skuphonura|Skuphonura]] | 6 |
 | [[_Stygocyathura|Stygocyathura]] | 23 |
 | [[_Tinggianthura|Tinggianthura]] | 2 |
-| **TOTAL** | **317** |
+| **TOTAL** | **316** |
 

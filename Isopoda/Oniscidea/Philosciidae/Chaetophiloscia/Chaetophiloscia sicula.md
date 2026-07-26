@@ -32,6 +32,7 @@ worms_aphia_id: 259738
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259738"
 worms_status: alternative representation
 worms_accepted: Chaetophiloscia sicula sicula
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Chaetophiloscia sicula sicula
 tags: [isopod, oniscidea, philosciidae]
 ---
 

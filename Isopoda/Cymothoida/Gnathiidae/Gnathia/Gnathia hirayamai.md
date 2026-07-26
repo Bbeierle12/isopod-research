@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Gnathia hirayamai
 authorship: "Nunomura, 1992"
 genus: Gnathia
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257183
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257183"
 worms_status: junior subjective synonym
 worms_accepted: Gnathia nasuta
+accepted_name: Gnathia nasuta
 tags: [isopod, isopoda, cymothoida, gnathiidae]
 ---
 
 # Gnathia hirayamai Nunomura
+
+> [!warning] Junior synonym
+> WoRMS treats **Gnathia hirayamai** as *junior subjective synonym*. The accepted name is **[[Gnathia nasuta]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Gnathiidae Index|Gnathiidae]] › **Genus** [[_Gnathia|Gnathia]]
 

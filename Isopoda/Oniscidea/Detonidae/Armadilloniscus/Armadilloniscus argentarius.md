@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadilloniscus argentarius
 authorship: "Verhoeff, 1931"
 genus: Armadilloniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 883057
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=883057"
 worms_status: junior subjective synonym
 worms_accepted: Armadilloniscus candidus
+accepted_name: Armadilloniscus candidus
 tags: [isopod, oniscidea, detonidae]
 ---
 
 # Armadilloniscus argentarius Verhoeff, 1931
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadilloniscus argentarius** as *junior subjective synonym*. The accepted name is **[[Armadilloniscus candidus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Detonidae Index|Detonidae]] > **Genus** [[_Armadilloniscus|Armadilloniscus]]
 

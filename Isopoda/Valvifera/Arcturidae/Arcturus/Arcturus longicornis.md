@@ -23,6 +23,7 @@ status: stub
 worms_aphia_id: 1668668
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1668668"
 worms_status: uncertain
+worms_note: "WoRMS caveat: uncertain"
 tags: [isopod, isopoda, valvifera, arcturidae]
 ---
 

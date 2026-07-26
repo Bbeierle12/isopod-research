@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trichoniscus elisabethae
 authorship: "Herold, 1923"
 genus: Trichoniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 263696
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263696"
 worms_status: junior subjective synonym
 worms_accepted: Trichoniscus pusillus
+accepted_name: Trichoniscus pusillus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Trichoniscus elisabethae Herold, 1923
+
+> [!warning] Junior synonym
+> WoRMS treats **Trichoniscus elisabethae** as *junior subjective synonym*. The accepted name is **[[Trichoniscus pusillus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Trichoniscus|Trichoniscus]]
 

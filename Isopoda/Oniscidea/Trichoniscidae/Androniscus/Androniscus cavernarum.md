@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Androniscus cavernarum
 authorship: "Verhoeff, 1908"
 genus: Androniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 258613
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258613"
 worms_status: junior subjective synonym
 worms_accepted: Androniscus stygius stygius
+accepted_name: Androniscus stygius stygius
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Androniscus cavernarum Verhoeff, 1908
+
+> [!warning] Junior synonym
+> WoRMS treats **Androniscus cavernarum** as *junior subjective synonym*. The accepted name is **Androniscus stygius stygius**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Androniscus|Androniscus]]
 

@@ -3,12 +3,12 @@ type: genus
 genus: Glossobius
 family: Cymothoidae
 suborder: Cymothoida
-species_count: 9
+species_count: 7
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, cymothoida, genus-index]
 ---
 
 # Glossobius (Genus)
 
-**Family** [[_Cymothoidae Index|Cymothoidae]] · **Suborder** Cymothoida · 9 accepted species.
+**Family** [[_Cymothoidae Index|Cymothoidae]] · **Suborder** Cymothoida · 7 accepted species.
 

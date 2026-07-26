@@ -23,6 +23,7 @@ status: stub
 worms_aphia_id: 258297
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258297"
 worms_status: nomen nudum
+worms_note: "WoRMS caveat: nomen nudum"
 tags: [isopod, isopoda, cymothoida, hyssuridae]
 ---
 

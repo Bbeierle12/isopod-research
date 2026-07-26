@@ -32,6 +32,7 @@ worms_aphia_id: 262158
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262158"
 worms_status: alternative representation
 worms_accepted: Platyarthrus haplophthalmoides haplophthalmoides
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Platyarthrus haplophthalmoides haplophthalmoides
 tags: [isopod, oniscidea, platyarthridae]
 ---
 

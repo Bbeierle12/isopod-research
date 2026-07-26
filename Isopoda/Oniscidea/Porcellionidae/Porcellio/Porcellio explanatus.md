@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellio explanatus
 authorship: "Collinge, 1915"
 genus: Porcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 262290
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262290"
 worms_status: junior subjective synonym
 worms_accepted: Porcellio violaceus
+accepted_name: Porcellio violaceus
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellio explanatus Collinge, 1915
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellio explanatus** as *junior subjective synonym*. The accepted name is **[[Porcellio violaceus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
 

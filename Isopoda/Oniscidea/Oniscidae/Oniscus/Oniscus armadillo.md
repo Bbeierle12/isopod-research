@@ -31,6 +31,7 @@ realm: terrestrial
 worms_aphia_id: 884517
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=884517"
 worms_status: unaccepted
+worms_note: "WoRMS caveat: unaccepted"
 tags: [isopod, oniscidea, oniscidae]
 ---
 

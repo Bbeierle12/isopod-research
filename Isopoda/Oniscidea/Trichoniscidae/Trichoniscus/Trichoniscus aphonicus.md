@@ -32,6 +32,7 @@ worms_aphia_id: 263662
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263662"
 worms_status: alternative representation
 worms_accepted: Trichoniscus aphonicus aphonicus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Trichoniscus aphonicus aphonicus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

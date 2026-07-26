@@ -24,6 +24,7 @@ worms_aphia_id: 263492
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263492"
 worms_status: unaccepted
 worms_accepted: Stenetriidae incertae sedis drakensis
+worms_note: genus placement unresolved in WoRMS (Stenetriidae incertae sedis drakensis)
 tags: [isopod, isopoda, asellota, stenetriidae]
 ---
 

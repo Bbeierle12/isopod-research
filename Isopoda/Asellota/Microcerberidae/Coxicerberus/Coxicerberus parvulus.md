@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Coxicerberus parvulus
 authorship: "(Albuquerque, 1978) "
 genus: Coxicerberus
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257248
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257248"
 worms_status: superseded combination
 worms_accepted: Robustura parvula
+accepted_name: Robustura parvula
 tags: [isopod, isopoda, asellota, microcerberidae]
 ---
 
 # Coxicerberus parvulus (Albuquerque, 1978) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Coxicerberus parvulus** as *superseded combination*. The accepted name is **Robustura parvula**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Microcerberidae Index|Microcerberidae]] › **Genus** [[_Coxicerberus|Coxicerberus]]
 

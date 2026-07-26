@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Haplophthalmus portofinensis
 authorship: "Verhoeff, 1908"
 genus: Haplophthalmus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 260543
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260543"
 worms_status: junior subjective synonym
 worms_accepted: Haplophthalmus mengii mengii
+accepted_name: Haplophthalmus mengii mengii
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 
 # Haplophthalmus portofinensis Verhoeff, 1908
+
+> [!warning] Junior synonym
+> WoRMS treats **Haplophthalmus portofinensis** as *junior subjective synonym*. The accepted name is **Haplophthalmus mengii mengii**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trichoniscidae Index|Trichoniscidae]] > **Genus** [[_Haplophthalmus|Haplophthalmus]]
 

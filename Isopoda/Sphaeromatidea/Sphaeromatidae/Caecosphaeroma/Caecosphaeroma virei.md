@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Caecosphaeroma virei
 authorship: "Dollfus, 1896"
 genus: Caecosphaeroma
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 1348826
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1348826"
 worms_status: alternative representation
 worms_accepted: Caecosphaeroma (Caecosphaeroma) virei
+accepted_name: Caecosphaeroma (Caecosphaeroma) virei
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 
 # Caecosphaeroma virei Dollfus, 1896
+
+> [!warning] Junior synonym
+> WoRMS treats **Caecosphaeroma virei** as *alternative representation*. The accepted name is **Caecosphaeroma (Caecosphaeroma) virei**.
 
 **Order** Isopoda › **Suborder** Sphaeromatidea › **Family** [[_Sphaeromatidae Index|Sphaeromatidae]] › **Genus** [[_Caecosphaeroma|Caecosphaeroma]]
 

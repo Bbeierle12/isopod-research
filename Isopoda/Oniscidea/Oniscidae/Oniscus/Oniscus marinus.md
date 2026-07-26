@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Oniscus marinus
 authorship: "Fabricius, 1780"
 genus: Oniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 1652352
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1652352"
 worms_status: junior homonym
 worms_accepted: Paragnathia formica
+accepted_name: Paragnathia formica
 tags: [isopod, oniscidea, oniscidae]
 ---
 
 # Oniscus marinus Fabricius, 1780
+
+> [!warning] Junior synonym
+> WoRMS treats **Oniscus marinus** as *junior homonym*. The accepted name is **[[Paragnathia formica]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Oniscidae Index|Oniscidae]] > **Genus** [[_Oniscus|Oniscus]]
 

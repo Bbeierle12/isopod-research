@@ -79,6 +79,31 @@ def parse_frontmatter(text):
     return (m.group(1), m.group(2), m.group(3), m.group(4)) if m else None
 
 
+_SYNONYM = re.compile(r"^type:[ \t]*synonym[ \t]*$", re.M)
+
+
+def is_synonym_note(path):
+    """True if the note is a synonym record rather than an accepted species.
+
+    Synonym records live in the tree (they document the superseded name and link
+    to the accepted one) but must never be counted as accepted species."""
+    text = read_text(path)
+    if not text:
+        return False
+    parsed = parse_frontmatter(text)
+    return bool(_SYNONYM.search(parsed[1])) if parsed else False
+
+
+def species_note_paths(root=None):
+    """Every accepted-species note under `root` (default: Isopoda/), excluding
+    index notes (leading underscore) and synonym records."""
+    base = root or ISOPODA
+    for p in sorted(base.rglob("*.md")):
+        if p.name.startswith("_") or is_synonym_note(p):
+            continue
+        yield p
+
+
 def is_block_value(fm, key):
     """True if `key` holds a multi-line YAML value (blank header followed by an
     indented continuation line, e.g. a block list). Such values must never be

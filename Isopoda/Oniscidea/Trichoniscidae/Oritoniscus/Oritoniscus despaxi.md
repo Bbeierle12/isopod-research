@@ -32,6 +32,7 @@ worms_aphia_id: 261642
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261642"
 worms_status: alternative representation
 worms_accepted: Oritoniscus despaxi despaxi
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Oritoniscus despaxi despaxi
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

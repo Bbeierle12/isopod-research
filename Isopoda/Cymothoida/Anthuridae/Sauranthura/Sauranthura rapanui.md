@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Sauranthura rapanui
 authorship: "Kensley, 2003"
 genus: Sauranthura
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 262902
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262902"
 worms_status: junior subjective synonym
 worms_accepted: Stygocyathura rapanuia
+accepted_name: Stygocyathura rapanuia
 tags: [isopod, isopoda, cymothoida, anthuridae]
 ---
 
 # Sauranthura rapanui Kensley, 2003
+
+> [!warning] Junior synonym
+> WoRMS treats **Sauranthura rapanui** as *junior subjective synonym*. The accepted name is **[[Stygocyathura rapanuia]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Anthuridae Index|Anthuridae]] › **Genus** [[_Sauranthura|Sauranthura]]
 

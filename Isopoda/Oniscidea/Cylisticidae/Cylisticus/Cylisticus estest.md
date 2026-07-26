@@ -32,6 +32,7 @@ worms_aphia_id: 260080
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260080"
 worms_status: alternative representation
 worms_accepted: Cylisticus estest estest
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Cylisticus estest estest
 tags: [isopod, oniscidea, cylisticidae]
 ---
 

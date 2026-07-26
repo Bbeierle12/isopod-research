@@ -24,6 +24,7 @@ worms_aphia_id: 258913
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258913"
 worms_status: alternative representation
 worms_accepted: Anneckella srilankae srilankae
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Anneckella srilankae srilankae
 tags: [isopod, isopoda, asellota, protojaniridae]
 ---
 

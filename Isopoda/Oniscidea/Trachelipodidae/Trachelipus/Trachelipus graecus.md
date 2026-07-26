@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Trachelipus graecus
 authorship: "Strouhal, 1938"
 genus: Trachelipus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 263570
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263570"
 worms_status: junior subjective synonym
 worms_accepted: Trachelipus palustris
+accepted_name: Trachelipus palustris
 tags: [isopod, oniscidea, trachelipodidae]
 ---
 
 # Trachelipus graecus Strouhal, 1938
+
+> [!warning] Junior synonym
+> WoRMS treats **Trachelipus graecus** as *junior subjective synonym*. The accepted name is **[[Trachelipus palustris]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Trachelipus|Trachelipus]]
 

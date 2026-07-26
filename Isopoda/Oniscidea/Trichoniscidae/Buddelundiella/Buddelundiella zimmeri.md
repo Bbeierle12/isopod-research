@@ -32,6 +32,7 @@ worms_aphia_id: 259442
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259442"
 worms_status: alternative representation
 worms_accepted: Buddelundiella zimmeri zimmeri
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Buddelundiella zimmeri zimmeri
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

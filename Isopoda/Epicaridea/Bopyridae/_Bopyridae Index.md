@@ -2,8 +2,8 @@
 type: index
 group: Bopyridae
 suborder: Epicaridea
-genus_count: 170
-species_count: 669
+genus_count: 171
+species_count: 663
 realm: marine, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, epicaridea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, epicaridea, family-index]
 
 # Bopyridae (Family)
 
-Suborder Epicaridea · 170 genera · 669 accepted species.
+Suborder Epicaridea · 171 genera · 663 accepted species.
 
 ## Genera
 
@@ -49,7 +49,7 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Bathione|Bathione]] | 2 |
 | [[_Bathygyge|Bathygyge]] | 1 |
 | [[_Bopyrella|Bopyrella]] | 8 |
-| [[_Bopyrina|Bopyrina]] | 7 |
+| [[_Bopyrina|Bopyrina]] | 6 |
 | [[_Bopyrinella|Bopyrinella]] | 7 |
 | [[_Bopyrinina|Bopyrinina]] | 3 |
 | [[_Bopyrione|Bopyrione]] | 5 |
@@ -66,6 +66,7 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Cataphryxus|Cataphryxus]] | 1 |
 | [[_Claustrathelges|Claustrathelges]] | 1 |
 | [[_Coxalione|Coxalione]] | 1 |
+| [[_Cryptione|Cryptione]] | 11 |
 | [[_Cryptobopyrus|Cryptobopyrus]] | 1 |
 | [[_Dactylokepon|Dactylokepon]] | 11 |
 | [[_Dicropleon|Dicropleon]] | 4 |
@@ -73,7 +74,7 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Discomorphus|Discomorphus]] | 1 |
 | [[_Discorsobopyrus|Discorsobopyrus]] | 1 |
 | [[_Eophrixus|Eophrixus]] | 13 |
-| [[_Epicepon|Epicepon]] | 3 |
+| [[_Epicepon|Epicepon]] | 0 |
 | [[_Epipenaeon|Epipenaeon]] | 7 |
 | [[_Epiphrixus|Epiphrixus]] | 1 |
 | [[_Eragia|Eragia]] | 1 |
@@ -91,10 +92,10 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Hemiarthrus|Hemiarthrus]] | 6 |
 | [[_Hemicepon|Hemicepon]] | 1 |
 | [[_Hemiphryxus|Hemiphryxus]] | 1 |
-| [[_Heterocepon|Heterocepon]] | 1 |
+| [[_Heterocepon|Heterocepon]] | 2 |
 | [[_Hypercepon|Hypercepon]] | 1 |
 | [[_Hyperphrixus|Hyperphrixus]] | 3 |
-| [[_Hypocepon|Hypocepon]] | 2 |
+| [[_Hypocepon|Hypocepon]] | 1 |
 | [[_Hypohyperphrixus|Hypohyperphrixus]] | 1 |
 | [[_Ionella|Ionella]] | 4 |
 | [[_Izuohshimaphryxus|Izuohshimaphryxus]] | 1 |
@@ -109,7 +110,7 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Mesophryxus|Mesophryxus]] | 1 |
 | [[_Metacepon|Metacepon]] | 2 |
 | [[_Metaphrixus|Metaphrixus]] | 4 |
-| [[_Metathelges|Metathelges]] | 1 |
+| [[_Metathelges|Metathelges]] | 2 |
 | [[_Micropodiphryxus|Micropodiphryxus]] | 1 |
 | [[_Minicopenaeon|Minicopenaeon]] | 4 |
 | [[_Minimathelges|Minimathelges]] | 2 |
@@ -138,7 +139,7 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Paragigantione|Paragigantione]] | 3 |
 | [[_Paranikione|Paranikione]] | 2 |
 | [[_Parapagurion|Parapagurion]] | 3 |
-| [[_Parapenaeon|Parapenaeon]] | 7 |
+| [[_Parapenaeon|Parapenaeon]] | 6 |
 | [[_Parapenaeonella|Parapenaeonella]] | 6 |
 | [[_Parapleurocrypta|Parapleurocrypta]] | 2 |
 | [[_Parapleurocryptella|Parapleurocryptella]] | 2 |
@@ -154,7 +155,7 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Phyllodurus|Phyllodurus]] | 1 |
 | [[_Pleonobopyrus|Pleonobopyrus]] | 1 |
 | [[_Pleurocrypta|Pleurocrypta]] | 13 |
-| [[_Pleurocryptella|Pleurocryptella]] | 12 |
+| [[_Pleurocryptella|Pleurocryptella]] | 13 |
 | [[_Pleurocryptina|Pleurocryptina]] | 1 |
 | [[_Pliophrixus|Pliophrixus]] | 1 |
 | [[_Pontobopyrus|Pontobopyrus]] | 1 |
@@ -166,7 +167,7 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Procepon|Procepon]] | 3 |
 | [[_Progebiophilus|Progebiophilus]] | 14 |
 | [[_Propseudione|Propseudione]] | 1 |
-| [[_Pseudione|Pseudione]] | 39 |
+| [[_Pseudione|Pseudione]] | 25 |
 | [[_Pseudionella|Pseudionella]] | 6 |
 | [[_Pseudostegias|Pseudostegias]] | 8 |
 | [[_Quadripediphryxus|Quadripediphryxus]] | 1 |
@@ -187,5 +188,5 @@ Suborder Epicaridea · 170 genera · 669 accepted species.
 | [[_Upogebione|Upogebione]] | 4 |
 | [[_Upogebiophilus|Upogebiophilus]] | 1 |
 | [[_Urobopyrus|Urobopyrus]] | 1 |
-| **TOTAL** | **669** |
+| **TOTAL** | **663** |
 

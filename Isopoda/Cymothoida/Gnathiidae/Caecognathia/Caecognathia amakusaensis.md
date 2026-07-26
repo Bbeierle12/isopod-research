@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Caecognathia amakusaensis
 authorship: ""
 genus: Caecognathia
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257101
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257101"
 worms_status: junior subjective synonym
 worms_accepted: Elaphognathia kikuchii
+accepted_name: Elaphognathia kikuchii
 tags: [isopod, isopoda, cymothoida, gnathiidae]
 ---
 
 # Caecognathia amakusaensis 
+
+> [!warning] Junior synonym
+> WoRMS treats **Caecognathia amakusaensis** as *junior subjective synonym*. The accepted name is **[[Elaphognathia kikuchii]]**.
 
 **Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Gnathiidae Index|Gnathiidae]] › **Genus** [[_Caecognathia|Caecognathia]]
 

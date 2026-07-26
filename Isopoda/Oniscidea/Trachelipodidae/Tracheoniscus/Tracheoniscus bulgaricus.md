@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Tracheoniscus bulgaricus
 authorship: "Verhoeff, 1926"
 genus: Tracheoniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 1666513
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1666513"
 worms_status: junior subjective synonym
 worms_accepted: Trachelipus squamuliger
+accepted_name: Trachelipus squamuliger
 tags: [isopod, oniscidea, trachelipodidae]
 ---
 
 # Tracheoniscus bulgaricus Verhoeff, 1926
+
+> [!warning] Junior synonym
+> WoRMS treats **Tracheoniscus bulgaricus** as *junior subjective synonym*. The accepted name is **[[Trachelipus squamuliger]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Trachelipodidae Index|Trachelipodidae]] > **Genus** [[_Tracheoniscus|Tracheoniscus]]
 

@@ -40,6 +40,7 @@ worms_aphia_id: 257833
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257833"
 worms_status: alternative representation
 worms_accepted: Armadillidium werneri werneri
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Armadillidium werneri werneri
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

@@ -32,6 +32,7 @@ worms_aphia_id: 260526
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260526"
 worms_status: alternative representation
 worms_accepted: Haplophthalmus gibbus gibbus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Haplophthalmus gibbus gibbus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

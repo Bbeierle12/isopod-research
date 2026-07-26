@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadillidium speyeri
 authorship: "Jackson, 1923"
 genus: Armadillidium
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 257804
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257804"
 worms_status: unaccepted
 worms_accepted: Armadillidium nasatum nasatum
+accepted_name: Armadillidium nasatum nasatum
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 
 # Armadillidium speyeri Jackson, 1923
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadillidium speyeri** as *unaccepted*. The accepted name is **Armadillidium nasatum nasatum**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidiidae Index|Armadillidiidae]] > **Genus** [[_Armadillidium|Armadillidium]]
 

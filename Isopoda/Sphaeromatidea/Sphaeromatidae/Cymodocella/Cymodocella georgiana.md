@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Cymodocella georgiana
 authorship: "Walker, 1901"
 genus: Cymodocella
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 175205
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=175205"
 worms_status: nomen nudum
 worms_accepted: Cymodocella tubicauda
+accepted_name: Cymodocella tubicauda
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 
 # Cymodocella georgiana Walker, 1901
+
+> [!warning] Junior synonym
+> WoRMS treats **Cymodocella georgiana** as *nomen nudum*. The accepted name is **[[Cymodocella tubicauda]]**.
 
 **Order** Isopoda › **Suborder** Sphaeromatidea › **Family** [[_Sphaeromatidae Index|Sphaeromatidae]] › **Genus** [[_Cymodocella|Cymodocella]]
 

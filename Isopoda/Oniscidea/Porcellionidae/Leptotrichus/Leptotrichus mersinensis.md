@@ -32,6 +32,7 @@ worms_aphia_id: 260944
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260944"
 worms_status: alternative representation
 worms_accepted: Leptotrichus mersinensis mersinensis
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Leptotrichus mersinensis mersinensis
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

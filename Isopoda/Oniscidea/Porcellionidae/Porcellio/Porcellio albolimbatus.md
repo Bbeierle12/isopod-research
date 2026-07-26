@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellio albolimbatus
 authorship: "Arcangeli, 1924"
 genus: Porcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 262209
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262209"
 worms_status: junior subjective synonym
 worms_accepted: Porcellio olivieri
+accepted_name: Porcellio olivieri
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellio albolimbatus Arcangeli, 1924
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellio albolimbatus** as *junior subjective synonym*. The accepted name is **[[Porcellio olivieri]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
 

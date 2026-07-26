@@ -32,6 +32,7 @@ worms_aphia_id: 257720
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257720"
 worms_status: alternative representation
 worms_accepted: Armadillidium jonicum jonicum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Armadillidium jonicum jonicum
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Sphaeroma tuberculata
 authorship: "Brocchi, 1875"
 genus: Sphaeroma
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257084
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257084"
 worms_status: misspelling - incorrect original spelling
 worms_accepted: Sphaeroma tuberculatum
+accepted_name: Sphaeroma tuberculatum
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 
 # Sphaeroma tuberculata Brocchi, 1875
+
+> [!warning] Junior synonym
+> WoRMS treats **Sphaeroma tuberculata** as *misspelling - incorrect original spelling*. The accepted name is **[[Sphaeroma tuberculatum]]**.
 
 **Order** Isopoda › **Suborder** Sphaeromatidea › **Family** [[_Sphaeromatidae Index|Sphaeromatidae]] › **Genus** [[_Sphaeroma|Sphaeroma]]
 

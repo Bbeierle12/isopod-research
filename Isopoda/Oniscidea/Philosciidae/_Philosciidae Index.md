@@ -3,7 +3,7 @@ type: index
 group: Philosciidae
 suborder: Oniscidea
 genus_count: 116
-species_count: 592
+species_count: 586
 realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, oniscidea, family-index]
 
 # Philosciidae (Family)
 
-Suborder Oniscidea · 116 genera · 592 accepted species.
+Suborder Oniscidea · 116 genera · 586 accepted species.
 
 ## Genera
 
@@ -25,9 +25,9 @@ Suborder Oniscidea · 116 genera · 592 accepted species.
 | [[_Andenoniscus|Andenoniscus]] | 3 |
 | [[_Andricophiloscia|Andricophiloscia]] | 1 |
 | [[_Androdeloscia|Androdeloscia]] | 29 |
-| [[_Aphiloscia|Aphiloscia]] | 23 |
+| [[_Aphiloscia|Aphiloscia]] | 21 |
 | [[_Aquitanoscia|Aquitanoscia]] | 2 |
-| [[_Arcangeloscia|Arcangeloscia]] | 8 |
+| [[_Arcangeloscia|Arcangeloscia]] | 7 |
 | [[_Archaeoscia|Archaeoscia]] | 1 |
 | [[_Arhina|Arhina]] | 2 |
 | [[_Ashtonia|Ashtonia]] | 1 |
@@ -41,7 +41,7 @@ Suborder Oniscidea · 116 genera · 592 accepted species.
 | [[_Benthanops|Benthanops]] | 1 |
 | [[_Burmoniscus|Burmoniscus]] | 76 |
 | [[_Caraiboscia|Caraiboscia]] | 2 |
-| [[_Chaetophiloscia|Chaetophiloscia]] | 24 |
+| [[_Chaetophiloscia|Chaetophiloscia]] | 23 |
 | [[_Colombophiloscia|Colombophiloscia]] | 1 |
 | [[_Congophiloscia|Congophiloscia]] | 6 |
 | [[_Ctenoscia|Ctenoscia]] | 1 |
@@ -60,12 +60,12 @@ Suborder Oniscidea · 116 genera · 592 accepted species.
 | [[_Hoctunus|Hoctunus]] | 2 |
 | [[_Huntonia|Huntonia]] | 1 |
 | [[_Isabelloscia|Isabelloscia]] | 1 |
-| [[_Ischioscia|Ischioscia]] | 29 |
+| [[_Ischioscia|Ischioscia]] | 30 |
 | [[_Javanoscia|Javanoscia]] | 1 |
 | [[_Laevophiloscia|Laevophiloscia]] | 18 |
 | [[_Leonardoscia|Leonardoscia]] | 1 |
 | [[_Leonoscia|Leonoscia]] | 1 |
-| [[_Lepidoniscus|Lepidoniscus]] | 3 |
+| [[_Lepidoniscus|Lepidoniscus]] | 2 |
 | [[_Leptophiloscia|Leptophiloscia]] | 4 |
 | [[_Leucophiloscia|Leucophiloscia]] | 1 |
 | [[_Loboscia|Loboscia]] | 1 |
@@ -86,7 +86,7 @@ Suborder Oniscidea · 116 genera · 592 accepted species.
 | [[_Pacroscia|Pacroscia]] | 2 |
 | [[_Palaioscia|Palaioscia]] | 1 |
 | [[_Papuaphiloscia|Papuaphiloscia]] | 16 |
-| [[_Parachaetophiloscia|Parachaetophiloscia]] | 1 |
+| [[_Parachaetophiloscia|Parachaetophiloscia]] | 0 |
 | [[_Paractenoscia|Paractenoscia]] | 1 |
 | [[_Paraguascia|Paraguascia]] | 1 |
 | [[_Parapacroscia|Parapacroscia]] | 1 |
@@ -94,7 +94,7 @@ Suborder Oniscidea · 116 genera · 592 accepted species.
 | [[_Paratlantoscia|Paratlantoscia]] | 3 |
 | [[_Parischioscia|Parischioscia]] | 1 |
 | [[_Pentoniscus|Pentoniscus]] | 5 |
-| [[_Philoscia|Philoscia]] | 45 |
+| [[_Philoscia|Philoscia]] | 44 |
 | [[_Philoscina|Philoscina]] | 3 |
 | [[_Platycytoniscus|Platycytoniscus]] | 1 |
 | [[_Pleopodoscia|Pleopodoscia]] | 5 |
@@ -133,5 +133,5 @@ Suborder Oniscidea · 116 genera · 592 accepted species.
 | [[_Xiphoniscus|Xiphoniscus]] | 2 |
 | [[_Yaerikima|Yaerikima]] | 1 |
 | [[_Zebrascia|Zebrascia]] | 3 |
-| **TOTAL** | **592** |
+| **TOTAL** | **586** |
 

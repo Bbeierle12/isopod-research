@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Porcellio balticus
 authorship: "Verhoeff, 1907"
 genus: Porcellio
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 884900
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=884900"
 worms_status: junior subjective synonym
 worms_accepted: Trachelipus nodulosus
+accepted_name: Trachelipus nodulosus
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
 # Porcellio balticus Verhoeff, 1907
+
+> [!warning] Junior synonym
+> WoRMS treats **Porcellio balticus** as *junior subjective synonym*. The accepted name is **[[Trachelipus nodulosus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Porcellionidae Index|Porcellionidae]] > **Genus** [[_Porcellio|Porcellio]]
 

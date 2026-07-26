@@ -32,6 +32,7 @@ worms_aphia_id: 260947
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260947"
 worms_status: alternative representation
 worms_accepted: Leptotrichus pilosus pilosus
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Leptotrichus pilosus pilosus
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

@@ -2,8 +2,8 @@
 type: index
 group: Armadillidae
 suborder: Oniscidea
-genus_count: 83
-species_count: 733
+genus_count: 85
+species_count: 723
 realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, oniscidea, family-index]
 
 # Armadillidae (Family)
 
-Suborder Oniscidea · 83 genera · 733 accepted species.
+Suborder Oniscidea · 85 genera · 723 accepted species.
 
 ## Genera
 
@@ -24,7 +24,8 @@ Suborder Oniscidea · 83 genera · 733 accepted species.
 | [[_Anchicubaris|Anchicubaris]] | 3 |
 | [[_Annobodillo|Annobodillo]] | 1 |
 | [[_Anthrodillo|Anthrodillo]] | 1 |
-| [[_Armadillo|Armadillo]] | 54 |
+| [[_Ardentiella|Ardentiella]] | 1 |
+| [[_Armadillo|Armadillo]] | 50 |
 | [[_Aulacodillo|Aulacodillo]] | 1 |
 | [[_Australiodillo|Australiodillo]] | 10 |
 | [[_Barnardillo|Barnardillo]] | 5 |
@@ -37,10 +38,10 @@ Suborder Oniscidea · 83 genera · 733 accepted species.
 | [[_Coronadillo|Coronadillo]] | 3 |
 | [[_Cristarmadillo|Cristarmadillo]] | 3 |
 | [[_Ctenorillo|Ctenorillo]] | 15 |
-| [[_Cubaris|Cubaris]] | 71 |
+| [[_Cubaris|Cubaris]] | 70 |
 | [[_Cubaroides|Cubaroides]] | 1 |
 | [[_Cuckoldillo|Cuckoldillo]] | 1 |
-| [[_Diploexochus|Diploexochus]] | 8 |
+| [[_Diploexochus|Diploexochus]] | 9 |
 | [[_Dryadillo|Dryadillo]] | 17 |
 | [[_Echinodillo|Echinodillo]] | 2 |
 | [[_Emydodillo|Emydodillo]] | 1 |
@@ -58,7 +59,7 @@ Suborder Oniscidea · 83 genera · 733 accepted species.
 | [[_Madrasdillo|Madrasdillo]] | 1 |
 | [[_Malaccadillo|Malaccadillo]] | 1 |
 | [[_Merulana|Merulana]] | 12 |
-| [[_Merulanella|Merulanella]] | 7 |
+| [[_Merulanella|Merulanella]] | 3 |
 | [[_Mesodillo|Mesodillo]] | 1 |
 | [[_Myrmecodillo|Myrmecodillo]] | 7 |
 | [[_Nataldillo|Nataldillo]] | 1 |
@@ -82,23 +83,24 @@ Suborder Oniscidea · 83 genera · 733 accepted species.
 | [[_Pyrgoniscus|Pyrgoniscus]] | 9 |
 | [[_Quatuordillo|Quatuordillo]] | 1 |
 | [[_Reductoniscus|Reductoniscus]] | 4 |
+| [[_Revelosa|Revelosa]] | 1 |
 | [[_Rhodesillo|Rhodesillo]] | 2 |
 | [[_Riudillo|Riudillo]] | 1 |
 | [[_Schismadillo|Schismadillo]] | 5 |
 | [[_Sinodillo|Sinodillo]] | 7 |
 | [[_Sphaerillodillo|Sphaerillodillo]] | 2 |
 | [[_Sphenodillo|Sphenodillo]] | 1 |
-| [[_Spherillo|Spherillo]] | 91 |
+| [[_Spherillo|Spherillo]] | 89 |
 | [[_Stigmops|Stigmops]] | 4 |
 | [[_Sumatrillo|Sumatrillo]] | 2 |
 | [[_Synarmadillo|Synarmadillo]] | 24 |
 | [[_Togarmadillo|Togarmadillo]] | 2 |
 | [[_Tongadillo|Tongadillo]] | 1 |
 | [[_Tridentodillo|Tridentodillo]] | 1 |
-| [[_Troglarmadillo|Troglarmadillo]] | 1 |
+| [[_Troglarmadillo|Troglarmadillo]] | 0 |
 | [[_Troglodillo|Troglodillo]] | 3 |
 | [[_Tuberillo|Tuberillo]] | 7 |
-| [[_Venezillo|Venezillo]] | 137 |
+| [[_Venezillo|Venezillo]] | 136 |
 | [[_Xestodillo|Xestodillo]] | 3 |
-| **TOTAL** | **733** |
+| **TOTAL** | **723** |
 

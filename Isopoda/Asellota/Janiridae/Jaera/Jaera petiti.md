@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Jaera petiti
 authorship: "Schulz, 1953"
 genus: Jaera
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118724
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118724"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) petiti
+accepted_name: Jaera (Jaera) petiti
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera petiti Schulz, 1953
+
+> [!warning] Junior synonym
+> WoRMS treats **Jaera petiti** as *alternative representation*. The accepted name is **Jaera (Jaera) petiti**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Armadilloniscus litoralis
 authorship: "Budde-Lund, 1885"
 genus: Armadilloniscus
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 146509
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=146509"
 worms_status: junior subjective synonym
 worms_accepted: Armadilloniscus ellipticus
+accepted_name: Armadilloniscus ellipticus
 tags: [isopod, oniscidea, detonidae]
 ---
 
 # Armadilloniscus litoralis Budde-Lund, 1885
+
+> [!warning] Junior synonym
+> WoRMS treats **Armadilloniscus litoralis** as *junior subjective synonym*. The accepted name is **[[Armadilloniscus ellipticus]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Detonidae Index|Detonidae]] > **Genus** [[_Armadilloniscus|Armadilloniscus]]
 

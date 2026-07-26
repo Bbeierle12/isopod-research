@@ -1,0 +1,44 @@
+---
+type: species
+scientificName: Apocepon digitatus
+authorship: "Stock, 1960"
+genus: Apocepon
+family: Bopyridae
+suborder: Epicaridea
+realm: marine
+gbif_id: 2200728
+gbif_url: https://www.gbif.org/species/2200728
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+worms_aphia_id: 1767453
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1767453"
+worms_status: accepted
+former_name: Apocepon digitatum
+aliases: [Apocepon digitatum]
+tags: [isopod, isopoda, epicaridea, bopyridae]
+---
+
+# Apocepon digitatus
+
+**Order** Isopoda › **Suborder** Epicaridea › **Family** [[_Bopyridae Index|Bopyridae]] › **Genus** [[_Apocepon|Apocepon]]
+
+_Formerly_ **Apocepon digitatum** _(superseded name)._
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2200728

@@ -24,6 +24,7 @@ worms_aphia_id: 345347
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=345347"
 worms_status: unaccepted
 worms_accepted: Antarcturidae incertae sedis dentatus
+worms_note: genus placement unresolved in WoRMS (Antarcturidae incertae sedis dentatus)
 tags: [isopod, isopoda, valvifera, arcturidae]
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Sphaerilloides philippinensis
 authorship: "Vandel, 1974"
 genus: Spherillo
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 886839
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=886839"
 worms_status: superseded combination
 worms_accepted: Spherillo philippinensis
+accepted_name: Spherillo philippinensis
 tags: [isopod, oniscidea, armadillidae]
 ---
 
 # Sphaerilloides philippinensis Vandel, 1974
+
+> [!warning] Junior synonym
+> WoRMS treats **Sphaerilloides philippinensis** as *superseded combination*. The accepted name is **[[Spherillo philippinensis]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Spherillo|Spherillo]]
 

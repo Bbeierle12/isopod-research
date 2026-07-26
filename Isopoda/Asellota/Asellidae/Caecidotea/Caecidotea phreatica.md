@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Caecidotea phreatica
 authorship: "Lewis & Holsinger, 1985"
 genus: Caecidotea
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 259577
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259577"
 worms_status: superseded combination
 worms_accepted: Conasellus phreaticus
+accepted_name: Conasellus phreaticus
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 
 # Caecidotea phreatica Lewis & Holsinger, 1985
+
+> [!warning] Junior synonym
+> WoRMS treats **Caecidotea phreatica** as *superseded combination*. The accepted name is **Conasellus phreaticus**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Asellidae Index|Asellidae]] › **Genus** [[_Caecidotea|Caecidotea]]
 

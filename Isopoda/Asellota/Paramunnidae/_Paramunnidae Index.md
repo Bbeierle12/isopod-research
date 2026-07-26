@@ -2,8 +2,8 @@
 type: index
 group: Paramunnidae
 suborder: Asellota
-genus_count: 46
-species_count: 190
+genus_count: 48
+species_count: 189
 realm: marine, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, asellota, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, asellota, family-index]
 
 # Paramunnidae (Family)
 
-Suborder Asellota · 46 genera · 190 accepted species.
+Suborder Asellota · 48 genera · 189 accepted species.
 
 ## Genera
 
@@ -23,6 +23,7 @@ Suborder Asellota · 46 genera · 190 accepted species.
 | [[_Allorostrata|Allorostrata]] | 2 |
 | [[_Antennulosignum|Antennulosignum]] | 1 |
 | [[_Ascionana|Ascionana]] | 14 |
+| [[_Ateleriosignum|Ateleriosignum]] | 1 |
 | [[_Austrimunna|Austrimunna]] | 1 |
 | [[_Austrogonium|Austrogonium]] | 2 |
 | [[_Austronanus|Austronanus]] | 6 |
@@ -35,6 +36,7 @@ Suborder Asellota · 46 genera · 190 accepted species.
 | [[_Dentigonium|Dentigonium]] | 1 |
 | [[_Epipedonana|Epipedonana]] | 1 |
 | [[_Fornicaris|Fornicaris]] | 1 |
+| [[_Geliduosignum|Geliduosignum]] | 1 |
 | [[_Harrietonana|Harrietonana]] | 1 |
 | [[_Heterosignum|Heterosignum]] | 6 |
 | [[_Holodentata|Holodentata]] | 3 |
@@ -52,16 +54,16 @@ Suborder Asellota · 46 genera · 190 accepted species.
 | [[_Palanana|Palanana]] | 2 |
 | [[_Paramunna|Paramunna]] | 11 |
 | [[_Pentaceration|Pentaceration]] | 22 |
-| [[_Pleurogonium|Pleurogonium]] | 22 |
-| [[_Pleurosignum|Pleurosignum]] | 5 |
+| [[_Pleurogonium|Pleurogonium]] | 20 |
+| [[_Pleurosignum|Pleurosignum]] | 3 |
 | [[_Quetzogonium|Quetzogonium]] | 1 |
 | [[_Reductogonium|Reductogonium]] | 1 |
 | [[_Spiculonana|Spiculonana]] | 3 |
-| [[_Spinogonium|Spinogonium]] | 2 |
+| [[_Spinogonium|Spinogonium]] | 3 |
 | [[_Sporonana|Sporonana]] | 3 |
 | [[_Stephenseniellus|Stephenseniellus]] | 2 |
 | [[_Tethygonium|Tethygonium]] | 4 |
 | [[_Xigonus|Xigonus]] | 1 |
 | [[_Zizzygonium|Zizzygonium]] | 1 |
-| **TOTAL** | **190** |
+| **TOTAL** | **189** |
 

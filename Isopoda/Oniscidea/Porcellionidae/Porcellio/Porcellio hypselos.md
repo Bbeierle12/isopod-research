@@ -31,6 +31,7 @@ realm: terrestrial
 worms_aphia_id: 262328
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262328"
 worms_status: uncertain
+worms_note: "WoRMS caveat: uncertain"
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

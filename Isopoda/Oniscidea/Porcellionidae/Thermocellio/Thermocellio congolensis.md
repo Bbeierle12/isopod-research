@@ -32,6 +32,7 @@ worms_aphia_id: 263509
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263509"
 worms_status: unaccepted
 worms_accepted: Thermocellio congolensis congolensis
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Thermocellio congolensis congolensis
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

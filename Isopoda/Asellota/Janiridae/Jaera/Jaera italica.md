@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Jaera italica
 authorship: "Kesselyak, 1938"
 genus: Jaera
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118721
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118721"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) italica
+accepted_name: Jaera (Jaera) italica
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera italica Kesselyak, 1938
+
+> [!warning] Junior synonym
+> WoRMS treats **Jaera italica** as *alternative representation*. The accepted name is **Jaera (Jaera) italica**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

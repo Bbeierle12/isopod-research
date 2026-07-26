@@ -24,6 +24,7 @@ worms_aphia_id: 259004
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259004"
 worms_status: unaccepted
 worms_accepted: Aporobopyrus petrolistheae petrolistheae
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Aporobopyrus petrolistheae petrolistheae
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 

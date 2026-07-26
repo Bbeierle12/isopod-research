@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Buddelundiscus marginatus
 authorship: "Schmölzer, 1974"
 genus: Aphiloscia
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 294281
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=294281"
 worms_status: superseded combination
 worms_accepted: Aphiloscia marginata
+accepted_name: Aphiloscia marginata
 tags: [isopod, oniscidea, philosciidae]
 ---
 
 # Buddelundiscus marginatus Schmölzer, 1974
+
+> [!warning] Junior synonym
+> WoRMS treats **Buddelundiscus marginatus** as *superseded combination*. The accepted name is **[[Aphiloscia marginata]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Aphiloscia|Aphiloscia]]
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Coxicerberus anfindicus
 authorship: "(Messana, Argano & Baldari, 1978) "
 genus: Coxicerberus
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 257232
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257232"
 worms_status: superseded combination
 worms_accepted: Robustura anfindica
+accepted_name: Robustura anfindica
 tags: [isopod, isopoda, asellota, microcerberidae]
 ---
 
 # Coxicerberus anfindicus (Messana, Argano & Baldari, 1978) 
+
+> [!warning] Junior synonym
+> WoRMS treats **Coxicerberus anfindicus** as *superseded combination*. The accepted name is **Robustura anfindica**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Microcerberidae Index|Microcerberidae]] › **Genus** [[_Coxicerberus|Coxicerberus]]
 

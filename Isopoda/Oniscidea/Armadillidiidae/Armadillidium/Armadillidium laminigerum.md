@@ -32,6 +32,7 @@ worms_aphia_id: 257730
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257730"
 worms_status: alternative representation
 worms_accepted: Armadillidium laminigerum laminigerum
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Armadillidium laminigerum laminigerum
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 

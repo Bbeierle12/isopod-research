@@ -24,6 +24,7 @@ worms_aphia_id: 258543
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258543"
 worms_status: alternative representation
 worms_accepted: Proasellus intermedius intermedius
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Proasellus intermedius intermedius
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

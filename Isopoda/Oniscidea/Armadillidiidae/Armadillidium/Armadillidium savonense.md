@@ -32,6 +32,7 @@ worms_aphia_id: 257791
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257791"
 worms_status: alternative representation
 worms_accepted: Armadillidium savonense savonense
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Armadillidium savonense savonense
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 

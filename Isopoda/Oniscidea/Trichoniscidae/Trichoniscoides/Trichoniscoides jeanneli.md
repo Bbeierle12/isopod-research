@@ -32,6 +32,7 @@ worms_aphia_id: 263633
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263633"
 worms_status: alternative representation
 worms_accepted: Trichoniscoides jeanneli jeanneli
+worms_note: species-level name is valid; WoRMS also carries the nominotypical subspecies Trichoniscoides jeanneli jeanneli
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

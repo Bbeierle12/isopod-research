@@ -2,8 +2,8 @@
 type: index
 group: Sphaeromatidae
 suborder: Sphaeromatidea
-genus_count: 110
-species_count: 724
+genus_count: 111
+species_count: 714
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, sphaeromatidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, sphaeromatidea, family-index]
 
 # Sphaeromatidae (Family)
 
-Suborder Sphaeromatidea · 110 genera · 724 accepted species.
+Suborder Sphaeromatidea · 111 genera · 714 accepted species.
 
 ## Genera
 
@@ -31,7 +31,7 @@ Suborder Sphaeromatidea · 110 genera · 724 accepted species.
 | [[_Botryias|Botryias]] | 1 |
 | [[_Bregmotypta|Bregmotypta]] | 1 |
 | [[_Caecocassidias|Caecocassidias]] | 1 |
-| [[_Caecosphaeroma|Caecosphaeroma]] | 2 |
+| [[_Caecosphaeroma|Caecosphaeroma]] | 1 |
 | [[_Calcipila|Calcipila]] | 1 |
 | [[_Campecopea|Campecopea]] | 4 |
 | [[_Cassidias|Cassidias]] | 3 |
@@ -44,19 +44,19 @@ Suborder Sphaeromatidea · 110 genera · 724 accepted species.
 | [[_Cercosphaera|Cercosphaera]] | 3 |
 | [[_Chitonopsis|Chitonopsis]] | 3 |
 | [[_Chitonosphaera|Chitonosphaera]] | 2 |
-| [[_Cilicaea|Cilicaea]] | 16 |
+| [[_Cilicaea|Cilicaea]] | 15 |
 | [[_Cilicaeopsis|Cilicaeopsis]] | 14 |
 | [[_Cliamenella|Cliamenella]] | 1 |
 | [[_Cyclosphaeroma|Cyclosphaeroma]] | 6 |
 | [[_Cymodetta|Cymodetta]] | 2 |
-| [[_Cymodoce|Cymodoce]] | 78 |
-| [[_Cymodocella|Cymodocella]] | 17 |
+| [[_Cymodoce|Cymodoce]] | 77 |
+| [[_Cymodocella|Cymodocella]] | 16 |
 | [[_Cymodopsis|Cymodopsis]] | 8 |
 | [[_Diclidocella|Diclidocella]] | 3 |
 | [[_Discerceis|Discerceis]] | 3 |
 | [[_Discidina|Discidina]] | 1 |
-| [[_Dynamene|Dynamene]] | 13 |
-| [[_Dynamenella|Dynamenella]] | 32 |
+| [[_Dynamene|Dynamene]] | 11 |
+| [[_Dynamenella|Dynamenella]] | 33 |
 | [[_Dynameniscus|Dynameniscus]] | 1 |
 | [[_Dynamenoides|Dynamenoides]] | 2 |
 | [[_Dynamenopsis|Dynamenopsis]] | 3 |
@@ -67,14 +67,15 @@ Suborder Sphaeromatidea · 110 genera · 724 accepted species.
 | [[_Europosphaera|Europosphaera]] | 1 |
 | [[_Exocerceis|Exocerceis]] | 1 |
 | [[_Exosphaeroides|Exosphaeroides]] | 3 |
-| [[_Exosphaeroma|Exosphaeroma]] | 42 |
+| [[_Exosphaeroma|Exosphaeroma]] | 41 |
 | [[_Geocerceis|Geocerceis]] | 1 |
 | [[_Gnorimosphaeroma|Gnorimosphaeroma]] | 28 |
-| [[_Harrieta|Harrieta]] | 1 |
+| [[_Harrieta|Harrieta]] | 0 |
 | [[_Haswellia|Haswellia]] | 7 |
 | [[_Hemisphaeroma|Hemisphaeroma]] | 1 |
 | [[_Heterodina|Heterodina]] | 3 |
 | [[_Heterosphaeroma|Heterosphaeroma]] | 1 |
+| [[_Heteruropus|Heteruropus]] | 1 |
 | [[_Holotelson|Holotelson]] | 3 |
 | [[_Ischyromene|Ischyromene]] | 25 |
 | [[_Isocladus|Isocladus]] | 17 |
@@ -88,7 +89,7 @@ Suborder Sphaeromatidea · 110 genera · 724 accepted species.
 | [[_Margueritta|Margueritta]] | 2 |
 | [[_Maricoccus|Maricoccus]] | 1 |
 | [[_Merozoon|Merozoon]] | 1 |
-| [[_Monolistra|Monolistra]] | 23 |
+| [[_Monolistra|Monolistra]] | 21 |
 | [[_Moruloidea|Moruloidea]] | 7 |
 | [[_Naesicopea|Naesicopea]] | 1 |
 | [[_Neonaesa|Neonaesa]] | 1 |
@@ -116,7 +117,7 @@ Suborder Sphaeromatidea · 110 genera · 724 accepted species.
 | [[_Ptyosphaera|Ptyosphaera]] | 1 |
 | [[_Scutuloidea|Scutuloidea]] | 2 |
 | [[_Sphaeramene|Sphaeramene]] | 3 |
-| [[_Sphaeroma|Sphaeroma]] | 48 |
+| [[_Sphaeroma|Sphaeroma]] | 46 |
 | [[_Sphaeromopsis|Sphaeromopsis]] | 13 |
 | [[_Stathmos|Stathmos]] | 1 |
 | [[_Striella|Striella]] | 1 |
@@ -127,5 +128,5 @@ Suborder Sphaeromatidea · 110 genera · 724 accepted species.
 | [[_Waiteolana|Waiteolana]] | 3 |
 | [[_Xynosphaera|Xynosphaera]] | 1 |
 | [[_Zuzara|Zuzara]] | 5 |
-| **TOTAL** | **724** |
+| **TOTAL** | **714** |
 

@@ -24,6 +24,7 @@ worms_aphia_id: 345345
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=345345"
 worms_status: unaccepted
 worms_accepted: Antarcturidae incertae sedis alcicornis
+worms_note: genus placement unresolved in WoRMS (Antarcturidae incertae sedis alcicornis)
 tags: [isopod, isopoda, valvifera, arcturidae]
 ---
 

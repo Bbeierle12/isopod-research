@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Halophiloscia adriatica
 authorship: "Verhoeff, 1908"
 genus: Halophiloscia
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 883672
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=883672"
 worms_status: junior subjective synonym
 worms_accepted: Halophiloscia couchii
+accepted_name: Halophiloscia couchii
 tags: [isopod, oniscidea, halophilosciidae]
 ---
 
 # Halophiloscia adriatica Verhoeff, 1908
+
+> [!warning] Junior synonym
+> WoRMS treats **Halophiloscia adriatica** as *junior subjective synonym*. The accepted name is **[[Halophiloscia couchii]]**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Halophilosciidae Index|Halophilosciidae]] > **Genus** [[_Halophiloscia|Halophiloscia]]
 

@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Chaetophiloscia piligera
 authorship: "Verhoeff, 1908"
 genus: Chaetophiloscia
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: stub
+status: synonym
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,10 +32,14 @@ worms_aphia_id: 883256
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=883256"
 worms_status: junior subjective synonym
 worms_accepted: Chaetophiloscia cellaria cellaria
+accepted_name: Chaetophiloscia cellaria cellaria
 tags: [isopod, oniscidea, philosciidae]
 ---
 
 # Chaetophiloscia piligera Verhoeff, 1908
+
+> [!warning] Junior synonym
+> WoRMS treats **Chaetophiloscia piligera** as *junior subjective synonym*. The accepted name is **Chaetophiloscia cellaria cellaria**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Philosciidae Index|Philosciidae]] > **Genus** [[_Chaetophiloscia|Chaetophiloscia]]
 

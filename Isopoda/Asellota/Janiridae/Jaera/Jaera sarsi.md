@@ -1,5 +1,5 @@
 ---
-type: species
+type: synonym
 scientificName: Jaera sarsi
 authorship: "Valkanov, 1936"
 genus: Jaera
@@ -19,15 +19,19 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: stub
+status: synonym
 worms_aphia_id: 118726
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118726"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) sarsi
+accepted_name: Jaera (Jaera) sarsi
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera sarsi Valkanov, 1936
+
+> [!warning] Junior synonym
+> WoRMS treats **Jaera sarsi** as *alternative representation*. The accepted name is **Jaera (Jaera) sarsi**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 
