@@ -3,7 +3,7 @@ id: cubaris-sp-amber-firefly
 record_type: form
 family: Armadillidae
 genus: Cubaris
-species: sp.
+open_nomenclature: sp.
 scientificName: "Cubaris sp. \"Amber Firefly\""
 is_described: false
 taxon_status: provisional

@@ -3,7 +3,7 @@ id: tuberillo-sp-bumpy
 record_type: form
 family: Armadillidae
 genus: Tuberillo
-species: sp.
+open_nomenclature: sp.
 scientificName: "Tuberillo sp. \"Bumpy\""
 is_described: false
 taxon_status: provisional

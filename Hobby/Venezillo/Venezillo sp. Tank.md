@@ -3,7 +3,7 @@ id: venezillo-sp-tank
 record_type: form
 family: Armadillidae
 genus: Venezillo
-species: sp.
+open_nomenclature: sp.
 scientificName: "Venezillo sp. \"Tank\""
 is_described: false
 taxon_status: provisional

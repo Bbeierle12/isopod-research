@@ -3,7 +3,7 @@ id: tuberillo-sp-spiny-hedgehog
 record_type: form
 family: Armadillidae
 genus: Tuberillo
-species: sp.
+open_nomenclature: sp.
 scientificName: "Tuberillo sp. \"Spiny Hedgehog\""
 is_described: false
 taxon_status: provisional

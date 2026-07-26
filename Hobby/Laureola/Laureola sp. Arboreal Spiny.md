@@ -3,7 +3,7 @@ id: laureola-sp-arboreal-spiny
 record_type: form
 family: Armadillidae
 genus: Laureola
-species: sp.
+open_nomenclature: sp.
 scientificName: "Laureola sp. \"Arboreal Spiny\""
 is_described: false
 taxon_status: provisional

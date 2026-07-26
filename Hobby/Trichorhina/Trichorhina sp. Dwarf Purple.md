@@ -3,7 +3,7 @@ id: trichorhina-sp-dwarf-purple
 record_type: form
 family: Platyarthridae
 genus: Trichorhina
-species: sp.
+open_nomenclature: sp.
 scientificName: "Trichorhina sp. \"Dwarf Purple\""
 is_described: false
 taxon_status: provisional

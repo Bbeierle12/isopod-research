@@ -16,7 +16,7 @@ DATA = os.path.join(VAULT, "data", "isopods.json")
 HOBBY = os.path.join(VAULT, "Hobby")
 
 # keys the generator owns (rewritten every run, in this order)
-MANAGED = ["id","record_type","family","genus","species","scientificName","is_described",
+MANAGED = ["id","record_type","family","genus","species","open_nomenclature","scientificName","is_described",
            "gbif_id","gbif_url","taxon_status","accepted_name","authority","trade_name",
            "locality","morph_name","parent","conglobation","verified_on","tags"]
 # user-owned keys: seeded blank on creation, never overwritten afterward
@@ -112,6 +112,7 @@ def upsert(path, r):
     managed = {
         "id": r["id"], "record_type": r["record_type"], "family": r["family"],
         "genus": r["genus"], "species": r["species"],
+        "open_nomenclature": r.get("open_nomenclature", ""),
         "scientificName": form_display(r) if r["record_type"]=="form" else
                           "%s '%s'" % (form_stem_parent(r), r["morph_name"]),
         "is_described": r["is_described"], "gbif_id": r.get("gbif_id"),
@@ -306,7 +307,7 @@ def main():
         f.write("\n".join(L) + "\n")
 
     # ---- CSV export ----
-    base_cols = ["id","record_type","family","genus","species","is_described","taxon_status",
+    base_cols = ["id","record_type","family","genus","species","open_nomenclature","is_described","taxon_status",
                  "accepted_name","authority","gbif_id","trade_name","locality","morph_name",
                  "parent_id","conglobation"]
     husb_cols = ["common_name","adult_size_mm","origin_region","temperature_c","humidity",

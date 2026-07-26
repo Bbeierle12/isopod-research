@@ -3,7 +3,7 @@ id: cubaris-sp-blue-pigeon
 record_type: form
 family: Armadillidae
 genus: Cubaris
-species: sp.
+open_nomenclature: sp.
 scientificName: "Cubaris sp. \"Blue Pigeon\""
 is_described: false
 taxon_status: provisional
