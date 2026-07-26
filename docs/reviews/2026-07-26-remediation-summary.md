@@ -177,6 +177,32 @@ Placeholder families are registered in the family map with `placeholder: true`
 so they never read as real taxa. Coverage against GBIF is now **11,494 / 11,494**
 — zero missing.
 
+## Aquatic trophic guilds
+
+Three of the four guild buckets that the aquatic expansion made relevant but left
+empty are now populated, via a `family_ecology` block in `data/ecology.json` that
+is **structurally separate** from the species-level `entries`. Every assignment is
+an explicit family-wide inference at evidence grade **b**, cited, and marked
+`(family)` in `ecology_evidence` so it can never read as species-level study:
+
+| guild | families | notes | source |
+|---|---|---:|---|
+| Parasite (ectoparasite) | 17 Epicaridea families, Cymothoidae, Gnathiidae | 1,498 | Williams & Boyko 2012; Smit, Bruce & Hadfield 2014; Smit & Davies 2004 |
+| Parasite (endoparasite) | Entoniscidae | 42 | Williams & Boyko 2012 |
+| Micropredator/scavenger | Cirolanidae | 597 | Wong & Moore 1995; Kaïm-Malka 1997 |
+| Wood-borer | Limnoriidae | 62 | King et al. 2010 (PNAS) |
+
+**Aegidae (159) and Corallanidae (87) are deliberately absent.** Both are commonly
+described as micropredatory fish parasites, but no feeding-biology review turned up
+for either, and the discipline of this dataset is that an uncited guild is worse
+than a blank one. `Filter/deposit-feeder` stays empty for the same reason —
+filter-feeding is rare in isopods and no family-level source supports it.
+
+The atlas now reports the two tiers separately (`34 species-level, 2,199
+family-level inference`) rather than as one "studied" figure, and `verify.py`
+gained a 15th check asserting that every family-level assignment is cited, graded
+`b`, names a family that exists on disk, and never overrides a species-level entry.
+
 ## Remaining known limitations
 
 - 21 authorships still lack a publication year (absent from both GBIF and WoRMS).

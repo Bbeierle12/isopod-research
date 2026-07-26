@@ -69,11 +69,11 @@ python scripts/build_db.py       # (optional) load into a constraint-checked SQL
 python scripts/verify.py         # assert every structural invariant (offline, read-only)
 ```
 
-`scripts/verify.py` is the regression net: 14 checks covering YAML validity,
+`scripts/verify.py` is the regression net: 15 checks covering YAML validity,
 path/frontmatter agreement, broken wikilinks, ICZN binomial formatting, open
 nomenclature, duplicate binomials, dual-authority coverage, realm vocabulary,
-family-map agreement, synonym integrity, citation resolution, index freshness and
-a clean database load. CI runs it on every push against Python 3.9 and 3.12
+family-map agreement, synonym integrity, citation resolution, family-level-ecology
+integrity, index freshness and a clean database load. CI runs it on every push against Python 3.9 and 3.12
 (`.github/workflows/verify.yml`), and fails the build if the generated notes are
 stale.
 
@@ -116,10 +116,14 @@ dashboard, built by `scripts/atlas.py`. Two kinds of filter, at two scopes:
 - **Taxonomy-wide axes** — realm, plus ecomorph type (Schmalfuss), degree of terrestrialization,
   habitat stratum, trophic guild and reproduction — **span all 11,385 accepted Isopoda species**
   (hobby + non-hobby). Every species note carries these fields, scaffolded **blank until researched** (no
-  family-level guessing); **34** studied taxa are populated with **a/b/c** evidence grades and
-  CrossRef-verified citations. Note that ecomorph and terrestrialization are *terrestrial-isopod*
-  concepts (Schmalfuss 1984) — they do not apply to the aquatic majority. Extend coverage by adding
-  rows to `data/ecology.json`.
+  family-level guessing). Two evidence tiers, kept strictly separate: **34 species** are classified
+  from species-level study (grades **a/b/c**), and a further **2,199** carry a *family-level* trophic
+  guild — an explicit family-wide inference at grade **b**, each backed by a CrossRef-verified review
+  of that family's feeding biology and marked `(family)` in `ecology_evidence`. Species-level data
+  always wins; families without such a reference (Aegidae, Corallanidae) are deliberately left blank
+  rather than assigned. Note that ecomorph and terrestrialization are *terrestrial-isopod* concepts
+  (Schmalfuss 1984) — they do not apply to the aquatic majority. Extend coverage by adding rows to
+  `data/ecology.json`.
 - **Husbandry facets** — size, biome, region, moisture, difficulty, bioactive role, conglobation,
   taxon status — are **scoped to the 112 hobby forms** (they need care/origin data that doesn't
   exist for unkept species).

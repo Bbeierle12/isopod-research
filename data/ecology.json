@@ -480,6 +480,222 @@
             "doi": "10.1017/s1464793102005912",
             "year": 2002,
             "verified": "crossref"
+        },
+        "williams2012": {
+            "citation": "Williams, J.D.; Boyko, C.B. (2012). The Global Diversity of Parasitic Isopods Associated with Crustacean Hosts (Isopoda: Bopyroidea and Cryptoniscoidea). PLoS ONE 7: e35350.",
+            "doi": "10.1371/journal.pone.0035350",
+            "year": 2012,
+            "verified": "crossref"
+        },
+        "smit2014": {
+            "citation": "Smit, N.J.; Bruce, N.L.; Hadfield, K.A. (2014). Global diversity of fish parasitic isopod crustaceans of the family Cymothoidae. International Journal for Parasitology: Parasites and Wildlife 3: 188-197.",
+            "doi": "10.1016/j.ijppaw.2014.03.004",
+            "year": 2014,
+            "verified": "crossref"
+        },
+        "smit2004": {
+            "citation": "Smit, N.J.; Davies, A.J. (2004). The Curious Life-Style of the Parasitic Stages of Gnathiid Isopods. Advances in Parasitology: 289-391.",
+            "doi": "10.1016/s0065-308x(04)58005-3",
+            "year": 2004,
+            "verified": "crossref"
+        },
+        "king2010": {
+            "citation": "King, A.J.; Cragg, S.M.; Li, Y.; Dymond, J.; Guille, M.J.; Bowles, D.J.; Bruce, N.C.; Graham, I.A.; McQueen-Mason, S.J. (2010). Molecular insight into lignocellulose digestion by a marine isopod in the absence of gut microbes. Proceedings of the National Academy of Sciences 107: 5345-5350.",
+            "doi": "10.1073/pnas.0914228107",
+            "year": 2010,
+            "verified": "crossref"
+        },
+        "wong1995": {
+            "citation": "Wong, Y.M.; Moore, P.G. (1995). Biology of feeding in the scavenging isopod Natatolana borealis (Isopoda: Cirolanidae). Ophelia 43: 181-196.",
+            "doi": "10.1080/00785326.1995.10429830",
+            "year": 1995,
+            "verified": "crossref"
+        },
+        "kaimmalka1997": {
+            "citation": "Kaïm-Malka, R.A. (1997). Biology and life cycle of Natatolana borealis Lilj.1851, a scavenging isopod from the continental slope of the Mediterranean. Deep Sea Research Part I: Oceanographic Research Papers 44: 2045-2067.",
+            "doi": "10.1016/s0967-0637(97)00050-2",
+            "year": 1997,
+            "verified": "crossref"
         }
-    }
+    },
+    "family_ecology": {
+        "Asconiscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Bopyridae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Cabiropidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Capitoniscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Cirolanidae": {
+            "trophic": "Micropredator/scavenger",
+            "evd": "b",
+            "source_refs": [
+                "wong1995",
+                "kaimmalka1997"
+            ],
+            "note": "scavenger/micropredator on carrion"
+        },
+        "Crinoniscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Cryptoniscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Cryptoniscoidea incertae sedis": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Cryptothiridae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Cumoechidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Cymothoidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "smit2014"
+            ],
+            "note": "obligate parasite of fishes (external, branchial or buccal)"
+        },
+        "Cyproniscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Dajidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Entoniscidae": {
+            "trophic": "Parasite (endoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "endoparasite in the haemocoel of decapods"
+        },
+        "Entophilidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Gnathiidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "smit2004"
+            ],
+            "note": "praniza larvae are temporary blood-feeding ectoparasites of fishes; adults do not feed"
+        },
+        "Hemioniscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Ionidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Limnoriidae": {
+            "trophic": "Wood-borer",
+            "evd": "b",
+            "source_refs": [
+                "king2010"
+            ],
+            "note": "bores and digests lignocellulose without gut microbes"
+        },
+        "Microniscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Podasconidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        },
+        "Stellatoniscidae": {
+            "trophic": "Parasite (ectoparasite)",
+            "evd": "b",
+            "source_refs": [
+                "williams2012"
+            ],
+            "note": "obligate parasite of crustaceans (Epicaridea)"
+        }
+    },
+    "_family_ecology_comment": "FAMILY-LEVEL trophic guild, applied only where a species has no species-level entry in `entries`. Deliberately separate from `entries` because the vault's rule is no family-level guessing: every assignment here is an explicit family-wide inference at evidence grade b, each backed by a CrossRef-verified review of that family's feeding biology. Families whose feeding biology lacks such a reference (e.g. Aegidae, Corallanidae) are intentionally absent rather than assigned. Species-level data in `entries` always wins."
 }

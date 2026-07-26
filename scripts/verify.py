@@ -230,6 +230,33 @@ def _():
     return bad
 
 
+@check("family-level ecology is cited, and never overrides species-level data")
+def _():
+    doc = json.loads((V.DATA / "ecology.json").read_text(encoding="utf-8"))
+    refs = doc.get("references", {})
+    fam = doc.get("family_ecology", {})
+    species_level = {e["match"] for e in doc["entries"] if not e["match"].endswith(" *")}
+    fams_on_disk = {p.name for sub in V.ISOPODA.iterdir() if sub.is_dir()
+                    for p in sub.iterdir() if p.is_dir()}
+    bad = []
+    for name, fe in fam.items():
+        if name not in fams_on_disk:
+            bad.append("family_ecology names %r, which is not a family on disk" % name)
+        if not fe.get("source_refs"):
+            bad.append("%s: family-level assignment with no citation" % name)
+        for k in fe.get("source_refs") or []:
+            if k not in refs:
+                bad.append("%s cites unknown ref %r" % (name, k))
+        if fe.get("evd") != "b":
+            bad.append("%s: family-level inference must be grade b, got %r" % (name, fe.get("evd")))
+    # a species with its own entry must keep species-level evidence, not "(family)"
+    for p, fm, _b in _species_notes():
+        sci = _fm_get(fm, "scientificName")
+        if sci in species_level and "(family)" in _fm_get(fm, "ecology_evidence"):
+            bad.append("%s has a species-level entry but carries family-level evidence" % sci)
+    return bad
+
+
 @check("index notes are up to date with the tree")
 def _():
     """Regenerate index content in memory and compare — catches a tree edited

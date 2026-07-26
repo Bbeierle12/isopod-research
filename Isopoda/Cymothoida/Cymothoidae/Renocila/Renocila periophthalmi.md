@@ -15,9 +15,9 @@ ecomorph:
 conglobation_type:
 terrestrialization:
 habitat_stratum:
-trophic_guild:
+trophic_guild: Parasite (ectoparasite)
 reproduction_mode:
-ecology_evidence:
+ecology_evidence: "trophic:b (family) refs:smit2014"
 sources:
 status: stub
 worms_aphia_id: 258310

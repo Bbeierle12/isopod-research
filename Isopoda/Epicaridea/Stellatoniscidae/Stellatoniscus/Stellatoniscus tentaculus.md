@@ -24,9 +24,9 @@ ecomorph:
 conglobation_type: 
 terrestrialization: 
 habitat_stratum: 
-trophic_guild: 
+trophic_guild: Parasite (ectoparasite)
 reproduction_mode: 
-ecology_evidence: 
+ecology_evidence: "trophic:b (family) refs:williams2012"
 realm: marine
 worms_aphia_id: 1470774
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1470774"

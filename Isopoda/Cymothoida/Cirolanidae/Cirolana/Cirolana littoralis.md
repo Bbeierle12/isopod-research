@@ -15,9 +15,9 @@ ecomorph:
 conglobation_type:
 terrestrialization:
 habitat_stratum:
-trophic_guild:
+trophic_guild: Micropredator/scavenger
 reproduction_mode:
-ecology_evidence:
+ecology_evidence: "trophic:b (family) refs:wong1995,kaimmalka1997"
 sources:
 status: stub
 worms_aphia_id: 256539

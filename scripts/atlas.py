@@ -5,8 +5,10 @@ Two kinds of filter, at two scopes:
   * RESEARCH axes (ecomorph, terrestrialization, habitat stratum, trophic guild,
     reproduction) plus REALM span the whole Isopoda taxonomy. Fields are
     scaffolded blank on every species note and populated only where we have data
-    (data/ecology.json, species-level) — "blank until researched", no
-    family-level guessing. Studied taxa carry a/b/c evidence grades. Ecomorph and
+    (data/ecology.json) — "blank until researched". Species-level entries carry
+    a/b/c evidence grades; a separate `family_ecology` block supplies a trophic
+    guild for families whose feeding biology is well established, as an explicit
+    grade-b family-wide inference marked "(family)" and reported separately. Ecomorph and
     terrestrialization are terrestrial-isopod concepts (Schmalfuss); their maps
     are labelled accordingly.
   * HUSBANDRY facets (size, biome, region, moisture, difficulty, bioactive role,
@@ -151,6 +153,7 @@ def norm_trophic(v):
     v = (v or "").lower()
     if not v: return ""
     if "wood" in v and "bor" in v: return "Wood-borer"
+    if "endoparasit" in v: return "Parasite (endoparasite)"
     if "parasit" in v: return "Parasite (ectoparasite)"
     if any(k in v for k in ["predator", "scaveng", "micropred"]): return "Micropredator/scavenger"
     if any(k in v for k in ["filter", "deposit-feed", "suspension"]): return "Filter/deposit-feeder"
@@ -209,6 +212,10 @@ with open(os.path.join(VAULT, "data", "ecology.json"), "r", encoding="utf-8") as
     _eco_doc = json.load(f)
 eco = _eco_doc["entries"]
 ECO_REFS = _eco_doc.get("references", {})
+# FAMILY-level trophic guilds: an explicit family-wide inference (grade b), used
+# only where a species has no species-level entry. Kept separate so the two
+# evidence tiers never blur — see _family_ecology_comment in data/ecology.json.
+ECO_FAMILY = _eco_doc.get("family_ecology", {})
 eco_exact = {e["match"]: e for e in eco if not e["match"].endswith(" *")}
 eco_genus = {e["match"][:-2]: e for e in eco if e["match"].endswith(" *")}
 
@@ -239,13 +246,29 @@ def eco_sources(e):
     return [ECO_REFS[k]["citation"] for k in (e.get("source_refs") or []) if k in ECO_REFS]
 
 
+def family_row(family):
+    """Family-level research values for a species with no entry of its own."""
+    fe = ECO_FAMILY.get(family)
+    if not fe:
+        return None
+    return {"trophic": fe["trophic"], "evd_trophic": "%s (family)" % fe.get("evd", "b"),
+            "refs": fe.get("source_refs") or []}
+
+
 RESEARCH_KEYS = ("ecomorph", "terrestrialization", "stratum", "trophic", "reproduction")
 
 
 def is_graded(row):
-    """A row is 'classified' (studied) only if it carries at least one populated
-    research axis — realm alone does not count."""
+    """A row is 'classified' if it carries at least one populated research axis —
+    realm alone does not count."""
     return any(row[k] for k in RESEARCH_KEYS)
+
+
+def is_family_level(row):
+    """True when a row's only classification came from its family, not the
+    species. The two tiers are reported separately so a family-wide inference is
+    never presented as species-level study."""
+    return "(family)" in (row.get("evd_trophic") or "")
 
 
 # ---------- map builder ----------
@@ -335,11 +358,22 @@ def run():
                 "terrestrialization": e.get("terrestrialization", "") if e else "",
                 "habitat_stratum": e.get("stratum", "") if e else "", "trophic_guild": e.get("trophic", "") if e else "",
                 "reproduction_mode": e.get("reproduction", "") if e else "", "ecology_evidence": eco_evidence(e) if e else ""}
+        row = research_row(name, family, e, realm)           # e may be None (blank row)
+        if not e:
+            # no species-level data: fall back to the family's trophic guild,
+            # marked "(family)" so it can never be mistaken for grade-a species data
+            fr = family_row(family)
+            if fr:
+                vals["trophic_guild"] = fr["trophic"]
+                vals["ecology_evidence"] = "trophic:%s refs:%s" % (
+                    fr["evd_trophic"], ",".join(fr["refs"]))
+                row["trophic"] = fr["trophic"]
+                row["evd_trophic"] = fr["evd_trophic"]
         scaffold_fields(path, vals)
         if not rm:
             set_fields(path, {"realm": realm})
         scaffolded += 1
-        rrows.append(research_row(name, family, e, realm))   # e may be None (blank row)
+        rrows.append(row)
 
     # provisional hobby forms carry genus-level research (evidence-graded)
     for r in forms:
@@ -351,7 +385,9 @@ def run():
     if not DRY:
         V.MAPS.mkdir(parents=True, exist_ok=True)
 
-    classified = sum(1 for r in rrows if is_graded(r))   # genuinely studied taxa
+    classified = sum(1 for r in rrows if is_graded(r))
+    fam_level = sum(1 for r in rrows if is_graded(r) and is_family_level(r))
+    sp_level = classified - fam_level
     NH = "hobby forms"
     NT = "of %d Isopoda species" % len(rrows)             # denom matches the rendered pool
 
@@ -372,7 +408,7 @@ def run():
     res.append(facet_map("By Ecomorph Type.md", "By Ecomorph Type", "ecomorph", ["Runner", "Clinger", "Roller", "Creeper", "Spiny", "Non-conformist"], rrows, NT, True, "evd_stratum", None, "Schmalfuss (1984) ecomorphological strategy — a terrestrial-isopod axis."))
     res.append(facet_map("By Terrestrialization.md", "By Terrestrialization", "terrestrialization", ["littoral", "hygrophilous", "mesophilous", "xerophilous"], rrows, NT, True, "evd_stratum", None, "Degree of independence from water — a terrestrial-isopod axis."))
     res.append(facet_map("By Habitat Stratum.md", "By Habitat Stratum", "stratum", ["EN", "EP", "CO", "AR", "CA", "LI", "SA", "MY", "BE", "PE", "IN", "WB", "HA", "GW"], rrows, NT, True, "evd_stratum", stratum_primary, "EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest · BE benthic · PE pelagic · IN interstitial · WB wood-boring · HA host-associated · GW groundwater."))
-    res.append(facet_map("By Trophic Guild.md", "By Trophic Guild", "trophic", ["General detritivore", "Detritivore/coprophage", "Detritivore (+herbivore)", "Algivore/detritivore", "Wood-borer", "Micropredator/scavenger", "Parasite (ectoparasite)", "Filter/deposit-feeder", "Detritivore (assumed/unstudied)"], rrows, NT, True, "evd_trophic", norm_trophic, "Feeding guild."))
+    res.append(facet_map("By Trophic Guild.md", "By Trophic Guild", "trophic", ["General detritivore", "Detritivore/coprophage", "Detritivore (+herbivore)", "Algivore/detritivore", "Wood-borer", "Micropredator/scavenger", "Parasite (ectoparasite)", "Parasite (endoparasite)", "Filter/deposit-feeder", "Detritivore (assumed/unstudied)"], rrows, NT, True, "evd_trophic", norm_trophic, "Feeding guild. Rows marked b (family) are a cited family-wide inference, not species-level study."))
     res.append(facet_map("By Reproduction.md", "By Reproduction", "reproduction", ["Sexual", "Sexual (assumed)", "Parthenogenetic", "Subsocial (biparental)"], rrows, NT, True, "evd_life", norm_repro, "Reproductive mode / life-history highlight."))
 
     # ---- patterns ----
@@ -392,9 +428,14 @@ def run():
     H = ["---", "type: index", "category: atlas-hub", "tags: [isopod, atlas, moc]", "---", "", "# Isopod Atlas", "",
          "Facet & pattern cross-reference. **Realm and research axes span all %d Isopoda species** (hobby + non-hobby); "
          "**husbandry facets** cover the %d hobby forms. Generated by `scripts/atlas.py` (%s)." % (len(tax_species), len(rows), GEN), "",
-         "> [!info] Blank until researched", "> Every species note carries the research-filter fields "
-         "(ecomorph, terrestrialization, habitat stratum, trophic guild, reproduction), populated only where studied "
-         "(%d so far, evidence-graded a/b/c). No family-level guessing — add rows to `data/ecology.json` to classify more." % classified, "",
+         "> [!info] Two evidence tiers", "> Every species note carries the research-filter fields "
+         "(ecomorph, terrestrialization, habitat stratum, trophic guild, reproduction). "
+         "**%d species** are classified from species-level study (evidence a/b/c). A further "
+         "**%d** carry only a *family-level* trophic guild — an explicit family-wide inference at "
+         "grade **b**, each backed by a cited review of that family's feeding biology and marked "
+         "`(family)` in `ecology_evidence`, never presented as species-level data. Everything else "
+         "is blank until researched; add rows to `data/ecology.json` to classify more."
+         % (sp_level, fam_level), "",
          "## Taxonomy-wide axes  <small>(all Isopoda)</small>", ""]
     for title, fname, n in res:
         H.append("- [[%s|%s]] — %d classified" % (fname[:-3], title, n))
@@ -403,7 +444,8 @@ def run():
         H.append("- [[%s|%s]] — %d" % (fname[:-3], title, n))
     # sources behind the research axes — every claim in data/ecology.json is
     # either backed by one of these or explicitly marked unsourced
-    cited = sorted({k for e in eco for k in (e.get("source_refs") or [])})
+    cited = sorted({k for e in eco for k in (e.get("source_refs") or [])}
+                   | {k for fe in ECO_FAMILY.values() for k in (fe.get("source_refs") or [])})
     H += ["", "## Sources  <small>(research axes)</small>", "",
           "%d of %d ecology entries cite a published source; the rest are marked "
           "explicitly unsourced in `data/ecology.json` rather than assumed."
@@ -421,7 +463,9 @@ def run():
 
     print("Atlas: %d husbandry + %d taxonomy-wide maps + Patterns + hub.%s"
           % (len(husb), len(res), "  [DRY RUN]" if DRY else ""))
-    print("Scaffolded research fields onto %d species notes; %d studied (evidence-graded)." % (scaffolded, classified))
+    print("Scaffolded research fields onto %d species notes; %d classified "
+          "(%d species-level, %d family-level inference)."
+          % (scaffolded, classified, sp_level, fam_level))
 
 
 def main():

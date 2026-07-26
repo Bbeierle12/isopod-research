@@ -8,7 +8,7 @@ tags: [isopod, atlas, patterns]
 Counts; `·` = none. ← [[_Isopod Atlas]]
 
 > [!note] Scope per matrix
-> Husbandry matrices cover the 112 hobby forms; the research matrix (Ecomorph × Terrestrialization) covers the 34 species classified so far. Blank-until-researched: unclassified species are simply absent.
+> Husbandry matrices cover the 112 hobby forms; the research matrix (Ecomorph × Terrestrialization) covers the 2233 species classified so far. Blank-until-researched: unclassified species are simply absent.
 
 ## Biome × Conglobation  <small>(hobby)</small>
 
