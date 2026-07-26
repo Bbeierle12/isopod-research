@@ -34,7 +34,7 @@ terrestrialization: hygrophilous
 habitat_stratum: EP
 trophic_guild: Detritivore
 reproduction_mode: sexual (iteroparous)
-ecology_evidence: "stratum:a trophic:b life:a"
+ecology_evidence: "stratum:a trophic:b life:a refs:schmalfuss1984,araujo2005"
 realm: terrestrial
 worms_aphia_id: 259146
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259146"

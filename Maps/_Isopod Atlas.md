@@ -31,6 +31,24 @@ Facet & pattern cross-reference. **Realm and research axes span all 11435 Isopod
 - [[By Bioactive Role|By Bioactive Role]] — 112
 - [[By Taxon Status|By Taxon Status]] — 112
 
+## Sources  <small>(research axes)</small>
+
+22 of 24 ecology entries cite a published source; the rest are marked explicitly unsourced in `data/ecology.json` rather than assumed.
+
+- Araujo, P.B.; Bond-Buckup, G. (2005). Population structure and reproductive biology of Atlantoscia floridana (van Name, 1940) (Crustacea, Isopoda, Oniscidea) in southern Brazil. Acta Oecologica 28: 289-298. https://doi.org/10.1016/j.actao.2005.05.005
+- Badawi, M.; Grève, P.; Cordaux, R. (2015). Feminization of the Isopod Cylisticus convexus after Transinfection of the wVulC Wolbachia Strain of Armadillidium vulgare. PLOS ONE 10: e0128660. https://doi.org/10.1371/journal.pone.0128660
+- Bouchon, D.; Rigaud, T.; Juchault, P. (1998). Evidence for widespread Wolbachia infection in isopod crustaceans: molecular identification and host feminization. Proceedings of the Royal Society of London. Series B: Biological Sciences 265: 1081-1090. https://doi.org/10.1098/rspb.1998.0402
+- Carefoot, T.H. (1973). Feeding, food preference, and the uptake of food energy by the supralittoral isopod Ligia pallasii. Marine Biology 18: 228-236. https://doi.org/10.1007/bf00367989
+- Cordaux, R.; Michel-Salzat, A.; Frelon-Raimond, M.; Rigaud, T.; Bouchon, D. (2004). Evidence for a new feminizing Wolbachia strain in the isopod Armadillidium vulgare: evolutionary implications. Heredity 93: 78-84. https://doi.org/10.1038/sj.hdy.6800482
+- Fussey, G.D. (1984). The distribution of the two forms of the woodlouse Trichoniscus pusillus Brandt (Isopoda: Oniscoidea) in the British Isles: a reassessment of geographic parthenogenesis. Biological Journal of the Linnean Society 22: 309-321. https://doi.org/10.1111/j.1095-8312.1984.tb01681.x
+- Hamner, W.M.; Smyth, M.; Mulford, E.D. (1969). The Behavior and Life History of a Sand-Beach Isopod, Tylos Punctatus. Ecology 50: 442-453. https://doi.org/10.2307/1933895
+- Linsenmair, K.E. (1994). Reproductive behaviour and chemical communication in the monogamous desert isopod, Hemilepistus reaumuri and some other subsocial isopods. Ethology Ecology & Evolution 6: 3-4. https://doi.org/10.1080/03949370.1994.10721964
+- Parmentier, T.; Vanderheyden, A.; Dekoninck, W.; Wenseleers, T. (2017). Body size in the ant-associated isopod Platyarthrus hoffmannseggii is host-dependent. Biological Journal of the Linnean Society 121: 305-311. https://doi.org/10.1093/biolinnean/blw052
+- Rigaud, T.; Juchault, P.; Mocquard, J. (1997). The evolution of sex determination in isopod crustaceans. BioEssays 19: 409-416. https://doi.org/10.1002/bies.950190508
+- Schmalfuss, H. (1984). Eco-morphological strategies in terrestrial isopods. Symposia of the Zoological Society of London 53.
+- Smigel, J.T.; Gibbs, A.G. (2008). Conglobation in the Pill Bug, Armadillidium vulgare, as a Water Conservation Mechanism. Journal of Insect Science 8: 1-9. https://doi.org/10.1673/031.008.4401
+- Zimmer, M. (2002). Nutrition in terrestrial isopods (Isopoda: Oniscidea): an evolutionary-ecological approach. Biological Reviews 77: 455-493. https://doi.org/10.1017/s1464793102005912
+
 ## Pattern analysis
 
 - [[Patterns|Pattern matrices]]

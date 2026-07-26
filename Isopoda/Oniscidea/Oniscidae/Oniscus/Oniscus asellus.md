@@ -34,7 +34,7 @@ terrestrialization: hygrophilous
 habitat_stratum: EP/CO
 trophic_guild: General detritivore
 reproduction_mode: sexual (sperm storage)
-ecology_evidence: "stratum:a trophic:a life:a/b"
+ecology_evidence: "stratum:a trophic:a life:a/b refs:schmalfuss1984,zimmer2002,bouchon1998"
 realm: terrestrial
 worms_aphia_id: 257580
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257580"

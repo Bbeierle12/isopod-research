@@ -34,7 +34,7 @@ terrestrialization: littoral
 habitat_stratum: LI
 trophic_guild: Algivore/detritivore (beach-cast algae)
 reproduction_mode: sexual
-ecology_evidence: "stratum:a trophic:a life:b"
+ecology_evidence: "stratum:a trophic:a life:b refs:schmalfuss1984,carefoot1973"
 realm: terrestrial
 worms_status: no record
 tags: [isopod, oniscidea, ligiidae]

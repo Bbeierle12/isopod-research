@@ -34,7 +34,7 @@ terrestrialization: xerophilous
 habitat_stratum: EN/EP
 trophic_guild: Detritivore/facultative herbivore
 reproduction_mode: "sexual; subsocial, monogamous, biparental"
-ecology_evidence: "stratum:a trophic:a life:a"
+ecology_evidence: "stratum:a trophic:a life:a refs:schmalfuss1984,linsenmair1994"
 realm: terrestrial
 worms_status: no record
 tags: [isopod, oniscidea, agnaridae, hobby]

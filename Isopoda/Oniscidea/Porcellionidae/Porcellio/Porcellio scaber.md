@@ -34,7 +34,7 @@ terrestrialization: mesophilous
 habitat_stratum: EP/CO
 trophic_guild: General detritivore
 reproduction_mode: sexual
-ecology_evidence: "stratum:a trophic:a life:a"
+ecology_evidence: "stratum:a trophic:a life:a refs:schmalfuss1984,zimmer2002"
 realm: terrestrial
 worms_aphia_id: 262440
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262440"

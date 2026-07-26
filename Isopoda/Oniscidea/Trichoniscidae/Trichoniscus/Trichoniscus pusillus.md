@@ -34,7 +34,7 @@ terrestrialization: hygrophilous
 habitat_stratum: EN/EP
 trophic_guild: General detritivore
 reproduction_mode: parthenogenetic triploid + sexual diploid
-ecology_evidence: "stratum:a trophic:a/b life:a"
+ecology_evidence: "stratum:a trophic:a/b life:a refs:schmalfuss1984,fussey1984"
 realm: terrestrial
 worms_aphia_id: 263752
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263752"

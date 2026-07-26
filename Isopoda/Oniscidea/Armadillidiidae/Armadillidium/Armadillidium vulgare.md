@@ -34,7 +34,7 @@ terrestrialization: mesophilous
 habitat_stratum: EP
 trophic_guild: General detritivore (+facultative herbivore)
 reproduction_mode: sexual (Wolbachia/f-element feminization)
-ecology_evidence: "stratum:a trophic:a life:a"
+ecology_evidence: "stratum:a trophic:a life:a refs:schmalfuss1984,cordaux2004,rigaud1997,smigel2008,zimmer2002"
 realm: terrestrial
 worms_aphia_id: 257832
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257832"

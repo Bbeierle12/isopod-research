@@ -196,7 +196,9 @@ def scaffold_fields(path, fields):
 with open(os.path.join(VAULT, "data", "isopods.json"), "r", encoding="utf-8") as f:
     records = json.load(f)["records"]
 with open(os.path.join(VAULT, "data", "ecology.json"), "r", encoding="utf-8") as f:
-    eco = json.load(f)["entries"]
+    _eco_doc = json.load(f)
+eco = _eco_doc["entries"]
+ECO_REFS = _eco_doc.get("references", {})
 eco_exact = {e["match"]: e for e in eco if not e["match"].endswith(" *")}
 eco_genus = {e["match"][:-2]: e for e in eco if e["match"].endswith(" *")}
 
@@ -216,7 +218,15 @@ def research_row(display, family, e, realm="terrestrial"):
 
 def eco_evidence(e):
     d = e.get("evd", {})
-    return "stratum:%s trophic:%s life:%s" % (d.get("stratum", "?"), d.get("trophic", "?"), d.get("life", "?"))
+    s = "stratum:%s trophic:%s life:%s" % (d.get("stratum", "?"), d.get("trophic", "?"), d.get("life", "?"))
+    refs = e.get("source_refs") or []
+    return "%s refs:%s" % (s, ",".join(refs)) if refs else s
+
+
+def eco_sources(e):
+    """Rendered citation list for a species' ecology claims (empty when the
+    entry has no verifiable published source)."""
+    return [ECO_REFS[k]["citation"] for k in (e.get("source_refs") or []) if k in ECO_REFS]
 
 
 RESEARCH_KEYS = ("ecomorph", "terrestrialization", "stratum", "trophic", "reproduction")
@@ -385,6 +395,19 @@ def run():
     H += ["", "## Husbandry facets  <small>(hobby forms)</small>", ""]
     for title, fname, n in husb:
         H.append("- [[%s|%s]] — %d" % (fname[:-3], title, n))
+    # sources behind the research axes — every claim in data/ecology.json is
+    # either backed by one of these or explicitly marked unsourced
+    cited = sorted({k for e in eco for k in (e.get("source_refs") or [])})
+    H += ["", "## Sources  <small>(research axes)</small>", "",
+          "%d of %d ecology entries cite a published source; the rest are marked "
+          "explicitly unsourced in `data/ecology.json` rather than assumed."
+          % (sum(1 for e in eco if e.get("source_refs")), len(eco)), ""]
+    for k in cited:
+        r = ECO_REFS.get(k)
+        if not r:
+            continue
+        doi = " https://doi.org/%s" % r["doi"] if r.get("doi") else ""
+        H.append("- %s%s" % (r["citation"], doi))
     H += ["", "## Pattern analysis", "", "- [[Patterns|Pattern matrices]]", "", "## See also", "",
           "- [[_Isopoda Index|Isopoda taxonomy]] · [[_Hobby Catalog|Hobby catalog]]",
           "- [[Isopod Categorization & Research Outline]] · [[Isopod Species Ecology Data]]", ""]

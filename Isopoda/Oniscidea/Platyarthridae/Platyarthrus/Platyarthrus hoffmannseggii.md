@@ -34,7 +34,7 @@ terrestrialization: hygrophilous
 habitat_stratum: MY
 trophic_guild: Coprophage/detritivore (ant nests)
 reproduction_mode: sexual (parthenogenesis suspected)
-ecology_evidence: "stratum:a trophic:a life:b/c"
+ecology_evidence: "stratum:a trophic:a life:b/c refs:schmalfuss1984,parmentier2017"
 realm: terrestrial
 worms_aphia_id: 262159
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262159"

@@ -1,29 +1,485 @@
 {
- "_comment": "Research-sourced scientific axes for the Isopod Atlas. evd=evidence (a=fact, b=inferred, c=unstudied). realm: terrestrial|littoral|brackish|freshwater|interstitial|marine. ecomorph: Runner|Clinger|Roller|Creeper|Spiny|Non-conformist. terrestrialization: littoral|hygrophilous|mesophilous|xerophilous. stratum: EN|EP|CO|AR|CA|LI|SA|MY|BE|PE|IN|WB|HA|GW. trophic: General detritivore|Detritivore/coprophage|Detritivore (+herbivore)|Algivore/detritivore|Wood-borer|Micropredator/scavenger|Parasite (ectoparasite)|Filter/deposit-feeder|Detritivore (assumed/unstudied).",
- "entries": [
-  {"match": "Armadillidium vulgare", "ecomorph": "Roller", "terrestrialization": "mesophilous", "stratum": "EP", "trophic": "General detritivore (+facultative herbivore)", "reproduction": "sexual (Wolbachia/f-element feminization)", "evd": {"stratum": "a", "trophic": "a", "life": "a"}},
-  {"match": "Porcellio scaber", "ecomorph": "Clinger", "terrestrialization": "mesophilous", "stratum": "EP/CO", "trophic": "General detritivore", "reproduction": "sexual", "evd": {"stratum": "a", "trophic": "a", "life": "a"}},
-  {"match": "Porcellio laevis", "ecomorph": "Clinger", "terrestrialization": "hygrophilous", "stratum": "EP", "trophic": "General detritivore/coprophage", "reproduction": "sexual (sperm storage)", "evd": {"stratum": "a", "trophic": "a", "life": "a"}},
-  {"match": "Porcellionides pruinosus", "ecomorph": "Runner", "terrestrialization": "mesophilous", "stratum": "EP", "trophic": "General detritivore", "reproduction": "sexual", "evd": {"stratum": "a", "trophic": "a", "life": "a"}},
-  {"match": "Hemilepistus reaumuri", "ecomorph": "Runner", "terrestrialization": "xerophilous", "stratum": "EN/EP", "trophic": "Detritivore/facultative herbivore", "reproduction": "sexual; subsocial, monogamous, biparental", "evd": {"stratum": "a", "trophic": "a", "life": "a"}},
-  {"match": "Platyarthrus hoffmannseggii", "ecomorph": "Non-conformist", "terrestrialization": "hygrophilous", "stratum": "MY", "trophic": "Coprophage/detritivore (ant nests)", "reproduction": "sexual (parthenogenesis suspected)", "evd": {"stratum": "a", "trophic": "a", "life": "b/c"}},
-  {"match": "Trichoniscus pusillus", "ecomorph": "Creeper", "terrestrialization": "hygrophilous", "stratum": "EN/EP", "trophic": "General detritivore", "reproduction": "parthenogenetic triploid + sexual diploid", "evd": {"stratum": "a", "trophic": "a/b", "life": "a"}},
-  {"match": "Oniscus asellus", "ecomorph": "Clinger", "terrestrialization": "hygrophilous", "stratum": "EP/CO", "trophic": "General detritivore", "reproduction": "sexual (sperm storage)", "evd": {"stratum": "a", "trophic": "a", "life": "a/b"}},
-  {"match": "Cylisticus convexus", "ecomorph": "Roller", "terrestrialization": "mesophilous", "stratum": "EP/SA", "trophic": "General detritivore", "reproduction": "sexual (feminizable by wVulC)", "evd": {"stratum": "a", "trophic": "b", "life": "a/b"}},
-  {"match": "Armadillidium nasatum", "ecomorph": "Roller", "terrestrialization": "mesophilous", "stratum": "EP", "trophic": "General detritivore", "reproduction": "sexual (NOT parthenogenetic)", "evd": {"stratum": "a", "trophic": "a", "life": "a/b"}},
-  {"match": "Armadillidium maculatum", "ecomorph": "Roller", "terrestrialization": "mesophilous", "stratum": "EP/SA", "trophic": "General detritivore", "reproduction": "sexual", "evd": {"stratum": "a/b", "trophic": "b", "life": "a/b"}},
-  {"match": "Armadillidium klugii", "ecomorph": "Roller", "terrestrialization": "mesophilous", "stratum": "SA", "trophic": "General detritivore", "reproduction": "sexual", "evd": {"stratum": "a", "trophic": "b", "life": "a/b"}},
-  {"match": "Porcellio dilatatus", "ecomorph": "Clinger", "terrestrialization": "mesophilous", "stratum": "EP", "trophic": "General detritivore", "reproduction": "sexual", "evd": {"stratum": "a/b", "trophic": "b", "life": "b"}},
-  {"match": "Porcellio hoffmannseggi", "ecomorph": "Clinger", "terrestrialization": "xerophilous", "stratum": "SA/EP", "trophic": "General detritivore", "reproduction": "sexual", "evd": {"stratum": "b", "trophic": "b", "life": "b"}},
-  {"match": "Armadillo officinalis", "ecomorph": "Roller", "terrestrialization": "xerophilous", "stratum": "EP/SA", "trophic": "General detritivore", "reproduction": "sexual (monolayer marsupial sac)", "evd": {"stratum": "b", "trophic": "b", "life": "b"}},
-  {"match": "Trichorhina tomentosa", "ecomorph": "Non-conformist", "terrestrialization": "hygrophilous", "stratum": "EN/EP", "trophic": "General detritivore (micro cleanup)", "reproduction": "obligate parthenogenesis (all-female)", "evd": {"stratum": "a/b", "trophic": "a/b", "life": "a"}},
-  {"match": "Venezillo parvus", "ecomorph": "Roller", "terrestrialization": "hygrophilous", "stratum": "EP", "trophic": "Detritivore (assumed)", "reproduction": "sexual (assumed)", "evd": {"stratum": "b", "trophic": "c", "life": "c"}},
-  {"match": "Nagurus cristatus", "ecomorph": "Runner", "terrestrialization": "hygrophilous", "stratum": "EP", "trophic": "Detritivore (assumed)", "reproduction": "sexual (assumed)", "evd": {"stratum": "b", "trophic": "c", "life": "c"}},
-  {"match": "Atlantoscia floridana", "ecomorph": "Runner", "terrestrialization": "hygrophilous", "stratum": "EP", "trophic": "Detritivore", "reproduction": "sexual (iteroparous)", "evd": {"stratum": "a", "trophic": "b", "life": "a"}},
-  {"match": "Tylos punctatus", "ecomorph": "Roller", "terrestrialization": "littoral", "stratum": "LI", "trophic": "Algivore/detritivore (beach-cast algae)", "reproduction": "sexual", "evd": {"stratum": "a", "trophic": "a", "life": "b"}},
-  {"match": "Deto echinata", "ecomorph": "Runner", "terrestrialization": "littoral", "stratum": "LI", "trophic": "Detritivore", "reproduction": "sexual", "evd": {"stratum": "b", "trophic": "b", "life": "c"}},
-  {"match": "Ligia *", "ecomorph": "Runner", "terrestrialization": "littoral", "stratum": "LI", "trophic": "Algivore/detritivore (beach-cast algae)", "reproduction": "sexual", "evd": {"stratum": "a", "trophic": "a", "life": "b"}},
-  {"match": "Merulanella *", "ecomorph": "Spiny", "terrestrialization": "hygrophilous", "stratum": "EP/CA", "trophic": "Detritivore (assumed)", "reproduction": "sexual (assumed)", "evd": {"stratum": "b/c", "trophic": "c", "life": "b/c"}},
-  {"match": "Cubaris *", "ecomorph": "Roller", "terrestrialization": "hygrophilous", "stratum": "CA/SA", "trophic": "Detritivore + wood/calcium", "reproduction": "sexual (assumed)", "evd": {"stratum": "b/c", "trophic": "b/c", "life": "b/c"}}
- ]
+    "_comment": "Research-sourced scientific axes for the Isopod Atlas. evd=evidence (a=fact, b=inferred, c=unstudied). realm: terrestrial|littoral|brackish|freshwater|interstitial|marine. ecomorph: Runner|Clinger|Roller|Creeper|Spiny|Non-conformist. terrestrialization: littoral|hygrophilous|mesophilous|xerophilous. stratum: EN|EP|CO|AR|CA|LI|SA|MY|BE|PE|IN|WB|HA|GW. trophic: General detritivore|Detritivore/coprophage|Detritivore (+herbivore)|Algivore/detritivore|Wood-borer|Micropredator/scavenger|Parasite (ectoparasite)|Filter/deposit-feeder|Detritivore (assumed/unstudied). source_refs: keys into the references block; every reference is CrossRef-verified by DOI except where 'verified' says otherwise. An empty source_refs means no published source was located — the claim is explicitly unsupported, not silently assumed.",
+    "entries": [
+        {
+            "match": "Armadillidium vulgare",
+            "ecomorph": "Roller",
+            "terrestrialization": "mesophilous",
+            "stratum": "EP",
+            "trophic": "General detritivore (+facultative herbivore)",
+            "reproduction": "sexual (Wolbachia/f-element feminization)",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "cordaux2004",
+                "rigaud1997",
+                "smigel2008",
+                "zimmer2002"
+            ]
+        },
+        {
+            "match": "Porcellio scaber",
+            "ecomorph": "Clinger",
+            "terrestrialization": "mesophilous",
+            "stratum": "EP/CO",
+            "trophic": "General detritivore",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "zimmer2002"
+            ]
+        },
+        {
+            "match": "Porcellio laevis",
+            "ecomorph": "Clinger",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EP",
+            "trophic": "General detritivore/coprophage",
+            "reproduction": "sexual (sperm storage)",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "zimmer2002"
+            ]
+        },
+        {
+            "match": "Porcellionides pruinosus",
+            "ecomorph": "Runner",
+            "terrestrialization": "mesophilous",
+            "stratum": "EP",
+            "trophic": "General detritivore",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "zimmer2002"
+            ]
+        },
+        {
+            "match": "Hemilepistus reaumuri",
+            "ecomorph": "Runner",
+            "terrestrialization": "xerophilous",
+            "stratum": "EN/EP",
+            "trophic": "Detritivore/facultative herbivore",
+            "reproduction": "sexual; subsocial, monogamous, biparental",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "linsenmair1994"
+            ]
+        },
+        {
+            "match": "Platyarthrus hoffmannseggii",
+            "ecomorph": "Non-conformist",
+            "terrestrialization": "hygrophilous",
+            "stratum": "MY",
+            "trophic": "Coprophage/detritivore (ant nests)",
+            "reproduction": "sexual (parthenogenesis suspected)",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "b/c"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "parmentier2017"
+            ]
+        },
+        {
+            "match": "Trichoniscus pusillus",
+            "ecomorph": "Creeper",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EN/EP",
+            "trophic": "General detritivore",
+            "reproduction": "parthenogenetic triploid + sexual diploid",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a/b",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "fussey1984"
+            ]
+        },
+        {
+            "match": "Oniscus asellus",
+            "ecomorph": "Clinger",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EP/CO",
+            "trophic": "General detritivore",
+            "reproduction": "sexual (sperm storage)",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "a/b"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "zimmer2002",
+                "bouchon1998"
+            ]
+        },
+        {
+            "match": "Cylisticus convexus",
+            "ecomorph": "Roller",
+            "terrestrialization": "mesophilous",
+            "stratum": "EP/SA",
+            "trophic": "General detritivore",
+            "reproduction": "sexual (feminizable by wVulC)",
+            "evd": {
+                "stratum": "a",
+                "trophic": "b",
+                "life": "a/b"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "badawi2015"
+            ]
+        },
+        {
+            "match": "Armadillidium nasatum",
+            "ecomorph": "Roller",
+            "terrestrialization": "mesophilous",
+            "stratum": "EP",
+            "trophic": "General detritivore",
+            "reproduction": "sexual (NOT parthenogenetic)",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "a/b"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "bouchon1998"
+            ]
+        },
+        {
+            "match": "Armadillidium maculatum",
+            "ecomorph": "Roller",
+            "terrestrialization": "mesophilous",
+            "stratum": "EP/SA",
+            "trophic": "General detritivore",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "a/b",
+                "trophic": "b",
+                "life": "a/b"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Armadillidium klugii",
+            "ecomorph": "Roller",
+            "terrestrialization": "mesophilous",
+            "stratum": "SA",
+            "trophic": "General detritivore",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "a",
+                "trophic": "b",
+                "life": "a/b"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Porcellio dilatatus",
+            "ecomorph": "Clinger",
+            "terrestrialization": "mesophilous",
+            "stratum": "EP",
+            "trophic": "General detritivore",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "a/b",
+                "trophic": "b",
+                "life": "b"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "zimmer2002"
+            ]
+        },
+        {
+            "match": "Porcellio hoffmannseggi",
+            "ecomorph": "Clinger",
+            "terrestrialization": "xerophilous",
+            "stratum": "SA/EP",
+            "trophic": "General detritivore",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "b",
+                "trophic": "b",
+                "life": "b"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Armadillo officinalis",
+            "ecomorph": "Roller",
+            "terrestrialization": "xerophilous",
+            "stratum": "EP/SA",
+            "trophic": "General detritivore",
+            "reproduction": "sexual (monolayer marsupial sac)",
+            "evd": {
+                "stratum": "b",
+                "trophic": "b",
+                "life": "b"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Trichorhina tomentosa",
+            "ecomorph": "Non-conformist",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EN/EP",
+            "trophic": "General detritivore (micro cleanup)",
+            "reproduction": "obligate parthenogenesis (all-female)",
+            "evd": {
+                "stratum": "a/b",
+                "trophic": "a/b",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Venezillo parvus",
+            "ecomorph": "Roller",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EP",
+            "trophic": "Detritivore (assumed)",
+            "reproduction": "sexual (assumed)",
+            "evd": {
+                "stratum": "b",
+                "trophic": "c",
+                "life": "c"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Nagurus cristatus",
+            "ecomorph": "Runner",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EP",
+            "trophic": "Detritivore (assumed)",
+            "reproduction": "sexual (assumed)",
+            "evd": {
+                "stratum": "b",
+                "trophic": "c",
+                "life": "c"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Atlantoscia floridana",
+            "ecomorph": "Runner",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EP",
+            "trophic": "Detritivore",
+            "reproduction": "sexual (iteroparous)",
+            "evd": {
+                "stratum": "a",
+                "trophic": "b",
+                "life": "a"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "araujo2005"
+            ]
+        },
+        {
+            "match": "Tylos punctatus",
+            "ecomorph": "Roller",
+            "terrestrialization": "littoral",
+            "stratum": "LI",
+            "trophic": "Algivore/detritivore (beach-cast algae)",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "b"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "hamner1969"
+            ]
+        },
+        {
+            "match": "Deto echinata",
+            "ecomorph": "Runner",
+            "terrestrialization": "littoral",
+            "stratum": "LI",
+            "trophic": "Detritivore",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "b",
+                "trophic": "b",
+                "life": "c"
+            },
+            "source_refs": [
+                "schmalfuss1984"
+            ]
+        },
+        {
+            "match": "Ligia *",
+            "ecomorph": "Runner",
+            "terrestrialization": "littoral",
+            "stratum": "LI",
+            "trophic": "Algivore/detritivore (beach-cast algae)",
+            "reproduction": "sexual",
+            "evd": {
+                "stratum": "a",
+                "trophic": "a",
+                "life": "b"
+            },
+            "source_refs": [
+                "schmalfuss1984",
+                "carefoot1973"
+            ]
+        },
+        {
+            "match": "Merulanella *",
+            "ecomorph": "Spiny",
+            "terrestrialization": "hygrophilous",
+            "stratum": "EP/CA",
+            "trophic": "Detritivore (assumed)",
+            "reproduction": "sexual (assumed)",
+            "evd": {
+                "stratum": "b/c",
+                "trophic": "c",
+                "life": "b/c"
+            },
+            "source_refs": [],
+            "source_note": "no verifiable published source located; ecomorph/ecology inferred from hobby observation"
+        },
+        {
+            "match": "Cubaris *",
+            "ecomorph": "Roller",
+            "terrestrialization": "hygrophilous",
+            "stratum": "CA/SA",
+            "trophic": "Detritivore + wood/calcium",
+            "reproduction": "sexual (assumed)",
+            "evd": {
+                "stratum": "b/c",
+                "trophic": "b/c",
+                "life": "b/c"
+            },
+            "source_refs": [],
+            "source_note": "no verifiable published source located; ecomorph/ecology inferred from hobby observation"
+        }
+    ],
+    "references": {
+        "araujo2005": {
+            "citation": "Araujo, P.B.; Bond-Buckup, G. (2005). Population structure and reproductive biology of Atlantoscia floridana (van Name, 1940) (Crustacea, Isopoda, Oniscidea) in southern Brazil. Acta Oecologica 28: 289-298.",
+            "doi": "10.1016/j.actao.2005.05.005",
+            "year": 2005,
+            "verified": "crossref"
+        },
+        "badawi2015": {
+            "citation": "Badawi, M.; Grève, P.; Cordaux, R. (2015). Feminization of the Isopod Cylisticus convexus after Transinfection of the wVulC Wolbachia Strain of Armadillidium vulgare. PLOS ONE 10: e0128660.",
+            "doi": "10.1371/journal.pone.0128660",
+            "year": 2015,
+            "verified": "crossref"
+        },
+        "bouchon1998": {
+            "citation": "Bouchon, D.; Rigaud, T.; Juchault, P. (1998). Evidence for widespread Wolbachia infection in isopod crustaceans: molecular identification and host feminization. Proceedings of the Royal Society of London. Series B: Biological Sciences 265: 1081-1090.",
+            "doi": "10.1098/rspb.1998.0402",
+            "year": 1998,
+            "verified": "crossref"
+        },
+        "carefoot1973": {
+            "citation": "Carefoot, T.H. (1973). Feeding, food preference, and the uptake of food energy by the supralittoral isopod Ligia pallasii. Marine Biology 18: 228-236.",
+            "doi": "10.1007/bf00367989",
+            "year": 1973,
+            "verified": "crossref"
+        },
+        "cordaux2004": {
+            "citation": "Cordaux, R.; Michel-Salzat, A.; Frelon-Raimond, M.; Rigaud, T.; Bouchon, D. (2004). Evidence for a new feminizing Wolbachia strain in the isopod Armadillidium vulgare: evolutionary implications. Heredity 93: 78-84.",
+            "doi": "10.1038/sj.hdy.6800482",
+            "year": 2004,
+            "verified": "crossref"
+        },
+        "fussey1984": {
+            "citation": "Fussey, G.D. (1984). The distribution of the two forms of the woodlouse Trichoniscus pusillus Brandt (Isopoda: Oniscoidea) in the British Isles: a reassessment of geographic parthenogenesis. Biological Journal of the Linnean Society 22: 309-321.",
+            "doi": "10.1111/j.1095-8312.1984.tb01681.x",
+            "year": 1984,
+            "verified": "crossref"
+        },
+        "hamner1969": {
+            "citation": "Hamner, W.M.; Smyth, M.; Mulford, E.D. (1969). The Behavior and Life History of a Sand-Beach Isopod, Tylos Punctatus. Ecology 50: 442-453.",
+            "doi": "10.2307/1933895",
+            "year": 1969,
+            "verified": "crossref"
+        },
+        "linsenmair1994": {
+            "citation": "Linsenmair, K.E. (1994). Reproductive behaviour and chemical communication in the monogamous desert isopod, Hemilepistus reaumuri and some other subsocial isopods. Ethology Ecology & Evolution 6: 3-4.",
+            "doi": "10.1080/03949370.1994.10721964",
+            "year": 1994,
+            "verified": "crossref"
+        },
+        "parmentier2017": {
+            "citation": "Parmentier, T.; Vanderheyden, A.; Dekoninck, W.; Wenseleers, T. (2017). Body size in the ant-associated isopod Platyarthrus hoffmannseggii is host-dependent. Biological Journal of the Linnean Society 121: 305-311.",
+            "doi": "10.1093/biolinnean/blw052",
+            "year": 2017,
+            "verified": "crossref"
+        },
+        "rigaud1997": {
+            "citation": "Rigaud, T.; Juchault, P.; Mocquard, J. (1997). The evolution of sex determination in isopod crustaceans. BioEssays 19: 409-416.",
+            "doi": "10.1002/bies.950190508",
+            "year": 1997,
+            "verified": "crossref"
+        },
+        "schmalfuss1984": {
+            "citation": "Schmalfuss, H. (1984). Eco-morphological strategies in terrestrial isopods. Symposia of the Zoological Society of London 53.",
+            "doi": null,
+            "year": 1984,
+            "verified": "manual — pre-digital volume, no CrossRef/DOI record"
+        },
+        "smigel2008": {
+            "citation": "Smigel, J.T.; Gibbs, A.G. (2008). Conglobation in the Pill Bug, Armadillidium vulgare, as a Water Conservation Mechanism. Journal of Insect Science 8: 1-9.",
+            "doi": "10.1673/031.008.4401",
+            "year": 2008,
+            "verified": "crossref"
+        },
+        "zimmer2002": {
+            "citation": "Zimmer, M. (2002). Nutrition in terrestrial isopods (Isopoda: Oniscidea): an evolutionary-ecological approach. Biological Reviews 77: 455-493.",
+            "doi": "10.1017/s1464793102005912",
+            "year": 2002,
+            "verified": "crossref"
+        }
+    }
 }

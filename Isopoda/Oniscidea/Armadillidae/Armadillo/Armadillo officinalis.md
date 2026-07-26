@@ -34,7 +34,7 @@ terrestrialization: xerophilous
 habitat_stratum: EP/SA
 trophic_guild: General detritivore
 reproduction_mode: sexual (monolayer marsupial sac)
-ecology_evidence: "stratum:b trophic:b life:b"
+ecology_evidence: "stratum:b trophic:b life:b refs:schmalfuss1984"
 realm: terrestrial
 worms_aphia_id: 259095
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259095"
