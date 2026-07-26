@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Adult length: Micro ≤5 · Small 6–10 · Medium 11–15 · Large >15 mm.
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Micro  <small>(9)</small>
 

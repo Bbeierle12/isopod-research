@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Biome
 
-Climate zone derived from origin + humidity.
+Climate zone (husbandry-derived).
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Temperate  <small>(28)</small>
 

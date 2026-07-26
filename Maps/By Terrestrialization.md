@@ -6,25 +6,22 @@ tags: [isopod, atlas, facet-map]
 
 # By Terrestrialization
 
-Degree of independence from water (littoral → xeric).
+Degree of independence from water.
 
-37 of 112 forms classified (research axis — evidence-graded). ← [[_Isopod Atlas]]
+**33 of 4226 Oniscidea species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
-## littoral  <small>(4)</small>
+## littoral  <small>(2)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
 | [[Deto echinata]] | Detonidae | littoral | b |
-| [[Ligia exotica]] | Ligiidae | littoral | a |
-| [[Ligia oceanica]] | Ligiidae | littoral | a |
 | [[Tylos punctatus]] | Tylidae | littoral | a |
 
-## hygrophilous  <small>(23)</small>
+## hygrophilous  <small>(21)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
 | [[Atlantoscia floridana]] | Philosciidae | hygrophilous | a |
-| [[Cubaris murina]] | Armadillidae | hygrophilous | b/c |
 | [[Cubaris sp. Amber Firefly]] | Armadillidae | hygrophilous | b/c |
 | [[Cubaris sp. Blue Pigeon]] | Armadillidae | hygrophilous | b/c |
 | [[Cubaris sp. Cappuccino]] | Armadillidae | hygrophilous | b/c |
@@ -33,7 +30,6 @@ Degree of independence from water (littoral → xeric).
 | [[Cubaris sp. Panda King]] | Armadillidae | hygrophilous | b/c |
 | [[Cubaris sp. Penguin]] | Armadillidae | hygrophilous | b/c |
 | [[Cubaris sp. Rubber Ducky]] | Armadillidae | hygrophilous | b/c |
-| [[Merulanella bicolorata]] | Armadillidae | hygrophilous | b/c |
 | [[Merulanella sp. Ember Bee]] | Armadillidae | hygrophilous | b/c |
 | [[Merulanella sp. Red Diablo]] | Armadillidae | hygrophilous | b/c |
 | [[Merulanella sp. Scarlet]] | Armadillidae | hygrophilous | b/c |

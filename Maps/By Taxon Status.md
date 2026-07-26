@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Science ↔ hobby naming gap.
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Described  <small>(85)</small>
 

@@ -20,6 +20,13 @@ morphs:
 difficulty: 
 sources: 
 status: stub
+ecomorph: 
+conglobation_type: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

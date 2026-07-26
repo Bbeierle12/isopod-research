@@ -29,6 +29,12 @@ biogeo_region: Cosmopolitan
 moisture: Moderate
 difficulty_tier: Beginner
 bioactive_role: Cleanup crew
+ecomorph: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

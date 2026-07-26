@@ -8,9 +8,9 @@ tags: [isopod, atlas, facet-map]
 
 Feeding guild. Terrestrial isopods are NOT true xylophages.
 
-37 of 112 forms classified (research axis — evidence-graded). ← [[_Isopod Atlas]]
+**33 of 4226 Oniscidea species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
-## General detritivore  <small>(22)</small>
+## General detritivore  <small>(21)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
@@ -19,7 +19,6 @@ Feeding guild. Terrestrial isopods are NOT true xylophages.
 | [[Armadillidium nasatum]] | Armadillidiidae | General detritivore | a |
 | [[Armadillo officinalis]] | Armadillidae | General detritivore | b |
 | [[Atlantoscia floridana]] | Philosciidae | Detritivore | b |
-| [[Cubaris murina]] | Armadillidae | Detritivore + wood/calcium | b/c |
 | [[Cubaris sp. Amber Firefly]] | Armadillidae | Detritivore + wood/calcium | b/c |
 | [[Cubaris sp. Blue Pigeon]] | Armadillidae | Detritivore + wood/calcium | b/c |
 | [[Cubaris sp. Cappuccino]] | Armadillidae | Detritivore + wood/calcium | b/c |
@@ -51,19 +50,16 @@ Feeding guild. Terrestrial isopods are NOT true xylophages.
 | [[Armadillidium vulgare]] | Armadillidiidae | General detritivore (+facultative herbivore) | a |
 | [[Hemilepistus reaumuri]] | Agnaridae | Detritivore/facultative herbivore | a |
 
-## Algivore/detritivore  <small>(3)</small>
+## Algivore/detritivore  <small>(1)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
-| [[Ligia exotica]] | Ligiidae | Algivore/detritivore (beach-cast algae) | a |
-| [[Ligia oceanica]] | Ligiidae | Algivore/detritivore (beach-cast algae) | a |
 | [[Tylos punctatus]] | Tylidae | Algivore/detritivore (beach-cast algae) | a |
 
-## Detritivore (assumed/unstudied)  <small>(8)</small>
+## Detritivore (assumed/unstudied)  <small>(7)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
-| [[Merulanella bicolorata]] | Armadillidae | Detritivore (assumed) | c |
 | [[Merulanella sp. Ember Bee]] | Armadillidae | Detritivore (assumed) | c |
 | [[Merulanella sp. Red Diablo]] | Armadillidae | Detritivore (assumed) | c |
 | [[Merulanella sp. Scarlet]] | Armadillidae | Detritivore (assumed) | c |

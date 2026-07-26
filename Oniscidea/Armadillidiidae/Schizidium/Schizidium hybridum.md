@@ -29,6 +29,12 @@ biogeo_region: Asia & Middle East
 moisture: Arid
 difficulty_tier: Intermediate
 bioactive_role: Display
+ecomorph: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 

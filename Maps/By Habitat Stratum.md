@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest.
 
-37 of 112 forms classified (research axis — evidence-graded). ← [[_Isopod Atlas]]
+**33 of 4226 Oniscidea species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## EN  <small>(3)</small>
 
@@ -18,7 +18,7 @@ EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · 
 | [[Trichoniscus pusillus]] | Trichoniscidae | EN/EP | a |
 | [[Trichorhina tomentosa]] | Platyarthridae | EN/EP | a/b |
 
-## EP  <small>(19)</small>
+## EP  <small>(18)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
@@ -28,7 +28,6 @@ EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · 
 | [[Armadillo officinalis]] | Armadillidae | EP/SA | b |
 | [[Atlantoscia floridana]] | Philosciidae | EP | a |
 | [[Cylisticus convexus]] | Cylisticidae | EP/SA | a |
-| [[Merulanella bicolorata]] | Armadillidae | EP/CA | b/c |
 | [[Merulanella sp. Ember Bee]] | Armadillidae | EP/CA | b/c |
 | [[Merulanella sp. Red Diablo]] | Armadillidae | EP/CA | b/c |
 | [[Merulanella sp. Scarlet]] | Armadillidae | EP/CA | b/c |
@@ -42,11 +41,10 @@ EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · 
 | [[Porcellionides pruinosus]] | Porcellionidae | EP | a |
 | [[Venezillo parvus]] | Armadillidae | EP | b |
 
-## CA  <small>(9)</small>
+## CA  <small>(8)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
-| [[Cubaris murina]] | Armadillidae | CA/SA | b/c |
 | [[Cubaris sp. Amber Firefly]] | Armadillidae | CA/SA | b/c |
 | [[Cubaris sp. Blue Pigeon]] | Armadillidae | CA/SA | b/c |
 | [[Cubaris sp. Cappuccino]] | Armadillidae | CA/SA | b/c |
@@ -56,13 +54,11 @@ EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · 
 | [[Cubaris sp. Penguin]] | Armadillidae | CA/SA | b/c |
 | [[Cubaris sp. Rubber Ducky]] | Armadillidae | CA/SA | b/c |
 
-## LI  <small>(4)</small>
+## LI  <small>(2)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
 | [[Deto echinata]] | Detonidae | LI | b |
-| [[Ligia exotica]] | Ligiidae | LI | a |
-| [[Ligia oceanica]] | Ligiidae | LI | a |
 | [[Tylos punctatus]] | Tylidae | LI | a |
 
 ## SA  <small>(1)</small>

@@ -29,6 +29,12 @@ biogeo_region: Americas
 moisture: Humid
 difficulty_tier: Beginner
 bioactive_role: Display
+ecomorph: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, armadillidae]
 ---
 

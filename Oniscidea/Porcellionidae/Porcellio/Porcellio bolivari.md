@@ -29,6 +29,12 @@ biogeo_region: Europe & Mediterranean
 moisture: Humid
 difficulty_tier: Intermediate
 bioactive_role: Display
+ecomorph: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

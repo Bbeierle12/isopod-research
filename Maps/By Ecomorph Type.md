@@ -6,19 +6,17 @@ tags: [isopod, atlas, facet-map]
 
 # By Ecomorph Type
 
-Schmalfuss (1984) ecomorphological strategy — a functional axis.
+Schmalfuss (1984) ecomorphological strategy.
 
-37 of 112 forms classified (research axis — evidence-graded). ← [[_Isopod Atlas]]
+**33 of 4226 Oniscidea species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
-## Runner  <small>(7)</small>
+## Runner  <small>(5)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
 | [[Atlantoscia floridana]] | Philosciidae | Runner | a |
 | [[Deto echinata]] | Detonidae | Runner | b |
 | [[Hemilepistus reaumuri]] | Agnaridae | Runner | a |
-| [[Ligia exotica]] | Ligiidae | Runner | a |
-| [[Ligia oceanica]] | Ligiidae | Runner | a |
 | [[Nagurus cristatus]] | Trachelipodidae | Runner | b |
 | [[Porcellionides pruinosus]] | Porcellionidae | Runner | a |
 
@@ -31,7 +29,7 @@ Schmalfuss (1984) ecomorphological strategy — a functional axis.
 | [[Porcellio laevis]] | Porcellionidae | Clinger | a |
 | [[Porcellio scaber]] | Porcellionidae | Clinger | a |
 
-## Roller  <small>(17)</small>
+## Roller  <small>(16)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
@@ -40,7 +38,6 @@ Schmalfuss (1984) ecomorphological strategy — a functional axis.
 | [[Armadillidium nasatum]] | Armadillidiidae | Roller | a |
 | [[Armadillidium vulgare]] | Armadillidiidae | Roller | a |
 | [[Armadillo officinalis]] | Armadillidae | Roller | b |
-| [[Cubaris murina]] | Armadillidae | Roller | b/c |
 | [[Cubaris sp. Amber Firefly]] | Armadillidae | Roller | b/c |
 | [[Cubaris sp. Blue Pigeon]] | Armadillidae | Roller | b/c |
 | [[Cubaris sp. Cappuccino]] | Armadillidae | Roller | b/c |
@@ -59,11 +56,10 @@ Schmalfuss (1984) ecomorphological strategy — a functional axis.
 |---|---|---|---|
 | [[Trichoniscus pusillus]] | Trichoniscidae | Creeper | a |
 
-## Spiny  <small>(6)</small>
+## Spiny  <small>(5)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
-| [[Merulanella bicolorata]] | Armadillidae | Spiny | b/c |
 | [[Merulanella sp. Ember Bee]] | Armadillidae | Spiny | b/c |
 | [[Merulanella sp. Red Diablo]] | Armadillidae | Spiny | b/c |
 | [[Merulanella sp. Scarlet]] | Armadillidae | Spiny | b/c |

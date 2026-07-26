@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Conglobation
 
-Schmalfuss defense axis — ability to roll into a sphere.
+Schmalfuss defense axis (hobby forms; not yet coded taxonomy-wide).
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Roller  <small>(57)</small>
 

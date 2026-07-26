@@ -29,6 +29,12 @@ biogeo_region: Asia & Middle East
 moisture: Humid
 difficulty_tier: Advanced
 bioactive_role: Specialist
+ecomorph: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, agnaridae, hobby]
 ---
 

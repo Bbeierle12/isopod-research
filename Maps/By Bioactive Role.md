@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Bioactive Role
 
-Functional role in a bioactive setup.
+Role in a bioactive setup.
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Cleanup crew  <small>(16)</small>
 

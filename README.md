@@ -72,16 +72,20 @@ husbandry defaults on all 146 records.
 
 ## Isopod Atlas (`Maps/`)
 
-`Maps/_Isopod Atlas.md` is a cross-reference layer over the 112 hobby forms with **13 facet maps**
-and a **pattern-matrix** dashboard, built by `scripts/atlas.py`. Two kinds of facet:
+`Maps/_Isopod Atlas.md` is a cross-reference layer with **13 facet maps** and a **pattern-matrix**
+dashboard, built by `scripts/atlas.py`. Two kinds of filter, at two scopes:
 
-- **Husbandry-derived** (all forms): conglobation, size class, biome, region, moisture, difficulty,
-  bioactive role, taxon status.
-- **Research axes** (studied taxa, evidence-graded a/b/c): ecomorph type (Schmalfuss), degree of
-  terrestrialization, habitat stratum, trophic guild, reproduction.
+- **Research axes** — ecomorph type (Schmalfuss), degree of terrestrialization, habitat stratum,
+  trophic guild, reproduction — **span all 4,226 Oniscidea species** (hobby + non-hobby). Every
+  species note carries these fields, scaffolded **blank until researched** (no family-level
+  guessing); studied taxa (~33 so far) are populated with **a/b/c** evidence grades. Extend
+  coverage by adding rows to `data/ecology.json`.
+- **Husbandry facets** — size, biome, region, moisture, difficulty, bioactive role, conglobation,
+  taxon status — are **scoped to the 112 hobby forms** (they need care/origin data that doesn't
+  exist for unkept species).
 
-Every form note also carries these as frontmatter, so you can slice the collection along any axis
-or cross-tabulate (e.g. *Ecomorph × Terrestrialization*, *Biome × Conglobation*).
+You can slice the collection along any axis or cross-tabulate (e.g. *Ecomorph × Terrestrialization*
+across the taxonomy, *Biome × Conglobation* across the hobby forms).
 
 ## Data sources & attribution
 

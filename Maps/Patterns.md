@@ -5,12 +5,12 @@ tags: [isopod, atlas, patterns]
 
 # Isopod Atlas — Pattern Matrices
 
-Cross-tabulations over the 112 hobby forms. Counts; `·` = none. ← [[_Isopod Atlas]]
+Counts; `·` = none. ← [[_Isopod Atlas]]
 
-> [!note] Read with care
-> Husbandry-derived facets cover all forms; research axes (ecomorph, stratum, trophic, reproduction) are populated only for studied taxa, so their rows undercount. Evidence grades live in the individual facet maps.
+> [!note] Scope per matrix
+> Husbandry matrices cover the 112 hobby forms; the research matrix (Ecomorph × Terrestrialization) covers the 33 Oniscidea species classified so far. Blank-until-researched: unclassified species are simply absent.
 
-## Biome × Conglobation
+## Biome × Conglobation  <small>(hobby)</small>
 
 | biome ↓ / conglobation_type → | Roller | Partial roller | Non-roller | **Σ** |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ Cross-tabulations over the 112 hobby forms. Counts; `·` = none. ← [[_Isopod A
 | **Coastal** | 4 | 1 | 5 | **10** |
 | **Σ** | **57** | **2** | **53** | **112** |
 
-## Family × Difficulty
+## Family × Difficulty  <small>(hobby)</small>
 
 | family ↓ / difficulty_tier → | Beginner | Intermediate | Advanced | **Σ** |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ Cross-tabulations over the 112 hobby forms. Counts; `·` = none. ← [[_Isopod A
 | **Tylidae** | · | 1 | 1 | **2** |
 | **Σ** | **41** | **44** | **27** | **112** |
 
-## Region × Size Class
+## Region × Size Class  <small>(hobby)</small>
 
 | biogeo_region ↓ / size_class → | Micro | Small | Medium | Large | **Σ** |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@ Cross-tabulations over the 112 hobby forms. Counts; `·` = none. ← [[_Isopod A
 | **Other** | · | · | 2 | 1 | **3** |
 | **Σ** | **9** | **16** | **60** | **27** | **112** |
 
-## Biome × Bioactive Role
+## Biome × Bioactive Role  <small>(hobby)</small>
 
 | biome ↓ / bioactive_role → | Cleanup crew | Micro-cleanup | Feeder | Display | Specialist | **Σ** |
 |---|---|---|---|---|---|---|
@@ -67,24 +67,15 @@ Cross-tabulations over the 112 hobby forms. Counts; `·` = none. ← [[_Isopod A
 | **Coastal** | · | · | · | · | 10 | **10** |
 | **Σ** | **16** | **7** | **3** | **72** | **14** | **112** |
 
-## Ecomorph × Terrestrialization
+## Ecomorph × Terrestrialization  <small>(research, all Oniscidea)</small>
 
 | ecomorph ↓ / terrestrialization → | littoral | hygrophilous | mesophilous | xerophilous | **Σ** |
 |---|---|---|---|---|---|
-| **Runner** | 3 | 2 | 1 | 1 | **7** |
+| **Runner** | 1 | 2 | 1 | 1 | **5** |
 | **Clinger** | · | 2 | 2 | · | **4** |
-| **Roller** | 1 | 10 | 5 | 1 | **17** |
+| **Roller** | 1 | 9 | 5 | 1 | **16** |
 | **Creeper** | · | 1 | · | · | **1** |
-| **Spiny** | · | 6 | · | · | **6** |
+| **Spiny** | · | 5 | · | · | **5** |
 | **Non-conformist** | · | 2 | · | · | **2** |
-| **Σ** | **4** | **23** | **8** | **2** | **37** |
-
-## Taxon status × Biome
-
-| taxon_group ↓ / biome → | Temperate | Mediterranean | Tropical | Desert | Coastal | **Σ** |
-|---|---|---|---|---|---|---|
-| **Described** | 27 | 34 | 12 | 2 | 10 | **85** |
-| **Undescribed (provisional)** | · | · | 24 | · | · | **24** |
-| **Unresolved** | 1 | 2 | · | · | · | **3** |
-| **Σ** | **28** | **36** | **36** | **2** | **10** | **112** |
+| **Σ** | **2** | **21** | **8** | **2** | **33** |
 

@@ -29,6 +29,12 @@ biogeo_region: Europe & Mediterranean
 moisture: Moderate
 difficulty_tier: Advanced
 bioactive_role: Specialist
+ecomorph: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, platyarthridae]
 ---
 

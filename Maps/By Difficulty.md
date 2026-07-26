@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Difficulty
 
-Keeping difficulty (collapsed to three tiers).
+Keeping difficulty.
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Beginner  <small>(41)</small>
 

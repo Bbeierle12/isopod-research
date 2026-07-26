@@ -1,14 +1,16 @@
 # -*- coding: utf-8 -*-
-"""Isopod Atlas — build the facet & pattern cross-reference layer.
+"""Isopod Atlas — facet & pattern cross-reference over the whole Oniscidea taxonomy.
 
-Reads data/isopods.json (husbandry) + data/ecology.json (research axes), derives
-facets, writes facet frontmatter onto each species' note, and generates Maps/:
-one MOC per facet, a Patterns.md cross-tab dashboard, and the _Isopod Atlas hub.
+Two kinds of filter:
+  * RESEARCH axes (ecomorph, conglobation, terrestrialization, habitat stratum,
+    trophic guild, reproduction) apply to ALL Oniscidea species (hobby + non-hobby).
+    Fields are scaffolded blank on every species note and populated only where we
+    have data (data/ecology.json, species-level) — "blank until researched", no
+    family-level guessing. Studied taxa carry a/b/c evidence grades.
+  * HUSBANDRY facets (size, biome, region, moisture, difficulty, bioactive role,
+    taxon status) depend on care data and stay scoped to the 112 hobby forms.
 
-Run after generate.py:  seed -> validate -> husbandry -> generate -> atlas
-Scope: the 112 hobby *form* records (88 described + 24 provisional). Morphs inherit
-their parent and are omitted from the facet tables. Husbandry facets are derived for
-all forms; research axes only where ecology.json has data (with a/b/c evidence grades)."""
+Run after generate.py:  seed -> validate -> husbandry -> generate -> atlas"""
 import os, re, json
 from collections import defaultdict, Counter
 
@@ -17,6 +19,10 @@ ONISCIDEA = os.path.join(VAULT, "Oniscidea")
 HOBBY = os.path.join(VAULT, "Hobby")
 MAPS = os.path.join(VAULT, "Maps")
 GEN = "2026-07-25"
+
+# research-filter fields scaffolded onto every Oniscidea species note
+RESEARCH_FIELDS = ["ecomorph", "conglobation_type", "terrestrialization",
+                   "habitat_stratum", "trophic_guild", "reproduction_mode", "ecology_evidence"]
 
 def safe(n):
     return re.sub(r'[\\/:*?"<>|]', "-", n).strip()
@@ -95,12 +101,9 @@ def conglob_label(c):
     return {"FULL": "Roller", "PARTIAL": "Partial roller", "NONE": "Non-roller"}.get(c, "")
 
 def taxon_group(r):
-    ts = r["taxon_status"]
     if not r["is_described"]: return "Undescribed (provisional)"
-    if ts in ("accepted", "synonym"): return "Described"
-    return "Unresolved"
+    return "Described" if r["taxon_status"] in ("accepted", "synonym") else "Unresolved"
 
-# research-axis normalizers (for cleaner grouping)
 def norm_trophic(v):
     v = (v or "").lower()
     if not v: return ""
@@ -121,30 +124,46 @@ def norm_repro(v):
 def stratum_primary(v):
     return (v or "").split("/")[0].strip()
 
-# ---------- frontmatter writer (overwrite/add facet keys) ----------
-def set_fields(path, fields):
-    if not os.path.exists(path):
-        return
-    with open(path, "r", encoding="utf-8") as f:
-        t = f.read()
+def quote(v):
+    return ('"%s"' % v) if re.search(r'[:#\[\],]', str(v)) else str(v)
+
+# ---------- frontmatter writers ----------
+def set_fields(path, fields):        # overwrite/add (used for hobby forms — computed facets)
+    if not os.path.exists(path): return
+    with open(path, "r", encoding="utf-8") as f: t = f.read()
     m = re.match(r"^(---\r?\n)(.*?\r?\n)(---\r?\n)(.*)$", t, re.S)
-    if not m:
-        return
+    if not m: return
     fm = m.group(2)
     for k, v in fields.items():
-        if v == "" or v is None:
-            continue
-        val = ('"%s"' % v) if re.search(r'[:#\[\],]', str(v)) else str(v)
+        if v == "" or v is None: continue
         if re.search(r"^%s:" % re.escape(k), fm, re.M):
-            fm = re.sub(r"^%s:.*$" % re.escape(k), "%s: %s" % (k, val), fm, count=1, flags=re.M)
+            fm = re.sub(r"^%s:.*$" % re.escape(k), "%s: %s" % (k, quote(v)), fm, count=1, flags=re.M)
         else:
-            mt = re.search(r"^tags:", fm, re.M)
-            line = "%s: %s\n" % (k, val)
+            mt = re.search(r"^tags:", fm, re.M); line = "%s: %s\n" % (k, quote(v))
             fm = (fm[:mt.start()] + line + fm[mt.start():]) if mt else (fm + line)
     new = m.group(1) + fm + m.group(3) + m.group(4)
     if new != t:
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(new)
+        with open(path, "w", encoding="utf-8") as f: f.write(new)
+
+def scaffold_fields(path, fields):   # ensure key exists (blank ok); fill only if currently blank
+    if not os.path.exists(path): return
+    with open(path, "r", encoding="utf-8") as f: t = f.read()
+    m = re.match(r"^(---\r?\n)(.*?\r?\n)(---\r?\n)(.*)$", t, re.S)
+    if not m: return
+    fm = m.group(2)
+    for k in RESEARCH_FIELDS:
+        v = fields.get(k, "")
+        mm = re.search(r"^(%s:)[ \t]*(.*)$" % re.escape(k), fm, re.M)
+        if mm:
+            if v and not mm.group(2).strip():     # present but blank, and we have data -> fill
+                fm = re.sub(r"^%s:.*$" % re.escape(k), "%s: %s" % (k, quote(v)), fm, count=1, flags=re.M)
+        else:                                      # missing -> add (blank or value)
+            mt = re.search(r"^tags:", fm, re.M)
+            line = "%s: %s\n" % (k, quote(v) if v else "")
+            fm = (fm[:mt.start()] + line + fm[mt.start():]) if mt else (fm + line)
+    new = m.group(1) + fm + m.group(3) + m.group(4)
+    if new != t:
+        with open(path, "w", encoding="utf-8") as f: f.write(new)
 
 # ---------- load ----------
 with open(os.path.join(VAULT, "data", "isopods.json"), "r", encoding="utf-8") as f:
@@ -155,154 +174,162 @@ eco_exact = {e["match"]: e for e in eco if not e["match"].endswith(" *")}
 eco_genus = {e["match"][:-2]: e for e in eco if e["match"].endswith(" *")}
 
 def research_for(r):
-    key = "%s %s" % (r["genus"], r["species"])
-    return eco_exact.get(key) or eco_genus.get(r["genus"])
+    return eco_exact.get("%s %s" % (r["genus"], r["species"])) or eco_genus.get(r["genus"])
+
+def research_row(display, family, e):
+    evd = e.get("evd", {})
+    return {"display": display, "link": "[[%s]]" % display, "family": family,
+            "ecomorph": e.get("ecomorph", ""), "terrestrialization": e.get("terrestrialization", ""),
+            "stratum": e.get("stratum", ""), "trophic": e.get("trophic", ""), "reproduction": e.get("reproduction", ""),
+            "evd_stratum": evd.get("stratum", ""), "evd_trophic": evd.get("trophic", ""), "evd_life": evd.get("life", "")}
+
+def eco_evidence(e):
+    d = e.get("evd", {})
+    return "stratum:%s trophic:%s life:%s" % (d.get("stratum", "?"), d.get("trophic", "?"), d.get("life", "?"))
 
 forms = [r for r in records if r["record_type"] == "form"]
 
-# ---------- compute facets + write to notes ----------
-rows = []  # one dict per form: display, link, family, + all facet values
+# ---------- Pass 1: hobby forms — husbandry facets + research + frontmatter ----------
+rows = []
 for r in forms:
     e = research_for(r)
-    evd = e.get("evd", {}) if e else {}
     fac = {
-        "conglobation_type": conglob_label(r.get("conglobation", "")),
-        "size_class": size_class(r.get("adult_size_mm", "")),
-        "biome": biome(r.get("origin_region", ""), r.get("humidity", "")),
-        "biogeo_region": region(r.get("origin_region", "")),
-        "moisture": moisture(r.get("humidity", "")),
-        "difficulty_tier": difficulty_tier(r.get("difficulty", "")),
-        "bioactive_role": bioactive_role(r.get("bioactive_use", "")),
-        "taxon_group": taxon_group(r),
-        "ecomorph": e.get("ecomorph", "") if e else "",
-        "terrestrialization": e.get("terrestrialization", "") if e else "",
-        "stratum": e.get("stratum", "") if e else "",
-        "trophic": e.get("trophic", "") if e else "",
-        "reproduction": e.get("reproduction", "") if e else "",
-        "evd_stratum": evd.get("stratum", ""), "evd_trophic": evd.get("trophic", ""), "evd_life": evd.get("life", ""),
+        "conglobation_type": conglob_label(r.get("conglobation", "")), "size_class": size_class(r.get("adult_size_mm", "")),
+        "biome": biome(r.get("origin_region", ""), r.get("humidity", "")), "biogeo_region": region(r.get("origin_region", "")),
+        "moisture": moisture(r.get("humidity", "")), "difficulty_tier": difficulty_tier(r.get("difficulty", "")),
+        "bioactive_role": bioactive_role(r.get("bioactive_use", "")), "taxon_group": taxon_group(r),
     }
-    stem = form_stem(r)
-    rows.append({"display": stem, "link": "[[%s]]" % stem, "family": r["family"], "id": r["id"], **fac})
-    # write facet frontmatter onto the note
-    ecology_evidence = ("stratum:%s trophic:%s life:%s" % (evd.get("stratum", "?"), evd.get("trophic", "?"), evd.get("life", "?"))) if e else ""
+    rows.append({"display": form_stem(r), "link": "[[%s]]" % form_stem(r), "family": r["family"], **fac})
     set_fields(note_path(r), {
         "conglobation_type": fac["conglobation_type"], "size_class": fac["size_class"], "biome": fac["biome"],
         "biogeo_region": fac["biogeo_region"], "moisture": fac["moisture"], "difficulty_tier": fac["difficulty_tier"],
-        "bioactive_role": fac["bioactive_role"], "ecomorph": fac["ecomorph"],
-        "terrestrialization": fac["terrestrialization"], "habitat_stratum": fac["stratum"],
-        "trophic_guild": fac["trophic"], "reproduction_mode": fac["reproduction"],
-        "ecology_evidence": ecology_evidence,
+        "bioactive_role": fac["bioactive_role"],
+        "ecomorph": e.get("ecomorph", "") if e else "", "terrestrialization": e.get("terrestrialization", "") if e else "",
+        "habitat_stratum": e.get("stratum", "") if e else "", "trophic_guild": e.get("trophic", "") if e else "",
+        "reproduction_mode": e.get("reproduction", "") if e else "", "ecology_evidence": eco_evidence(e) if e else "",
     })
+
+# ---------- Pass 2: scaffold research fields onto EVERY Oniscidea species note ----------
+tax_species = []   # (name, family, path)
+for dirpath, _, files in os.walk(ONISCIDEA):
+    for fn in files:
+        if fn.endswith(".md") and not fn.startswith("_"):
+            name = fn[:-3]
+            family = os.path.basename(os.path.dirname(os.path.dirname(os.path.join(dirpath, fn))))
+            tax_species.append((name, family, os.path.join(dirpath, fn)))
+
+scaffolded = 0
+rrows = []          # research rows spanning the taxonomy
+for name, family, path in tax_species:
+    e = eco_exact.get(name)   # species-level only — no family/genus guessing on the taxonomy
+    vals = {"ecomorph": e.get("ecomorph", "") if e else "", "conglobation_type": "",
+            "terrestrialization": e.get("terrestrialization", "") if e else "",
+            "habitat_stratum": e.get("stratum", "") if e else "", "trophic_guild": e.get("trophic", "") if e else "",
+            "reproduction_mode": e.get("reproduction", "") if e else "", "ecology_evidence": eco_evidence(e) if e else ""}
+    scaffold_fields(path, vals)
+    scaffolded += 1
+    if e:
+        rrows.append(research_row(name, family, e))
+# provisional hobby forms carry genus-level research (evidence-graded) — include in research maps
+for r in forms:
+    if not r["is_described"]:
+        e = research_for(r)
+        if e:
+            rrows.append(research_row(form_stem(r), r["family"], e))
 
 os.makedirs(MAPS, exist_ok=True)
 
-# ---------- facet-map builder ----------
-def facet_map(fname, title, key, order, is_research=False, evd_key=None, norm=None, subtitle=""):
-    def val(row):
-        v = row[key]
-        return norm(v) if norm else v
+# ---------- map builder ----------
+def facet_map(fname, title, key, order, data, denom_label, is_research=False, evd_key=None, norm=None, subtitle=""):
+    val = (lambda row: (norm(row[key]) if norm else row[key]))
     groups = defaultdict(list)
-    for row in rows:
+    for row in data:
         v = val(row)
         if v: groups[v].append(row)
     ordered = [c for c in order if c in groups] + sorted(c for c in groups if c not in order)
     n = sum(len(groups[c]) for c in ordered)
     L = ["---", "type: facet-map", "facet: %s" % key, "tags: [isopod, atlas, facet-map]", "---", "",
          "# %s" % title, "", subtitle, "",
-         "%d of %d forms classified%s. ← [[_Isopod Atlas]]" %
-         (n, len(rows), " (research axis — evidence-graded)" if is_research else ""), ""]
+         "**%d %s classified.**%s ← [[_Isopod Atlas]]" %
+         (n, denom_label, "  Research axis — evidence-graded; the rest await study." if is_research else ""), ""]
     for c in ordered:
         items = sorted(groups[c], key=lambda r: r["display"])
-        L.append("## %s  <small>(%d)</small>" % (c, len(items)))
-        L.append("")
+        L += ["## %s  <small>(%d)</small>" % (c, len(items)), ""]
         if is_research and evd_key:
-            L.append("| Species | Family | Detail | Evd |")
-            L.append("|---|---|---|---|")
-            for r in items:
-                L.append("| %s | %s | %s | %s |" % (r["link"], r["family"], r[key], r.get(evd_key, "") or "—"))
+            L += ["| Species | Family | Detail | Evd |", "|---|---|---|---|"]
+            L += ["| %s | %s | %s | %s |" % (r["link"], r["family"], r[key], r.get(evd_key, "") or "—") for r in items]
         else:
-            L.append("| Species | Family |")
-            L.append("|---|---|")
-            for r in items:
-                L.append("| %s | %s |" % (r["link"], r["family"]))
+            L += ["| Species | Family |", "|---|---|"] + ["| %s | %s |" % (r["link"], r["family"]) for r in items]
         L.append("")
     with open(os.path.join(MAPS, fname), "w", encoding="utf-8") as f:
         f.write("\n".join(L) + "\n")
     return title, fname, n
 
-MAPDEFS = [
-    ("By Conglobation.md", "By Conglobation", "conglobation_type", ["Roller", "Partial roller", "Non-roller"], False, None, None, "Schmalfuss defense axis — ability to roll into a sphere."),
-    ("By Size Class.md", "By Size Class", "size_class", ["Micro", "Small", "Medium", "Large"], False, None, None, "Adult length: Micro ≤5 · Small 6–10 · Medium 11–15 · Large >15 mm."),
-    ("By Biome.md", "By Biome", "biome", ["Temperate", "Mediterranean", "Tropical", "Desert", "Coastal"], False, None, None, "Climate zone derived from origin + humidity."),
-    ("By Region.md", "By Region", "biogeo_region", ["Europe & Mediterranean", "North Africa", "Sub-Saharan Africa", "Asia & Middle East", "Americas", "Australasia", "Cosmopolitan", "Other"], False, None, None, "Biogeographic origin."),
-    ("By Moisture.md", "By Moisture Regime", "moisture", ["Arid", "Moderate", "Humid"], False, None, None, "Husbandry moisture requirement."),
-    ("By Difficulty.md", "By Difficulty", "difficulty_tier", ["Beginner", "Intermediate", "Advanced"], False, None, None, "Keeping difficulty (collapsed to three tiers)."),
-    ("By Bioactive Role.md", "By Bioactive Role", "bioactive_role", ["Cleanup crew", "Micro-cleanup", "Feeder", "Display", "Specialist"], False, None, None, "Functional role in a bioactive setup."),
-    ("By Taxon Status.md", "By Taxon Status", "taxon_group", ["Described", "Undescribed (provisional)", "Unresolved"], False, None, None, "Science ↔ hobby naming gap."),
-    ("By Ecomorph Type.md", "By Ecomorph Type", "ecomorph", ["Runner", "Clinger", "Roller", "Creeper", "Spiny", "Non-conformist"], True, "evd_stratum", None, "Schmalfuss (1984) ecomorphological strategy — a functional axis."),
-    ("By Terrestrialization.md", "By Terrestrialization", "terrestrialization", ["littoral", "hygrophilous", "mesophilous", "xerophilous"], True, "evd_stratum", None, "Degree of independence from water (littoral → xeric)."),
-    ("By Habitat Stratum.md", "By Habitat Stratum", "stratum", ["EN", "EP", "CO", "AR", "CA", "LI", "SA", "MY"], True, "evd_stratum", stratum_primary, "EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest."),
-    ("By Trophic Guild.md", "By Trophic Guild", "trophic", ["General detritivore", "Detritivore/coprophage", "Detritivore (+herbivore)", "Algivore/detritivore", "Detritivore (assumed/unstudied)"], True, "evd_trophic", norm_trophic, "Feeding guild. Terrestrial isopods are NOT true xylophages."),
-    ("By Reproduction.md", "By Reproduction", "reproduction", ["Sexual", "Sexual (assumed)", "Parthenogenetic", "Subsocial (biparental)"], True, "evd_life", norm_repro, "Reproductive mode / life-history highlight."),
-]
-built = [facet_map(*d) for d in MAPDEFS]
+NH = "hobby forms"; NT = "of %d Oniscidea species" % len(tax_species)
+built = []
+# husbandry facets — scoped to hobby forms
+built += [facet_map("By Conglobation.md", "By Conglobation", "conglobation_type", ["Roller", "Partial roller", "Non-roller"], rows, NH, subtitle="Schmalfuss defense axis (hobby forms; not yet coded taxonomy-wide).")]
+built += [facet_map("By Size Class.md", "By Size Class", "size_class", ["Micro", "Small", "Medium", "Large"], rows, NH, subtitle="Adult length: Micro ≤5 · Small 6–10 · Medium 11–15 · Large >15 mm.")]
+built += [facet_map("By Biome.md", "By Biome", "biome", ["Temperate", "Mediterranean", "Tropical", "Desert", "Coastal"], rows, NH, subtitle="Climate zone (husbandry-derived).")]
+built += [facet_map("By Region.md", "By Region", "biogeo_region", ["Europe & Mediterranean", "North Africa", "Sub-Saharan Africa", "Asia & Middle East", "Americas", "Australasia", "Cosmopolitan", "Other"], rows, NH, subtitle="Biogeographic origin (husbandry-derived).")]
+built += [facet_map("By Moisture.md", "By Moisture Regime", "moisture", ["Arid", "Moderate", "Humid"], rows, NH, subtitle="Husbandry moisture requirement.")]
+built += [facet_map("By Difficulty.md", "By Difficulty", "difficulty_tier", ["Beginner", "Intermediate", "Advanced"], rows, NH, subtitle="Keeping difficulty.")]
+built += [facet_map("By Bioactive Role.md", "By Bioactive Role", "bioactive_role", ["Cleanup crew", "Micro-cleanup", "Feeder", "Display", "Specialist"], rows, NH, subtitle="Role in a bioactive setup.")]
+built += [facet_map("By Taxon Status.md", "By Taxon Status", "taxon_group", ["Described", "Undescribed (provisional)", "Unresolved"], rows, NH, subtitle="Science ↔ hobby naming gap.")]
+# research axes — span all Oniscidea
+built += [facet_map("By Ecomorph Type.md", "By Ecomorph Type", "ecomorph", ["Runner", "Clinger", "Roller", "Creeper", "Spiny", "Non-conformist"], rrows, NT, True, "evd_stratum", None, "Schmalfuss (1984) ecomorphological strategy.")]
+built += [facet_map("By Terrestrialization.md", "By Terrestrialization", "terrestrialization", ["littoral", "hygrophilous", "mesophilous", "xerophilous"], rrows, NT, True, "evd_stratum", None, "Degree of independence from water.")]
+built += [facet_map("By Habitat Stratum.md", "By Habitat Stratum", "stratum", ["EN", "EP", "CO", "AR", "CA", "LI", "SA", "MY"], rrows, NT, True, "evd_stratum", stratum_primary, "EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest.")]
+built += [facet_map("By Trophic Guild.md", "By Trophic Guild", "trophic", ["General detritivore", "Detritivore/coprophage", "Detritivore (+herbivore)", "Algivore/detritivore", "Detritivore (assumed/unstudied)"], rrows, NT, True, "evd_trophic", norm_trophic, "Feeding guild. Terrestrial isopods are NOT true xylophages.")]
+built += [facet_map("By Reproduction.md", "By Reproduction", "reproduction", ["Sexual", "Sexual (assumed)", "Parthenogenetic", "Subsocial (biparental)"], rrows, NT, True, "evd_life", norm_repro, "Reproductive mode / life-history highlight.")]
 
-# ---------- pattern cross-tabs ----------
-def crosstab(rowkey, colkey, roworder, colorder, rnorm=None, cnorm=None):
-    rv = (lambda r: (rnorm(r[rowkey]) if rnorm else r[rowkey]))
-    cv = (lambda r: (cnorm(r[colkey]) if cnorm else r[colkey]))
-    rows_present = [c for c in roworder if any(rv(r) == c for r in rows)] + sorted({rv(r) for r in rows if rv(r) and rv(r) not in roworder})
-    cols_present = [c for c in colorder if any(cv(r) == c for r in rows)] + sorted({cv(r) for r in rows if cv(r) and cv(r) not in colorder})
-    cnt = Counter((rv(r), cv(r)) for r in rows if rv(r) and cv(r))
-    out = ["| %s ↓ / %s → | %s | **Σ** |" % (rowkey, colkey, " | ".join(cols_present))]
-    out.append("|" + "---|" * (len(cols_present) + 2))
+# ---------- patterns ----------
+def crosstab(data, rowkey, colkey, roworder, colorder, rnorm=None, cnorm=None):
+    rv = (lambda r: (rnorm(r[rowkey]) if rnorm else r[rowkey])); cv = (lambda r: (cnorm(r[colkey]) if cnorm else r[colkey]))
+    rp = [c for c in roworder if any(rv(r) == c for r in data)] + sorted({rv(r) for r in data if rv(r) and rv(r) not in roworder})
+    cp = [c for c in colorder if any(cv(r) == c for r in data)] + sorted({cv(r) for r in data if cv(r) and cv(r) not in colorder})
+    cnt = Counter((rv(r), cv(r)) for r in data if rv(r) and cv(r))
+    out = ["| %s ↓ / %s → | %s | **Σ** |" % (rowkey, colkey, " | ".join(cp)), "|" + "---|" * (len(cp) + 2)]
     coltot = Counter()
-    for rc in rows_present:
+    for rc in rp:
         cells, tot = [], 0
-        for cc in cols_present:
-            n = cnt[(rc, cc)]; tot += n; coltot[cc] += n
-            cells.append(str(n) if n else "·")
+        for cc in cp:
+            n = cnt[(rc, cc)]; tot += n; coltot[cc] += n; cells.append(str(n) if n else "·")
         out.append("| **%s** | %s | **%s** |" % (rc, " | ".join(cells), tot))
-    out.append("| **Σ** | %s | **%d** |" % (" | ".join("**%d**" % coltot[c] for c in cols_present), sum(coltot.values())))
+    out.append("| **Σ** | %s | **%d** |" % (" | ".join("**%d**" % coltot[c] for c in cp), sum(coltot.values())))
     return "\n".join(out)
 
-P = ["---", "type: patterns", "tags: [isopod, atlas, patterns]", "---", "",
-     "# Isopod Atlas — Pattern Matrices", "",
-     "Cross-tabulations over the %d hobby forms. Counts; `·` = none. ← [[_Isopod Atlas]]" % len(rows), "",
-     "> [!note] Read with care", "> Husbandry-derived facets cover all forms; research axes (ecomorph, stratum, "
-     "trophic, reproduction) are populated only for studied taxa, so their rows undercount. Evidence "
-     "grades live in the individual facet maps.", ""]
-CT = [
-    ("Biome × Conglobation", "biome", "conglobation_type", ["Temperate","Mediterranean","Tropical","Desert","Coastal"], ["Roller","Partial roller","Non-roller"], None, None),
-    ("Family × Difficulty", "family", "difficulty_tier", [], ["Beginner","Intermediate","Advanced"], None, None),
-    ("Region × Size Class", "biogeo_region", "size_class", ["Europe & Mediterranean","North Africa","Sub-Saharan Africa","Asia & Middle East","Americas","Australasia","Cosmopolitan"], ["Micro","Small","Medium","Large"], None, None),
-    ("Biome × Bioactive Role", "biome", "bioactive_role", ["Temperate","Mediterranean","Tropical","Desert","Coastal"], ["Cleanup crew","Micro-cleanup","Feeder","Display","Specialist"], None, None),
-    ("Ecomorph × Terrestrialization", "ecomorph", "terrestrialization", ["Runner","Clinger","Roller","Creeper","Spiny","Non-conformist"], ["littoral","hygrophilous","mesophilous","xerophilous"], None, None),
-    ("Taxon status × Biome", "taxon_group", "biome", ["Described","Undescribed (provisional)","Unresolved"], ["Temperate","Mediterranean","Tropical","Desert","Coastal"], None, None),
-]
-for title, rk, ck, ro, co, rn, cn in CT:
-    P.append("## %s" % title); P.append(""); P.append(crosstab(rk, ck, ro, co, rn, cn)); P.append("")
+P = ["---", "type: patterns", "tags: [isopod, atlas, patterns]", "---", "", "# Isopod Atlas — Pattern Matrices", "",
+     "Counts; `·` = none. ← [[_Isopod Atlas]]", "",
+     "> [!note] Scope per matrix", "> Husbandry matrices cover the %d hobby forms; the research matrix (Ecomorph × "
+     "Terrestrialization) covers the %d Oniscidea species classified so far. Blank-until-researched: "
+     "unclassified species are simply absent." % (len(rows), len(rrows)), ""]
+P += ["## Biome × Conglobation  <small>(hobby)</small>", "", crosstab(rows, "biome", "conglobation_type", ["Temperate", "Mediterranean", "Tropical", "Desert", "Coastal"], ["Roller", "Partial roller", "Non-roller"]), ""]
+P += ["## Family × Difficulty  <small>(hobby)</small>", "", crosstab(rows, "family", "difficulty_tier", [], ["Beginner", "Intermediate", "Advanced"]), ""]
+P += ["## Region × Size Class  <small>(hobby)</small>", "", crosstab(rows, "biogeo_region", "size_class", ["Europe & Mediterranean", "North Africa", "Sub-Saharan Africa", "Asia & Middle East", "Americas", "Australasia", "Cosmopolitan"], ["Micro", "Small", "Medium", "Large"]), ""]
+P += ["## Biome × Bioactive Role  <small>(hobby)</small>", "", crosstab(rows, "biome", "bioactive_role", ["Temperate", "Mediterranean", "Tropical", "Desert", "Coastal"], ["Cleanup crew", "Micro-cleanup", "Feeder", "Display", "Specialist"]), ""]
+P += ["## Ecomorph × Terrestrialization  <small>(research, all Oniscidea)</small>", "", crosstab(rrows, "ecomorph", "terrestrialization", ["Runner", "Clinger", "Roller", "Creeper", "Spiny", "Non-conformist"], ["littoral", "hygrophilous", "mesophilous", "xerophilous"]), ""]
 with open(os.path.join(MAPS, "Patterns.md"), "w", encoding="utf-8") as f:
     f.write("\n".join(P) + "\n")
 
 # ---------- hub ----------
-H = ["---", "type: index", "category: atlas-hub", "tags: [isopod, atlas, moc]", "---", "",
-     "# Isopod Atlas", "",
-     "Facet & pattern cross-reference over the **%d hobby forms** (88 described + 24 provisional). "
-     "Generated by `scripts/atlas.py` from `data/isopods.json` + `data/ecology.json` on %s." % (len(rows), GEN), "",
-     "> [!info] Two kinds of facet", "> **Husbandry-derived** (all forms): conglobation, size, biome, region, moisture, "
-     "difficulty, bioactive role, taxon status. **Research axes** (studied taxa, evidence-graded a/b/c): "
-     "ecomorph, terrestrialization, habitat stratum, trophic guild, reproduction.", "",
-     "## Facet maps", ""]
-for title, fname, n in built:
+H = ["---", "type: index", "category: atlas-hub", "tags: [isopod, atlas, moc]", "---", "", "# Isopod Atlas", "",
+     "Facet & pattern cross-reference. **Research axes span all %d Oniscidea species** (hobby + non-hobby); "
+     "**husbandry facets** cover the 112 hobby forms. Generated by `scripts/atlas.py` on %s." % (len(tax_species), GEN), "",
+     "> [!info] Blank until researched", "> Every Oniscidea species note carries the research-filter fields "
+     "(ecomorph, terrestrialization, habitat stratum, trophic guild, reproduction), populated only where studied "
+     "(%d so far, evidence-graded a/b/c). No family-level guessing — add rows to `data/ecology.json` to classify more." % len(rrows), "",
+     "## Research axes  <small>(all Oniscidea)</small>", ""]
+for title, fname, n in built[8:]:
     H.append("- [[%s|%s]] — %d classified" % (fname[:-3], title, n))
-H += ["", "## Pattern analysis", "", "- [[Patterns|Pattern matrices]] — cross-tab pivots",
-      "", "## See also", "",
-      "- [[_Oniscidea Index|Oniscidea taxonomy (4,226 species)]]",
-      "- [[_Hobby Catalog|Hobby master catalog]]",
+H += ["", "## Husbandry facets  <small>(hobby forms)</small>", ""]
+for title, fname, n in built[:8]:
+    H.append("- [[%s|%s]] — %d" % (fname[:-3], title, n))
+H += ["", "## Pattern analysis", "", "- [[Patterns|Pattern matrices]]", "", "## See also", "",
+      "- [[_Oniscidea Index|Oniscidea taxonomy (4,226 species)]] · [[_Hobby Catalog|Hobby catalog]]",
       "- [[Isopod Categorization & Research Outline]] · [[Isopod Species Ecology Data]]", ""]
 with open(os.path.join(MAPS, "_Isopod Atlas.md"), "w", encoding="utf-8") as f:
     f.write("\n".join(H) + "\n")
 
-print("Atlas built: %d facet maps + Patterns + hub over %d forms." % (len(built), len(rows)))
-print("Research axes populated for %d/%d forms." % (sum(1 for r in rows if r["ecomorph"]), len(rows)))
+print("Atlas: %d facet maps + Patterns + hub." % len(built))
+print("Scaffolded research fields onto %d Oniscidea species notes; %d classified (research axes)." % (scaffolded, len(rrows)))

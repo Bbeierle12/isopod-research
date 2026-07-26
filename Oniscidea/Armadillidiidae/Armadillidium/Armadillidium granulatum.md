@@ -29,6 +29,12 @@ biogeo_region: Europe & Mediterranean
 moisture: Arid
 difficulty_tier: Beginner
 bioactive_role: Specialist
+ecomorph: 
+terrestrialization: 
+habitat_stratum: 
+trophic_guild: 
+reproduction_mode: 
+ecology_evidence: 
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

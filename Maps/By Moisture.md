@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Husbandry moisture requirement.
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Arid  <small>(38)</small>
 

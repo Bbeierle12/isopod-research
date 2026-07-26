@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Region
 
-Biogeographic origin.
+Biogeographic origin (husbandry-derived).
 
-112 of 112 forms classified. ← [[_Isopod Atlas]]
+**112 hobby forms classified.** ← [[_Isopod Atlas]]
 
 ## Europe & Mediterranean  <small>(51)</small>
 
