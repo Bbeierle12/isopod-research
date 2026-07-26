@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Cubaris arcangelii
-authorship: "Verhoeff"
+authorship: "Verhoeff, 1928"
 genus: Cubaris
 family: Armadillidae
 suborder: Oniscidea
@@ -28,6 +28,9 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 261502
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261502"
+worms_status: accepted
 tags: [isopod, oniscidea, armadillidae]
 ---
 

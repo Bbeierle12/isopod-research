@@ -36,6 +36,10 @@ trophic_guild: Algivore/detritivore (beach-cast algae)
 reproduction_mode: sexual
 ecology_evidence: "stratum:a trophic:a life:b"
 realm: terrestrial
+worms_aphia_id: 257605
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257605"
+worms_status: alternative representation
+worms_accepted: Tylos punctatus punctatus
 tags: [isopod, oniscidea, tylidae]
 ---
 

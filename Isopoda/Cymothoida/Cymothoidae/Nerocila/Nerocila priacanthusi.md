@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Nerocila priacanthusi
-authorship: "Jalaja Kumari, Hanumantha Rao & Shyam"
+authorship: "Jalaja Kumari, Hanumantha Rao & Shyamasunadri, 1987"
 genus: Nerocila
 family: Cymothoidae
 suborder: Cymothoida
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 256863
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256863"
+worms_status: accepted
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 

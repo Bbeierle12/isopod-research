@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 588459
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=588459"
+worms_status: misspelling - incorrect original spelling
+worms_accepted: Megacepon disparatus
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 

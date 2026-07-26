@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 294280
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=294280"
+worms_status: superseded combination
+worms_accepted: Aphiloscia marangua
 tags: [isopod, oniscidea, philosciidae]
 ---
 

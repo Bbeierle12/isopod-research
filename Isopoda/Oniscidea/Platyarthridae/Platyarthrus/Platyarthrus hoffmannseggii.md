@@ -36,6 +36,9 @@ trophic_guild: Coprophage/detritivore (ant nests)
 reproduction_mode: sexual (parthenogenesis suspected)
 ecology_evidence: "stratum:a trophic:a life:b/c"
 realm: terrestrial
+worms_aphia_id: 262159
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262159"
+worms_status: accepted
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 

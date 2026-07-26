@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Epicepon japonicum
-authorship: "Nierstrasz & Brender"
+authorship: "Nierstrasz & Brender à Brandis, 1931"
 genus: Epicepon
 family: Bopyridae
 suborder: Epicaridea
@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 260265
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260265"
+worms_status: misspelling - incorrect original spelling
+worms_accepted: Metathelges japonicus
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 

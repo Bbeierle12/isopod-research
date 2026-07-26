@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 258297
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258297"
+worms_status: nomen nudum
 tags: [isopod, isopoda, cymothoida, hyssuridae]
 ---
 

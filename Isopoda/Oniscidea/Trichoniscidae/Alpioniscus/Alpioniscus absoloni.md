@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 258785
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258785"
+worms_status: alternative representation
+worms_accepted: Alpioniscus absoloni absoloni
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

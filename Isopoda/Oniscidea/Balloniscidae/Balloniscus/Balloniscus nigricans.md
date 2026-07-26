@@ -28,6 +28,9 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 259221
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259221"
+worms_status: accepted
 tags: [isopod, oniscidea, balloniscidae]
 ---
 

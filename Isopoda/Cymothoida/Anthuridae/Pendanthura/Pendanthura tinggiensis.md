@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Pendanthura tinggiensis
-authorship: "Chew"
+authorship: "Chew, bin Abdul Rahim & Mohd Yusof, 2016"
 genus: Pendanthura
 family: Anthuridae
 suborder: Cymothoida
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 882015
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=882015"
+worms_status: accepted
 tags: [isopod, isopoda, cymothoida, anthuridae]
 ---
 

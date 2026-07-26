@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 883256
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=883256"
+worms_status: junior subjective synonym
+worms_accepted: Chaetophiloscia cellaria cellaria
 tags: [isopod, oniscidea, philosciidae]
 ---
 

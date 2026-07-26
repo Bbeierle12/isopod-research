@@ -28,6 +28,9 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: freshwater
+worms_aphia_id: 715669
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=715669"
+worms_status: accepted
 tags: [isopod, oniscidea, brasileirinidae]
 ---
 

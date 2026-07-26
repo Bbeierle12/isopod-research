@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 118912
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118912"
+worms_status: junior objective synonym
+worms_accepted: Cirolana cranchii
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 

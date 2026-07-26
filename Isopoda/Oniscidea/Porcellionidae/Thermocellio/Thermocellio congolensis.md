@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 263509
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263509"
+worms_status: unaccepted
+worms_accepted: Thermocellio congolensis congolensis
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

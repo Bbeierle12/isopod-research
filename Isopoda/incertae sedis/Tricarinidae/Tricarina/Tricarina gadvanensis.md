@@ -21,6 +21,7 @@ ecology_evidence:
 sources:
 status: stub
 extinct: "true"
+worms_status: no record
 tags: [isopod, isopoda, incertae sedis, tricarinidae]
 ---
 

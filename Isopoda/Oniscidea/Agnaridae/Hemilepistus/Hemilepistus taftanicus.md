@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Hemilepistus taftanicus
-authorship: "Kashani, Sari & Hosseini"
+authorship: "Kashani, Sari & Hosseini (Ostavani), 2010"
 genus: Hemilepistus
 family: Agnaridae
 suborder: Oniscidea
@@ -28,6 +28,9 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 883758
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=883758"
+worms_status: accepted
 tags: [isopod, oniscidea, agnaridae]
 ---
 

@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 263491
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263491"
+worms_status: unaccepted
+worms_accepted: Stenetriidae incertae sedis dentimanum
 tags: [isopod, isopoda, asellota, stenetriidae]
 ---
 

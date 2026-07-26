@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 259534
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259534"
+worms_status: superseded combination
+worms_accepted: Pseudobaicalasellus cannulus
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

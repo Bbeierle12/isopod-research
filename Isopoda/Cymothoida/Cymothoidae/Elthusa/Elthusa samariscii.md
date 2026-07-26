@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 256797
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=256797"
+worms_status: superseded combination
+worms_accepted: Sandythoa samariscii
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 

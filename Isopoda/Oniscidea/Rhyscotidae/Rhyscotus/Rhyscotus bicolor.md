@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 262862
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262862"
+worms_status: unaccepted
+worms_accepted: Rhyscotus bicolor bicolor
 tags: [isopod, oniscidea, rhyscotidae]
 ---
 

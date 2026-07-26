@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 258495
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258495"
+worms_status: alternative representation
+worms_accepted: Proasellus anophtalmus anophtalmus
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

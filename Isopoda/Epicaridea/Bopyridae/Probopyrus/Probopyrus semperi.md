@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Probopyrus semperi
-authorship: "Nierstrasz & Brender"
+authorship: "Nierstrasz & Brender à Brandis, 1929"
 genus: Probopyrus
 family: Bopyridae
 suborder: Epicaridea
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 257913
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257913"
+worms_status: accepted
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 

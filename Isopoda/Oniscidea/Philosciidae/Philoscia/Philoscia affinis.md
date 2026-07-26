@@ -36,6 +36,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 258225
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258225"
+worms_status: alternative representation
+worms_accepted: Philoscia affinis affinis
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 

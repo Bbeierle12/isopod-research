@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Sphaeroma laevigatum
-authorship: "Philippi"
+authorship: "Philippi, 1860"
 genus: Sphaeroma
 family: Sphaeromatidae
 suborder: Sphaeromatidea
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 118970
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118970"
+worms_status: accepted
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 

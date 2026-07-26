@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 258671
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258671"
+worms_status: accepted
 tags: [isopod, isopoda, asellota, paramunnidae]
 ---
 

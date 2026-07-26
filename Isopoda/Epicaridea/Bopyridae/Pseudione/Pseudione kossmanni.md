@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Pseudione kossmanni
-authorship: "Nierstrasz & Brender"
+authorship: "Nierstrasz & Brender à Brandis, 1923"
 genus: Pseudione
 family: Bopyridae
 suborder: Epicaridea
@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 255314
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=255314"
+worms_status: superseded combination
+worms_accepted: Pleurocryptella kossmanni
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 

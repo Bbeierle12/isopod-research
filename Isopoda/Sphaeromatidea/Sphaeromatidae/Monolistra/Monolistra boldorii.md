@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 118964
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118964"
+worms_status: alternative representation
+worms_accepted: Monolistra (Typhlosphaeroma) boldorii boldorii
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 

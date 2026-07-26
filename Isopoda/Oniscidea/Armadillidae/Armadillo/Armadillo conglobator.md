@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 1671263
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1671263"
+worms_status: nomen nudum
+worms_accepted: Cubaris murina
 tags: [isopod, oniscidea, armadillidae]
 ---
 

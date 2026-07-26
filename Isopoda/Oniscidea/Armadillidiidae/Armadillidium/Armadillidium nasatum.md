@@ -36,6 +36,10 @@ trophic_guild: General detritivore
 reproduction_mode: sexual (NOT parthenogenetic)
 ecology_evidence: "stratum:a trophic:a life:a/b"
 realm: terrestrial
+worms_aphia_id: 257751
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257751"
+worms_status: alternative representation
+worms_accepted: Armadillidium nasatum nasatum
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

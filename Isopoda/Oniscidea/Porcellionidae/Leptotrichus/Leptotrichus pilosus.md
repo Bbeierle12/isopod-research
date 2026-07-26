@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 260947
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260947"
+worms_status: alternative representation
+worms_accepted: Leptotrichus pilosus pilosus
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

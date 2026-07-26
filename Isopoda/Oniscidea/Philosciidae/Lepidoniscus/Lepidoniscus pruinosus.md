@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 260929
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260929"
+worms_status: alternative representation
+worms_accepted: Lepidoniscus pruinosus pruinosus
 tags: [isopod, oniscidea, philosciidae]
 ---
 

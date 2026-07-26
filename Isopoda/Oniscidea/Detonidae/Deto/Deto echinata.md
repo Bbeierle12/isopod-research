@@ -36,6 +36,9 @@ trophic_guild: Detritivore
 reproduction_mode: sexual
 ecology_evidence: "stratum:b trophic:b life:c"
 realm: terrestrial
+worms_aphia_id: 260162
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260162"
+worms_status: accepted
 tags: [isopod, oniscidea, detonidae]
 ---
 

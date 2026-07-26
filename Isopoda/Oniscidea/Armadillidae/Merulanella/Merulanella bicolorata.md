@@ -36,6 +36,10 @@ trophic_guild: Detritivore (assumed)
 reproduction_mode: sexual (assumed)
 ecology_evidence: "stratum:b/c trophic:c life:b/c"
 realm: terrestrial
+worms_aphia_id: 882925
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=882925"
+worms_status: superseded combination
+worms_accepted: Ardentiella bicolorata
 tags: [isopod, oniscidea, armadillidae]
 ---
 

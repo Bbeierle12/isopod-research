@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 262349
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262349"
+worms_status: alternative representation
+worms_accepted: Porcellio lepineyi lepineyi
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

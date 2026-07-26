@@ -36,6 +36,9 @@ trophic_guild: General detritivore/coprophage
 reproduction_mode: sexual (sperm storage)
 ecology_evidence: "stratum:a trophic:a life:a"
 realm: terrestrial
+worms_aphia_id: 262343
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262343"
+worms_status: accepted
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

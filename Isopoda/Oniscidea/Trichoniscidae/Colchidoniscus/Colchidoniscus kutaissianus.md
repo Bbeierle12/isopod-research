@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 259822
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259822"
+worms_status: alternative representation
+worms_accepted: Colchidoniscus kutaissianus kutaissianus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

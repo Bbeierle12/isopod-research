@@ -36,6 +36,9 @@ trophic_guild: General detritivore (+facultative herbivore)
 reproduction_mode: sexual (Wolbachia/f-element feminization)
 ecology_evidence: "stratum:a trophic:a life:a"
 realm: terrestrial
+worms_aphia_id: 257832
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257832"
+worms_status: accepted
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

@@ -36,6 +36,9 @@ trophic_guild: Detritivore + wood/calcium
 reproduction_mode: sexual (assumed)
 ecology_evidence: "stratum:b/c trophic:b/c life:b/c"
 realm: terrestrial
+worms_aphia_id: 260023
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260023"
+worms_status: accepted
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 

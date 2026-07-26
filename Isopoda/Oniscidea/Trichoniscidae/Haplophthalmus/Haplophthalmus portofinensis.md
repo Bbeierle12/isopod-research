@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 260543
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260543"
+worms_status: junior subjective synonym
+worms_accepted: Haplophthalmus mengii mengii
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

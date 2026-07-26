@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 1399340
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1399340"
+worms_status: junior objective synonym
+worms_accepted: Entione squilliformis
 tags: [isopod, isopoda, epicaridea, entoniscidae]
 ---
 

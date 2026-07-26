@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 345348
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=345348"
+worms_status: unaccepted
+worms_accepted: Antarcturidae incertae sedis nodosus
 tags: [isopod, isopoda, valvifera, arcturidae]
 ---
 

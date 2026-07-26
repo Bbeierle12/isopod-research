@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Schizidium latifrons
-authorship: "(Budde-Lund)"
+authorship: "(Budde-Lund, 1885)"
 genus: Schizidium
 family: Armadillidiidae
 suborder: Oniscidea
@@ -28,6 +28,9 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 259228
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259228"
+worms_status: accepted
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 

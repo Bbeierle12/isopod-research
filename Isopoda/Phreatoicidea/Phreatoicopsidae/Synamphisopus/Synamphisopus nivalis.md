@@ -20,6 +20,7 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_status: no record
 tags: [isopod, isopoda, phreatoicidea, phreatoicopsidae]
 ---
 

@@ -28,6 +28,7 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_status: no record
 tags: [isopod, oniscidea, balloniscidae]
 ---
 

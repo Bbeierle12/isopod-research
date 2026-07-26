@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 259430
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259430"
+worms_status: alternative representation
+worms_accepted: Buddelundia zebricolor zebricolor
 tags: [isopod, oniscidea, armadillidae]
 ---
 

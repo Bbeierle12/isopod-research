@@ -36,6 +36,9 @@ trophic_guild: General detritivore
 reproduction_mode: parthenogenetic triploid + sexual diploid
 ecology_evidence: "stratum:a trophic:a/b life:a"
 realm: terrestrial
+worms_aphia_id: 263752
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263752"
+worms_status: accepted
 tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---
 

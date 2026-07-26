@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Eisothistos tiomanensis
-authorship: "Chew"
+authorship: "Chew, bin Abdul Rahim & binti Mohd Yusof, 2018"
 genus: Eisothistos
 family: Expanathuridae
 suborder: Cymothoida
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 1056465
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1056465"
+worms_status: accepted
 tags: [isopod, isopoda, cymothoida, expanathuridae]
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Gnathia hirayamai
-authorship: "Nunomura"
+authorship: "Nunomura, 1992"
 genus: Gnathia
 family: Gnathiidae
 suborder: Cymothoida
@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 257183
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257183"
+worms_status: junior subjective synonym
+worms_accepted: Gnathia nasuta
 tags: [isopod, isopoda, cymothoida, gnathiidae]
 ---
 

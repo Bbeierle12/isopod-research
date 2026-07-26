@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 118605
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118605"
+worms_status: alternative representation
+worms_accepted: Bellibos (Bemerria) monicae
 tags: [isopod, isopoda, asellota, munnopsidae]
 ---
 

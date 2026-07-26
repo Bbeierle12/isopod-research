@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Branchiophryxus koehleri
-authorship: "Nierstrasz & Brender"
+authorship: "Nierstrasz & Brender à Brandis, 1931"
 genus: Branchiophryxus
 family: Dajidae
 suborder: Epicaridea
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 259394
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259394"
+worms_status: accepted
 tags: [isopod, isopoda, epicaridea, dajidae]
 ---
 

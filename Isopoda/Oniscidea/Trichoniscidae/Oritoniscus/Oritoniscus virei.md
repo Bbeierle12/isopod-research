@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 261661
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=261661"
+worms_status: alternative representation
+worms_accepted: Oritoniscus virei virei
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

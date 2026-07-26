@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 260378
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260378"
+worms_status: alternative representation
+worms_accepted: Excorallana tricornis tricornis
 tags: [isopod, isopoda, cymothoida, corallanidae]
 ---
 

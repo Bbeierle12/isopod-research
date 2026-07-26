@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 263494
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263494"
+worms_status: superseded combination
+worms_accepted: Stenetriidae incertae sedis haswelli
 tags: [isopod, isopoda, asellota, stenetriidae]
 ---
 

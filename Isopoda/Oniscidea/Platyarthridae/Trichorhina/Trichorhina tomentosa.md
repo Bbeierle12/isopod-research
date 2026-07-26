@@ -36,6 +36,9 @@ trophic_guild: General detritivore (micro cleanup)
 reproduction_mode: obligate parthenogenesis (all-female)
 ecology_evidence: "stratum:a/b trophic:a/b life:a"
 realm: terrestrial
+worms_aphia_id: 263835
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263835"
+worms_status: accepted
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 

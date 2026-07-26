@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Trachelipus balticus
-authorship: "Verhoeff"
+authorship: "(Verhoeff, 1907)"
 genus: Trachelipus
 family: Trachelipodidae
 suborder: Oniscidea
@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 1774018
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1774018"
+worms_status: junior subjective synonym
+worms_accepted: Trachelipus nodulosus
 tags: [isopod, oniscidea, trachelipodidae]
 ---
 

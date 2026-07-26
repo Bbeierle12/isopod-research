@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 233891
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=233891"
+worms_status: alternative representation
+worms_accepted: Proasellus coxalis coxalis
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

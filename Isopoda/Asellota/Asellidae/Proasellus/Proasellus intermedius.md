@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 258543
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258543"
+worms_status: alternative representation
+worms_accepted: Proasellus intermedius intermedius
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

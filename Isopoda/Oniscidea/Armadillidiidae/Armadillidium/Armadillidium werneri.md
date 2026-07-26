@@ -36,6 +36,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 257833
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257833"
+worms_status: alternative representation
+worms_accepted: Armadillidium werneri werneri
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

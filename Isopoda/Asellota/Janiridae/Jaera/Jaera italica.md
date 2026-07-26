@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 118721
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118721"
+worms_status: alternative representation
+worms_accepted: Jaera (Jaera) italica
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 

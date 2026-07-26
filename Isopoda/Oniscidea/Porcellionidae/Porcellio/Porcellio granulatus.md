@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 885031
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=885031"
+worms_status: junior subjective synonym
+worms_accepted: Porcellio scaber
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

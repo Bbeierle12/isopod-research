@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 262639
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262639"
+worms_status: superseded combination
+worms_accepted: Mongoloniscus bocki
 tags: [isopod, oniscidea, agnaridae]
 ---
 

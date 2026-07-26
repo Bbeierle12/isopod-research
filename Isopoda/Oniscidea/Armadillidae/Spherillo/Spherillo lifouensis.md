@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 263157
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263157"
+worms_status: superseded combination
+worms_accepted: Xestodillo lifouensis
 tags: [isopod, oniscidea, armadillidae]
 ---
 

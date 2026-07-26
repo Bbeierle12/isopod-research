@@ -36,6 +36,9 @@ trophic_guild: General detritivore
 reproduction_mode: sexual (sperm storage)
 ecology_evidence: "stratum:a trophic:a life:a/b"
 realm: terrestrial
+worms_aphia_id: 257580
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257580"
+worms_status: accepted
 tags: [isopod, oniscidea, oniscidae, hobby]
 ---
 

@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 118239
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118239"
+worms_status: junior subjective synonym
+worms_accepted: Pseudione callianassae
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 

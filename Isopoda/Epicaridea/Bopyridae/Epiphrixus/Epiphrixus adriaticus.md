@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Epiphrixus adriaticus
-authorship: "Nierstrasz & Brender"
+authorship: "Nierstrasz & Brender à Brandis, 1932"
 genus: Epiphrixus
 family: Bopyridae
 suborder: Epicaridea
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 118213
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118213"
+worms_status: accepted
 tags: [isopod, isopoda, epicaridea, bopyridae]
 ---
 

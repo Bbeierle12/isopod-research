@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 259676
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=259676"
+worms_status: alternative representation
+worms_accepted: Catalauniscus bolivari bolivari
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

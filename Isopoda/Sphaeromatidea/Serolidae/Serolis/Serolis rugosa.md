@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 175160
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=175160"
+worms_status: taxon inquirendum
 tags: [isopod, isopoda, sphaeromatidea, serolidae]
 ---
 

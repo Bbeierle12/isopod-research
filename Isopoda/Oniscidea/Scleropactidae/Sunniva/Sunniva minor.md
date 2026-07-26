@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 263369
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263369"
+worms_status: alternative representation
+worms_accepted: Sunniva minor minor
 tags: [isopod, oniscidea, scleropactidae]
 ---
 

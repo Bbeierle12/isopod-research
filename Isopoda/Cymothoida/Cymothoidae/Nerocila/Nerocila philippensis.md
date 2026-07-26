@@ -20,6 +20,10 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 1325091
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1325091"
+worms_status: junior subjective synonym
+worms_accepted: Nerocila congener
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 

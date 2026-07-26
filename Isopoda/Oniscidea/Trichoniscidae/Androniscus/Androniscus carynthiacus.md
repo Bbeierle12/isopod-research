@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 258612
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=258612"
+worms_status: junior subjective synonym
+worms_accepted: Androniscus roseus
 tags: [isopod, oniscidea, trichoniscidae]
 ---
 

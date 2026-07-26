@@ -1,7 +1,7 @@
 ---
 type: species
 scientificName: Antarcturus annaoides
-authorship: "Menzies"
+authorship: "Menzies, 1956"
 genus: Antarcturus
 family: Antarcturidae
 suborder: Valvifera
@@ -20,6 +20,9 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+worms_aphia_id: 257957
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=257957"
+worms_status: accepted
 tags: [isopod, isopoda, valvifera, antarcturidae]
 ---
 

@@ -28,6 +28,10 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 260944
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260944"
+worms_status: alternative representation
+worms_accepted: Leptotrichus mersinensis mersinensis
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

@@ -28,6 +28,9 @@ trophic_guild:
 reproduction_mode: 
 ecology_evidence: 
 realm: terrestrial
+worms_aphia_id: 262493
+worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262493"
+worms_status: accepted
 tags: [isopod, oniscidea, porcellionidae]
 ---
 
