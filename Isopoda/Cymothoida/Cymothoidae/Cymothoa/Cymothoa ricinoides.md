@@ -25,6 +25,7 @@ worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118899"
 worms_status: nomen dubium
 former_name: Livoneca ricinoides
 aliases: [Livoneca ricinoides]
+worms_note: "WoRMS caveat: nomen dubium"
 tags: [isopod, isopoda, cymothoida, cymothoidae]
 ---
 

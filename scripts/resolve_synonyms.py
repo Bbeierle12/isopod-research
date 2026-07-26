@@ -111,8 +111,10 @@ def to_synonym(path, name, accepted, status, linkable=True):
     banner = ("> [!warning] Junior synonym\n"
               "> WoRMS treats **%s** as *%s*. The accepted name is **%s**.\n"
               % (name, status, target))
-    body = re.sub(r"^> \[!warning\] Junior synonym\n(?:>.*\n)*", "", body, flags=re.M)
-    body = re.sub(r"(^# .*$)", r"\1\n\n" + banner.rstrip(), body, count=1, flags=re.M)
+    # Strip any banner from a previous run *including* the blank line(s) that
+    # followed it, so re-running is idempotent rather than accumulating gaps.
+    body = re.sub(r"^> \[!warning\] Junior synonym\n(?:>.*\n)*\n*", "", body, flags=re.M)
+    body = re.sub(r"(^# .*$)\n*", r"\1\n\n" + banner.rstrip() + "\n\n", body, count=1, flags=re.M)
     return V.write_if_changed(path, o + fm + c + body) if not DRY else True
 
 

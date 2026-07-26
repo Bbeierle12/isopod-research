@@ -25,6 +25,7 @@ worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1721241"
 worms_status: taxon inquirendum
 former_name: Onychatrium echiurum
 aliases: [Onychatrium echiurum]
+worms_note: "WoRMS caveat: taxon inquirendum"
 tags: [isopod, isopoda, asellota, stenetriidae]
 ---
 

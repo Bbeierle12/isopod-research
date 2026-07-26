@@ -25,6 +25,7 @@ worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1673499"
 worms_status: taxon inquirendum
 former_name: Dynamene dilatata
 aliases: [Dynamene dilatata]
+worms_note: "WoRMS caveat: taxon inquirendum"
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 

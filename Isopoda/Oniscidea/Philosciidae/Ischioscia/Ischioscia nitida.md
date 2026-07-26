@@ -33,6 +33,7 @@ worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260839"
 worms_status: nomen dubium
 former_name: Philougria nitida
 aliases: [Philougria nitida]
+worms_note: "WoRMS caveat: nomen dubium"
 tags: [isopod, isopoda, oniscidea, philosciidae]
 ---
 
