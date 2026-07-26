@@ -21,7 +21,7 @@ Keeping difficulty.
 | [[Armadillidium decorum]] | Armadillidiidae |
 | [[Armadillidium depressum]] | Armadillidiidae |
 | [[Armadillidium espanyoli]] | Armadillidiidae |
-| [[Armadillidium frontirostre]] | Armadillidiidae |
+| [[Armadillidium pallasii|Armadillidium frontirostre]] | Armadillidiidae |
 | [[Armadillidium gestroi]] | Armadillidiidae |
 | [[Armadillidium granulatum]] | Armadillidiidae |
 | [[Armadillidium klugii]] | Armadillidiidae |
@@ -124,7 +124,7 @@ Keeping difficulty.
 | [[Laureola sp. Arboreal Spiny]] | Armadillidae |
 | [[Ligia exotica]] | Ligiidae |
 | [[Ligia oceanica]] | Ligiidae |
-| [[Merulanella bicolorata]] | Armadillidae |
+| [[Ardentiella bicolorata|Merulanella bicolorata]] | Armadillidae |
 | [[Merulanella sp. Ember Bee]] | Armadillidae |
 | [[Merulanella sp. Red Diablo]] | Armadillidae |
 | [[Merulanella sp. Scarlet]] | Armadillidae |

@@ -3,7 +3,7 @@ type: index
 group: Asellota
 family_count: 34
 genus_count: 282
-species_count: 2348
+species_count: 2373
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, asellota, master-index]
@@ -11,14 +11,14 @@ tags: [isopod, asellota, master-index]
 
 # Asellota (Suborder)
 
-This vault section covers **34 families, 282 genera, and 2348 accepted species**. Realm: marine, brackish, freshwater
+This vault section covers **34 families, 282 genera, and 2373 accepted species**. Realm: marine, brackish, freshwater
 
 ## Families
 
 | Family | Genera | Species |
 |---|---:|---:|
 | [[_Acanthaspidiidae Index\|Acanthaspidiidae]] | 3 | 36 |
-| [[_Asellidae Index\|Asellidae]] | 22 | 352 |
+| [[_Asellidae Index\|Asellidae]] | 22 | 357 |
 | [[_Atlantasellidae Index\|Atlantasellidae]] | 1 | 2 |
 | [[_Dendrotionidae Index\|Dendrotionidae]] | 3 | 27 |
 | [[_Desmosomatidae Index\|Desmosomatidae]] | 20 | 147 |
@@ -28,7 +28,7 @@ This vault section covers **34 families, 282 genera, and 2348 accepted species**
 | [[_Haploniscidae Index\|Haploniscidae]] | 8 | 126 |
 | [[_Ischnomesidae Index\|Ischnomesidae]] | 9 | 111 |
 | [[_Janirellidae Index\|Janirellidae]] | 3 | 42 |
-| [[_Janiridae Index\|Janiridae]] | 22 | 168 |
+| [[_Janiridae Index\|Janiridae]] | 22 | 183 |
 | [[_Joeropsididae Index\|Joeropsididae]] | 3 | 84 |
 | [[_Katianiridae Index\|Katianiridae]] | 2 | 6 |
 | [[_Lepidocharontidae Index\|Lepidocharontidae]] | 3 | 73 |
@@ -38,7 +38,7 @@ This vault section covers **34 families, 282 genera, and 2348 accepted species**
 | [[_Microparasellidae Index\|Microparasellidae]] | 2 | 13 |
 | [[_Mictosomatidae Index\|Mictosomatidae]] | 1 | 1 |
 | [[_Munnidae Index\|Munnidae]] | 7 | 116 |
-| [[_Munnopsidae Index\|Munnopsidae]] | 43 | 347 |
+| [[_Munnopsidae Index\|Munnopsidae]] | 43 | 352 |
 | [[_Nannoniscidae Index\|Nannoniscidae]] | 14 | 95 |
 | [[_Paramunnidae Index\|Paramunnidae]] | 48 | 189 |
 | [[_Pleurocopidae Index\|Pleurocopidae]] | 1 | 4 |
@@ -51,5 +51,5 @@ This vault section covers **34 families, 282 genera, and 2348 accepted species**
 | [[_Urstylidae Index\|Urstylidae]] | 2 | 4 |
 | [[_Vermectiadidae Index\|Vermectiadidae]] | 1 | 2 |
 | [[_Xenosellidae Index\|Xenosellidae]] | 1 | 1 |
-| **TOTAL** | **282** | **2348** |
+| **TOTAL** | **282** | **2373** |
 

@@ -3,7 +3,7 @@ type: index
 group: Sphaeromatidae
 suborder: Sphaeromatidea
 genus_count: 111
-species_count: 714
+species_count: 717
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, sphaeromatidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, sphaeromatidea, family-index]
 
 # Sphaeromatidae (Family)
 
-Suborder Sphaeromatidea · 111 genera · 714 accepted species.
+Suborder Sphaeromatidea · 111 genera · 717 accepted species.
 
 ## Genera
 
@@ -31,7 +31,7 @@ Suborder Sphaeromatidea · 111 genera · 714 accepted species.
 | [[_Botryias|Botryias]] | 1 |
 | [[_Bregmotypta|Bregmotypta]] | 1 |
 | [[_Caecocassidias|Caecocassidias]] | 1 |
-| [[_Caecosphaeroma|Caecosphaeroma]] | 1 |
+| [[_Caecosphaeroma|Caecosphaeroma]] | 2 |
 | [[_Calcipila|Calcipila]] | 1 |
 | [[_Campecopea|Campecopea]] | 4 |
 | [[_Cassidias|Cassidias]] | 3 |
@@ -89,7 +89,7 @@ Suborder Sphaeromatidea · 111 genera · 714 accepted species.
 | [[_Margueritta|Margueritta]] | 2 |
 | [[_Maricoccus|Maricoccus]] | 1 |
 | [[_Merozoon|Merozoon]] | 1 |
-| [[_Monolistra|Monolistra]] | 21 |
+| [[_Monolistra|Monolistra]] | 23 |
 | [[_Moruloidea|Moruloidea]] | 7 |
 | [[_Naesicopea|Naesicopea]] | 1 |
 | [[_Neonaesa|Neonaesa]] | 1 |
@@ -128,5 +128,5 @@ Suborder Sphaeromatidea · 111 genera · 714 accepted species.
 | [[_Waiteolana|Waiteolana]] | 3 |
 | [[_Xynosphaera|Xynosphaera]] | 1 |
 | [[_Zuzara|Zuzara]] | 5 |
-| **TOTAL** | **714** |
+| **TOTAL** | **717** |
 

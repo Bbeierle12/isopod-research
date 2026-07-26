@@ -3,7 +3,7 @@ type: index
 group: Oniscidea
 family_count: 41
 genus_count: 568
-species_count: 4159
+species_count: 4164
 realm: terrestrial, marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, master-index]
@@ -11,15 +11,15 @@ tags: [isopod, oniscidea, master-index]
 
 # Oniscidea (Suborder)
 
-This vault section covers **41 families, 568 genera, and 4159 accepted species**. Realm: terrestrial, marine, brackish, freshwater
+This vault section covers **41 families, 568 genera, and 4164 accepted species**. Realm: terrestrial, marine, brackish, freshwater
 
 ## Families
 
 | Family | Genera | Species |
 |---|---:|---:|
-| [[_Agnaridae Index\|Agnaridae]] | 14 | 201 |
+| [[_Agnaridae Index\|Agnaridae]] | 14 | 202 |
 | [[_Alloniscidae Index\|Alloniscidae]] | 1 | 25 |
-| [[_Armadillidae Index\|Armadillidae]] | 85 | 723 |
+| [[_Armadillidae Index\|Armadillidae]] | 85 | 724 |
 | [[_Armadillidiidae Index\|Armadillidiidae]] | 18 | 291 |
 | [[_Balloniscidae Index\|Balloniscidae]] | 2 | 9 |
 | [[_Bathytropidae Index\|Bathytropidae]] | 9 | 30 |
@@ -33,7 +33,7 @@ This vault section covers **41 families, 568 genera, and 4159 accepted species**
 | [[_Eubelidae Index\|Eubelidae]] | 51 | 265 |
 | [[_Halophilosciidae Index\|Halophilosciidae]] | 3 | 36 |
 | [[_Irmaosidae Index\|Irmaosidae]] | 1 | 2 |
-| [[_Ligiidae Index\|Ligiidae]] | 7 | 116 |
+| [[_Ligiidae Index\|Ligiidae]] | 7 | 119 |
 | [[_Mesoniscidae Index\|Mesoniscidae]] | 1 | 2 |
 | [[_Olibrinidae Index\|Olibrinidae]] | 5 | 24 |
 | [[_Oniscidae Index\|Oniscidae]] | 13 | 91 |
@@ -58,5 +58,5 @@ This vault section covers **41 families, 568 genera, and 4159 accepted species**
 | [[_Trichoniscidae Index\|Trichoniscidae]] | 92 | 556 |
 | [[_Turanoniscidae Index\|Turanoniscidae]] | 1 | 1 |
 | [[_Tylidae Index\|Tylidae]] | 2 | 23 |
-| **TOTAL** | **568** | **4159** |
+| **TOTAL** | **568** | **4164** |
 

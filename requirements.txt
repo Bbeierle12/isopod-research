@@ -1,0 +1,3 @@
+# Pipeline dependencies. The crawlers use only the standard library; PyYAML is
+# needed by scripts/verify.py to prove every note's frontmatter parses.
+PyYAML>=6.0

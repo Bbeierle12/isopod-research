@@ -29,12 +29,12 @@ biogeo_region: North Africa
 moisture: Arid
 difficulty_tier: Intermediate
 bioactive_role: Display
-ecomorph: 
-terrestrialization: 
-habitat_stratum: 
-trophic_guild: 
-reproduction_mode: 
-ecology_evidence: 
+ecomorph: Clinger
+terrestrialization: xerophilous
+habitat_stratum: SA/EP
+trophic_guild: General detritivore
+reproduction_mode: sexual
+ecology_evidence: "stratum:b trophic:b life:b refs:schmalfuss1984"
 realm: terrestrial
 worms_aphia_id: 262325
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=262325"

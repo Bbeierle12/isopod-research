@@ -21,7 +21,7 @@ Schmalfuss defense axis (hobby forms; not yet coded taxonomy-wide).
 | [[Armadillidium decorum]] | Armadillidiidae |
 | [[Armadillidium depressum]] | Armadillidiidae |
 | [[Armadillidium espanyoli]] | Armadillidiidae |
-| [[Armadillidium frontirostre]] | Armadillidiidae |
+| [[Armadillidium pallasii|Armadillidium frontirostre]] | Armadillidiidae |
 | [[Armadillidium gestroi]] | Armadillidiidae |
 | [[Armadillidium granulatum]] | Armadillidiidae |
 | [[Armadillidium klugii]] | Armadillidiidae |
@@ -48,7 +48,7 @@ Schmalfuss defense axis (hobby forms; not yet coded taxonomy-wide).
 | [[Eluma caelata]] | Armadillidiidae |
 | [[Filipinodillo sp.]] | Armadillidae |
 | [[Laureola sp. Arboreal Spiny]] | Armadillidae |
-| [[Merulanella bicolorata]] | Armadillidae |
+| [[Ardentiella bicolorata|Merulanella bicolorata]] | Armadillidae |
 | [[Merulanella sp. Ember Bee]] | Armadillidae |
 | [[Merulanella sp. Red Diablo]] | Armadillidae |
 | [[Merulanella sp. Scarlet]] | Armadillidae |

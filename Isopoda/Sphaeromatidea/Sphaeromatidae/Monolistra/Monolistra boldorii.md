@@ -24,7 +24,7 @@ worms_aphia_id: 118964
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118964"
 worms_status: alternative representation
 worms_accepted: Monolistra (Typhlosphaeroma) boldorii boldorii
-worms_note: genus placement unresolved in WoRMS (Monolistra (Typhlosphaeroma) boldorii boldorii)
+worms_note: species name is valid; WoRMS renders it with a subgenus as Monolistra boldorii boldorii (ICZN Art. 6.1)
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 

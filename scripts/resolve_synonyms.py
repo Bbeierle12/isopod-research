@@ -22,6 +22,11 @@ introduce errors:
                Androniscus stygius stygius). Treated as a synonym record; the
                vault does not carry subspecies as separate notes.
 
+  SUBGENUS     WoRMS renders the name with a parenthesised subgenus
+               (Asellus amamiensis -> Asellus (Asellus) amamiensis). Under ICZN
+               Art. 6.1 that does not change the binomen, so the species name
+               stands. Annotated only.
+
   SUBSP_REPR   WoRMS additionally carries the *nominotypical* subspecies
                (Alpioniscus absoloni -> Alpioniscus absoloni absoloni). The
                species-level name is valid; renaming would be wrong. Annotated
@@ -55,6 +60,17 @@ def sh(*args):
     subprocess.run(args, check=True)
 
 
+_SUBGENUS = re.compile(r"\s*\([A-Z][a-z]+\)\s*")
+
+
+def strip_subgenus(n):
+    """Drop a parenthesised subgenus. Under ICZN Art. 6.1 a subgenus inserted
+    between genus and epithet is optional and does not change the binomen, so
+    `Asellus (Asellus) amamiensis` is the same species as `Asellus amamiensis`
+    and must not be treated as a rename or a demotion."""
+    return _SUBGENUS.sub(" ", n).strip()
+
+
 def classify(name, v):
     """Decide the action for one not-accepted name. Mirrors the doc above."""
     acc = (v.get("accepted") or "").strip()
@@ -63,6 +79,14 @@ def classify(name, v):
         return "FLAG_ONLY"
     if "incertae sedis" in acc:
         return "UNPLACEABLE"
+    if "(" in acc:
+        bare = strip_subgenus(acc)
+        bw, nw = bare.split(), name.split()
+        # same binomen once the subgenus is removed (optionally plus the
+        # nominotypical subspecies) -> the species name stands
+        if bare == name or (len(bw) == 3 and bw[0] == nw[0] and bw[1] == nw[1] and bw[1] == bw[2]):
+            return "SUBGENUS"
+        acc = bare            # a real change; classify on the bare binomen
     aw, nw = acc.split(), name.split()
     if len(aw) == 3 and aw[0] == nw[0] and aw[1] == nw[1] and aw[1] == aw[2]:
         return "SUBSP_REPR"
@@ -201,7 +225,8 @@ def main():
     fammap = json.loads((V.DATA / "isopoda_suborders.json").read_text(encoding="utf-8"))["families"]
     notes = species_notes()
 
-    counts = {k: 0 for k in ("RENAME", "SYNONYM", "DEMOTED", "SUBSP_REPR", "UNPLACEABLE", "FLAG_ONLY", "MERGED")}
+    counts = {k: 0 for k in ("RENAME", "SYNONYM", "DEMOTED", "SUBGENUS", "SUBSP_REPR",
+                             "UNPLACEABLE", "FLAG_ONLY", "MERGED")}
     for name, v in sorted(cache.items()):
         if v.get("status") in ("accepted", "no record", None):
             continue
@@ -209,7 +234,9 @@ def main():
         if not path:
             continue
         cls = classify(name, v)
-        acc = (v.get("accepted") or "").strip()
+        # notes are named with the bare binomen, so strip any subgenus before
+        # using the accepted name as a rename target or a synonym pointer
+        acc = strip_subgenus((v.get("accepted") or "").strip())
         st = v.get("status")
 
         if cls == "RENAME":
@@ -225,6 +252,10 @@ def main():
         elif cls in ("SYNONYM", "DEMOTED"):
             if to_synonym(path, name, acc, st, acc in notes):
                 counts[cls] += 1
+        elif cls == "SUBGENUS":
+            if annotate(path, "species name is valid; WoRMS renders it with a subgenus "
+                              "as %s (ICZN Art. 6.1)" % acc, None, st):
+                counts[cls] += 1
         elif cls == "SUBSP_REPR":
             if annotate(path, "species-level name is valid; WoRMS also carries the "
                               "nominotypical subspecies %s" % acc, None, st):
@@ -237,7 +268,8 @@ def main():
                 counts[cls] += 1
 
     print("\n".join("%-12s %4d" % (k, counts[k]) for k in
-                    ("RENAME", "MERGED", "SYNONYM", "DEMOTED", "SUBSP_REPR", "UNPLACEABLE", "FLAG_ONLY"))
+                    ("RENAME", "MERGED", "SYNONYM", "DEMOTED", "SUBGENUS", "SUBSP_REPR",
+                     "UNPLACEABLE", "FLAG_ONLY"))
           + ("\n[DRY RUN]" if DRY else ""))
 
 

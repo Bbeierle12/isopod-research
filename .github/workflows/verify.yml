@@ -1,0 +1,49 @@
+name: verify
+
+# Enforces the vault's structural invariants on every push and pull request.
+# scripts/verify.py is read-only and makes no network calls, so this job needs
+# no secrets and no API access.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # 3.9 is the floor the pipeline claims to support; 3.12 catches
+        # deprecations early. The original taxonomy.py shipped a SyntaxError
+        # that only appeared below 3.12, which is why the floor is tested.
+        python-version: ["3.9", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: python -m pip install --quiet pyyaml
+
+      - name: Byte-compile every script
+        run: python -m compileall -q scripts
+
+      - name: Verify vault invariants
+        run: python scripts/verify.py
+
+      - name: Check generated artifacts are up to date
+        # A tree edited without re-running the generators must fail CI rather
+        # than drift. Both are idempotent, so a clean checkout leaves no diff.
+        run: |
+          python scripts/isopoda_index.py
+          python scripts/atlas.py
+          git diff --exit-code || {
+            echo "::error::Generated notes are stale — run scripts/isopoda_index.py and scripts/atlas.py and commit the result."
+            git diff --stat
+            exit 1
+          }

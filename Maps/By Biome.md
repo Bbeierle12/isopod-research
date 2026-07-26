@@ -51,7 +51,7 @@ Climate zone (husbandry-derived).
 | [[Armadillidium arcangelii]] | Armadillidiidae |
 | [[Armadillidium decorum]] | Armadillidiidae |
 | [[Armadillidium espanyoli]] | Armadillidiidae |
-| [[Armadillidium frontirostre]] | Armadillidiidae |
+| [[Armadillidium pallasii|Armadillidium frontirostre]] | Armadillidiidae |
 | [[Armadillidium klugii]] | Armadillidiidae |
 | [[Armadillidium werneri]] | Armadillidiidae |
 | [[Armadillo officinalis]] | Armadillidae |
@@ -101,7 +101,7 @@ Climate zone (husbandry-derived).
 | [[Dryadillo sp. Feather]] | Armadillidae |
 | [[Filipinodillo sp.]] | Armadillidae |
 | [[Laureola sp. Arboreal Spiny]] | Armadillidae |
-| [[Merulanella bicolorata]] | Armadillidae |
+| [[Ardentiella bicolorata|Merulanella bicolorata]] | Armadillidae |
 | [[Merulanella sp. Ember Bee]] | Armadillidae |
 | [[Merulanella sp. Red Diablo]] | Armadillidae |
 | [[Merulanella sp. Scarlet]] | Armadillidae |

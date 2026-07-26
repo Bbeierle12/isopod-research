@@ -8,9 +8,9 @@ tags: [isopod, atlas, facet-map]
 
 Broad environmental realm (from the WoRMS-sourced family map).
 
-**11306 of 11306 Isopoda species classified.** ← [[_Isopod Atlas]]
+**11339 of 11339 Isopoda species classified.** ← [[_Isopod Atlas]]
 
-## terrestrial  <small>(4172)</small>
+## terrestrial  <small>(4177)</small>
 
 | Species | Family |
 |---|---|
@@ -548,6 +548,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Armadillo arcuatus]] | Armadillidae |
 | [[Armadillo bituberculatus]] | Armadillidae |
 | [[Armadillo carmelensis]] | Armadillidae |
+| [[Armadillo cavernae]] | Armadillidae |
 | [[Armadillo collinus]] | Armadillidae |
 | [[Armadillo confalonierii]] | Armadillidae |
 | [[Armadillo erythroleucus]] | Armadillidae |
@@ -1530,6 +1531,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Hemilepistus crenulatus]] | Agnaridae |
 | [[Hemilepistus cristatus]] | Agnaridae |
 | [[Hemilepistus dushengi]] | Agnaridae |
+| [[Hemilepistus elongatus]] | Agnaridae |
 | [[Hemilepistus fedtschenkoi]] | Agnaridae |
 | [[Hemilepistus heptneri]] | Agnaridae |
 | [[Hemilepistus klugii]] | Agnaridae |
@@ -1763,11 +1765,13 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Ligia honu]] | Ligiidae |
 | [[Ligia italica]] | Ligiidae |
 | [[Ligia kamehameha]] | Ligiidae |
+| [[Ligia latissima]] | Ligiidae |
 | [[Ligia litigiosa]] | Ligiidae |
 | [[Ligia malleata]] | Ligiidae |
 | [[Ligia mauinuiensis]] | Ligiidae |
 | [[Ligia miyakensis]] | Ligiidae |
 | [[Ligia natalensis]] | Ligiidae |
+| [[Ligia novizealandiae]] | Ligiidae |
 | [[Ligia occidentalis]] | Ligiidae |
 | [[Ligia oceanica]] | Ligiidae |
 | [[Ligia pallasii]] | Ligiidae |
@@ -1802,6 +1806,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Ligidium bosphoranum]] | Ligiidae |
 | [[Ligidium bosporanum]] | Ligiidae |
 | [[Ligidium burmanicum]] | Ligiidae |
+| [[Ligidium cavaticum]] | Ligiidae |
 | [[Ligidium cycladicum]] | Ligiidae |
 | [[Ligidium deltodontum]] | Ligiidae |
 | [[Ligidium denticulatum]] | Ligiidae |
@@ -4187,7 +4192,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Zebrascia longicornis]] | Philosciidae |
 | [[Zebrascia plurimaculata]] | Philosciidae |
 
-## freshwater  <small>(629)</small>
+## freshwater  <small>(634)</small>
 
 | Species | Family |
 |---|---|
@@ -4211,10 +4216,13 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Anneckella perbrincki]] | Protojaniridae |
 | [[Anneckella srilankae]] | Protojaniridae |
 | [[Asellus alaskensis]] | Asellidae |
+| [[Asellus amamiensis]] | Asellidae |
 | [[Asellus aquaticus]] | Asellidae |
 | [[Asellus balcanicus]] | Asellidae |
 | [[Asellus birsteini]] | Asellidae |
+| [[Asellus dybowskii]] | Asellidae |
 | [[Asellus epimeralis]] | Asellidae |
+| [[Asellus ezoensis]] | Asellidae |
 | [[Asellus hilgendorfii]] | Asellidae |
 | [[Asellus hyugaensis]] | Asellidae |
 | [[Asellus incisus]] | Asellidae |
@@ -4225,8 +4233,10 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Asellus levanidovorum]] | Asellidae |
 | [[Asellus meridionalis]] | Asellidae |
 | [[Asellus monticola]] | Asellidae |
+| [[Asellus musashiensis]] | Asellidae |
 | [[Asellus primoryensis]] | Asellidae |
 | [[Asellus shikokuensis]] | Asellidae |
+| [[Asellus tamaensis]] | Asellidae |
 | [[Asellus turanaicus]] | Asellidae |
 | [[Asselus aquaticus]] | Asellidae |
 | [[Atlantasellus cavernicolus]] | Atlantasellidae |
@@ -4821,7 +4831,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Uramphisopus pearsoni]] | Phreatoicidae |
 | [[Wiyufiloides osornoensis]] | Protojaniridae |
 
-## marine  <small>(6505)</small>
+## marine  <small>(6528)</small>
 
 | Species | Family |
 |---|---|
@@ -5776,6 +5786,9 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Bathyopsurus abyssicolus]] | Munnopsidae |
 | [[Bathyopsurus nybelini]] | Munnopsidae |
 | [[Beatricesphaera ruthae]] | Sphaeromatidae |
+| [[Bellibos buzwilsoni]] | Munnopsidae |
+| [[Bellibos dageti]] | Munnopsidae |
+| [[Bellibos monicae]] | Munnopsidae |
 | [[Bellibos multispina]] | Munnopsidae |
 | [[Belonectes daytoni]] | Munnopsidae |
 | [[Belonectes grasslei]] | Munnopsidae |
@@ -5980,6 +5993,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Caecoserolis brinki]] | Serolidae |
 | [[Caecoserolis monodi]] | Serolidae |
 | [[Caecosphaeroma burgundum]] | Sphaeromatidae |
+| [[Caecosphaeroma virei]] | Sphaeromatidae |
 | [[Caecostenetroides ascensionis]] | Gnathostenetroididae |
 | [[Caecostenetroides ischitanum]] | Gnathostenetroididae |
 | [[Caecostenetroides leptosoma]] | Gnathostenetroididae |
@@ -8342,9 +8356,24 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Isonebula maculatus]] | Cymothoidae |
 | [[Isopodites triasinus]] | Sphaeromatidae |
 | [[Izuohshimaphryxus hoshinoi]] | Bopyridae |
+| [[Jaera albifrons]] | Janiridae |
+| [[Jaera bocqueti]] | Janiridae |
 | [[Jaera caspica]] | Janiridae |
+| [[Jaera forsmani]] | Janiridae |
 | [[Jaera hopeana]] | Janiridae |
+| [[Jaera ischiosetosa]] | Janiridae |
 | [[Jaera ischiostosa]] | Janiridae |
+| [[Jaera istri]] | Janiridae |
+| [[Jaera italica]] | Janiridae |
+| [[Jaera nordica]] | Janiridae |
+| [[Jaera nordmanni]] | Janiridae |
+| [[Jaera petiti]] | Janiridae |
+| [[Jaera posthirsuta]] | Janiridae |
+| [[Jaera praehirsuta]] | Janiridae |
+| [[Jaera sarsi]] | Janiridae |
+| [[Jaera schellenbergi]] | Janiridae |
+| [[Jaera sorrentina]] | Janiridae |
+| [[Jaera syei]] | Janiridae |
 | [[Jaera tyleri]] | Janiridae |
 | [[Jaera wakishiana]] | Janiridae |
 | [[Janaira gracilis]] | Janiridae |
@@ -8711,7 +8740,9 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Liocoryphe minocule]] | Stenetriidae |
 | [[Liocoryphe siamense]] | Stenetriidae |
 | [[Lionectes humicephalotus]] | Munnopsidae |
+| [[Lipomera curvintestinata]] | Munnopsidae |
 | [[Lipomera knorrae]] | Munnopsidae |
+| [[Lipomera lamellata]] | Munnopsidae |
 | [[Liriopsis monophthalmus]] | Cryptoniscidae |
 | [[Liriopsis pygmaea]] | Cryptoniscidae |
 | [[Litarcturus americanus]] | Antarcturidae |
@@ -9159,8 +9190,10 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Monolistra calopyge]] | Sphaeromatidae |
 | [[Monolistra coeca]] | Sphaeromatidae |
 | [[Monolistra fongi]] | Sphaeromatidae |
+| [[Monolistra hercegovinensis]] | Sphaeromatidae |
 | [[Monolistra hercegoviniensis]] | Sphaeromatidae |
 | [[Monolistra jalzici]] | Sphaeromatidae |
+| [[Monolistra lavalensis]] | Sphaeromatidae |
 | [[Monolistra matjasici]] | Sphaeromatidae |
 | [[Monolistra monstruosa]] | Sphaeromatidae |
 | [[Monolistra pavani]] | Sphaeromatidae |

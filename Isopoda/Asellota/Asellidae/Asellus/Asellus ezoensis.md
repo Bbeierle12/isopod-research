@@ -1,5 +1,5 @@
 ---
-type: synonym
+type: species
 scientificName: Asellus ezoensis
 authorship: "Matsumoto, 1962"
 genus: Asellus
@@ -19,19 +19,16 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: synonym
+status: stub
 worms_aphia_id: 1731301
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1731301"
 worms_status: unaccepted
 worms_accepted: Asellus (Asellus) ezoensis
-accepted_name: Asellus (Asellus) ezoensis
+worms_note: species name is valid; WoRMS renders it with a subgenus as Asellus ezoensis (ICZN Art. 6.1)
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 
 # Asellus ezoensis Matsumoto, 1962
-
-> [!warning] Junior synonym
-> WoRMS treats **Asellus ezoensis** as *unaccepted*. The accepted name is **Asellus (Asellus) ezoensis**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Asellidae Index|Asellidae]] › **Genus** [[_Asellus|Asellus]]
 

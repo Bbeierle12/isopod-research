@@ -1,5 +1,5 @@
 ---
-type: synonym
+type: species
 scientificName: Bellibos monicae
 authorship: "(Chardy, 1975) "
 genus: Bellibos
@@ -19,19 +19,16 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: synonym
+status: stub
 worms_aphia_id: 118605
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118605"
 worms_status: alternative representation
 worms_accepted: Bellibos (Bemerria) monicae
-accepted_name: Bellibos (Bemerria) monicae
+worms_note: species name is valid; WoRMS renders it with a subgenus as Bellibos monicae (ICZN Art. 6.1)
 tags: [isopod, isopoda, asellota, munnopsidae]
 ---
 
 # Bellibos monicae (Chardy, 1975) 
-
-> [!warning] Junior synonym
-> WoRMS treats **Bellibos monicae** as *alternative representation*. The accepted name is **Bellibos (Bemerria) monicae**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Munnopsidae Index|Munnopsidae]] › **Genus** [[_Bellibos|Bellibos]]
 

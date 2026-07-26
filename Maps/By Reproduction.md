@@ -8,9 +8,9 @@ tags: [isopod, atlas, facet-map]
 
 Reproductive mode / life-history highlight.
 
-**33 of 11306 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**34 of 11339 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
-## Sexual  <small>(15)</small>
+## Sexual  <small>(16)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Reproductive mode / life-history highlight.
 | [[Oniscus asellus]] | Oniscidae | sexual (sperm storage) | a/b |
 | [[Platyarthrus hoffmannseggii]] | Platyarthridae | sexual (parthenogenesis suspected) | b/c |
 | [[Porcellio dilatatus]] | Porcellionidae | sexual | b |
+| [[Porcellio hoffmannseggii]] | Porcellionidae | sexual | b |
 | [[Porcellio laevis]] | Porcellionidae | sexual (sperm storage) | a |
 | [[Porcellio scaber]] | Porcellionidae | sexual | a |
 | [[Porcellionides pruinosus]] | Porcellionidae | sexual | a |

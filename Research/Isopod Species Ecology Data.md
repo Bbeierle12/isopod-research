@@ -41,7 +41,7 @@ MY = myrmecophilous/inquiline.
 | [[Armadillidium maculatum]] | EP/SA (mesophilous) | S France / W Mediterranean; day-active | a/b |
 | [[Armadillidium klugii]] | SA (saxicolous/mesophilous) | Under stones & crevices, Dalmatian Adriatic coast; black-widow mimic | a |
 | [[Porcellio dilatatus]] | EP (clinger) | Farmyards, under stones; broad flattened body | a/b |
-| [[Porcellio hoffmannseggi]] | SA/EP (Iberian) | Large; rocky Mediterranean. **≠ *Platyarthrus hoffmannseggii*** | b |
+| [[Porcellio hoffmannseggii]] | SA/EP (Iberian) | Large; rocky Mediterranean. **≠ *Platyarthrus hoffmannseggii*** | b |
 | *Merulanella* spp. | EP/CA (humid leaf litter) | SE Asian; most trade forms undescribed | b/c |
 | *Cubaris* spp. (incl. "Rubber Ducky") | CA/SA (limestone-cave-associated) | Trade forms from Thai/Vietnamese karst; humidity-dependent | b/c |
 | [[Trichorhina tomentosa]] | EN/EP (tropical, cryptic burrower) | Litter/soil interface; rarely surfaces | a/b |

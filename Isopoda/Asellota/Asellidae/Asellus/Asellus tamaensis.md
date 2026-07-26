@@ -1,5 +1,5 @@
 ---
-type: synonym
+type: species
 scientificName: Asellus tamaensis
 authorship: "Matsumoto, 1960"
 genus: Asellus
@@ -19,19 +19,16 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: synonym
+status: stub
 worms_aphia_id: 1732877
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1732877"
 worms_status: unaccepted
 worms_accepted: Asellus (Asellus) tamaensis
-accepted_name: Asellus (Asellus) tamaensis
+worms_note: species name is valid; WoRMS renders it with a subgenus as Asellus tamaensis (ICZN Art. 6.1)
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 
 # Asellus tamaensis Matsumoto, 1960
-
-> [!warning] Junior synonym
-> WoRMS treats **Asellus tamaensis** as *unaccepted*. The accepted name is **Asellus (Asellus) tamaensis**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Asellidae Index|Asellidae]] › **Genus** [[_Asellus|Asellus]]
 

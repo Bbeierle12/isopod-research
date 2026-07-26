@@ -29,7 +29,7 @@ bioactive_role: Display
 
 # Filipinodillo sp.
 
-**Taxonomy** [[_Filipinodillo]] · **Conglobation:** FULL
+**Taxonomy** _Filipinodillo_ (genus not in the scientific tree) · **Conglobation:** FULL
 
 ## Overview
 

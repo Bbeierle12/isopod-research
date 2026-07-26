@@ -42,7 +42,7 @@ Generated from `data/isopods.json`. **112 forms** (88 described, 24 provisional 
 | [[Armadillidium decorum]] | accepted | yes | FULL | — | [2203836](https://www.gbif.org/species/2203836) |
 | [[Armadillidium depressum]] | accepted | yes | FULL | — | [2203804](https://www.gbif.org/species/2203804) |
 | [[Armadillidium espanyoli]] | accepted | yes | FULL | 1 | [2203738](https://www.gbif.org/species/2203738) |
-| [[Armadillidium frontirostre]] | synonym | yes | FULL | — | [2203629](https://www.gbif.org/species/2203629) |
+| [[Armadillidium pallasii|Armadillidium frontirostre]] | synonym | yes | FULL | — | [2203629](https://www.gbif.org/species/2203629) |
 | [[Armadillidium gestroi]] | accepted | yes | FULL | — | [2203795](https://www.gbif.org/species/2203795) |
 | [[Armadillidium granulatum]] | accepted | yes | FULL | — | [2203769](https://www.gbif.org/species/2203769) |
 | [[Armadillidium klugii]] | accepted | yes | FULL | — | [2203775](https://www.gbif.org/species/2203775) |
@@ -159,7 +159,7 @@ Generated from `data/isopods.json`. **112 forms** (88 described, 24 provisional 
 
 | Form | Status | Described | Conglob. | Morphs | GBIF |
 |---|---|---|---|---|---|
-| [[Merulanella bicolorata]] | accepted | yes | FULL | — | [9206897](https://www.gbif.org/species/9206897) |
+| [[Ardentiella bicolorata|Merulanella bicolorata]] | synonym | yes | FULL | — | [9206897](https://www.gbif.org/species/9206897) |
 | [[Merulanella sp. Ember Bee]] | provisional | no | FULL | — | — |
 | [[Merulanella sp. Red Diablo]] | provisional | no | FULL | — | — |
 | [[Merulanella sp. Scarlet]] | provisional | no | FULL | — | — |

@@ -24,7 +24,7 @@ worms_aphia_id: 118963
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118963"
 worms_status: alternative representation
 worms_accepted: Monolistra (Typhlosphaeroma) bericum bericum
-worms_note: genus placement unresolved in WoRMS (Monolistra (Typhlosphaeroma) bericum bericum)
+worms_note: species name is valid; WoRMS renders it with a subgenus as Monolistra bericum bericum (ICZN Art. 6.1)
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 

@@ -19,7 +19,7 @@ Husbandry moisture requirement.
 | [[Armadillidium badium]] | Armadillidiidae |
 | [[Armadillidium decorum]] | Armadillidiidae |
 | [[Armadillidium espanyoli]] | Armadillidiidae |
-| [[Armadillidium frontirostre]] | Armadillidiidae |
+| [[Armadillidium pallasii|Armadillidium frontirostre]] | Armadillidiidae |
 | [[Armadillidium granulatum]] | Armadillidiidae |
 | [[Armadillidium maculatum]] | Armadillidiidae |
 | [[Armadillidium peraccae]] | Armadillidiidae |
@@ -108,7 +108,7 @@ Husbandry moisture requirement.
 | [[Laureola sp. Arboreal Spiny]] | Armadillidae |
 | [[Ligia exotica]] | Ligiidae |
 | [[Ligia oceanica]] | Ligiidae |
-| [[Merulanella bicolorata]] | Armadillidae |
+| [[Ardentiella bicolorata|Merulanella bicolorata]] | Armadillidae |
 | [[Merulanella sp. Ember Bee]] | Armadillidae |
 | [[Merulanella sp. Red Diablo]] | Armadillidae |
 | [[Merulanella sp. Scarlet]] | Armadillidae |

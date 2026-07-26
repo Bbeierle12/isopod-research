@@ -24,7 +24,7 @@ worms_aphia_id: 1661847
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=1661847"
 worms_status: alternative representation
 worms_accepted: Monolistra (Monolistra) coeca coeca
-worms_note: genus placement unresolved in WoRMS (Monolistra (Monolistra) coeca coeca)
+worms_note: species name is valid; WoRMS renders it with a subgenus as Monolistra coeca coeca (ICZN Art. 6.1)
 tags: [isopod, isopoda, sphaeromatidea, sphaeromatidae]
 ---
 

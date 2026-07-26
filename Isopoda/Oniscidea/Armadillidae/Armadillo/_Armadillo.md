@@ -3,12 +3,12 @@ type: genus
 genus: Armadillo
 family: Armadillidae
 suborder: Oniscidea
-species_count: 50
+species_count: 51
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, genus-index]
 ---
 
 # Armadillo (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 50 accepted species.
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 51 accepted species.
 

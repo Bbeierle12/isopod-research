@@ -11,7 +11,7 @@ only generator-MANAGED keys change. Husbandry keys and the note body (your
 prose) are preserved verbatim."""
 import os, json, re, csv
 
-from _vault import VAULT  # portable vault root (env ISOPOD_VAULT overrides)
+from _vault import VAULT, ISOPODA as ISOPODA_ROOT  # portable vault root (env ISOPOD_VAULT overrides)
 DATA = os.path.join(VAULT, "data", "isopods.json")
 HOBBY = os.path.join(VAULT, "Hobby")
 
@@ -89,7 +89,12 @@ def taxonomy_link(r):
             return "[[%s %s]]" % (r["genus"], r["species"])
         if r["taxon_status"] == "synonym" and r.get("accepted_name"):
             return "[[%s]] _(accepted name; hobby uses %s)_" % (r["accepted_name"], r["species"])
-    return "[[_%s]]" % r["genus"]  # genus index (may be unresolved for hobby-only genera)
+    # Genus index — only link it when the note exists. Hobby-only genera (e.g.
+    # Filipinodillo) have no Isopoda/ genus directory, so a blind wikilink would
+    # dangle; fall back to plain text for those.
+    if any(ISOPODA_ROOT.glob("*/*/%s/_%s.md" % (safe(r["genus"]), safe(r["genus"])))):
+        return "[[_%s]]" % r["genus"]
+    return "_%s_ (genus not in the scientific tree)" % r["genus"]
 
 def body_template(r):
     if r["record_type"] == "morph":
@@ -297,10 +302,14 @@ def main():
         L.append("|---|---|---|---|---|---|")
         for r in items:
             nm = form_stem(r)
+            # a synonym record's note lives at its accepted name, so link the
+            # note that exists while still showing the hobby's working name
+            target = os.path.basename(record_note_path(r))[:-3]
+            link = "[[%s]]" % nm if target == nm else "[[%s|%s]]" % (target, nm)
             nmorph = sum(1 for m in morphs if m["parent_id"] == r["id"])
             gb = "[%s](https://www.gbif.org/species/%s)" % (r["gbif_id"], r["gbif_id"]) if r.get("gbif_id") else "—"
-            L.append("| [[%s]] | %s | %s | %s | %s | %s |" % (
-                nm, r["taxon_status"], "yes" if r["is_described"] else "no",
+            L.append("| %s | %s | %s | %s | %s | %s |" % (
+                link, r["taxon_status"], "yes" if r["is_described"] else "no",
                 r["conglobation"], nmorph or "—", gb))
         L.append("")
     with open(os.path.join(HOBBY, "_Hobby Catalog.md"), "w", encoding="utf-8") as f:

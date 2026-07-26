@@ -3,7 +3,7 @@ type: index
 group: Armadillidae
 suborder: Oniscidea
 genus_count: 85
-species_count: 723
+species_count: 724
 realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, oniscidea, family-index]
 
 # Armadillidae (Family)
 
-Suborder Oniscidea · 85 genera · 723 accepted species.
+Suborder Oniscidea · 85 genera · 724 accepted species.
 
 ## Genera
 
@@ -25,7 +25,7 @@ Suborder Oniscidea · 85 genera · 723 accepted species.
 | [[_Annobodillo|Annobodillo]] | 1 |
 | [[_Anthrodillo|Anthrodillo]] | 1 |
 | [[_Ardentiella|Ardentiella]] | 1 |
-| [[_Armadillo|Armadillo]] | 50 |
+| [[_Armadillo|Armadillo]] | 51 |
 | [[_Aulacodillo|Aulacodillo]] | 1 |
 | [[_Australiodillo|Australiodillo]] | 10 |
 | [[_Barnardillo|Barnardillo]] | 5 |
@@ -102,5 +102,5 @@ Suborder Oniscidea · 85 genera · 723 accepted species.
 | [[_Tuberillo|Tuberillo]] | 7 |
 | [[_Venezillo|Venezillo]] | 136 |
 | [[_Xestodillo|Xestodillo]] | 3 |
-| **TOTAL** | **723** |
+| **TOTAL** | **724** |
 

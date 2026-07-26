@@ -1,5 +1,5 @@
 ---
-type: synonym
+type: species
 scientificName: Ligidium cavaticum
 authorship: "Borutzky, 1950"
 genus: Ligidium
@@ -19,7 +19,7 @@ in_culture:
 morphs: 
 difficulty: 
 sources: 
-status: synonym
+status: stub
 ecomorph: 
 conglobation_type: 
 terrestrialization: 
@@ -32,14 +32,11 @@ worms_aphia_id: 260973
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=260973"
 worms_status: superseded combination
 worms_accepted: Ligidium (Stygoligidium) cavaticum
-accepted_name: Ligidium (Stygoligidium) cavaticum
+worms_note: species name is valid; WoRMS renders it with a subgenus as Ligidium cavaticum (ICZN Art. 6.1)
 tags: [isopod, oniscidea, ligiidae]
 ---
 
 # Ligidium cavaticum Borutzky, 1950
-
-> [!warning] Junior synonym
-> WoRMS treats **Ligidium cavaticum** as *superseded combination*. The accepted name is **Ligidium (Stygoligidium) cavaticum**.
 
 **Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Ligiidae Index|Ligiidae]] > **Genus** [[_Ligidium|Ligidium]]
 

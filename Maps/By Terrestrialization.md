@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Degree of independence from water — a terrestrial-isopod axis.
 
-**33 of 11306 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**34 of 11339 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## littoral  <small>(2)</small>
 
@@ -56,10 +56,11 @@ Degree of independence from water — a terrestrial-isopod axis.
 | [[Porcellio scaber]] | Porcellionidae | mesophilous | a |
 | [[Porcellionides pruinosus]] | Porcellionidae | mesophilous | a |
 
-## xerophilous  <small>(2)</small>
+## xerophilous  <small>(3)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
 | [[Armadillo officinalis]] | Armadillidae | xerophilous | b |
 | [[Hemilepistus reaumuri]] | Agnaridae | xerophilous | a |
+| [[Porcellio hoffmannseggii]] | Porcellionidae | xerophilous | b |
 

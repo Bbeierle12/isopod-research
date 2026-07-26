@@ -1,5 +1,5 @@
 ---
-type: synonym
+type: species
 scientificName: Jaera albifrons
 authorship: "Leach, 1814"
 genus: Jaera
@@ -19,19 +19,16 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: synonym
+status: stub
 worms_aphia_id: 118715
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118715"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) albifrons
-accepted_name: Jaera (Jaera) albifrons
+worms_note: species name is valid; WoRMS renders it with a subgenus as Jaera albifrons (ICZN Art. 6.1)
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera albifrons Leach, 1814
-
-> [!warning] Junior synonym
-> WoRMS treats **Jaera albifrons** as *alternative representation*. The accepted name is **Jaera (Jaera) albifrons**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

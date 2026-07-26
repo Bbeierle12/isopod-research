@@ -1,5 +1,5 @@
 ---
-type: synonym
+type: species
 scientificName: Jaera bocqueti
 authorship: "Veuille & Kocatas, 1979"
 genus: Jaera
@@ -19,19 +19,16 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: synonym
+status: stub
 worms_aphia_id: 118716
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118716"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) bocqueti
-accepted_name: Jaera (Jaera) bocqueti
+worms_note: species name is valid; WoRMS renders it with a subgenus as Jaera bocqueti (ICZN Art. 6.1)
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera bocqueti Veuille & Kocatas, 1979
-
-> [!warning] Junior synonym
-> WoRMS treats **Jaera bocqueti** as *alternative representation*. The accepted name is **Jaera (Jaera) bocqueti**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

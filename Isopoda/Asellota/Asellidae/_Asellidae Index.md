@@ -3,7 +3,7 @@ type: index
 group: Asellidae
 suborder: Asellota
 genus_count: 22
-species_count: 352
+species_count: 357
 realm: brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, asellota, family-index]
@@ -11,13 +11,13 @@ tags: [isopod, asellota, family-index]
 
 # Asellidae (Family)
 
-Suborder Asellota · 22 genera · 352 accepted species.
+Suborder Asellota · 22 genera · 357 accepted species.
 
 ## Genera
 
 | Genus | Species |
 |---|---:|
-| [[_Asellus|Asellus]] | 18 |
+| [[_Asellus|Asellus]] | 23 |
 | [[_Asselus|Asselus]] | 1 |
 | [[_Baicalasellus|Baicalasellus]] | 4 |
 | [[_Bragasellus|Bragasellus]] | 22 |
@@ -39,5 +39,5 @@ Suborder Asellota · 22 genera · 352 accepted species.
 | [[_Stygasellus|Stygasellus]] | 1 |
 | [[_Synasellus|Synasellus]] | 36 |
 | [[_Uenasellus|Uenasellus]] | 1 |
-| **TOTAL** | **352** |
+| **TOTAL** | **357** |
 

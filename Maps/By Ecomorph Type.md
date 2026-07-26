@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Schmalfuss (1984) ecomorphological strategy — a terrestrial-isopod axis.
 
-**33 of 11306 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**34 of 11339 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## Runner  <small>(5)</small>
 
@@ -20,12 +20,13 @@ Schmalfuss (1984) ecomorphological strategy — a terrestrial-isopod axis.
 | [[Nagurus cristatus]] | Trachelipodidae | Runner | b |
 | [[Porcellionides pruinosus]] | Porcellionidae | Runner | a |
 
-## Clinger  <small>(4)</small>
+## Clinger  <small>(5)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
 | [[Oniscus asellus]] | Oniscidae | Clinger | a |
 | [[Porcellio dilatatus]] | Porcellionidae | Clinger | a/b |
+| [[Porcellio hoffmannseggii]] | Porcellionidae | Clinger | b |
 | [[Porcellio laevis]] | Porcellionidae | Clinger | a |
 | [[Porcellio scaber]] | Porcellionidae | Clinger | a |
 

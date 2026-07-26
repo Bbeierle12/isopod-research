@@ -8,9 +8,9 @@ tags: [isopod, atlas, facet-map]
 
 Feeding guild.
 
-**33 of 11306 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**34 of 11339 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
-## General detritivore  <small>(21)</small>
+## General detritivore  <small>(22)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
@@ -31,6 +31,7 @@ Feeding guild.
 | [[Deto echinata]] | Detonidae | Detritivore | b |
 | [[Oniscus asellus]] | Oniscidae | General detritivore | a |
 | [[Porcellio dilatatus]] | Porcellionidae | General detritivore | b |
+| [[Porcellio hoffmannseggii]] | Porcellionidae | General detritivore | b |
 | [[Porcellio scaber]] | Porcellionidae | General detritivore | a |
 | [[Porcellionides pruinosus]] | Porcellionidae | General detritivore | a |
 | [[Trichoniscus pusillus]] | Trichoniscidae | General detritivore | a/b |

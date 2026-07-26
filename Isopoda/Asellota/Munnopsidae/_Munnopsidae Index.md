@@ -3,7 +3,7 @@ type: index
 group: Munnopsidae
 suborder: Asellota
 genus_count: 43
-species_count: 347
+species_count: 352
 realm: marine
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, asellota, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, asellota, family-index]
 
 # Munnopsidae (Family)
 
-Suborder Asellota · 43 genera · 347 accepted species.
+Suborder Asellota · 43 genera · 352 accepted species.
 
 ## Genera
 
@@ -24,7 +24,7 @@ Suborder Asellota · 43 genera · 347 accepted species.
 | [[_Baeonectes|Baeonectes]] | 7 |
 | [[_Bathybadistes|Bathybadistes]] | 11 |
 | [[_Bathyopsurus|Bathyopsurus]] | 2 |
-| [[_Bellibos|Bellibos]] | 1 |
+| [[_Bellibos|Bellibos]] | 4 |
 | [[_Belonectes|Belonectes]] | 5 |
 | [[_Betamorpha|Betamorpha]] | 10 |
 | [[_Coperonus|Coperonus]] | 8 |
@@ -37,7 +37,7 @@ Suborder Asellota · 43 genera · 347 accepted species.
 | [[_Hapsidohedra|Hapsidohedra]] | 2 |
 | [[_Ilyarachna|Ilyarachna]] | 41 |
 | [[_Lionectes|Lionectes]] | 1 |
-| [[_Lipomera|Lipomera]] | 1 |
+| [[_Lipomera|Lipomera]] | 3 |
 | [[_Microcope|Microcope]] | 5 |
 | [[_Microprotus|Microprotus]] | 5 |
 | [[_Mimocopelates|Mimocopelates]] | 2 |
@@ -60,5 +60,5 @@ Suborder Asellota · 43 genera · 347 accepted species.
 | [[_Syneurycope|Syneurycope]] | 3 |
 | [[_Tytthocope|Tytthocope]] | 8 |
 | [[_Vanhoeffenura|Vanhoeffenura]] | 18 |
-| **TOTAL** | **347** |
+| **TOTAL** | **352** |
 

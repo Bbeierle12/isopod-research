@@ -61,7 +61,7 @@ Role in a bioactive setup.
 | [[Armadillidium badium]] | Armadillidiidae |
 | [[Armadillidium decorum]] | Armadillidiidae |
 | [[Armadillidium depressum]] | Armadillidiidae |
-| [[Armadillidium frontirostre]] | Armadillidiidae |
+| [[Armadillidium pallasii|Armadillidium frontirostre]] | Armadillidiidae |
 | [[Armadillidium gestroi]] | Armadillidiidae |
 | [[Armadillidium klugii]] | Armadillidiidae |
 | [[Armadillidium peraccae]] | Armadillidiidae |
@@ -83,7 +83,7 @@ Role in a bioactive setup.
 | [[Dryadillo sp. Feather]] | Armadillidae |
 | [[Filipinodillo sp.]] | Armadillidae |
 | [[Ligidium hypnorum]] | Ligiidae |
-| [[Merulanella bicolorata]] | Armadillidae |
+| [[Ardentiella bicolorata|Merulanella bicolorata]] | Armadillidae |
 | [[Merulanella sp. Ember Bee]] | Armadillidae |
 | [[Merulanella sp. Red Diablo]] | Armadillidae |
 | [[Merulanella sp. Scarlet]] | Armadillidae |

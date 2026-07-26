@@ -24,7 +24,7 @@ worms_aphia_id: 148667
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=148667"
 worms_status: alternative representation
 worms_accepted: Asellus (Asellus) aquaticus aquaticus
-worms_note: genus placement unresolved in WoRMS (Asellus (Asellus) aquaticus aquaticus)
+worms_note: species name is valid; WoRMS renders it with a subgenus as Asellus aquaticus aquaticus (ICZN Art. 6.1)
 tags: [isopod, isopoda, asellota, asellidae]
 ---
 

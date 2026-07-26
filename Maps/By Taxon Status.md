@@ -22,7 +22,7 @@ Science ↔ hobby naming gap.
 | [[Armadillidium decorum]] | Armadillidiidae |
 | [[Armadillidium depressum]] | Armadillidiidae |
 | [[Armadillidium espanyoli]] | Armadillidiidae |
-| [[Armadillidium frontirostre]] | Armadillidiidae |
+| [[Armadillidium pallasii|Armadillidium frontirostre]] | Armadillidiidae |
 | [[Armadillidium gestroi]] | Armadillidiidae |
 | [[Armadillidium granulatum]] | Armadillidiidae |
 | [[Armadillidium klugii]] | Armadillidiidae |
@@ -48,7 +48,7 @@ Science ↔ hobby naming gap.
 | [[Ligia exotica]] | Ligiidae |
 | [[Ligia oceanica]] | Ligiidae |
 | [[Ligidium hypnorum]] | Ligiidae |
-| [[Merulanella bicolorata]] | Armadillidae |
+| [[Ardentiella bicolorata|Merulanella bicolorata]] | Armadillidae |
 | [[Nagurus cristatus]] | Trachelipodidae |
 | [[Nagurus nanus]] | Trachelipodidae |
 | [[Nesodillo arcangelii]] | Armadillidae |

@@ -1,5 +1,5 @@
 ---
-type: synonym
+type: species
 scientificName: Jaera sorrentina
 authorship: "Verhoeff, 1943"
 genus: Jaera
@@ -19,19 +19,16 @@ trophic_guild:
 reproduction_mode:
 ecology_evidence:
 sources:
-status: synonym
+status: stub
 worms_aphia_id: 118728
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=118728"
 worms_status: alternative representation
 worms_accepted: Jaera (Jaera) sorrentina
-accepted_name: Jaera (Jaera) sorrentina
+worms_note: species name is valid; WoRMS renders it with a subgenus as Jaera sorrentina (ICZN Art. 6.1)
 tags: [isopod, isopoda, asellota, janiridae]
 ---
 
 # Jaera sorrentina Verhoeff, 1943
-
-> [!warning] Junior synonym
-> WoRMS treats **Jaera sorrentina** as *alternative representation*. The accepted name is **Jaera (Jaera) sorrentina**.
 
 **Order** Isopoda › **Suborder** Asellota › **Family** [[_Janiridae Index|Janiridae]] › **Genus** [[_Jaera|Jaera]]
 

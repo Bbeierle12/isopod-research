@@ -31,17 +31,16 @@ realm: terrestrial
 worms_aphia_id: 263870
 worms_url: "https://www.marinespecies.org/aphia.php?p=taxdetails&id=263870"
 worms_status: superseded combination
-worms_accepted: Armadillo (Troglarmadillo) cavernae
-accepted_name: Armadillo (Troglarmadillo) cavernae
-tags: [isopod, oniscidea, armadillidae]
+accepted_name: Armadillo cavernae
+tags: [isopod, isopoda, oniscidea, armadillidae]
 ---
 
-# Troglarmadillo cavernae Arcangeli, 1957
+# Troglarmadillo cavernae
 
 > [!warning] Junior synonym
-> WoRMS treats **Troglarmadillo cavernae** as *superseded combination*. The accepted name is **Armadillo (Troglarmadillo) cavernae**.
+> WoRMS treats **Troglarmadillo cavernae** as *superseded combination*. The accepted name is **[[Armadillo cavernae]]**.
 
-**Suborder** [[_Oniscidea Index|Oniscidea]] > **Family** [[_Armadillidae Index|Armadillidae]] > **Genus** [[_Troglarmadillo|Troglarmadillo]]
+**Order** Isopoda › **Suborder** Oniscidea › **Family** [[_Armadillidae Index|Armadillidae]] › **Genus** [[_Troglarmadillo|Troglarmadillo]]
 
 ## Overview
 

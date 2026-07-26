@@ -61,7 +61,16 @@ python scripts/atlas.py          # build Maps/ facet maps + Patterns + _Isopod A
 python scripts/worms_match.py --fetch --write   # cross-match species against WoRMS
 python scripts/resolve_synonyms.py --apply      # rename/merge the names WoRMS supersedes
 python scripts/build_db.py       # (optional) load into a constraint-checked SQLite db
+python scripts/verify.py         # assert every structural invariant (offline, read-only)
 ```
+
+`scripts/verify.py` is the regression net: 14 checks covering YAML validity,
+path/frontmatter agreement, broken wikilinks, ICZN binomial formatting, open
+nomenclature, duplicate binomials, dual-authority coverage, realm vocabulary,
+family-map agreement, synonym integrity, citation resolution, index freshness and
+a clean database load. CI runs it on every push against Python 3.9 and 3.12
+(`.github/workflows/verify.yml`), and fails the build if the generated notes are
+stale.
 
 All scripts derive the vault root from their own location (override with the
 `ISOPOD_VAULT` env var) and share `scripts/_vault.py` for path resolution and

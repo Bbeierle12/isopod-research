@@ -8,7 +8,7 @@ tags: [isopod, atlas, patterns]
 Counts; `·` = none. ← [[_Isopod Atlas]]
 
 > [!note] Scope per matrix
-> Husbandry matrices cover the 112 hobby forms; the research matrix (Ecomorph × Terrestrialization) covers the 33 species classified so far. Blank-until-researched: unclassified species are simply absent.
+> Husbandry matrices cover the 112 hobby forms; the research matrix (Ecomorph × Terrestrialization) covers the 34 species classified so far. Blank-until-researched: unclassified species are simply absent.
 
 ## Biome × Conglobation  <small>(hobby)</small>
 
@@ -72,10 +72,10 @@ Counts; `·` = none. ← [[_Isopod Atlas]]
 | ecomorph ↓ / terrestrialization → | littoral | hygrophilous | mesophilous | xerophilous | **Σ** |
 |---|---|---|---|---|---|
 | **Runner** | 1 | 2 | 1 | 1 | **5** |
-| **Clinger** | · | 2 | 2 | · | **4** |
+| **Clinger** | · | 2 | 2 | 1 | **5** |
 | **Roller** | 1 | 9 | 5 | 1 | **16** |
 | **Creeper** | · | 1 | · | · | **1** |
 | **Spiny** | · | 5 | · | · | **5** |
 | **Non-conformist** | · | 2 | · | · | **2** |
-| **Σ** | **2** | **21** | **8** | **2** | **33** |
+| **Σ** | **2** | **21** | **8** | **3** | **34** |
 

@@ -70,6 +70,16 @@ def note_path(r):
     return os.path.join(HOBBY, safe(r["genus"]), safe(form_stem(r)) + ".md")
 
 
+def form_link(r):
+    """Wikilink to the note that actually holds this form, labelled with the
+    hobby's working name. A synonym record's note lives at its *accepted* name
+    (generate.py consolidates it there), so linking form_stem() blindly would
+    dangle — e.g. Armadillidium frontirostre, whose note is A. pallasii."""
+    display = form_stem(r)
+    target = os.path.basename(note_path(r))[:-3]
+    return "[[%s]]" % display if target == display else "[[%s|%s]]" % (target, display)
+
+
 # ---------- husbandry-derived facets ----------
 def size_class(v):
     nums = [int(x) for x in re.findall(r"\d+", v or "")]
@@ -293,7 +303,7 @@ def run():
             "moisture": moisture(r.get("humidity", "")), "difficulty_tier": difficulty_tier(r.get("difficulty", "")),
             "bioactive_role": bioactive_role(r.get("bioactive_use", "")), "taxon_group": taxon_group(r),
         }
-        rows.append({"display": form_stem(r), "link": "[[%s]]" % form_stem(r), "family": r["family"], **fac})
+        rows.append({"display": form_stem(r), "link": form_link(r), "family": r["family"], **fac})
         set_fields(note_path(r), {
             "conglobation_type": fac["conglobation_type"], "size_class": fac["size_class"], "biome": fac["biome"],
             "biogeo_region": fac["biogeo_region"], "moisture": fac["moisture"], "difficulty_tier": fac["difficulty_tier"],

@@ -3,7 +3,7 @@ type: index
 group: Agnaridae
 suborder: Oniscidea
 genus_count: 14
-species_count: 201
+species_count: 202
 realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, family-index]
@@ -11,7 +11,7 @@ tags: [isopod, oniscidea, family-index]
 
 # Agnaridae (Family)
 
-Suborder Oniscidea · 14 genera · 201 accepted species.
+Suborder Oniscidea · 14 genera · 202 accepted species.
 
 ## Genera
 
@@ -21,7 +21,7 @@ Suborder Oniscidea · 14 genera · 201 accepted species.
 | [[_Desertoniscus|Desertoniscus]] | 13 |
 | [[_Fossoniscus|Fossoniscus]] | 1 |
 | [[_Hemilepistoides|Hemilepistoides]] | 1 |
-| [[_Hemilepistus|Hemilepistus]] | 17 |
+| [[_Hemilepistus|Hemilepistus]] | 18 |
 | [[_Koreoniscus|Koreoniscus]] | 2 |
 | [[_Lucasioides|Lucasioides]] | 31 |
 | [[_Mongoloniscus|Mongoloniscus]] | 19 |
@@ -31,5 +31,5 @@ Suborder Oniscidea · 14 genera · 201 accepted species.
 | [[_Pseudoagnara|Pseudoagnara]] | 2 |
 | [[_Tadzhikoniscus|Tadzhikoniscus]] | 1 |
 | [[_Tritracheoniscus|Tritracheoniscus]] | 1 |
-| **TOTAL** | **201** |
+| **TOTAL** | **202** |
 
