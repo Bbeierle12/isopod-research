@@ -11,7 +11,7 @@ only generator-MANAGED keys change. Husbandry keys and the note body (your
 prose) are preserved verbatim."""
 import os, json, re, csv
 
-VAULT = r"C:\Users\Bbeie\isopod-research"
+from _vault import VAULT  # portable vault root (env ISOPOD_VAULT overrides)
 DATA = os.path.join(VAULT, "data", "isopods.json")
 HOBBY = os.path.join(VAULT, "Hobby")
 

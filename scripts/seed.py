@@ -5,7 +5,7 @@ enriches it and generate.py builds views. Re-running seed overwrites — only fo
 initial population or a deliberate reseed."""
 import os, json, re
 
-VAULT = r"C:\Users\Bbeie\Downloads\Insect and Reptile research"
+from _vault import VAULT  # portable vault root (env ISOPOD_VAULT overrides)
 OUT = os.path.join(VAULT, "data", "isopods.json")
 
 FULL, PARTIAL, NONE = "FULL", "PARTIAL", "NONE"

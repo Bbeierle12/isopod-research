@@ -13,7 +13,7 @@ Morph sub-records inherit the parent's corrected taxonomy. Ids are recomputed
 from corrected names so the canonical file stays stable across runs."""
 import os, json, re, urllib.request, urllib.parse, time
 
-VAULT = r"C:\Users\Bbeie\isopod-research"
+from _vault import VAULT  # portable vault root (env ISOPOD_VAULT overrides)
 PATH = os.path.join(VAULT, "data", "isopods.json")
 
 ISOPOD_FAMILIES = {
