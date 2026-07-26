@@ -35,6 +35,7 @@ habitat_stratum: CA/SA
 trophic_guild: Detritivore + wood/calcium
 reproduction_mode: sexual (assumed)
 ecology_evidence: "stratum:b/c trophic:b/c life:b/c"
+realm: terrestrial
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 

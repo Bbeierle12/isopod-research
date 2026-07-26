@@ -35,6 +35,7 @@ habitat_stratum: EN/EP
 trophic_guild: General detritivore
 reproduction_mode: parthenogenetic triploid + sexual diploid
 ecology_evidence: "stratum:a trophic:a/b life:a"
+realm: terrestrial
 tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---
 

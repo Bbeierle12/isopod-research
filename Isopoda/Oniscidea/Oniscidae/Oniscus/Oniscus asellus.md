@@ -35,6 +35,7 @@ habitat_stratum: EP/CO
 trophic_guild: General detritivore
 reproduction_mode: sexual (sperm storage)
 ecology_evidence: "stratum:a trophic:a life:a/b"
+realm: terrestrial
 tags: [isopod, oniscidea, oniscidae, hobby]
 ---
 

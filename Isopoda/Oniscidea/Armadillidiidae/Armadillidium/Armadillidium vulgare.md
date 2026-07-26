@@ -35,6 +35,7 @@ habitat_stratum: EP
 trophic_guild: General detritivore (+facultative herbivore)
 reproduction_mode: sexual (Wolbachia/f-element feminization)
 ecology_evidence: "stratum:a trophic:a life:a"
+realm: terrestrial
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

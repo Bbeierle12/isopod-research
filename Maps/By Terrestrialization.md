@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Degree of independence from water.
 
-**33 of 4226 Oniscidea species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**33 of 11435 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## littoral  <small>(2)</small>
 

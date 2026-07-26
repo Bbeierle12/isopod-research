@@ -35,6 +35,7 @@ habitat_stratum: MY
 trophic_guild: Coprophage/detritivore (ant nests)
 reproduction_mode: sexual (parthenogenesis suspected)
 ecology_evidence: "stratum:a trophic:a life:b/c"
+realm: terrestrial
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 

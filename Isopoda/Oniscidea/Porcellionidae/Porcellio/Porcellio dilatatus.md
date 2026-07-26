@@ -35,6 +35,7 @@ habitat_stratum: EP
 trophic_guild: General detritivore
 reproduction_mode: sexual
 ecology_evidence: "stratum:a/b trophic:b life:b"
+realm: terrestrial
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

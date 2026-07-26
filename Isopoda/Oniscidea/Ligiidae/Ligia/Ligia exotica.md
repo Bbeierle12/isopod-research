@@ -35,6 +35,7 @@ habitat_stratum: LI
 trophic_guild: Algivore/detritivore (beach-cast algae)
 reproduction_mode: sexual
 ecology_evidence: "stratum:a trophic:a life:b"
+realm: terrestrial
 tags: [isopod, oniscidea, ligiidae]
 ---
 

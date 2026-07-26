@@ -35,6 +35,7 @@ habitat_stratum: EN/EP
 trophic_guild: General detritivore (micro cleanup)
 reproduction_mode: obligate parthenogenesis (all-female)
 ecology_evidence: "stratum:a/b trophic:a/b life:a"
+realm: terrestrial
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 

@@ -35,6 +35,7 @@ habitat_stratum: SA
 trophic_guild: General detritivore
 reproduction_mode: sexual
 ecology_evidence: "stratum:a trophic:b life:a/b"
+realm: terrestrial
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

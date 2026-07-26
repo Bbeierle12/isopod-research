@@ -35,6 +35,7 @@ habitat_stratum: EP
 trophic_guild: Detritivore (assumed)
 reproduction_mode: sexual (assumed)
 ecology_evidence: "stratum:b trophic:c life:c"
+realm: terrestrial
 tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---
 

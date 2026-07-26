@@ -35,6 +35,7 @@ habitat_stratum: EP
 trophic_guild: General detritivore/coprophage
 reproduction_mode: sexual (sperm storage)
 ecology_evidence: "stratum:a trophic:a life:a"
+realm: terrestrial
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

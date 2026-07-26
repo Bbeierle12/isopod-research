@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Trophic Guild
 
-Feeding guild. Terrestrial isopods are NOT true xylophages.
+Feeding guild.
 
-**33 of 4226 Oniscidea species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**33 of 11435 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## General detritivore  <small>(21)</small>
 

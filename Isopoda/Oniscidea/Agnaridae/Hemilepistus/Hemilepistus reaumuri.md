@@ -35,6 +35,7 @@ habitat_stratum: EN/EP
 trophic_guild: Detritivore/facultative herbivore
 reproduction_mode: "sexual; subsocial, monogamous, biparental"
 ecology_evidence: "stratum:a trophic:a life:a"
+realm: terrestrial
 tags: [isopod, oniscidea, agnaridae, hobby]
 ---
 

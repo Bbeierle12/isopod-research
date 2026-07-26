@@ -35,6 +35,7 @@ habitat_stratum: EP/SA
 trophic_guild: General detritivore
 reproduction_mode: sexual (monolayer marsupial sac)
 ecology_evidence: "stratum:b trophic:b life:b"
+realm: terrestrial
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 

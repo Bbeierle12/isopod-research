@@ -176,9 +176,10 @@ eco_genus = {e["match"][:-2]: e for e in eco if e["match"].endswith(" *")}
 def research_for(r):
     return eco_exact.get("%s %s" % (r["genus"], r["species"])) or eco_genus.get(r["genus"])
 
-def research_row(display, family, e):
-    evd = e.get("evd", {})
-    return {"display": display, "link": "[[%s]]" % display, "family": family,
+def research_row(display, family, e, realm="terrestrial"):
+    evd = e.get("evd", {}) if e else {}
+    e = e or {}
+    return {"display": display, "link": "[[%s]]" % display, "family": family, "realm": realm,
             "ecomorph": e.get("ecomorph", ""), "terrestrialization": e.get("terrestrialization", ""),
             "stratum": e.get("stratum", ""), "trophic": e.get("trophic", ""), "reproduction": e.get("reproduction", ""),
             "evd_stratum": evd.get("stratum", ""), "evd_trophic": evd.get("trophic", ""), "evd_life": evd.get("life", "")}
@@ -209,9 +210,9 @@ for r in forms:
         "reproduction_mode": e.get("reproduction", "") if e else "", "ecology_evidence": eco_evidence(e) if e else "",
     })
 
-# ---------- Pass 2: scaffold research fields onto EVERY Oniscidea species note ----------
+# ---------- Pass 2: scaffold research fields onto EVERY Isopoda species note ----------
 tax_species = []   # (name, family, path)
-for dirpath, _, files in os.walk(ONISCIDEA):
+for dirpath, _, files in os.walk(os.path.join(VAULT, "Isopoda")):
     for fn in files:
         if fn.endswith(".md") and not fn.startswith("_"):
             name = fn[:-3]
@@ -222,14 +223,22 @@ scaffolded = 0
 rrows = []          # research rows spanning the taxonomy
 for name, family, path in tax_species:
     e = eco_exact.get(name)   # species-level only — no family/genus guessing on the taxonomy
+    with open(path, "r", encoding="utf-8") as f: t = f.read()
+    m = re.search(r"^realm:\s*([a-zA-Z]+)", t, re.M)
+    realm = m.group(1).lower() if m else "terrestrial"
     vals = {"ecomorph": e.get("ecomorph", "") if e else "", "conglobation_type": "",
             "terrestrialization": e.get("terrestrialization", "") if e else "",
             "habitat_stratum": e.get("stratum", "") if e else "", "trophic_guild": e.get("trophic", "") if e else "",
             "reproduction_mode": e.get("reproduction", "") if e else "", "ecology_evidence": eco_evidence(e) if e else ""}
     scaffold_fields(path, vals)
+    if "realm:" not in t:
+        set_fields(path, {"realm": realm})
     scaffolded += 1
     if e:
-        rrows.append(research_row(name, family, e))
+        rrows.append(research_row(name, family, e, realm))
+    else:
+        # We need to map all species in By Realm, not just those with research entries! Wait, By Realm uses rrows. If e is None, it wasn't added to rrows. So we must append it.
+        rrows.append(research_row(name, family, None, realm))
 # provisional hobby forms carry genus-level research (evidence-graded) — include in research maps
 for r in forms:
     if not r["is_described"]:
@@ -265,7 +274,7 @@ def facet_map(fname, title, key, order, data, denom_label, is_research=False, ev
         f.write("\n".join(L) + "\n")
     return title, fname, n
 
-NH = "hobby forms"; NT = "of %d Oniscidea species" % len(tax_species)
+NH = "hobby forms"; NT = "of %d Isopoda species" % len(tax_species)
 built = []
 # husbandry facets — scoped to hobby forms
 built += [facet_map("By Conglobation.md", "By Conglobation", "conglobation_type", ["Roller", "Partial roller", "Non-roller"], rows, NH, subtitle="Schmalfuss defense axis (hobby forms; not yet coded taxonomy-wide).")]
@@ -276,11 +285,12 @@ built += [facet_map("By Moisture.md", "By Moisture Regime", "moisture", ["Arid",
 built += [facet_map("By Difficulty.md", "By Difficulty", "difficulty_tier", ["Beginner", "Intermediate", "Advanced"], rows, NH, subtitle="Keeping difficulty.")]
 built += [facet_map("By Bioactive Role.md", "By Bioactive Role", "bioactive_role", ["Cleanup crew", "Micro-cleanup", "Feeder", "Display", "Specialist"], rows, NH, subtitle="Role in a bioactive setup.")]
 built += [facet_map("By Taxon Status.md", "By Taxon Status", "taxon_group", ["Described", "Undescribed (provisional)", "Unresolved"], rows, NH, subtitle="Science ↔ hobby naming gap.")]
-# research axes — span all Oniscidea
-built += [facet_map("By Ecomorph Type.md", "By Ecomorph Type", "ecomorph", ["Runner", "Clinger", "Roller", "Creeper", "Spiny", "Non-conformist"], rrows, NT, True, "evd_stratum", None, "Schmalfuss (1984) ecomorphological strategy.")]
+# research axes — span all Isopoda
+built += [facet_map("By Realm.md", "By Realm", "realm", ["terrestrial", "littoral", "brackish", "freshwater", "interstitial", "marine"], rrows, NT, True, None, None, "Broad environmental realm.")]
+built += [facet_map("By Ecomorph Type.md", "By Ecomorph Type", "ecomorph", ["Runner", "Clinger", "Roller", "Creeper", "Spiny", "Non-conformist"], rrows, NT, True, "evd_stratum", None, "Schmalfuss (1984) ecomorphological strategy (terrestrial).")]
 built += [facet_map("By Terrestrialization.md", "By Terrestrialization", "terrestrialization", ["littoral", "hygrophilous", "mesophilous", "xerophilous"], rrows, NT, True, "evd_stratum", None, "Degree of independence from water.")]
-built += [facet_map("By Habitat Stratum.md", "By Habitat Stratum", "stratum", ["EN", "EP", "CO", "AR", "CA", "LI", "SA", "MY"], rrows, NT, True, "evd_stratum", stratum_primary, "EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest.")]
-built += [facet_map("By Trophic Guild.md", "By Trophic Guild", "trophic", ["General detritivore", "Detritivore/coprophage", "Detritivore (+herbivore)", "Algivore/detritivore", "Detritivore (assumed/unstudied)"], rrows, NT, True, "evd_trophic", norm_trophic, "Feeding guild. Terrestrial isopods are NOT true xylophages.")]
+built += [facet_map("By Habitat Stratum.md", "By Habitat Stratum", "stratum", ["EN", "EP", "CO", "AR", "CA", "LI", "SA", "MY", "BE", "PE", "IN", "WB", "HA", "GW"], rrows, NT, True, "evd_stratum", stratum_primary, "EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest · BE benthic · PE pelagic · IN interstitial · WB wood-boring · HA host-associated · GW groundwater.")]
+built += [facet_map("By Trophic Guild.md", "By Trophic Guild", "trophic", ["General detritivore", "Detritivore/coprophage", "Detritivore (+herbivore)", "Algivore/detritivore", "Wood-borer", "Micropredator/scavenger", "Parasite (ectoparasite)", "Filter/deposit-feeder", "Detritivore (assumed/unstudied)"], rrows, NT, True, "evd_trophic", norm_trophic, "Feeding guild.")]
 built += [facet_map("By Reproduction.md", "By Reproduction", "reproduction", ["Sexual", "Sexual (assumed)", "Parthenogenetic", "Subsocial (biparental)"], rrows, NT, True, "evd_life", norm_repro, "Reproductive mode / life-history highlight.")]
 
 # ---------- patterns ----------

@@ -35,6 +35,7 @@ habitat_stratum: EP/CA
 trophic_guild: Detritivore (assumed)
 reproduction_mode: sexual (assumed)
 ecology_evidence: "stratum:b/c trophic:c life:b/c"
+realm: terrestrial
 tags: [isopod, oniscidea, armadillidae]
 ---
 

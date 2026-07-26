@@ -35,6 +35,7 @@ habitat_stratum: EP
 trophic_guild: Detritivore
 reproduction_mode: sexual (iteroparous)
 ecology_evidence: "stratum:a trophic:b life:a"
+realm: terrestrial
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 

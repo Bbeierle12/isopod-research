@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Habitat Stratum
 
-EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest.
+EN soil · EP surface/litter · CO bark · CA cave · LI littoral · SA rock · MY ant-nest · BE benthic · PE pelagic · IN interstitial · WB wood-boring · HA host-associated · GW groundwater.
 
-**33 of 4226 Oniscidea species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**33 of 11435 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## EN  <small>(3)</small>
 

@@ -35,6 +35,7 @@ habitat_stratum: LI
 trophic_guild: Detritivore
 reproduction_mode: sexual
 ecology_evidence: "stratum:b trophic:b life:c"
+realm: terrestrial
 tags: [isopod, oniscidea, detonidae]
 ---
 
