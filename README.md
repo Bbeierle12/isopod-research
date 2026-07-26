@@ -41,12 +41,23 @@ taxonomy (design: `docs/superpowers/specs/2026-07-25-hobby-isopod-master-dataset
 Pipeline (idempotent — re-running changes nothing unless inputs change):
 
 ```
-python scripts/seed.py       # one-time bootstrap of data/isopods.json
-python scripts/validate.py   # verify described records against GBIF (in place)
-python scripts/husbandry.py  # set husbandry DEFAULTS (in place)
-python scripts/generate.py   # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
-python scripts/atlas.py      # build Maps/ facet maps + Patterns + _Isopod Atlas hub
+python scripts/taxonomy.py       # crawl GBIF Isopoda -> Isopoda/ species notes
+python scripts/reclassify.py --apply   # reconcile the tree to the WoRMS family map
+python scripts/isopoda_index.py  # (re)build suborder/family/genus index notes
+python scripts/seed.py           # one-time bootstrap of data/isopods.json (hobby)
+python scripts/validate.py       # verify described records against GBIF (in place)
+python scripts/husbandry.py      # set husbandry DEFAULTS (in place)
+python scripts/generate.py       # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
+python scripts/atlas.py          # build Maps/ facet maps + Patterns + _Isopod Atlas hub
+python scripts/build_db.py       # (optional) load into a constraint-checked SQLite db
 ```
+
+All scripts derive the vault root from their own location (override with the
+`ISOPOD_VAULT` env var) and share `scripts/_vault.py` for path resolution and
+YAML-frontmatter editing. Suborders/realms follow **WoRMS**
+(`data/isopoda_suborders.json`, with family AphiaIDs); the species tree follows
+the **GBIF backbone**. `data/schema.sql` encodes the taxonomic constraints as a
+database schema.
 
 **Described species are consolidated onto their `Isopoda/` scientific note** (`generate.py`
 enriches each with husbandry, `conglobation`, `bioactive_use`, fill-if-empty so hand edits always
