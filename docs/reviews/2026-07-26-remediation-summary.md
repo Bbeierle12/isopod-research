@@ -49,9 +49,9 @@ accidental.
 ## Verification (re-run any of these)
 
 ```
-python scripts/verify.py          # 14/14 invariants — the single command that covers all of this
+python scripts/verify.py          # 15/15 invariants — the single command that covers all of this
 python scripts/build_db.py        # 0 CHECK violations, 0 identity collisions
-python scripts/atlas.py --dry-run # "34 studied" (was the bogus 11,448)
+python scripts/atlas.py --dry-run # "34 species-level, 2,199 family-level" (was the bogus 11,448)
 ```
 
 `scripts/verify.py` is the regression net, and CI
@@ -64,7 +64,8 @@ python scripts/atlas.py --dry-run # "34 studied" (was the bogus 11,448)
 - **0** database CHECK violations loading the entire vault.
 - valid YAML in every frontmatter; ICZN binomial formatting; no duplicate
   binomials; dual-authority coverage; realm vocabulary; family-map agreement;
-  synonym integrity; ecology citations all resolving; indexes up to date.
+  synonym integrity; ecology citations all resolving; family-level-ecology integrity;
+  indexes up to date.
 
 Writing it immediately surfaced four defects the earlier hand audits had missed,
 because it scans the whole vault rather than `Isopoda/` alone — including an
