@@ -27,10 +27,17 @@ hobby, plus a cited research layer.
 
 ## Scientific taxonomy (`Isopoda/`)
 
-**11 suborders · 154 families · ~11,500 accepted species** — one folder per suborder → family → genus → species.
-Taxonomy was pulled from the **GBIF Backbone Taxonomy** (`api.gbif.org`) on **2026-07-24**,
-restricted to `taxonomicStatus = ACCEPTED` (synonyms/doubtful/unranked excluded). Every species
-note carries its GBIF id and URL. Start at [`Isopods.md`](Isopods.md).
+**11 suborders + `incertae sedis` · 145 families · 11,435 species** — one folder per suborder →
+family → genus → species. The species tree was pulled from the **GBIF Backbone Taxonomy**
+(`api.gbif.org`), restricted to `taxonomicStatus = ACCEPTED`; suborder and realm placement follows
+**WoRMS**, the World List of Marine, Freshwater and Terrestrial Isopod Crustaceans.
+
+Every species note carries **both authorities** — `gbif_id`/`gbif_url` and, where WoRMS has a
+record, `worms_aphia_id`/`worms_url` — plus `worms_status`. GBIF acceptance and WoRMS acceptance
+are not the same claim: **90.5%** of the tree is accepted in WoRMS, **5.0%** is not (synonyms,
+superseded combinations, *taxon inquirendum*, misspellings — each note records the accepted name in
+`worms_accepted`), and **4.5%** are fossil taxa WoRMS does not register (flagged `extinct`).
+Start at [`Isopods.md`](Isopods.md).
 
 ## Hobby master dataset
 
@@ -86,14 +93,16 @@ husbandry defaults on all 146 records.
 
 ## Isopod Atlas (`Maps/`)
 
-`Maps/_Isopod Atlas.md` is a cross-reference layer with **13 facet maps** and a **pattern-matrix**
+`Maps/_Isopod Atlas.md` is a cross-reference layer with **14 facet maps** and a **pattern-matrix**
 dashboard, built by `scripts/atlas.py`. Two kinds of filter, at two scopes:
 
-- **Research axes** — ecomorph type (Schmalfuss), degree of terrestrialization, habitat stratum,
-  trophic guild, reproduction — **span all ~11,500 Isopoda species** (hobby + non-hobby). Every
-  species note carries these fields, scaffolded **blank until researched** (no family-level
-  guessing); studied taxa (~33 so far) are populated with **a/b/c** evidence grades. Extend
-  coverage by adding rows to `data/ecology.json`.
+- **Taxonomy-wide axes** — realm, plus ecomorph type (Schmalfuss), degree of terrestrialization,
+  habitat stratum, trophic guild and reproduction — **span all 11,435 Isopoda species** (hobby +
+  non-hobby). Every species note carries these fields, scaffolded **blank until researched** (no
+  family-level guessing); **33** studied taxa are populated with **a/b/c** evidence grades and
+  CrossRef-verified citations. Note that ecomorph and terrestrialization are *terrestrial-isopod*
+  concepts (Schmalfuss 1984) — they do not apply to the aquatic majority. Extend coverage by adding
+  rows to `data/ecology.json`.
 - **Husbandry facets** — size, biome, region, moisture, difficulty, bioactive role, conglobation,
   taxon status — are **scoped to the 112 hobby forms** (they need care/origin data that doesn't
   exist for unkept species).
