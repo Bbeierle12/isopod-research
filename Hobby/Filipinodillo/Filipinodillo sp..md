@@ -3,7 +3,7 @@ id: filipinodillo-sp
 record_type: form
 family: Armadillidae
 genus: Filipinodillo
-species: sp.
+open_nomenclature: sp.
 scientificName: Filipinodillo sp.
 is_described: false
 taxon_status: provisional

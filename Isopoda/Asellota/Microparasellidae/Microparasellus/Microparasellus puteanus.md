@@ -5,7 +5,7 @@ authorship: "Karaman, 1933"
 genus: Microparasellus
 family: Microparasellidae
 suborder: Asellota
-realm: marine
+realm: freshwater
 gbif_id: 2212278
 gbif_url: https://www.gbif.org/species/2212278
 common_name:

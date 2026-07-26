@@ -5,13 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Oreades -- genus index
+# Oreades (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Oreades lativentris\|Oreades lativentris]] | Vandel, 1968 |

@@ -5,15 +5,10 @@ family: Scleropactidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, scleropactidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Exzaes -- genus index
+# Exzaes (Genus)
 
-**Family** [[_Scleropactidae Index|Scleropactidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Scleropactidae Index|Scleropactidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Exzaes bicolor\|Exzaes bicolor]] | Barnard, 1932 |
-| [[Exzaes pilosa\|Exzaes pilosa]] | Ferrara, 1977 |
-| [[Exzaes sylvatica\|Exzaes sylvatica]] | Barnard, 1932 |

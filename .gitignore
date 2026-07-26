@@ -8,3 +8,9 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Pipeline byproducts
+scripts/__pycache__/
+__pycache__/
+logs/
+scratchpad.log

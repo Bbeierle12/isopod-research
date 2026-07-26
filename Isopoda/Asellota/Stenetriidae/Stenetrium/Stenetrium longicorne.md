@@ -5,7 +5,7 @@ authorship: "(Lucas, 1849) "
 genus: Stenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 4303754
 gbif_url: https://www.gbif.org/species/4303754
 common_name:

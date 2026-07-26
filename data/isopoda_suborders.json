@@ -1,621 +1,1336 @@
 {
-  "_source": "Suborders per WoRMS; families per GBIF order Isopoda (usageKey 643), accessed 2026-07-25",
+  "_source": "Suborders & environments per WoRMS (World List of Marine, Freshwater and Terrestrial Isopod Crustaceans, marinespecies.org); families per GBIF order Isopoda (usageKey 643). Reconciled to WoRMS 2026-07-26: Epicaridea restored as a suborder; 12 family realms corrected; 7 misspelling/synonym phantoms removed; fossils flagged extinct.",
+  "_authority": "WoRMS (AphiaID) primary for suborder + environment; GBIF backbone for the species tree.",
+  "_generated": "2026-07-26",
   "families": {
     "Acanthaspidiidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118247,
+      "worms_status": "accepted"
     },
     "Aegidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118272,
+      "worms_status": "accepted"
     },
     "Agnaridae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248268,
+      "worms_status": "accepted"
     },
     "Alloniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248269,
+      "worms_status": "accepted"
     },
     "Amphisopidae": {
       "suborder": "Phreatoicidea",
-      "realm": "freshwater"
-    },
-    "Amphisopodidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 248270,
+      "worms_status": "accepted"
     },
     "Ancinidae": {
       "suborder": "Sphaeromatidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248271,
+      "worms_status": "accepted"
     },
     "Antarcturidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 174627,
+      "worms_status": "accepted"
     },
     "Antheluridae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118243,
+      "worms_status": "accepted"
     },
     "Anthuridae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118244,
+      "worms_status": "accepted"
     },
     "Anuropidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 174483,
+      "worms_status": "accepted"
     },
     "Archaeoniscidae": {
       "suborder": "incertae sedis",
-      "realm": "marine"
-    },
-    "Archeoniscidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "extinct": true
     },
     "Arcturidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118280,
+      "worms_status": "accepted"
     },
     "Arcturididae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248272,
+      "worms_status": "accepted"
     },
     "Armadillidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248274,
+      "worms_status": "accepted"
     },
     "Armadillidiidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
-    },
-    "Armadilliidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 148639,
+      "worms_status": "accepted"
     },
     "Asconiscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 146510,
+      "worms_status": "accepted"
     },
     "Asellidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 148665,
+      "worms_status": "accepted"
     },
     "Atlantasellidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
-    },
-    "Atlantidiidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "freshwater",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 248275,
+      "worms_status": "accepted"
     },
     "Austrarcturellidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 174586,
+      "worms_status": "accepted"
     },
     "Balloniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248277,
+      "worms_status": "accepted"
     },
     "Barybrotidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 404986,
+      "worms_status": "accepted"
     },
     "Basserolidae": {
       "suborder": "Sphaeromatidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 292952,
+      "worms_status": "accepted"
     },
     "Bathynataliidae": {
       "suborder": "Sphaeromatidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248278,
+      "worms_status": "accepted"
     },
     "Bathytropidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248279,
+      "worms_status": "accepted"
     },
     "Berytoniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248280,
+      "worms_status": "accepted"
     },
     "Bisilvestriidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 886538,
+      "worms_status": "accepted"
     },
     "Bopyridae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 1195,
+      "worms_status": "accepted"
     },
     "Brasileirinidae": {
-      "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "suborder": "Calabozoidea",
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 715667,
+      "worms_status": "accepted"
     },
     "Buddelundiellidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ]
     },
     "Cabiropidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248282,
+      "worms_status": "accepted"
     },
     "Calabozoidae": {
       "suborder": "Calabozoidea",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 248283,
+      "worms_status": "accepted"
     },
     "Capitoniscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
-    },
-    "Chaetilidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 1650769,
+      "worms_status": "accepted"
     },
     "Chaetiliidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118281,
+      "worms_status": "accepted"
     },
     "Cirolanidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118273,
+      "worms_status": "accepted"
     },
     "Corallanidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 196132,
+      "worms_status": "accepted"
     },
     "Crinoniscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 292812,
+      "worms_status": "accepted"
     },
     "Cryptoniscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 146881,
+      "worms_status": "accepted"
     },
     "Cryptothiridae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ]
     },
     "Cumoechidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 1650770,
+      "worms_status": "accepted"
     },
     "Cylisticidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248284,
+      "worms_status": "accepted"
     },
     "Cymothoidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118274,
+      "worms_status": "accepted"
     },
     "Cyproniscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248285,
+      "worms_status": "accepted"
     },
     "Dajidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 146514,
+      "worms_status": "accepted"
     },
     "Delatorreiidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248286,
+      "worms_status": "accepted"
     },
     "Dendrotionidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248287,
+      "worms_status": "accepted"
     },
     "Desmosomatidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118250,
+      "worms_status": "accepted"
     },
     "Detonidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248288,
+      "worms_status": "accepted"
     },
     "Dubioniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248289,
+      "worms_status": "accepted"
     },
     "Echinothambematidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248290,
+      "worms_status": "accepted"
     },
     "Entoniscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 147118,
+      "worms_status": "accepted"
     },
     "Entophilidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 589330,
+      "worms_status": "accepted"
     },
     "Eubelidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248291,
+      "worms_status": "accepted"
     },
     "Expanathuridae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
-    },
-    "Gnathidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 244443,
+      "worms_status": "accepted"
     },
     "Gnathiidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish"
+      ],
+      "worms_aphia_id": 118278,
+      "worms_status": "accepted"
     },
     "Gnathostenetroididae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118252,
+      "worms_status": "accepted"
     },
     "Hadromastacidae": {
       "suborder": "Limnoriidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248294,
+      "worms_status": "accepted"
     },
     "Halophilosciidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 146963,
+      "worms_status": "accepted"
     },
     "Haplomunnidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118253,
+      "worms_status": "accepted"
     },
     "Haploniscidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118254,
+      "worms_status": "accepted"
     },
     "Hekelidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248295,
+      "worms_status": "accepted"
     },
     "Hemioniscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248296,
+      "worms_status": "accepted"
     },
     "Holidoteidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 174703,
+      "worms_status": "accepted"
     },
     "Holognathidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118282,
+      "worms_status": "accepted"
     },
     "Hypsimetopidae": {
       "suborder": "Phreatoicidea",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 248297,
+      "worms_status": "accepted"
     },
     "Hyssuridae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118245,
+      "worms_status": "accepted"
     },
     "Idoteidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118283,
+      "worms_status": "accepted"
     },
     "Ionidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 589332,
+      "worms_status": "accepted"
     },
     "Irmaosidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "suborder": "Oniscidea",
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ]
     },
     "Ischnomesidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118256,
+      "worms_status": "accepted"
     },
     "Janirellidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118257,
+      "worms_status": "accepted"
     },
     "Janiridae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118258,
+      "worms_status": "accepted"
     },
     "Joeropsididae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248300,
+      "worms_status": "accepted"
     },
     "Katianiridae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118260,
+      "worms_status": "accepted"
     },
     "Keuphyliidae": {
       "suborder": "Limnoriidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248301,
+      "worms_status": "accepted"
     },
     "Lantoceramiidae": {
       "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "extinct": true
     },
     "Lepidocharontidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 956858,
+      "worms_status": "accepted"
     },
     "Leptanthuridae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 148628,
+      "worms_status": "accepted"
     },
     "Ligiidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "marine",
+        "brackish",
+        "terrestrial"
+      ],
+      "worms_aphia_id": 146997,
+      "worms_status": "accepted"
     },
     "Limnoriidae": {
       "suborder": "Limnoriidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish"
+      ],
+      "worms_aphia_id": 118275,
+      "worms_status": "accepted"
     },
     "Macrostylidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118261,
+      "worms_status": "accepted"
     },
     "Mesamphisopidae": {
       "suborder": "Phreatoicidea",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 292909,
+      "worms_status": "accepted"
     },
     "Mesoniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248302,
+      "worms_status": "accepted"
     },
     "Mesosignidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 175072,
+      "worms_status": "accepted"
     },
     "Microcerberidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118279,
+      "worms_status": "accepted"
     },
     "Microniscidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ]
     },
     "Microparasellidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater",
+        "marine"
+      ],
+      "worms_aphia_id": 118262,
+      "worms_status": "accepted"
     },
     "Mictosomatidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248303,
+      "worms_status": "accepted"
     },
     "Munnidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118263,
+      "worms_status": "accepted"
     },
     "Munnopsidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118264,
+      "worms_status": "accepted"
     },
     "Nannoniscidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118265,
+      "worms_status": "accepted"
     },
     "Olibrinidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "freshwater",
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248304,
+      "worms_status": "accepted"
     },
     "Oniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 147057,
+      "worms_status": "accepted"
     },
     "Palaeophreatoicidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "extinct": true
     },
     "Paramunnidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118266,
+      "worms_status": "accepted"
     },
     "Paranthuridae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118246,
+      "worms_status": "accepted"
     },
     "Paraplatyarthridae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
-    },
-    "Parasellidae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 884608,
+      "worms_status": "accepted"
     },
     "Periscyphicidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ]
     },
     "Philosciidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 246825,
+      "worms_status": "accepted"
     },
     "Phoratopodidae": {
       "suborder": "Phoratopidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248305,
+      "worms_status": "accepted"
     },
     "Phreatoicidae": {
       "suborder": "Phreatoicidea",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 248306,
+      "worms_status": "accepted"
     },
     "Phreatoicopsidae": {
       "suborder": "Phreatoicidea",
-      "realm": "freshwater"
-    },
-    "Phreatoicopsididae": {
-      "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 292922,
+      "worms_status": "accepted"
     },
     "Plakarthriidae": {
       "suborder": "Sphaeromatidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248307,
+      "worms_status": "accepted"
     },
     "Platyarthridae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248308,
+      "worms_status": "accepted"
     },
     "Pleurocopidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118267,
+      "worms_status": "accepted"
     },
     "Podasconidae": {
-      "suborder": "Cymothoida",
-      "realm": "marine"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 147079,
+      "worms_status": "accepted"
     },
     "Ponderellidae": {
       "suborder": "Phreatoicidea",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 248309,
+      "worms_status": "accepted"
     },
     "Porcellionidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248310,
+      "worms_status": "accepted"
     },
     "Protognathiidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 175130,
+      "worms_status": "accepted"
     },
     "Protojaniridae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 248311,
+      "worms_status": "accepted"
     },
     "Pseudarmadillidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ]
     },
     "Pseudidotheidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 174737,
+      "worms_status": "accepted"
     },
     "Pseudojaniridae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 196135,
+      "worms_status": "accepted"
     },
     "Pudeoniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248312,
+      "worms_status": "accepted"
     },
     "Rectarcturidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 174748,
+      "worms_status": "accepted"
     },
     "Rhyscotidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248313,
+      "worms_status": "accepted"
     },
     "Santiidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 196136,
+      "worms_status": "accepted"
     },
     "Schoebliidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248314,
+      "worms_status": "accepted"
     },
     "Schweglerellidae": {
       "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "extinct": true
     },
     "Scleropactidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248315,
+      "worms_status": "accepted"
     },
     "Scyphacidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "marine",
+        "freshwater",
+        "terrestrial"
+      ],
+      "worms_aphia_id": 146506,
+      "worms_status": "accepted"
     },
     "Serolidae": {
       "suborder": "Sphaeromatidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118276,
+      "worms_status": "accepted"
     },
     "Spelaeoniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248316,
+      "worms_status": "accepted"
     },
     "Sphaeromatidae": {
       "suborder": "Sphaeromatidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine",
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 118277,
+      "worms_status": "accepted"
     },
     "Sphaeroniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ]
     },
     "Stellatoniscidae": {
-      "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 1470772,
+      "worms_status": "accepted"
     },
     "Stenasellidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "marine",
+        "brackish",
+        "freshwater"
+      ],
+      "worms_aphia_id": 248317,
+      "worms_status": "accepted"
     },
     "Stenetriidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118270,
+      "worms_status": "accepted"
     },
     "Stenoniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248318,
+      "worms_status": "accepted"
     },
     "Styloniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "freshwater",
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248319,
+      "worms_status": "accepted"
     },
     "Tainisopidae": {
       "suborder": "Tainisopidea",
-      "realm": "freshwater"
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "worms_aphia_id": 248320,
+      "worms_status": "accepted"
     },
     "Tecticipitidae": {
       "suborder": "Sphaeromatidea",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248321,
+      "worms_status": "accepted"
     },
     "Tendosphaeridae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248322,
+      "worms_status": "accepted"
     },
     "Thambematidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 118271,
+      "worms_status": "accepted"
     },
     "Thermoarcturidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 853085,
+      "worms_status": "accepted"
     },
     "Titanidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248323,
+      "worms_status": "accepted"
     },
     "Trachelipodidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248325,
+      "worms_status": "accepted"
     },
     "Tricarinidae": {
       "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "extinct": true
     },
     "Trichoniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "freshwater",
+        "terrestrial"
+      ],
+      "worms_aphia_id": 238351,
+      "worms_status": "accepted"
     },
     "Tridentellidae": {
       "suborder": "Cymothoida",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248326,
+      "worms_status": "accepted"
     },
     "Turanoniscidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 248327,
+      "worms_status": "accepted"
     },
     "Tylidae": {
       "suborder": "Oniscidea",
-      "realm": "terrestrial"
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "worms_aphia_id": 147191,
+      "worms_status": "accepted"
     },
     "Urdidae": {
       "suborder": "incertae sedis",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "extinct": true
     },
     "Urstylidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 747378,
+      "worms_status": "accepted"
     },
     "Vermectiadidae": {
       "suborder": "Asellota",
-      "realm": "freshwater"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248328,
+      "worms_status": "accepted"
     },
     "Xenarcturidae": {
       "suborder": "Valvifera",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248329,
+      "worms_status": "accepted"
     },
     "Xenosellidae": {
       "suborder": "Asellota",
-      "realm": "marine"
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "worms_aphia_id": 248330,
+      "worms_status": "accepted"
     }
   }
 }

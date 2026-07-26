@@ -1,17 +1,21 @@
 ---
-type: family
-family: Periscyphicidae
+type: index
+group: Periscyphicidae
 suborder: Oniscidea
 genus_count: 0
 species_count: 0
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, periscyphicidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Periscyphicidae -- family index
+# Periscyphicidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **0 genera . 0 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 0 genera · 0 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| _(no accepted genera recorded)_ | |
+|---|---:|
+| **TOTAL** | **0** |
+

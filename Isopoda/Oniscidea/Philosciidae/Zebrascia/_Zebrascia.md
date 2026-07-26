@@ -5,15 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Zebrascia -- genus index
+# Zebrascia (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Zebrascia buddelundi\|Zebrascia buddelundi]] | Schmalfuss & Ferrara, 1978 |
-| [[Zebrascia longicornis\|Zebrascia longicornis]] | Verhoeff, 1942 |
-| [[Zebrascia plurimaculata\|Zebrascia plurimaculata]] | Schmalfuss & Ferrara, 1978 |

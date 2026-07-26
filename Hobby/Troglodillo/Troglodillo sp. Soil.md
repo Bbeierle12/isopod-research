@@ -3,7 +3,7 @@ id: troglodillo-sp-soil
 record_type: form
 family: Armadillidae
 genus: Troglodillo
-species: sp.
+open_nomenclature: sp.
 scientificName: "Troglodillo sp. \"Soil\""
 is_described: false
 taxon_status: provisional

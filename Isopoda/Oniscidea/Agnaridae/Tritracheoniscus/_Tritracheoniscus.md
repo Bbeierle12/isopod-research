@@ -5,13 +5,10 @@ family: Agnaridae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, agnaridae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Tritracheoniscus -- genus index
+# Tritracheoniscus (Genus)
 
-**Family** [[_Agnaridae Index|Agnaridae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Agnaridae Index|Agnaridae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Tritracheoniscus cerrutii\|Tritracheoniscus cerrutii]] | (Vandel, 1958) |

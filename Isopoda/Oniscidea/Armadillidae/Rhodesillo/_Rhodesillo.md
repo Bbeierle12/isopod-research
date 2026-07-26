@@ -5,14 +5,10 @@ family: Armadillidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Rhodesillo -- genus index
+# Rhodesillo (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Rhodesillo insulanus\|Rhodesillo insulanus]] | Schmalfuss & Ferrara, 1983 |
-| [[Rhodesillo sulcifrons\|Rhodesillo sulcifrons]] | Ferrara & Taiti, 1978 |

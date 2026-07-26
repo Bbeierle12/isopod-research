@@ -5,13 +5,10 @@ family: Berytoniscidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, berytoniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Berytoniscus -- genus index
+# Berytoniscus (Genus)
 
-**Family** [[_Berytoniscidae Index|Berytoniscidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Berytoniscidae Index|Berytoniscidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Berytoniscus singularis\|Berytoniscus singularis]] | Vandel, 1955 |

@@ -5,16 +5,10 @@ family: Styloniscidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, styloniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Indoniscus -- genus index
+# Indoniscus (Genus)
 
-**Family** [[_Styloniscidae Index|Styloniscidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Styloniscidae Index|Styloniscidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Indoniscus albidus\|Indoniscus albidus]] | (Vandel, 1952) |
-| [[Indoniscus deharvengi\|Indoniscus deharvengi]] | Dalens, 1987 |
-| [[Indoniscus orientalis\|Indoniscus orientalis]] | Vandel, 1973 |
-| [[Indoniscus vandeli\|Indoniscus vandeli]] | (Barnard, 1958) |

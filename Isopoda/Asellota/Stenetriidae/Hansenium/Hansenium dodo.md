@@ -5,7 +5,7 @@ authorship: "(Mueller, 1991) "
 genus: Hansenium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205161
 gbif_url: https://www.gbif.org/species/2205161
 common_name:

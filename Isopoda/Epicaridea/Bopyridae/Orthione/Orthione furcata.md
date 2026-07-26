@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Orthione furcata
+authorship: "(Richardson, 1904) "
+genus: Orthione
+family: Bopyridae
+suborder: Epicaridea
+realm: marine
+gbif_id: 2200476
+gbif_url: https://www.gbif.org/species/2200476
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, epicaridea, bopyridae]
+---
+
+# Orthione furcata (Richardson, 1904) 
+
+**Order** Isopoda › **Suborder** Epicaridea › **Family** [[_Bopyridae Index|Bopyridae]] › **Genus** [[_Orthione|Orthione]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2200476

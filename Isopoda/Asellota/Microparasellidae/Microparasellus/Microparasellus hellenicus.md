@@ -5,7 +5,7 @@ authorship: "Argano & Pesce, 1979"
 genus: Microparasellus
 family: Microparasellidae
 suborder: Asellota
-realm: marine
+realm: freshwater
 gbif_id: 2212279
 gbif_url: https://www.gbif.org/species/2212279
 common_name:

@@ -5,7 +5,7 @@ authorship: "Chappuis & Delamare-Deboutteville, 1954"
 genus: Microparasellus
 family: Microparasellidae
 suborder: Asellota
-realm: marine
+realm: freshwater
 gbif_id: 2212277
 gbif_url: https://www.gbif.org/species/2212277
 common_name:

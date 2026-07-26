@@ -5,14 +5,10 @@ family: Platyarthridae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, platyarthridae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Paratrichorhina -- genus index
+# Paratrichorhina (Genus)
 
-**Family** [[_Platyarthridae Index|Platyarthridae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Platyarthridae Index|Platyarthridae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Paratrichorhina piauiensis\|Paratrichorhina piauiensis]] | Bezerra-Pereira, Grangeiro & Lima, 2023 |
-| [[Paratrichorhina taitii\|Paratrichorhina taitii]] | Bezerra-Pereira, Grangeiro & Lima, 2023 |

@@ -3,7 +3,7 @@ id: dryadillo-sp-feather
 record_type: form
 family: Armadillidae
 genus: Dryadillo
-species: sp.
+open_nomenclature: sp.
 scientificName: "Dryadillo sp. \"Feather\""
 is_described: false
 taxon_status: provisional

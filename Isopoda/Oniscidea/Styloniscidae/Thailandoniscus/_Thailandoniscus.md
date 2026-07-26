@@ -5,15 +5,10 @@ family: Styloniscidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, styloniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Thailandoniscus -- genus index
+# Thailandoniscus (Genus)
 
-**Family** [[_Styloniscidae Index|Styloniscidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Styloniscidae Index|Styloniscidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Thailandoniscus annae\|Thailandoniscus annae]] | Dalens, 1989 |
-| [[Thailandoniscus brehieri\|Thailandoniscus brehieri]] | Taiti & Montesanto, 2020 |
-| [[Thailandoniscus whitteni\|Thailandoniscus whitteni]] | Taiti & Montesanto, 2020 |

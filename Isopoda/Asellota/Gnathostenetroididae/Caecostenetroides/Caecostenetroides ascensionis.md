@@ -5,7 +5,7 @@ authorship: "Vonk & Stock, 1991"
 genus: Caecostenetroides
 family: Gnathostenetroididae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205361
 gbif_url: https://www.gbif.org/species/2205361
 common_name:

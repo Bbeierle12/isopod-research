@@ -1,19 +1,24 @@
 ---
-type: family
-family: Dubioniscidae
+type: index
+group: Dubioniscidae
 suborder: Oniscidea
 genus_count: 3
 species_count: 22
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, dubioniscidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Dubioniscidae -- family index
+# Dubioniscidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **3 genera . 22 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 3 genera · 22 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Calycuoniscus\|Calycuoniscus]] | 5 |
-| [[_Dubioniscus\|Dubioniscus]] | 6 |
-| [[_Novamundoniscus\|Novamundoniscus]] | 11 |
+|---|---:|
+| [[_Calycuoniscus|Calycuoniscus]] | 5 |
+| [[_Dubioniscus|Dubioniscus]] | 6 |
+| [[_Novamundoniscus|Novamundoniscus]] | 11 |
+| **TOTAL** | **22** |
+

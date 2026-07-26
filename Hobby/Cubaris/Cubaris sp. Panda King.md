@@ -3,7 +3,7 @@ id: cubaris-sp-panda-king
 record_type: form
 family: Armadillidae
 genus: Cubaris
-species: sp.
+open_nomenclature: sp.
 scientificName: "Cubaris sp. \"Panda King\""
 is_described: false
 taxon_status: provisional

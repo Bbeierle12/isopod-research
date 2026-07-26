@@ -8,20 +8,22 @@ tags: [isopod, atlas, facet-map]
 
 Reproductive mode / life-history highlight.
 
-**33 of 11435 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**33 of 11448 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
-## Sexual  <small>(13)</small>
+## Sexual  <small>(15)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
 | [[Armadillidium klugii]] | Armadillidiidae | sexual | a/b |
 | [[Armadillidium maculatum]] | Armadillidiidae | sexual | a/b |
+| [[Armadillidium nasatum]] | Armadillidiidae | sexual (NOT parthenogenetic) | a/b |
 | [[Armadillidium vulgare]] | Armadillidiidae | sexual (Wolbachia/f-element feminization) | a |
 | [[Armadillo officinalis]] | Armadillidae | sexual (monolayer marsupial sac) | b |
 | [[Atlantoscia floridana]] | Philosciidae | sexual (iteroparous) | a |
 | [[Cylisticus convexus]] | Cylisticidae | sexual (feminizable by wVulC) | a/b |
 | [[Deto echinata]] | Detonidae | sexual | c |
 | [[Oniscus asellus]] | Oniscidae | sexual (sperm storage) | a/b |
+| [[Platyarthrus hoffmannseggii]] | Platyarthridae | sexual (parthenogenesis suspected) | b/c |
 | [[Porcellio dilatatus]] | Porcellionidae | sexual | b |
 | [[Porcellio laevis]] | Porcellionidae | sexual (sperm storage) | a |
 | [[Porcellio scaber]] | Porcellionidae | sexual | a |
@@ -48,12 +50,10 @@ Reproductive mode / life-history highlight.
 | [[Nagurus cristatus]] | Trachelipodidae | sexual (assumed) | c |
 | [[Venezillo parvus]] | Armadillidae | sexual (assumed) | c |
 
-## Parthenogenetic  <small>(4)</small>
+## Parthenogenetic  <small>(2)</small>
 
 | Species | Family | Detail | Evd |
 |---|---|---|---|
-| [[Armadillidium nasatum]] | Armadillidiidae | sexual (NOT parthenogenetic) | a/b |
-| [[Platyarthrus hoffmannseggii]] | Platyarthridae | sexual (parthenogenesis suspected) | b/c |
 | [[Trichoniscus pusillus]] | Trichoniscidae | parthenogenetic triploid + sexual diploid | a |
 | [[Trichorhina tomentosa]] | Platyarthridae | obligate parthenogenesis (all-female) | a |
 

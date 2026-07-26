@@ -5,13 +5,10 @@ family: Platyarthridae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, platyarthridae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Lanceochaetus -- genus index
+# Lanceochaetus (Genus)
 
-**Family** [[_Platyarthridae Index|Platyarthridae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Platyarthridae Index|Platyarthridae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Lanceochaetus camerunicus\|Lanceochaetus camerunicus]] | Schmalfuss & Ferrara, 1978 |

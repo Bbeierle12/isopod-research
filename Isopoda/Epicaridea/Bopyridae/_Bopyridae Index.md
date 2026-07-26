@@ -1,0 +1,191 @@
+---
+type: index
+group: Bopyridae
+suborder: Epicaridea
+genus_count: 170
+species_count: 669
+realm: marine, freshwater
+source: GBIF Backbone Taxonomy (api.gbif.org)
+tags: [isopod, epicaridea, family-index]
+---
+
+# Bopyridae (Family)
+
+Suborder Epicaridea · 170 genera · 669 accepted species.
+
+## Genera
+
+| Genus | Species |
+|---|---:|
+| [[_Acrobelione|Acrobelione]] | 4 |
+| [[_Albunione|Albunione]] | 3 |
+| [[_Allathelges|Allathelges]] | 2 |
+| [[_Allobopyrus|Allobopyrus]] | 1 |
+| [[_Allodiplophryxus|Allodiplophryxus]] | 2 |
+| [[_Allokepon|Allokepon]] | 5 |
+| [[_Allorbimorphus|Allorbimorphus]] | 6 |
+| [[_Anacepon|Anacepon]] | 1 |
+| [[_Anathelges|Anathelges]] | 4 |
+| [[_Anchiarthrus|Anchiarthrus]] | 1 |
+| [[_Anisarthrus|Anisarthrus]] | 2 |
+| [[_Anisorbione|Anisorbione]] | 1 |
+| [[_Anomophryxus|Anomophryxus]] | 1 |
+| [[_Anuropodione|Anuropodione]] | 5 |
+| [[_Aparapenaeon|Aparapenaeon]] | 4 |
+| [[_Apocepon|Apocepon]] | 4 |
+| [[_Apophrixus|Apophrixus]] | 3 |
+| [[_Aporobopyrina|Aporobopyrina]] | 4 |
+| [[_Aporobopyroides|Aporobopyroides]] | 1 |
+| [[_Aporobopyrus|Aporobopyrus]] | 21 |
+| [[_Argeia|Argeia]] | 3 |
+| [[_Argeiopsis|Argeiopsis]] | 3 |
+| [[_Astalione|Astalione]] | 1 |
+| [[_Asymmetrione|Asymmetrione]] | 14 |
+| [[_Asymmetrorbione|Asymmetrorbione]] | 2 |
+| [[_Athelges|Athelges]] | 14 |
+| [[_Atypocepon|Atypocepon]] | 1 |
+| [[_Azygopleon|Azygopleon]] | 1 |
+| [[_Balanopleon|Balanopleon]] | 1 |
+| [[_Bathione|Bathione]] | 2 |
+| [[_Bathygyge|Bathygyge]] | 1 |
+| [[_Bopyrella|Bopyrella]] | 8 |
+| [[_Bopyrina|Bopyrina]] | 7 |
+| [[_Bopyrinella|Bopyrinella]] | 7 |
+| [[_Bopyrinina|Bopyrinina]] | 3 |
+| [[_Bopyrione|Bopyrione]] | 5 |
+| [[_Bopyrissa|Bopyrissa]] | 14 |
+| [[_Bopyroides|Bopyroides]] | 3 |
+| [[_Bopyrophryxus|Bopyrophryxus]] | 1 |
+| [[_Bopyrosa|Bopyrosa]] | 1 |
+| [[_Bopyrus|Bopyrus]] | 2 |
+| [[_Cancricepon|Cancricepon]] | 12 |
+| [[_Capitetragonia|Capitetragonia]] | 2 |
+| [[_Carcinione|Carcinione]] | 1 |
+| [[_Cardiocepon|Cardiocepon]] | 1 |
+| [[_Castrione|Castrione]] | 2 |
+| [[_Cataphryxus|Cataphryxus]] | 1 |
+| [[_Claustrathelges|Claustrathelges]] | 1 |
+| [[_Coxalione|Coxalione]] | 1 |
+| [[_Cryptobopyrus|Cryptobopyrus]] | 1 |
+| [[_Dactylokepon|Dactylokepon]] | 11 |
+| [[_Dicropleon|Dicropleon]] | 4 |
+| [[_Diplophryxus|Diplophryxus]] | 8 |
+| [[_Discomorphus|Discomorphus]] | 1 |
+| [[_Discorsobopyrus|Discorsobopyrus]] | 1 |
+| [[_Eophrixus|Eophrixus]] | 13 |
+| [[_Epicepon|Epicepon]] | 3 |
+| [[_Epipenaeon|Epipenaeon]] | 7 |
+| [[_Epiphrixus|Epiphrixus]] | 1 |
+| [[_Eragia|Eragia]] | 1 |
+| [[_Eremitione|Eremitione]] | 10 |
+| [[_Ergyne|Ergyne]] | 1 |
+| [[_Eriphrixus|Eriphrixus]] | 1 |
+| [[_Falsanathelges|Falsanathelges]] | 2 |
+| [[_Filophryxus|Filophryxus]] | 1 |
+| [[_Galathocrypta|Galathocrypta]] | 1 |
+| [[_Gareia|Gareia]] | 1 |
+| [[_Gigantione|Gigantione]] | 19 |
+| [[_Goleathopseudione|Goleathopseudione]] | 1 |
+| [[_Grapsicepon|Grapsicepon]] | 6 |
+| [[_Gyge|Gyge]] | 5 |
+| [[_Hemiarthrus|Hemiarthrus]] | 6 |
+| [[_Hemicepon|Hemicepon]] | 1 |
+| [[_Hemiphryxus|Hemiphryxus]] | 1 |
+| [[_Heterocepon|Heterocepon]] | 1 |
+| [[_Hypercepon|Hypercepon]] | 1 |
+| [[_Hyperphrixus|Hyperphrixus]] | 3 |
+| [[_Hypocepon|Hypocepon]] | 2 |
+| [[_Hypohyperphrixus|Hypohyperphrixus]] | 1 |
+| [[_Ionella|Ionella]] | 4 |
+| [[_Izuohshimaphryxus|Izuohshimaphryxus]] | 1 |
+| [[_Kepon|Kepon]] | 4 |
+| [[_Kolourione|Kolourione]] | 1 |
+| [[_Leidya|Leidya]] | 4 |
+| [[_Litobopyrus|Litobopyrus]] | 1 |
+| [[_Loki|Loki]] | 2 |
+| [[_Mediophrixus|Mediophrixus]] | 1 |
+| [[_Megacepon|Megacepon]] | 7 |
+| [[_Mesocepon|Mesocepon]] | 1 |
+| [[_Mesophryxus|Mesophryxus]] | 1 |
+| [[_Metacepon|Metacepon]] | 2 |
+| [[_Metaphrixus|Metaphrixus]] | 4 |
+| [[_Metathelges|Metathelges]] | 1 |
+| [[_Micropodiphryxus|Micropodiphryxus]] | 1 |
+| [[_Minicopenaeon|Minicopenaeon]] | 4 |
+| [[_Minimathelges|Minimathelges]] | 2 |
+| [[_Miophrixus|Miophrixus]] | 1 |
+| [[_Munidion|Munidion]] | 7 |
+| [[_Neophryxus|Neophryxus]] | 1 |
+| [[_Nikione|Nikione]] | 1 |
+| [[_Ogyridione|Ogyridione]] | 1 |
+| [[_Onkokepon|Onkokepon]] | 2 |
+| [[_Onychocepon|Onychocepon]] | 3 |
+| [[_Orbimorphus|Orbimorphus]] | 1 |
+| [[_Orbione|Orbione]] | 8 |
+| [[_Orophryxus|Orophryxus]] | 1 |
+| [[_Orthione|Orthione]] | 3 |
+| [[_Ovobopyrus|Ovobopyrus]] | 1 |
+| [[_Ovoionella|Ovoionella]] | 1 |
+| [[_Pagurion|Pagurion]] | 1 |
+| [[_Paguristione|Paguristione]] | 1 |
+| [[_Pagurocryptella|Pagurocryptella]] | 2 |
+| [[_Palaemonellione|Palaemonellione]] | 1 |
+| [[_Parabopyrella|Parabopyrella]] | 29 |
+| [[_Parabopyriscus|Parabopyriscus]] | 1 |
+| [[_Parabopyrus|Parabopyrus]] | 1 |
+| [[_Paracepon|Paracepon]] | 2 |
+| [[_Paraeragia|Paraeragia]] | 1 |
+| [[_Paragigantione|Paragigantione]] | 3 |
+| [[_Paranikione|Paranikione]] | 2 |
+| [[_Parapagurion|Parapagurion]] | 3 |
+| [[_Parapenaeon|Parapenaeon]] | 7 |
+| [[_Parapenaeonella|Parapenaeonella]] | 6 |
+| [[_Parapleurocrypta|Parapleurocrypta]] | 2 |
+| [[_Parapleurocryptella|Parapleurocryptella]] | 2 |
+| [[_Parargeia|Parargeia]] | 1 |
+| [[_Parasymmetrione|Parasymmetrione]] | 1 |
+| [[_Parasymmetrorbione|Parasymmetrorbione]] | 1 |
+| [[_Parathelges|Parathelges]] | 10 |
+| [[_Parione|Parione]] | 5 |
+| [[_Parionella|Parionella]] | 4 |
+| [[_Parionina|Parionina]] | 2 |
+| [[_Parioninella|Parioninella]] | 3 |
+| [[_Pauperella|Pauperella]] | 1 |
+| [[_Phyllodurus|Phyllodurus]] | 1 |
+| [[_Pleonobopyrus|Pleonobopyrus]] | 1 |
+| [[_Pleurocrypta|Pleurocrypta]] | 13 |
+| [[_Pleurocryptella|Pleurocryptella]] | 12 |
+| [[_Pleurocryptina|Pleurocryptina]] | 1 |
+| [[_Pliophrixus|Pliophrixus]] | 1 |
+| [[_Pontobopyrus|Pontobopyrus]] | 1 |
+| [[_Probopyrinella|Probopyrinella]] | 2 |
+| [[_Probopyrione|Probopyrione]] | 1 |
+| [[_Probopyriscus|Probopyriscus]] | 1 |
+| [[_Probopyrus|Probopyrus]] | 30 |
+| [[_Probynia|Probynia]] | 3 |
+| [[_Procepon|Procepon]] | 3 |
+| [[_Progebiophilus|Progebiophilus]] | 14 |
+| [[_Propseudione|Propseudione]] | 1 |
+| [[_Pseudione|Pseudione]] | 39 |
+| [[_Pseudionella|Pseudionella]] | 6 |
+| [[_Pseudostegias|Pseudostegias]] | 8 |
+| [[_Quadripediphryxus|Quadripediphryxus]] | 1 |
+| [[_Rhopalione|Rhopalione]] | 6 |
+| [[_Robinione|Robinione]] | 3 |
+| [[_Schizobopyrina|Schizobopyrina]] | 13 |
+| [[_Scyracepon|Scyracepon]] | 11 |
+| [[_Septembopyrina|Septembopyrina]] | 1 |
+| [[_Shiinoella|Shiinoella]] | 1 |
+| [[_Sigyn|Sigyn]] | 1 |
+| [[_Spathione|Spathione]] | 2 |
+| [[_Stegias|Stegias]] | 3 |
+| [[_Stegoalpheon|Stegoalpheon]] | 1 |
+| [[_Stegoargeia|Stegoargeia]] | 2 |
+| [[_Synsynella|Synsynella]] | 4 |
+| [[_Trapezicepon|Trapezicepon]] | 2 |
+| [[_Tylokepon|Tylokepon]] | 5 |
+| [[_Upogebione|Upogebione]] | 4 |
+| [[_Upogebiophilus|Upogebiophilus]] | 1 |
+| [[_Urobopyrus|Urobopyrus]] | 1 |
+| **TOTAL** | **669** |
+

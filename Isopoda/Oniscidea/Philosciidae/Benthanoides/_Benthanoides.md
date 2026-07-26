@@ -5,17 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 5
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Benthanoides -- genus index
+# Benthanoides (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **5 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 5 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Benthanoides amazonicus\|Benthanoides amazonicus]] | Cardoso & Ferreira, 2023 |
-| [[Benthanoides pauper\|Benthanoides pauper]] | (Jackson, 1926) |
-| [[Benthanoides peruensis\|Benthanoides peruensis]] | (Gruner, 1955) |
-| [[Benthanoides tarzan\|Benthanoides tarzan]] | Cardoso & Ferreira, 2023 |
-| [[Benthanoides villosus\|Benthanoides villosus]] | (Jackson, 1926) |

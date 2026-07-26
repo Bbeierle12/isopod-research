@@ -5,14 +5,10 @@ family: Balloniscidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, balloniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Plataoniscus -- genus index
+# Plataoniscus (Genus)
 
-**Family** [[_Balloniscidae Index|Balloniscidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Balloniscidae Index|Balloniscidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Plataoniscus borelli\|Plataoniscus borelli]] | (Dollfus, 1897) |
-| [[Plataoniscus griseus\|Plataoniscus griseus]] | (Dollfus, 1897) |

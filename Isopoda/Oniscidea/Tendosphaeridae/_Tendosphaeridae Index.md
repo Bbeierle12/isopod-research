@@ -1,19 +1,24 @@
 ---
-type: family
-family: Tendosphaeridae
+type: index
+group: Tendosphaeridae
 suborder: Oniscidea
 genus_count: 3
 species_count: 4
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, tendosphaeridae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Tendosphaeridae -- family index
+# Tendosphaeridae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **3 genera . 4 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 3 genera · 4 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Macrotelsonia\|Macrotelsonia]] | 1 |
-| [[_Tendosphaera\|Tendosphaera]] | 2 |
-| [[_Thrakosphaera\|Thrakosphaera]] | 1 |
+|---|---:|
+| [[_Macrotelsonia|Macrotelsonia]] | 1 |
+| [[_Tendosphaera|Tendosphaera]] | 2 |
+| [[_Thrakosphaera|Thrakosphaera]] | 1 |
+| **TOTAL** | **4** |
+

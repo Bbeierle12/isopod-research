@@ -5,7 +5,7 @@ authorship: "Serov & Wilson, 1999"
 genus: Lexcenium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205240
 gbif_url: https://www.gbif.org/species/2205240
 common_name:

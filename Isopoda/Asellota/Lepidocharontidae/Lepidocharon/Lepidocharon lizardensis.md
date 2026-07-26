@@ -5,7 +5,7 @@ authorship: "Galassi & Bruce, 2016"
 genus: Lepidocharon
 family: Lepidocharontidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 8840354
 gbif_url: https://www.gbif.org/species/8840354
 common_name:

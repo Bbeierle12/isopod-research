@@ -5,16 +5,10 @@ family: Armadillidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Reductoniscus -- genus index
+# Reductoniscus (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Reductoniscus costulatus\|Reductoniscus costulatus]] | Kesselyak, 1930 |
-| [[Reductoniscus novaehiberniae\|Reductoniscus novaehiberniae]] | Ferrara & Taiti, 1990 |
-| [[Reductoniscus pulcher\|Reductoniscus pulcher]] | Ferrara & Taiti, 1990 |
-| [[Reductoniscus tuberculatus\|Reductoniscus tuberculatus]] | Leistikow, 1997 |

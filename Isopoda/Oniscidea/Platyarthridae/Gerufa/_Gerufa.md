@@ -5,16 +5,10 @@ family: Platyarthridae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, platyarthridae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Gerufa -- genus index
+# Gerufa (Genus)
 
-**Family** [[_Platyarthridae Index|Platyarthridae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Platyarthridae Index|Platyarthridae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Gerufa hirticornis\|Gerufa hirticornis]] | (Budde-Lund, 1909) |
-| [[Gerufa macrops\|Gerufa macrops]] | Barnard, 1932 |
-| [[Gerufa marmorata\|Gerufa marmorata]] | Barnard, 1932 |
-| [[Gerufa montana\|Gerufa montana]] | Barnard, 1932 |

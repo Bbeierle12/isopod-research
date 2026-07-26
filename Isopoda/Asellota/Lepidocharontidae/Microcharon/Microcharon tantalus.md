@@ -5,7 +5,7 @@ authorship: "Birstein & Ljovuschkin, 1965"
 genus: Microcharon
 family: Lepidocharontidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2212194
 gbif_url: https://www.gbif.org/species/2212194
 common_name:

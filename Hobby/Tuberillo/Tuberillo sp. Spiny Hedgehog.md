@@ -3,7 +3,7 @@ id: tuberillo-sp-spiny-hedgehog
 record_type: form
 family: Armadillidae
 genus: Tuberillo
-species: sp.
+open_nomenclature: sp.
 scientificName: "Tuberillo sp. \"Spiny Hedgehog\""
 is_described: false
 taxon_status: provisional
@@ -22,7 +22,7 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation_type: Roller
 size_class: Medium
 biome: Tropical
-biogeo_region: Other
+biogeo_region: Cosmopolitan
 moisture: Humid
 difficulty_tier: Advanced
 bioactive_role: Display

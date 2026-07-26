@@ -3,7 +3,7 @@ id: merulanella-sp-red-diablo
 record_type: form
 family: Armadillidae
 genus: Merulanella
-species: sp.
+open_nomenclature: sp.
 scientificName: "Merulanella sp. \"Red Diablo\""
 is_described: false
 taxon_status: provisional

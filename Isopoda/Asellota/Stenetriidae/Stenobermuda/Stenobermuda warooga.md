@@ -5,7 +5,7 @@ authorship: "Song & Bruce, 2018"
 genus: Stenobermuda
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 9607490
 gbif_url: https://www.gbif.org/species/9607490
 common_name:

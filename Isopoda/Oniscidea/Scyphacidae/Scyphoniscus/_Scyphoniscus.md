@@ -5,14 +5,10 @@ family: Scyphacidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, scyphacidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Scyphoniscus -- genus index
+# Scyphoniscus (Genus)
 
-**Family** [[_Scyphacidae Index|Scyphacidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Scyphacidae Index|Scyphacidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Scyphoniscus magnus\|Scyphoniscus magnus]] | Chilton, 1909 |
-| [[Scyphoniscus waitatensis\|Scyphoniscus waitatensis]] | Chilton, 1901 |

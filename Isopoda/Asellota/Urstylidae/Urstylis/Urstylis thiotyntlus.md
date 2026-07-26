@@ -5,7 +5,7 @@ authorship: "Riehl, Wilson & Malyutina, 2014"
 genus: Urstylis
 family: Urstylidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 8380902
 gbif_url: https://www.gbif.org/species/8380902
 common_name:

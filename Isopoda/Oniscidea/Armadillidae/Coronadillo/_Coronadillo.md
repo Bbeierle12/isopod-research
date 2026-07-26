@@ -5,15 +5,10 @@ family: Armadillidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Coronadillo -- genus index
+# Coronadillo (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Coronadillo hamiltoni\|Coronadillo hamiltoni]] | (Chilton, 1901) |
-| [[Coronadillo milleri\|Coronadillo milleri]] | (Chilton, 1917) |
-| [[Coronadillo suteri\|Coronadillo suteri]] | (Chilton, 1915) |

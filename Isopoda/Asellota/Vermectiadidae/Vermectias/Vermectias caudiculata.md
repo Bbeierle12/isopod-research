@@ -5,7 +5,7 @@ authorship: "Sivertsen & Holthuis, 1980"
 genus: Vermectias
 family: Vermectiadidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2204605
 gbif_url: https://www.gbif.org/species/2204605
 common_name:

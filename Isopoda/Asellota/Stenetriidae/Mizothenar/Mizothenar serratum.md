@@ -5,7 +5,7 @@ authorship: "Kensley & Schotte, 2002"
 genus: Mizothenar
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205225
 gbif_url: https://www.gbif.org/species/2205225
 common_name:

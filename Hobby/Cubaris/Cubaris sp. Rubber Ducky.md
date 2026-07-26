@@ -3,7 +3,7 @@ id: cubaris-sp-rubber-ducky
 record_type: form
 family: Armadillidae
 genus: Cubaris
-species: sp.
+open_nomenclature: sp.
 scientificName: "Cubaris sp. \"Rubber Ducky\""
 is_described: false
 taxon_status: provisional

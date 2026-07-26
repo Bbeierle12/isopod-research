@@ -4,16 +4,14 @@ group: Valvifera
 family_count: 12
 genus_count: 95
 species_count: 645
-realm: marine
+realm: marine, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
-generated: 2026-07-25
 tags: [isopod, valvifera, master-index]
 ---
 
 # Valvifera (Suborder)
 
-This vault section covers **12 families, 95 genera, and 645 accepted species**.
-Realm: marine
+This vault section covers **12 families, 95 genera, and 645 accepted species**. Realm: marine, freshwater
 
 ## Families
 
@@ -32,3 +30,4 @@ Realm: marine
 | [[_Thermoarcturidae Index\|Thermoarcturidae]] | 3 | 3 |
 | [[_Xenarcturidae Index\|Xenarcturidae]] | 1 | 1 |
 | **TOTAL** | **95** | **645** |
+

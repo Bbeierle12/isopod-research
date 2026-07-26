@@ -6,9 +6,9 @@ tags: [isopod, atlas, facet-map]
 
 # By Terrestrialization
 
-Degree of independence from water.
+Degree of independence from water — a terrestrial-isopod axis.
 
-**33 of 11435 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**33 of 11448 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## littoral  <small>(2)</small>
 

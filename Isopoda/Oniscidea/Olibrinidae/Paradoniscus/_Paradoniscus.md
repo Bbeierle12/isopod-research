@@ -5,14 +5,10 @@ family: Olibrinidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, olibrinidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Paradoniscus -- genus index
+# Paradoniscus (Genus)
 
-**Family** [[_Olibrinidae Index|Olibrinidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Olibrinidae Index|Olibrinidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Paradoniscus aquaticus\|Paradoniscus aquaticus]] | Taiti & Ferrara, 2004 |
-| [[Paradoniscus degeesti\|Paradoniscus degeesti]] | Taiti & Ferrara, 2004 |

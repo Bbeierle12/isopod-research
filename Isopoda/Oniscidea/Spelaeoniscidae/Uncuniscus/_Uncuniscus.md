@@ -5,15 +5,10 @@ family: Spelaeoniscidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, spelaeoniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Uncuniscus -- genus index
+# Uncuniscus (Genus)
 
-**Family** [[_Spelaeoniscidae Index|Spelaeoniscidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Spelaeoniscidae Index|Spelaeoniscidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Uncuniscus elegans\|Uncuniscus elegans]] | Caruso, Pezzino, Messina & Lombardo, 2017 |
-| [[Uncuniscus hamatus\|Uncuniscus hamatus]] | (Caruso & Lombardo, 1978) |
-| [[Uncuniscus singularis\|Uncuniscus singularis]] | Caruso, Pezzino, Messina & Lombardo, 2017 |

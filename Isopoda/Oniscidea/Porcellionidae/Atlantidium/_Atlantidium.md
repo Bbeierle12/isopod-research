@@ -5,15 +5,10 @@ family: Porcellionidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, porcellionidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Atlantidium -- genus index
+# Atlantidium (Genus)
 
-**Family** [[_Porcellionidae Index|Porcellionidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Porcellionidae Index|Porcellionidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Atlantidium barretoi\|Atlantidium barretoi]] | Arcangeli, 1936 |
-| [[Atlantidium mateui\|Atlantidium mateui]] | Vandel, 1957 |
-| [[Atlantidium secundum\|Atlantidium secundum]] | Arcangeli, 1936 |

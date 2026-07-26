@@ -1,19 +1,17 @@
 ---
 type: index
 group: Oniscidea
-family_count: 43
-genus_count: 567
-species_count: 4226
-realm: terrestrial
+family_count: 41
+genus_count: 566
+species_count: 4225
+realm: terrestrial, marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
-generated: 2026-07-25
 tags: [isopod, oniscidea, master-index]
 ---
 
 # Oniscidea (Suborder)
 
-This vault section covers **43 families, 567 genera, and 4226 accepted species**.
-Realm: terrestrial
+This vault section covers **41 families, 566 genera, and 4225 accepted species**. Realm: terrestrial, marine, brackish, freshwater
 
 ## Families
 
@@ -27,7 +25,6 @@ Realm: terrestrial
 | [[_Bathytropidae Index\|Bathytropidae]] | 9 | 30 |
 | [[_Berytoniscidae Index\|Berytoniscidae]] | 1 | 1 |
 | [[_Bisilvestriidae Index\|Bisilvestriidae]] | 1 | 1 |
-| [[_Brasileirinidae Index\|Brasileirinidae]] | 1 | 1 |
 | [[_Buddelundiellidae Index\|Buddelundiellidae]] | 1 | 2 |
 | [[_Cylisticidae Index\|Cylisticidae]] | 4 | 71 |
 | [[_Delatorreiidae Index\|Delatorreiidae]] | 2 | 21 |
@@ -35,7 +32,7 @@ Realm: terrestrial
 | [[_Dubioniscidae Index\|Dubioniscidae]] | 3 | 22 |
 | [[_Eubelidae Index\|Eubelidae]] | 51 | 265 |
 | [[_Halophilosciidae Index\|Halophilosciidae]] | 3 | 37 |
-| [[_Hekelidae Index\|Hekelidae]] | 0 | 0 |
+| [[_Irmaosidae Index\|Irmaosidae]] | 1 | 2 |
 | [[_Ligiidae Index\|Ligiidae]] | 7 | 120 |
 | [[_Mesoniscidae Index\|Mesoniscidae]] | 1 | 2 |
 | [[_Olibrinidae Index\|Olibrinidae]] | 5 | 24 |
@@ -53,7 +50,6 @@ Realm: terrestrial
 | [[_Scyphacidae Index\|Scyphacidae]] | 6 | 23 |
 | [[_Spelaeoniscidae Index\|Spelaeoniscidae]] | 11 | 28 |
 | [[_Sphaeroniscidae Index\|Sphaeroniscidae]] | 0 | 0 |
-| [[_Stellatoniscidae Index\|Stellatoniscidae]] | 1 | 2 |
 | [[_Stenoniscidae Index\|Stenoniscidae]] | 3 | 10 |
 | [[_Styloniscidae Index\|Styloniscidae]] | 18 | 129 |
 | [[_Tendosphaeridae Index\|Tendosphaeridae]] | 3 | 4 |
@@ -62,4 +58,5 @@ Realm: terrestrial
 | [[_Trichoniscidae Index\|Trichoniscidae]] | 92 | 566 |
 | [[_Turanoniscidae Index\|Turanoniscidae]] | 1 | 1 |
 | [[_Tylidae Index\|Tylidae]] | 2 | 23 |
-| **TOTAL** | **567** | **4226** |
+| **TOTAL** | **566** | **4225** |
+

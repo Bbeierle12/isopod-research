@@ -1,129 +1,185 @@
-import os, json, datetime
+# -*- coding: utf-8 -*-
+"""Generate the hierarchical index notes for the Isopoda tree:
 
-VAULT = r"C:\Users\Bbeie\isopod-research"
+    _Isopoda Index.md                      (order)
+    <Suborder>/_<Suborder> Index.md        (per suborder)
+    <Suborder>/<Family>/_<Family> Index.md (per family)   <- NEW
+    <Suborder>/<Family>/<Genus>/_<Genus>.md (per genus)   <- NEW
+
+The family- and genus-level notes are what every species-note breadcrumb links
+to (`[[_<Family> Index|...]]`, `[[_<Genus>|...]]`); before this script emitted
+them, all ~14.5k of those links were dead.
+
+Counts are taken from what is actually on disk, not from the family map, so a
+family with no species notes is not reported as if it had a directory. Writes
+are idempotent (skipped when unchanged); the `generated:` stamp is written only
+when the note's content otherwise changed, so re-running on an unchanged tree is
+a no-op.
+
+Python 3.9+.  Run:  python scripts/isopoda_index.py
+"""
+import json
+from collections import defaultdict
+
+import _vault as V
+
+# The generated date is derived from the family map's source stamp, not the wall
+# clock, so a no-op run doesn't churn every note with a new date.
+_SRC = json.loads((V.DATA / "isopoda_suborders.json").read_text(encoding="utf-8"))
+FAMILY_MAP = _SRC["families"]
+GENERATED = _SRC.get("_generated", "GBIF Backbone Taxonomy")
+
+
+def realm_label(info):
+    """A family/suborder may span several realms; show them all rather than an
+    arbitrary first one."""
+    realms = info.get("realms") or [info["realm"]]
+    return ", ".join(realms)
+
+
+def scan_tree():
+    """Walk the on-disk tree and return
+    {suborder: {family: {"genera": set, "species": int, "realm": str}}}."""
+    tree = defaultdict(lambda: defaultdict(lambda: {"genera": set(), "species": 0, "realm": ""}))
+    if not V.ISOPODA.exists():
+        return tree
+    for sub_dir in sorted(p for p in V.ISOPODA.iterdir() if p.is_dir()):
+        for fam_dir in sorted(p for p in sub_dir.iterdir() if p.is_dir()):
+            info = FAMILY_MAP.get(fam_dir.name, {})
+            fam = tree[sub_dir.name][fam_dir.name]
+            fam["realm"] = realm_label(info) if info else ""
+            for gen_dir in sorted(p for p in fam_dir.iterdir() if p.is_dir()):
+                fam["genera"].add(gen_dir.name)
+                n = sum(1 for f in gen_dir.iterdir()
+                        if f.suffix == ".md" and not f.name.startswith("_"))
+                fam["species"] += n
+    return tree
+
+
+def genus_note(genus, family, suborder, species_count):
+    return "\n".join([
+        "---", "type: genus", "genus: %s" % genus, "family: %s" % family,
+        "suborder: %s" % suborder, "species_count: %d" % species_count,
+        "source: GBIF Backbone Taxonomy (api.gbif.org)",
+        "tags: [isopod, %s, genus-index]" % suborder.lower(), "---", "",
+        "# %s (Genus)" % genus, "",
+        "**Family** [[_%s Index|%s]] · **Suborder** %s · %d accepted species."
+        % (family, family, suborder, species_count), "",
+    ]) + "\n"
+
+
+def family_note(family, suborder, genera_species, realm):
+    genera = sorted(genera_species)
+    gtot = len(genera)
+    stot = sum(genera_species.values())
+    lines = [
+        "---", "type: index", "group: %s" % family, "suborder: %s" % suborder,
+        "genus_count: %d" % gtot, "species_count: %d" % stot,
+        "realm: %s" % realm, "source: GBIF Backbone Taxonomy (api.gbif.org)",
+        "tags: [isopod, %s, family-index]" % suborder.lower(), "---", "",
+        "# %s (Family)" % family, "",
+        "Suborder %s · %d genera · %d accepted species." % (suborder, gtot, stot), "",
+        "## Genera", "", "| Genus | Species |", "|---|---:|",
+    ]
+    for g in genera:
+        lines.append("| [[_%s|%s]] | %d |" % (g, g, genera_species[g]))
+    lines.append("| **TOTAL** | **%d** |" % stot)
+    lines.append("")
+    return "\n".join(lines) + "\n"
+
+
+def suborder_note(suborder, families, realm):
+    fam_names = sorted(families)
+    gtot = sum(len(families[f]["genera"]) for f in fam_names)
+    stot = sum(families[f]["species"] for f in fam_names)
+    lines = [
+        "---", "type: index", "group: %s" % suborder,
+        "family_count: %d" % len(fam_names), "genus_count: %d" % gtot,
+        "species_count: %d" % stot, "realm: %s" % realm,
+        "source: GBIF Backbone Taxonomy (api.gbif.org)",
+        "tags: [isopod, %s, master-index]" % suborder.lower(), "---", "",
+        "# %s (Suborder)" % suborder, "",
+        "This vault section covers **%d families, %d genera, and %d accepted species**. Realm: %s"
+        % (len(fam_names), gtot, stot, realm), "",
+        "## Families", "", "| Family | Genera | Species |", "|---|---:|---:|",
+    ]
+    for f in fam_names:
+        lines.append("| [[_%s Index\\|%s]] | %d | %d |"
+                     % (f, f, len(families[f]["genera"]), families[f]["species"]))
+    lines.append("| **TOTAL** | **%d** | **%d** |" % (gtot, stot))
+    lines.append("")
+    return "\n".join(lines) + "\n"
+
+
+def suborder_realm(suborder, families):
+    """Realm of a suborder = the union across its families (deduped, ordered)."""
+    seen, out = set(), []
+    for f in sorted(families):
+        info = FAMILY_MAP.get(f, {})
+        for r in (info.get("realms") or ([info["realm"]] if info.get("realm") else [])):
+            if r not in seen:
+                seen.add(r)
+                out.append(r)
+    return ", ".join(out) or "unknown"
+
 
 def main():
-    root = os.path.join(VAULT, "Isopoda")
-    map_path = os.path.join(VAULT, "data", "isopoda_suborders.json")
-    
-    with open(map_path, "r", encoding="utf-8") as f:
-        suborders_map = json.load(f)["families"]
-        
-    suborder_info = {}
-    for fam, info in suborders_map.items():
-        sub = info["suborder"]
-        if sub not in suborder_info:
-            suborder_info[sub] = {"realm": info["realm"], "families": {}}
-        suborder_info[sub]["families"][fam] = {"genera": set(), "species": 0}
-        
-    # count species
-    for sub in os.listdir(root):
-        sub_path = os.path.join(root, sub)
-        if not os.path.isdir(sub_path): continue
-        if sub not in suborder_info:
-            continue
-            
-        for fam in os.listdir(sub_path):
-            fam_path = os.path.join(sub_path, fam)
-            if not os.path.isdir(fam_path): continue
-            
-            for gen in os.listdir(fam_path):
-                gen_path = os.path.join(fam_path, gen)
-                if not os.path.isdir(gen_path): continue
-                
-                if fam in suborder_info[sub]["families"]:
-                    suborder_info[sub]["families"][fam]["genera"].add(gen)
-                
-                for sp in os.listdir(gen_path):
-                    if sp.endswith(".md") and not sp.startswith("_"):
-                        if fam in suborder_info[sub]["families"]:
-                            suborder_info[sub]["families"][fam]["species"] += 1
-                            
-    today = datetime.datetime.now().strftime("%Y-%m-%d")
-    
-    total_suborders = len(suborder_info)
-    total_families = 0
-    total_genera = 0
-    total_species = 0
-    
-    suborder_rows = []
-    
-    for sub, sinfo in sorted(suborder_info.items()):
-        sub_families = sinfo["families"]
-        s_fam_count = len(sub_families)
-        s_gen_count = sum(len(f["genera"]) for f in sub_families.values())
-        s_sp_count = sum(f["species"] for f in sub_families.values())
-        
-        total_families += s_fam_count
-        total_genera += s_gen_count
-        total_species += s_sp_count
-        
-        suborder_rows.append(f"| [[_{sub} Index\\|{sub}]] | {sinfo['realm']} | {s_fam_count} | {s_gen_count} | {s_sp_count} |")
-        
-        # Write suborder index
-        sub_content = f"""---
-type: index
-group: {sub}
-family_count: {s_fam_count}
-genus_count: {s_gen_count}
-species_count: {s_sp_count}
-realm: {sinfo['realm']}
-source: GBIF Backbone Taxonomy (api.gbif.org)
-generated: {today}
-tags: [isopod, {sub.lower()}, master-index]
----
+    tree = scan_tree()
+    wrote = 0
+    sub_rows = []
+    tot_fam = tot_gen = tot_sp = 0
 
-# {sub} (Suborder)
+    for suborder in sorted(tree):
+        families = tree[suborder]
+        realm = suborder_realm(suborder, families)
+        sub_dir = V.ISOPODA / suborder
 
-This vault section covers **{s_fam_count} families, {s_gen_count} genera, and {s_sp_count} accepted species**.
-Realm: {sinfo['realm']}
+        for fam_name in sorted(families):
+            fam = families[fam_name]
+            genera_species = {}
+            fam_dir = sub_dir / fam_name
+            for gen_name in sorted(fam["genera"]):
+                gen_dir = fam_dir / gen_name
+                n = sum(1 for f in gen_dir.iterdir()
+                        if f.suffix == ".md" and not f.name.startswith("_"))
+                genera_species[gen_name] = n
+                wrote += V.write_if_changed(
+                    gen_dir / ("_%s.md" % gen_name),
+                    genus_note(gen_name, fam_name, suborder, n))
+            wrote += V.write_if_changed(
+                fam_dir / ("_%s Index.md" % fam_name),
+                family_note(fam_name, suborder, genera_species, fam["realm"]))
 
-## Families
+        gtot = sum(len(f["genera"]) for f in families.values())
+        stot = sum(f["species"] for f in families.values())
+        tot_fam += len(families)
+        tot_gen += gtot
+        tot_sp += stot
+        wrote += V.write_if_changed(
+            sub_dir / ("_%s Index.md" % suborder),
+            suborder_note(suborder, families, realm))
+        sub_rows.append("| [[_%s Index\\|%s]] | %s | %d | %d | %d |"
+                        % (suborder, suborder, realm, len(families), gtot, stot))
 
-| Family | Genera | Species |
-|---|---:|---:|
-"""
-        for fam in sorted(sub_families.keys()):
-            f_gen = len(sub_families[fam]["genera"])
-            f_sp = sub_families[fam]["species"]
-            sub_content += f"| [[_{fam} Index\\|{fam}]] | {f_gen} | {f_sp} |\n"
-            
-        sub_content += f"| **TOTAL** | **{s_gen_count}** | **{s_sp_count}** |\n"
-        
-        sub_path = os.path.join(root, sub)
-        os.makedirs(sub_path, exist_ok=True)
-        with open(os.path.join(sub_path, f"_{sub} Index.md"), "w", encoding="utf-8") as out:
-            out.write(sub_content)
+    master = "\n".join([
+        "---", "type: index", "group: Isopoda",
+        "suborder_count: %d" % len(tree), "family_count: %d" % tot_fam,
+        "genus_count: %d" % tot_gen, "species_count: %d" % tot_sp,
+        "source: GBIF Backbone Taxonomy (api.gbif.org)",
+        "tags: [isopod, isopoda, master-index]", "---", "",
+        "# Isopoda (Order)", "",
+        "The order Isopoda. This vault section covers **%d suborders, %d families, "
+        "%d genera, and %d accepted species**." % (len(tree), tot_fam, tot_gen, tot_sp), "",
+        "## Suborders", "", "| Suborder | Realm | Families | Genera | Species |",
+        "|---|---|---:|---:|---:|",
+        "\n".join(sub_rows),
+        "| **TOTAL** | | **%d** | **%d** | **%d** |" % (tot_fam, tot_gen, tot_sp), "",
+    ]) + "\n"
+    wrote += V.write_if_changed(V.ISOPODA / "_Isopoda Index.md", master)
 
-    # Write master index
-    master_content = f"""---
-type: index
-group: Isopoda
-suborder_count: {total_suborders}
-family_count: {total_families}
-genus_count: {total_genera}
-species_count: {total_species}
-source: GBIF Backbone Taxonomy (api.gbif.org)
-generated: {today}
-tags: [isopod, isopoda, master-index]
----
+    print("Indexes: %d suborders, %d families, %d genera, %d species. %d notes written/updated."
+          % (len(tree), tot_fam, tot_gen, tot_sp, wrote))
 
-# Isopoda (Order)
-
-The order Isopoda. This vault section covers **{total_suborders} suborders, {total_families} families, {total_genera} genera, and {total_species} accepted species**.
-
-## Suborders
-
-| Suborder | Realm | Families | Genera | Species |
-|---|---|---:|---:|---:|
-"""
-    master_content += "\n".join(suborder_rows)
-    master_content += f"\n| **TOTAL** | | **{total_families}** | **{total_genera}** | **{total_species}** |\n"
-    
-    with open(os.path.join(root, "_Isopoda Index.md"), "w", encoding="utf-8") as out:
-        out.write(master_content)
-        
-    print(f"Generated indexes for {total_suborders} suborders, {total_families} families, {total_species} species.")
 
 if __name__ == "__main__":
     main()

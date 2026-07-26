@@ -5,7 +5,7 @@ authorship: "Coineau, 1968"
 genus: Microparasellus
 family: Microparasellidae
 suborder: Asellota
-realm: marine
+realm: freshwater
 gbif_id: 2212280
 gbif_url: https://www.gbif.org/species/2212280
 common_name:

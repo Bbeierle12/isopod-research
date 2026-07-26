@@ -25,7 +25,7 @@ status: hobby
 conglobation_type: Non-roller
 size_class: Large
 biome: Coastal
-biogeo_region: Europe & Mediterranean
+biogeo_region: Other
 moisture: Humid
 difficulty_tier: Advanced
 bioactive_role: Specialist

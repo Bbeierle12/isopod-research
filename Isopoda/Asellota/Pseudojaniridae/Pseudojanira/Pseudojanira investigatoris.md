@@ -5,7 +5,7 @@ authorship: "Poore & Just, 1990"
 genus: Pseudojanira
 family: Pseudojaniridae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2213774
 gbif_url: https://www.gbif.org/species/2213774
 common_name:

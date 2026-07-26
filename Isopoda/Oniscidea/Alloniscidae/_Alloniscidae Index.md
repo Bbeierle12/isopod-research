@@ -1,17 +1,22 @@
 ---
-type: family
-family: Alloniscidae
+type: index
+group: Alloniscidae
 suborder: Oniscidea
 genus_count: 1
 species_count: 25
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, alloniscidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Alloniscidae -- family index
+# Alloniscidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **1 genera . 25 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 1 genera · 25 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Alloniscus\|Alloniscus]] | 25 |
+|---|---:|
+| [[_Alloniscus|Alloniscus]] | 25 |
+| **TOTAL** | **25** |
+

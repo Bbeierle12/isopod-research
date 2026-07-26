@@ -5,16 +5,10 @@ family: Armadillidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Pseudolaureola -- genus index
+# Pseudolaureola (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Pseudolaureola atlantica\|Pseudolaureola atlantica]] | (Vandel, 1977) |
-| [[Pseudolaureola deharvengi\|Pseudolaureola deharvengi]] | Dalens, 1998 |
-| [[Pseudolaureola hystrix\|Pseudolaureola hystrix]] | (Barnard, 1958) |
-| [[Pseudolaureola wilsmorei\|Pseudolaureola wilsmorei]] | (Nicholls & Barnes, 1926) |

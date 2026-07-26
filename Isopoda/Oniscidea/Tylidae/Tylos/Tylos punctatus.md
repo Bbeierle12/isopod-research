@@ -25,7 +25,7 @@ status: stub
 conglobation_type: Roller
 size_class: Large
 biome: Coastal
-biogeo_region: Other
+biogeo_region: Americas
 moisture: Humid
 difficulty_tier: Advanced
 bioactive_role: Specialist

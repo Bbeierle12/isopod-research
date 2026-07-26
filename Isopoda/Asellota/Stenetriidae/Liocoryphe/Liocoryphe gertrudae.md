@@ -5,7 +5,7 @@ authorship: "(Müller, 1991) "
 genus: Liocoryphe
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205197
 gbif_url: https://www.gbif.org/species/2205197
 common_name:

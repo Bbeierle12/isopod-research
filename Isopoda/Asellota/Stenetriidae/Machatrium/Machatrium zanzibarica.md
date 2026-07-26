@@ -5,7 +5,7 @@ authorship: "(Kensley & Schotte, 2002) "
 genus: Machatrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 9858818
 gbif_url: https://www.gbif.org/species/9858818
 common_name:

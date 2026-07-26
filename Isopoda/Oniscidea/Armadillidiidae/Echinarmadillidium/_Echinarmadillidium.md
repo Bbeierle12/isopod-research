@@ -5,15 +5,10 @@ family: Armadillidiidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidiidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Echinarmadillidium -- genus index
+# Echinarmadillidium (Genus)
 
-**Family** [[_Armadillidiidae Index|Armadillidiidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidiidae Index|Armadillidiidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Echinarmadillidium armathianum\|Echinarmadillidium armathianum]] | Schmalfuss & Sfenthourakis, 1995 |
-| [[Echinarmadillidium cycladicum\|Echinarmadillidium cycladicum]] | Schmalfuss & Sfenthourakis, 1995 |
-| [[Echinarmadillidium fruxgalii\|Echinarmadillidium fruxgalii]] | (Verhoeff, 1900) |

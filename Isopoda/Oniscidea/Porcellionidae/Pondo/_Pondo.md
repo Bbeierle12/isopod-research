@@ -5,13 +5,10 @@ family: Porcellionidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, porcellionidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Pondo -- genus index
+# Pondo (Genus)
 
-**Family** [[_Porcellionidae Index|Porcellionidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Porcellionidae Index|Porcellionidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Pondo poweri\|Pondo poweri]] | (Barnard, 1937) |

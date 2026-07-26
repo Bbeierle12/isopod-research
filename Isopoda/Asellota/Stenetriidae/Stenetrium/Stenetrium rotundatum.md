@@ -5,7 +5,7 @@ authorship: "Vanhöffen, 1914"
 genus: Stenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 4303750
 gbif_url: https://www.gbif.org/species/4303750
 common_name:

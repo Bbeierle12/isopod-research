@@ -5,16 +5,10 @@ family: Scleropactidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, scleropactidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Spherarmadillo -- genus index
+# Spherarmadillo (Genus)
 
-**Family** [[_Scleropactidae Index|Scleropactidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Scleropactidae Index|Scleropactidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Spherarmadillo cavernicola\|Spherarmadillo cavernicola]] | Mulaik, 1960 |
-| [[Spherarmadillo huatuscensis\|Spherarmadillo huatuscensis]] | Mulaik, 1960 |
-| [[Spherarmadillo nebulosus\|Spherarmadillo nebulosus]] | Schmidt, 2007 |
-| [[Spherarmadillo schwarzi\|Spherarmadillo schwarzi]] | Richardson, 1907 |

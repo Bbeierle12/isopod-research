@@ -3,7 +3,7 @@ id: merulanella-sp-tricolor
 record_type: form
 family: Armadillidae
 genus: Merulanella
-species: sp.
+open_nomenclature: sp.
 scientificName: "Merulanella sp. \"Tricolor\""
 is_described: false
 taxon_status: provisional

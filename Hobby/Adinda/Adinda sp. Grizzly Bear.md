@@ -3,7 +3,7 @@ id: adinda-sp-grizzly-bear
 record_type: form
 family: Scleropactidae
 genus: Adinda
-species: sp.
+open_nomenclature: sp.
 scientificName: "Adinda sp. \"Grizzly Bear\""
 is_described: false
 taxon_status: provisional

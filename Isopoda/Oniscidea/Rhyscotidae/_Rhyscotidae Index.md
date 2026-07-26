@@ -1,18 +1,23 @@
 ---
-type: family
-family: Rhyscotidae
+type: index
+group: Rhyscotidae
 suborder: Oniscidea
 genus_count: 2
 species_count: 21
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, rhyscotidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Rhyscotidae -- family index
+# Rhyscotidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **2 genera . 21 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 2 genera · 21 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Rhyscotoides\|Rhyscotoides]] | 9 |
-| [[_Rhyscotus\|Rhyscotus]] | 12 |
+|---|---:|
+| [[_Rhyscotoides|Rhyscotoides]] | 9 |
+| [[_Rhyscotus|Rhyscotus]] | 12 |
+| **TOTAL** | **21** |
+

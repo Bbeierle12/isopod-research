@@ -5,7 +5,7 @@ authorship: "(Barnard, 1940) "
 genus: Stenobermuda
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205232
 gbif_url: https://www.gbif.org/species/2205232
 common_name:

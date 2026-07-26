@@ -1,17 +1,22 @@
 ---
-type: family
-family: Schoebliidae
+type: index
+group: Schoebliidae
 suborder: Oniscidea
 genus_count: 1
 species_count: 2
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, schoebliidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Schoebliidae -- family index
+# Schoebliidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **1 genera . 2 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 1 genera · 2 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Schoeblia\|Schoeblia]] | 2 |
+|---|---:|
+| [[_Schoeblia|Schoeblia]] | 2 |
+| **TOTAL** | **2** |
+

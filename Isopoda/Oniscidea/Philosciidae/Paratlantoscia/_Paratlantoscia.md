@@ -5,15 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Paratlantoscia -- genus index
+# Paratlantoscia (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Paratlantoscia ituberasensis\|Paratlantoscia ituberasensis]] | (Campos-Filho, Lisboa & Araujo, 2013) |
-| [[Paratlantoscia robusta\|Paratlantoscia robusta]] | Zimmermann, Campos-Filho & Araujo, 2018 |
-| [[Paratlantoscia rubromarginata\|Paratlantoscia rubromarginata]] | (Araujo & Leistikow, 1999) |

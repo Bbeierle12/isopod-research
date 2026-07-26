@@ -8,7 +8,7 @@ tags: [isopod, atlas, patterns]
 Counts; `·` = none. ← [[_Isopod Atlas]]
 
 > [!note] Scope per matrix
-> Husbandry matrices cover the 112 hobby forms; the research matrix (Ecomorph × Terrestrialization) covers the 11448 Oniscidea species classified so far. Blank-until-researched: unclassified species are simply absent.
+> Husbandry matrices cover the 112 hobby forms; the research matrix (Ecomorph × Terrestrialization) covers the 33 species classified so far. Blank-until-researched: unclassified species are simply absent.
 
 ## Biome × Conglobation  <small>(hobby)</small>
 
@@ -46,14 +46,14 @@ Counts; `·` = none. ← [[_Isopod Atlas]]
 
 | biogeo_region ↓ / size_class → | Micro | Small | Medium | Large | **Σ** |
 |---|---|---|---|---|---|
-| **Europe & Mediterranean** | 4 | 6 | 24 | 17 | **51** |
+| **Europe & Mediterranean** | 4 | 6 | 24 | 16 | **50** |
 | **North Africa** | · | · | 3 | 4 | **7** |
 | **Sub-Saharan Africa** | · | 1 | · | · | **1** |
 | **Asia & Middle East** | · | 3 | 22 | 2 | **27** |
-| **Americas** | 1 | 1 | 2 | · | **4** |
+| **Americas** | 1 | 1 | 2 | 1 | **5** |
 | **Australasia** | · | · | 2 | · | **2** |
-| **Cosmopolitan** | 4 | 5 | 5 | 3 | **17** |
-| **Other** | · | · | 2 | 1 | **3** |
+| **Cosmopolitan** | 4 | 5 | 7 | 3 | **19** |
+| **Other** | · | · | · | 1 | **1** |
 | **Σ** | **9** | **16** | **60** | **27** | **112** |
 
 ## Biome × Bioactive Role  <small>(hobby)</small>
@@ -67,7 +67,7 @@ Counts; `·` = none. ← [[_Isopod Atlas]]
 | **Coastal** | · | · | · | · | 10 | **10** |
 | **Σ** | **16** | **7** | **3** | **72** | **14** | **112** |
 
-## Ecomorph × Terrestrialization  <small>(research, all Oniscidea)</small>
+## Ecomorph × Terrestrialization  <small>(research, terrestrial)</small>
 
 | ecomorph ↓ / terrestrialization → | littoral | hygrophilous | mesophilous | xerophilous | **Σ** |
 |---|---|---|---|---|---|
