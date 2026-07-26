@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Olencira lamarckii
+authorship: "Leach, 1818"
+genus: Olencira
+family: Cymothoidae
+suborder: Cymothoida
+realm: marine
+gbif_id: 2210214
+gbif_url: https://www.gbif.org/species/2210214
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, cymothoida, cymothoidae]
+---
+
+# Olencira lamarckii Leach, 1818
+
+**Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Cymothoidae Index|Cymothoidae]] › **Genus** [[_Olencira|Olencira]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2210214

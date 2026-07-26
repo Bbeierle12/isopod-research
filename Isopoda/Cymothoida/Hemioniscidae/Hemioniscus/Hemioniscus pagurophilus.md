@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Hemioniscus pagurophilus
+authorship: "Williams & Boyko, 2006"
+genus: Hemioniscus
+family: Hemioniscidae
+suborder: Cymothoida
+realm: marine
+gbif_id: 2213846
+gbif_url: https://www.gbif.org/species/2213846
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, cymothoida, hemioniscidae]
+---
+
+# Hemioniscus pagurophilus Williams & Boyko, 2006
+
+**Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Hemioniscidae Index|Hemioniscidae]] › **Genus** [[_Hemioniscus|Hemioniscus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2213846

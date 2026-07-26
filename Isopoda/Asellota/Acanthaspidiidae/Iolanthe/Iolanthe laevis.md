@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Iolanthe laevis
+authorship: "(Chardy, 1975) "
+genus: Iolanthe
+family: Acanthaspidiidae
+suborder: Asellota
+realm: marine
+gbif_id: 10213205
+gbif_url: https://www.gbif.org/species/10213205
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, asellota, acanthaspidiidae]
+---
+
+# Iolanthe laevis (Chardy, 1975) 
+
+**Order** Isopoda › **Suborder** Asellota › **Family** [[_Acanthaspidiidae Index|Acanthaspidiidae]] › **Genus** [[_Iolanthe|Iolanthe]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/10213205

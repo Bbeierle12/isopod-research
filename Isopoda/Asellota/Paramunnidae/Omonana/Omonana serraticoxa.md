@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Omonana serraticoxa
+authorship: "Just & Wilson, 2004"
+genus: Omonana
+family: Paramunnidae
+suborder: Asellota
+realm: marine
+gbif_id: 2206466
+gbif_url: https://www.gbif.org/species/2206466
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, asellota, paramunnidae]
+---
+
+# Omonana serraticoxa Just & Wilson, 2004
+
+**Order** Isopoda › **Suborder** Asellota › **Family** [[_Paramunnidae Index|Paramunnidae]] › **Genus** [[_Omonana|Omonana]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2206466

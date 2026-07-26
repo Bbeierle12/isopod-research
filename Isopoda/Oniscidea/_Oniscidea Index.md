@@ -1,36 +1,19 @@
 ---
 type: index
 group: Oniscidea
-family_count: 42
+family_count: 43
 genus_count: 567
 species_count: 4226
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-generated: 2026-07-24
+generated: 2026-07-25
 tags: [isopod, oniscidea, master-index]
 ---
 
-# Oniscidea -- Terrestrial Isopods (Master Index)
+# Oniscidea (Suborder)
 
-Suborder **Oniscidea** (order Isopoda) -- the woodlice, pillbugs, sowbugs, and their relatives.
-This vault section covers **42 families, 567 genera, and 4,226 accepted species**.
-
-> [!info] Data provenance
-> Taxonomy pulled from **GBIF Backbone Taxonomy (api.gbif.org)** on **2026-07-24**, restricted to names with `taxonomicStatus = ACCEPTED`.
-> Synonyms, doubtful, and unranked names were excluded. Each species note carries its GBIF id/URL -- verify
-> against [WoRMS](https://www.marinespecies.org/) or the primary literature before relying on any record.
-> Family placement follows the GBIF backbone; a few coastal families (Ligiidae, Tylidae, Scyphacidae) are
-> included because they belong to Oniscidea.
-
-## How this is organised
-- One folder per **family**, each with a `_<Family> Index` note.
-- One folder per **genus**, each with a `_<Genus>` index note listing its species.
-- One note per **species**, with a husbandry/research frontmatter template ready to fill in.
-
-> [!tip] Hobby species
-> The species kept in the pet / bioactive hobby are flagged with `in_culture: yes` and the `#hobby`
-> tag, and gathered in **[[_Hobby Species|Hobby & Cultured Isopods]]** (76 described species). Note that
-> many popular trade animals are *undescribed* forms (e.g. *Cubaris* "Rubber Ducky") with no scientific
-> name, so they are not part of this taxonomy.
+This vault section covers **43 families, 567 genera, and 4226 accepted species**.
+Realm: terrestrial
 
 ## Families
 
@@ -52,6 +35,7 @@ This vault section covers **42 families, 567 genera, and 4,226 accepted species*
 | [[_Dubioniscidae Index\|Dubioniscidae]] | 3 | 22 |
 | [[_Eubelidae Index\|Eubelidae]] | 51 | 265 |
 | [[_Halophilosciidae Index\|Halophilosciidae]] | 3 | 37 |
+| [[_Hekelidae Index\|Hekelidae]] | 0 | 0 |
 | [[_Ligiidae Index\|Ligiidae]] | 7 | 120 |
 | [[_Mesoniscidae Index\|Mesoniscidae]] | 1 | 2 |
 | [[_Olibrinidae Index\|Olibrinidae]] | 5 | 24 |

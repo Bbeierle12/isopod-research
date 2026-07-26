@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Chelibranchus canaliculatus
+authorship: "Mezhov, 1986"
+genus: Chelibranchus
+family: Desmosomatidae
+suborder: Asellota
+realm: marine
+gbif_id: 2205748
+gbif_url: https://www.gbif.org/species/2205748
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, asellota, desmosomatidae]
+---
+
+# Chelibranchus canaliculatus Mezhov, 1986
+
+**Order** Isopoda › **Suborder** Asellota › **Family** [[_Desmosomatidae Index|Desmosomatidae]] › **Genus** [[_Chelibranchus|Chelibranchus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2205748

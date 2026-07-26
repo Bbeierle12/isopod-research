@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Astalione cruciaria
+authorship: "Markham, 1975"
+genus: Astalione
+family: Bopyridae
+suborder: Cymothoida
+realm: marine
+gbif_id: 2201255
+gbif_url: https://www.gbif.org/species/2201255
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, cymothoida, bopyridae]
+---
+
+# Astalione cruciaria Markham, 1975
+
+**Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Bopyridae Index|Bopyridae]] › **Genus** [[_Astalione|Astalione]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2201255

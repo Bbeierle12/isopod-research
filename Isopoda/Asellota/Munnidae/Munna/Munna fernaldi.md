@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Munna fernaldi
+authorship: "George & Stromberg, 1968"
+genus: Munna
+family: Munnidae
+suborder: Asellota
+realm: marine
+gbif_id: 2213883
+gbif_url: https://www.gbif.org/species/2213883
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, asellota, munnidae]
+---
+
+# Munna fernaldi George & Stromberg, 1968
+
+**Order** Isopoda › **Suborder** Asellota › **Family** [[_Munnidae Index|Munnidae]] › **Genus** [[_Munna|Munna]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2213883

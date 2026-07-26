@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Notophryxus longicaudatus
+authorship: "Vanhöffen, 1914"
+genus: Notophryxus
+family: Dajidae
+suborder: Cymothoida
+realm: marine
+gbif_id: 2203485
+gbif_url: https://www.gbif.org/species/2203485
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, cymothoida, dajidae]
+---
+
+# Notophryxus longicaudatus Vanhöffen, 1914
+
+**Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Dajidae Index|Dajidae]] › **Genus** [[_Notophryxus|Notophryxus]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2203485

@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Spinoserolis beddardi
+authorship: "(Calman, 1920) "
+genus: Spinoserolis
+family: Serolidae
+suborder: Sphaeromatidea
+realm: marine
+gbif_id: 5177230
+gbif_url: https://www.gbif.org/species/5177230
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, sphaeromatidea, serolidae]
+---
+
+# Spinoserolis beddardi (Calman, 1920) 
+
+**Order** Isopoda › **Suborder** Sphaeromatidea › **Family** [[_Serolidae Index|Serolidae]] › **Genus** [[_Spinoserolis|Spinoserolis]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/5177230

@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Alcirona krebsii
+authorship: "Hansen, 1890"
+genus: Alcirona
+family: Corallanidae
+suborder: Cymothoida
+realm: marine
+gbif_id: 2201593
+gbif_url: https://www.gbif.org/species/2201593
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, cymothoida, corallanidae]
+---
+
+# Alcirona krebsii Hansen, 1890
+
+**Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Corallanidae Index|Corallanidae]] › **Genus** [[_Alcirona|Alcirona]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/2201593

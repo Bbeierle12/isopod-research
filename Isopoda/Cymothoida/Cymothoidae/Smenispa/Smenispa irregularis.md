@@ -1,0 +1,37 @@
+---
+type: species
+scientificName: Smenispa irregularis
+authorship: "(Bleeker, 1857) "
+genus: Smenispa
+family: Cymothoidae
+suborder: Cymothoida
+realm: marine
+gbif_id: 10361472
+gbif_url: https://www.gbif.org/species/10361472
+common_name:
+distribution:
+habitat:
+ecomorph:
+conglobation_type:
+terrestrialization:
+habitat_stratum:
+trophic_guild:
+reproduction_mode:
+ecology_evidence:
+sources:
+status: stub
+tags: [isopod, isopoda, cymothoida, cymothoidae]
+---
+
+# Smenispa irregularis (Bleeker, 1857) 
+
+**Order** Isopoda › **Suborder** Cymothoida › **Family** [[_Cymothoidae Index|Cymothoidae]] › **Genus** [[_Smenispa|Smenispa]]
+
+## Overview
+
+
+## Distribution & habitat
+
+
+## References
+- GBIF: https://www.gbif.org/species/10361472
