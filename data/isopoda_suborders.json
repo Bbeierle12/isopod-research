@@ -1,0 +1,621 @@
+{
+  "_source": "Suborders per WoRMS; families per GBIF order Isopoda (usageKey 643), accessed 2026-07-25",
+  "families": {
+    "Acanthaspidiidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Aegidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Agnaridae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Alloniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Amphisopidae": {
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater"
+    },
+    "Amphisopodidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Ancinidae": {
+      "suborder": "Sphaeromatidea",
+      "realm": "marine"
+    },
+    "Antarcturidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Antheluridae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Anthuridae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Anuropidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Archaeoniscidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Archeoniscidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Arcturidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Arcturididae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Armadillidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Armadillidiidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Armadilliidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Asconiscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Asellidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Atlantasellidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Atlantidiidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Austrarcturellidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Balloniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Barybrotidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Basserolidae": {
+      "suborder": "Sphaeromatidea",
+      "realm": "marine"
+    },
+    "Bathynataliidae": {
+      "suborder": "Sphaeromatidea",
+      "realm": "marine"
+    },
+    "Bathytropidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Berytoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Bisilvestriidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Bopyridae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Brasileirinidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Buddelundiellidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Cabiropidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Calabozoidae": {
+      "suborder": "Calabozoidea",
+      "realm": "freshwater"
+    },
+    "Capitoniscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Chaetilidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Chaetiliidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Cirolanidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Corallanidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Crinoniscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Cryptoniscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Cryptothiridae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Cumoechidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Cylisticidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Cymothoidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Cyproniscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Dajidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Delatorreiidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Dendrotionidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Desmosomatidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Detonidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Dubioniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Echinothambematidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Entoniscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Entophilidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Eubelidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Expanathuridae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Gnathidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Gnathiidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Gnathostenetroididae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Hadromastacidae": {
+      "suborder": "Limnoriidea",
+      "realm": "marine"
+    },
+    "Halophilosciidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Haplomunnidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Haploniscidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Hekelidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Hemioniscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Holidoteidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Holognathidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Hypsimetopidae": {
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater"
+    },
+    "Hyssuridae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Idoteidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Ionidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Irmaosidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Ischnomesidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Janirellidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Janiridae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Joeropsididae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Katianiridae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Keuphyliidae": {
+      "suborder": "Limnoriidea",
+      "realm": "marine"
+    },
+    "Lantoceramiidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Lepidocharontidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Leptanthuridae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Ligiidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Limnoriidae": {
+      "suborder": "Limnoriidea",
+      "realm": "marine"
+    },
+    "Macrostylidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Mesamphisopidae": {
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater"
+    },
+    "Mesoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Mesosignidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Microcerberidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Microniscidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Microparasellidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Mictosomatidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Munnidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Munnopsidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Nannoniscidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Olibrinidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Oniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Palaeophreatoicidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Paramunnidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Paranthuridae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Paraplatyarthridae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Parasellidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Periscyphicidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Philosciidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Phoratopodidae": {
+      "suborder": "Phoratopidea",
+      "realm": "marine"
+    },
+    "Phreatoicidae": {
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater"
+    },
+    "Phreatoicopsidae": {
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater"
+    },
+    "Phreatoicopsididae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Plakarthriidae": {
+      "suborder": "Sphaeromatidea",
+      "realm": "marine"
+    },
+    "Platyarthridae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Pleurocopidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Podasconidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Ponderellidae": {
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater"
+    },
+    "Porcellionidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Protognathiidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Protojaniridae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Pseudarmadillidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Pseudidotheidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Pseudojaniridae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Pudeoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Rectarcturidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Rhyscotidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Santiidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Schoebliidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Schweglerellidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Scleropactidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Scyphacidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Serolidae": {
+      "suborder": "Sphaeromatidea",
+      "realm": "marine"
+    },
+    "Spelaeoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Sphaeromatidae": {
+      "suborder": "Sphaeromatidea",
+      "realm": "marine"
+    },
+    "Sphaeroniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Stellatoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Stenasellidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Stenetriidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Stenoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Styloniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Tainisopidae": {
+      "suborder": "Tainisopidea",
+      "realm": "freshwater"
+    },
+    "Tecticipitidae": {
+      "suborder": "Sphaeromatidea",
+      "realm": "marine"
+    },
+    "Tendosphaeridae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Thambematidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    },
+    "Thermoarcturidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Titanidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Trachelipodidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Tricarinidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Trichoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Tridentellidae": {
+      "suborder": "Cymothoida",
+      "realm": "marine"
+    },
+    "Turanoniscidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Tylidae": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial"
+    },
+    "Urdidae": {
+      "suborder": "incertae sedis",
+      "realm": "marine"
+    },
+    "Urstylidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Vermectiadidae": {
+      "suborder": "Asellota",
+      "realm": "freshwater"
+    },
+    "Xenarcturidae": {
+      "suborder": "Valvifera",
+      "realm": "marine"
+    },
+    "Xenosellidae": {
+      "suborder": "Asellota",
+      "realm": "marine"
+    }
+  }
+}
