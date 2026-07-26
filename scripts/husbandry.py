@@ -8,7 +8,7 @@ Idempotent: sets the same defaults each run. Obscure/poorly-documented forms are
 intentionally left blank rather than guessed."""
 import os, json
 
-VAULT = r"C:\Users\Bbeie\Downloads\Insect and Reptile research"
+VAULT = r"C:\Users\Bbeie\isopod-research"
 PATH = os.path.join(VAULT, "data", "isopods.json")
 SRC = ["Hobby husbandry consensus — general care guideline; verify for your strain"]
 

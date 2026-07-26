@@ -14,8 +14,8 @@ Run after generate.py:  seed -> validate -> husbandry -> generate -> atlas"""
 import os, re, json
 from collections import defaultdict, Counter
 
-VAULT = r"C:\Users\Bbeie\Downloads\Insect and Reptile research"
-ONISCIDEA = os.path.join(VAULT, "Oniscidea")
+VAULT = r"C:\Users\Bbeie\isopod-research"
+ONISCIDEA = os.path.join(VAULT, "Isopoda", "Oniscidea")
 HOBBY = os.path.join(VAULT, "Hobby")
 MAPS = os.path.join(VAULT, "Maps")
 GEN = "2026-07-25"

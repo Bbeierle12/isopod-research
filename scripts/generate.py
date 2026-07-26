@@ -11,7 +11,7 @@ only generator-MANAGED keys change. Husbandry keys and the note body (your
 prose) are preserved verbatim."""
 import os, json, re, csv
 
-VAULT = r"C:\Users\Bbeie\Downloads\Insect and Reptile research"
+VAULT = r"C:\Users\Bbeie\isopod-research"
 DATA = os.path.join(VAULT, "data", "isopods.json")
 HOBBY = os.path.join(VAULT, "Hobby")
 
@@ -137,7 +137,7 @@ def upsert(path, r):
     with open(path, "w", encoding="utf-8") as f:
         f.write(text)
 
-ONISCIDEA = os.path.join(VAULT, "Oniscidea")
+ONISCIDEA = os.path.join(VAULT, "Isopoda", "Oniscidea")
 
 def _set_or_add(fm, key, value, before="tags"):
     """Within a frontmatter string: fill the field if it exists but is blank;

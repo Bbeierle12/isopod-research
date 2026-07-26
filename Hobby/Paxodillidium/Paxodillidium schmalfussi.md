@@ -8,13 +8,6 @@ scientificName: Paxodillidium schmalfussi
 is_described: true
 taxon_status: unmatched
 conglobation: FULL
-conglobation_type: Roller
-size_class: Small
-biome: Mediterranean
-biogeo_region: Europe & Mediterranean
-moisture: Arid
-difficulty_tier: Intermediate
-bioactive_role: Display
 tags: [isopod, hobby, armadillidiidae, described, form]
 common_name: 
 adult_size_mm: 6-10 mm
@@ -25,6 +18,13 @@ substrate: "Coco fiber / topsoil, leaf litter, rotten wood, limestone/cuttlebone
 difficulty: intermediate
 bioactive_use: Roller; GBIF resolves only to genus
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation_type: Roller
+size_class: Small
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
 ---
 
 # Paxodillidium schmalfussi

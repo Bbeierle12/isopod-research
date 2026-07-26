@@ -8,13 +8,6 @@ scientificName: Filipinodillo sp.
 is_described: false
 taxon_status: provisional
 conglobation: FULL
-conglobation_type: Roller
-size_class: Medium
-biome: Tropical
-biogeo_region: Asia & Middle East
-moisture: Humid
-difficulty_tier: Intermediate
-bioactive_role: Display
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
 adult_size_mm: 6-12 mm
@@ -25,6 +18,13 @@ substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyste
 difficulty: intermediate
 bioactive_use: Tropical display species
 sources: []
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 ---
 
 # Filipinodillo sp.

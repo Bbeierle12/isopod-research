@@ -8,13 +8,6 @@ scientificName: Trachelipus squamatus
 is_described: true
 taxon_status: unmatched
 conglobation: NONE
-conglobation_type: Non-roller
-size_class: Medium
-biome: Temperate
-biogeo_region: Asia & Middle East
-moisture: Moderate
-difficulty_tier: Beginner
-bioactive_role: Display
 tags: [isopod, hobby, trachelipodidae, described, form]
 common_name: 
 adult_size_mm: 10-15 mm
@@ -25,6 +18,13 @@ substrate: "Coco fiber / topsoil base, deep hardwood leaf litter, rotten wood, c
 difficulty: beginner
 bioactive_use: Temperate woodlouse; GBIF resolves only to genus
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation_type: Non-roller
+size_class: Medium
+biome: Temperate
+biogeo_region: Asia & Middle East
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Display
 ---
 
 # Trachelipus squamatus

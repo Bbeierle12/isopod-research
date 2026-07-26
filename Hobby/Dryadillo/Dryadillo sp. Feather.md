@@ -9,13 +9,6 @@ is_described: false
 taxon_status: provisional
 trade_name: Feather
 conglobation: FULL
-conglobation_type: Roller
-size_class: Small
-biome: Tropical
-biogeo_region: Asia & Middle East
-moisture: Humid
-difficulty_tier: Intermediate
-bioactive_role: Display
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
 adult_size_mm: 6-10 mm
@@ -26,6 +19,13 @@ substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyste
 difficulty: intermediate
 bioactive_use: Tropical display species
 sources: []
+conglobation_type: Roller
+size_class: Small
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 ---
 
 # Dryadillo sp. "Feather"

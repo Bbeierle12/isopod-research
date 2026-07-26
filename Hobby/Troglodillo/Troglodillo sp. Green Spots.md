@@ -9,13 +9,6 @@ is_described: false
 taxon_status: provisional
 trade_name: Green Spots
 conglobation: FULL
-conglobation_type: Roller
-size_class: Medium
-biome: Tropical
-biogeo_region: Asia & Middle East
-moisture: Humid
-difficulty_tier: Intermediate
-bioactive_role: Display
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
 adult_size_mm: 8-14 mm
@@ -26,6 +19,13 @@ substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyste
 difficulty: intermediate
 bioactive_use: Tropical rolling display species
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 ---
 
 # Troglodillo sp. "Green Spots"

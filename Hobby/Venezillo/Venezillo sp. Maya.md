@@ -9,13 +9,6 @@ is_described: false
 taxon_status: provisional
 trade_name: Maya
 conglobation: FULL
-conglobation_type: Roller
-size_class: Small
-biome: Tropical
-biogeo_region: Cosmopolitan
-moisture: Humid
-difficulty_tier: Intermediate
-bioactive_role: Display
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
 adult_size_mm: 4-8 mm
@@ -26,6 +19,13 @@ substrate: "Deep coco/topsoil, leaf litter, rotten wood, crushed limestone/oyste
 difficulty: intermediate
 bioactive_use: Small tropical rolling species
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation_type: Roller
+size_class: Small
+biome: Tropical
+biogeo_region: Cosmopolitan
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 ---
 
 # Venezillo sp. "Maya"

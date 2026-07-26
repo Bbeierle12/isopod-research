@@ -9,13 +9,6 @@ is_described: false
 taxon_status: provisional
 trade_name: Dwarf Purple
 conglobation: NONE
-conglobation_type: Non-roller
-size_class: Micro
-biome: Tropical
-biogeo_region: Cosmopolitan
-moisture: Humid
-difficulty_tier: Beginner
-bioactive_role: Micro-cleanup
 tags: [isopod, hobby, platyarthridae, provisional, form]
 common_name: 
 adult_size_mm: 3-5 mm
@@ -26,6 +19,13 @@ substrate: Coco fiber + leaf litter kept consistently damp
 difficulty: beginner
 bioactive_use: Micro cleanup crew for humid vivariums
 sources: [Hobby husbandry consensus — general care guideline; verify for your strain]
+conglobation_type: Non-roller
+size_class: Micro
+biome: Tropical
+biogeo_region: Cosmopolitan
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Micro-cleanup
 ---
 
 # Trichorhina sp. "Dwarf Purple"
