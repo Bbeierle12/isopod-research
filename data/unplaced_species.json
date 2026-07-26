@@ -1,0 +1,534 @@
+{
+ "_comment": "GBIF-accepted Isopoda species absent from the family-first crawl (49 have no family in the GBIF backbone; 10 were simply missing). Placement resolved via WoRMS (family or superfamily-level incertae sedis, suborder verified through AphiaClassification); fossil status confirmed against PaleoBioDB. realm 'unknown' means undetermined, not guessed.",
+ "_generated": "2026-07-26",
+ "species": {
+  "Anhelkocephalon handlirschi": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 10800852,
+   "authorship": "Bill, 1914",
+   "extinct": true,
+   "pbdb_id": "txn:459392",
+   "pbdb_age_ma": "246.7-244.99"
+  },
+  "Armadillo insularis": {
+   "suborder": "Oniscidea",
+   "family": "Armadillidae",
+   "realm": "terrestrial",
+   "gbif_id": 2202337,
+   "authorship": "Arcangeli, 1933"
+  },
+  "Armadillo obliquedens": {
+   "suborder": "Oniscidea",
+   "family": "Armadillidae",
+   "realm": "terrestrial",
+   "gbif_id": 2202296,
+   "authorship": "Barnard, 1932"
+  },
+  "Armadillo purpurescens": {
+   "suborder": "Oniscidea",
+   "family": "Armadillidae",
+   "realm": "terrestrial",
+   "gbif_id": 4303637,
+   "authorship": "(Budde-Lund, 1912) "
+  },
+  "Brunnella rothgaengerae": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 10747979,
+   "authorship": "Polz, 2005"
+  },
+  "Chimaeroniscus spheramator": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 11723013,
+   "authorship": "Williams, Boyko & Moritaki, 2022",
+   "worms_aphia_id": 1595272,
+   "worms_status": "accepted"
+  },
+  "Colombophiloscia alticola": {
+   "suborder": "Oniscidea",
+   "family": "Philosciidae",
+   "realm": "terrestrial",
+   "gbif_id": 5176933,
+   "authorship": "(Vandel, 1968)",
+   "worms_aphia_id": 259828,
+   "worms_status": "accepted"
+  },
+  "Colombophiloscia cavernicola": {
+   "suborder": "Oniscidea",
+   "family": "Philosciidae",
+   "realm": "terrestrial",
+   "gbif_id": 5176931,
+   "authorship": "(Vandel, 1968)",
+   "worms_aphia_id": 259829,
+   "worms_status": "accepted"
+  },
+  "Colombophiloscia naevigesta": {
+   "suborder": "Oniscidea",
+   "family": "Philosciidae",
+   "realm": "terrestrial",
+   "gbif_id": 5176930,
+   "authorship": "(Vandel, 1968)",
+   "worms_aphia_id": 259830,
+   "worms_status": "accepted"
+  },
+  "Congloboniscus brevicauda": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 11762214,
+   "authorship": "(Jackson, 1938)",
+   "worms_aphia_id": 1550190,
+   "worms_status": "accepted"
+  },
+  "Crenisopus acinifer": {
+   "suborder": "Phreatoicidea",
+   "family": "Phreatoicidea incertae sedis",
+   "realm": "freshwater",
+   "gbif_id": 2204225,
+   "authorship": "Wilson & Keable, 1999",
+   "worms_aphia_id": 259913,
+   "worms_status": "accepted"
+  },
+  "Cryptocotitus acus": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204150,
+   "authorship": "Schultz, 1977",
+   "worms_aphia_id": 259935,
+   "worms_status": "accepted"
+  },
+  "Cylisticoides angulatus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 2204219,
+   "authorship": "Schmalfuss, 2003",
+   "worms_aphia_id": 260055,
+   "worms_status": "accepted"
+  },
+  "Cylisticoides rotundifrons": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 2204220,
+   "authorship": "(Schmalfuss, 1986)",
+   "worms_aphia_id": 260056,
+   "worms_status": "accepted"
+  },
+  "Debodea mellita": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 10692284,
+   "authorship": "Hiller, 1999"
+  },
+  "Discosalaputium aschauerorum": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 10781773,
+   "authorship": "Schädel, van Eldijk, Winkelhorst, Reumer & Haug, 2020",
+   "extinct": true,
+   "pbdb_id": "txn:506094",
+   "pbdb_age_ma": "237-233.6"
+  },
+  "Electrolana madelineae": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 11211519,
+   "authorship": "Schädel, Hyžný & Haug, 2021",
+   "extinct": true,
+   "pbdb_id": "txn:433141",
+   "pbdb_age_ma": "100.5-93.9"
+  },
+  "Elocryptus amplitruncus": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204161,
+   "authorship": "Schultz, 1977",
+   "worms_aphia_id": 260241,
+   "worms_status": "accepted"
+  },
+  "Ennurensis hispidus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 9087733,
+   "authorship": "Collinge, 1915",
+   "worms_aphia_id": 883581,
+   "worms_status": "accepted"
+  },
+  "Eoarmadillidium granulatum": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 8835479,
+   "authorship": "Dollfus, 1904",
+   "extinct": true,
+   "pbdb_id": "txn:475076",
+   "pbdb_age_ma": "23.04-15.98"
+  },
+  "Eobooralana rhodanica": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 12251850,
+   "authorship": "(Van Straelen, 1928) "
+  },
+  "Gelrincola winterswijkensis": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 10890088,
+   "authorship": "Schädel, van Eldijk, Winkelhorst, Reumer & Haug, 2020",
+   "extinct": true,
+   "pbdb_id": "txn:506096",
+   "pbdb_age_ma": "244.99-244.24"
+  },
+  "Hekelus episimus": {
+   "suborder": "Oniscidea",
+   "family": "Hekelidae",
+   "realm": "terrestrial",
+   "gbif_id": 2212827,
+   "authorship": "Barnard, 1932",
+   "worms_aphia_id": 260583,
+   "worms_status": "accepted"
+  },
+  "Jaerella armata": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204199,
+   "authorship": "Richardson, 1911",
+   "worms_aphia_id": 260852,
+   "worms_status": "accepted"
+  },
+  "Jimenezia heteroclita": {
+   "suborder": "Oniscidea",
+   "family": "Philosciidae",
+   "realm": "terrestrial",
+   "gbif_id": 5176947,
+   "authorship": "Vandel, 1973",
+   "worms_aphia_id": 260857,
+   "worms_status": "accepted"
+  },
+  "Kanthyloma crusta": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 8910195,
+   "authorship": "Klompmaker, Artal, van Bakel, Fraaije & Jagt, 2014"
+  },
+  "Mauritaniscus pierrei": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 8802007,
+   "authorship": "(Vandel, 1950)",
+   "worms_aphia_id": 884207,
+   "worms_status": "accepted"
+  },
+  "Musconiscus romanorum": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 8824699,
+   "authorship": "Arcangeli, 1930",
+   "worms_aphia_id": 884329,
+   "worms_status": "taxon inquirendum"
+  },
+  "Nalocryptus longicaudatus": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204157,
+   "authorship": "Schultz, 1977",
+   "worms_aphia_id": 261386,
+   "worms_status": "accepted"
+  },
+  "Nococryptus angustus": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204203,
+   "authorship": "Schultz, 1977",
+   "worms_aphia_id": 261554,
+   "worms_status": "accepted"
+  },
+  "Oniscomorphus bicornis": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 11668044,
+   "authorship": "(Jackson, 1938)",
+   "worms_aphia_id": 1550193,
+   "worms_status": "accepted"
+  },
+  "Onocryptus alatus": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204152,
+   "authorship": "Schultz, 1977",
+   "worms_aphia_id": 261619,
+   "worms_status": "accepted"
+  },
+  "Osicryptus hirsutus": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204145,
+   "authorship": "Schultz, 1977",
+   "worms_aphia_id": 261698,
+   "worms_status": "accepted"
+  },
+  "Ourachaerus caudatus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 9065209,
+   "authorship": "Kinahan, 1859",
+   "worms_aphia_id": 884584,
+   "worms_status": "accepted"
+  },
+  "Paraleptotrichus teodoroi": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 9040442,
+   "authorship": "(Arcangeli, 1927)",
+   "worms_aphia_id": 884593,
+   "worms_status": "accepted"
+  },
+  "Perinetia reducta": {
+   "suborder": "Oniscidea",
+   "family": "Philosciidae",
+   "realm": "terrestrial",
+   "gbif_id": 5176978,
+   "authorship": "Barnard, 1959"
+  },
+  "Philoscodillo pilosus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 11786720,
+   "authorship": "(Jackson, 1938)",
+   "worms_aphia_id": 1550191,
+   "worms_status": "accepted"
+  },
+  "Platyburmoniscus granulatus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 9136197,
+   "authorship": "(Manicastri & Taiti, 1987)",
+   "worms_aphia_id": 884867,
+   "worms_status": "accepted"
+  },
+  "Reboursia ranvillensis": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 2204201,
+   "authorship": "Guinot, Wilson & Schram, 2005",
+   "extinct": true,
+   "pbdb_id": "txn:506169",
+   "pbdb_age_ma": "168.2-165.3"
+  },
+  "Rhacura pulchra": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204213,
+   "authorship": "Richardson, 1908",
+   "worms_aphia_id": 262839,
+   "worms_status": "accepted"
+  },
+  "Rotungus pictus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 8890860,
+   "authorship": "Collinge, 1916",
+   "worms_aphia_id": 886677,
+   "worms_status": "accepted"
+  },
+  "Stymphalus dilatatus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 5175659,
+   "authorship": "(Perty, 1833)",
+   "worms_aphia_id": 263361,
+   "worms_status": "accepted"
+  },
+  "Synuropus granulatus": {
+   "suborder": "Oniscidea",
+   "family": "Oniscidea incertae sedis",
+   "realm": "terrestrial",
+   "gbif_id": 2214128,
+   "authorship": "Richardson, 1901",
+   "worms_aphia_id": 294452,
+   "worms_status": "accepted"
+  },
+  "Thermaloniscus cotylophorus": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204163,
+   "authorship": "Bourdon, 1983",
+   "worms_aphia_id": 263507,
+   "worms_status": "accepted"
+  },
+  "Tole alascensis": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204176,
+   "authorship": "(Benedict, 1905)",
+   "worms_aphia_id": 255639,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe alascensis"
+  },
+  "Tole extans": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204178,
+   "authorship": "(Barnard, 1914)",
+   "worms_aphia_id": 255642,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe extans"
+  },
+  "Tole glabra": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204186,
+   "authorship": "(Richardson, 1908)",
+   "worms_aphia_id": 255643,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe glabra"
+  },
+  "Tole laciniata": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204184,
+   "authorship": "(G. O. Sars, 1872)",
+   "worms_aphia_id": 118515,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe laciniata"
+  },
+  "Tole libbeyi": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204194,
+   "authorship": "Ortmann, 1901",
+   "worms_aphia_id": 255644,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe libbeyi"
+  },
+  "Tole spinosa": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204188,
+   "authorship": "(Harger, 1879)",
+   "worms_aphia_id": 255646,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe spinosa"
+  },
+  "Tole spinosissima": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204172,
+   "authorship": "(Stephensen, 1936)",
+   "worms_aphia_id": 255647,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe spinosissima"
+  },
+  "Tole vilhelminae": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204174,
+   "authorship": "(Stephensen, 1913)",
+   "worms_aphia_id": 255649,
+   "worms_status": "superseded combination",
+   "worms_accepted": "Ianthe vilhelminae"
+  },
+  "Trichopleon ramosum": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204148,
+   "authorship": "Beddard, 1886",
+   "worms_aphia_id": 263789,
+   "worms_status": "accepted"
+  },
+  "Trisopodoniscus abyssorum": {
+   "suborder": "Epicaridea",
+   "family": "Cryptoniscoidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204215,
+   "authorship": "Bourdon, 1981",
+   "worms_aphia_id": 293378,
+   "worms_status": "accepted"
+  },
+  "Unusuropode castroi": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 10700473,
+   "authorship": "Duarte & Santos, 1962"
+  },
+  "Urias spinosus": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204165,
+   "authorship": "Richardson, 1911",
+   "worms_aphia_id": 118517,
+   "worms_status": "accepted"
+  },
+  "Vacuotheca dupeorum": {
+   "suborder": "incertae sedis",
+   "family": "Isopoda incertae sedis",
+   "realm": "unknown",
+   "gbif_id": 10733588,
+   "authorship": "Schädel, Perrichot & Haug, 2019",
+   "extinct": true,
+   "pbdb_id": "txn:399086",
+   "pbdb_age_ma": "93.9-89.8"
+  },
+  "Xostylus longiflagellatus": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204206,
+   "authorship": "Birstein, 1970",
+   "worms_aphia_id": 264136,
+   "worms_status": "accepted"
+  },
+  "Xostylus parallelus": {
+   "suborder": "Asellota",
+   "family": "Janiroidea incertae sedis",
+   "realm": "marine",
+   "gbif_id": 2204205,
+   "authorship": "Menzies, 1962",
+   "worms_aphia_id": 264137,
+   "worms_status": "accepted"
+  }
+ }
+}

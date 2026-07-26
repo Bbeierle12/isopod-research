@@ -27,7 +27,7 @@ hobby, plus a cited research layer.
 
 ## Scientific taxonomy (`Isopoda/`)
 
-**11 suborders + `incertae sedis` · 145 families · 11,326 accepted species** (+109 documented synonym records) — one folder per suborder →
+**11 suborders + `incertae sedis` · 151 families · 11,385 accepted species** (+109 documented synonym records) — one folder per suborder →
 family → genus → species. The species tree was pulled from the **GBIF Backbone Taxonomy**
 (`api.gbif.org`), restricted to `taxonomicStatus = ACCEPTED`; suborder and realm placement follows
 **WoRMS**, the World List of Marine, Freshwater and Terrestrial Isopod Crustaceans.
@@ -39,7 +39,11 @@ combination (old name kept as an Obsidian alias) or turned into a `type: synonym
 the accepted name — leaving **92.5%** accepted, **4.6%** fossil taxa WoRMS does not register
 (flagged `extinct`), and **2.9%** that cannot be mechanically resolved (*taxon inquirendum*,
 *nomen nudum*, dissolved genera), each annotated with a `worms_note`.
-Start at [`Isopods.md`](Isopods.md).
+Coverage is complete against the GBIF backbone: **all 11,494 accepted Isopoda species** are present
+or resolvable by alias. The 49 that GBIF files without a family — unreachable by a family-keyed crawl —
+were placed via WoRMS (superfamily-level `incertae sedis` where no family is known, suborder verified
+through AphiaClassification), and 7 otherwise-unplaceable names are confirmed fossils against
+**PaleoBioDB** with age ranges. Start at [`Isopods.md`](Isopods.md).
 
 ## Hobby master dataset
 
@@ -52,6 +56,7 @@ Pipeline (idempotent — re-running changes nothing unless inputs change):
 ```
 python scripts/taxonomy.py       # crawl GBIF Isopoda -> Isopoda/ species notes
 python scripts/reclassify.py --apply   # reconcile the tree to the WoRMS family map
+python scripts/place_missing.py --apply  # file species GBIF leaves without a family
 python scripts/isopoda_index.py  # (re)build suborder/family/genus index notes
 python scripts/seed.py           # one-time bootstrap of data/isopods.json (hobby)
 python scripts/validate.py       # verify described records against GBIF (in place)
@@ -109,7 +114,7 @@ husbandry defaults on all 146 records.
 dashboard, built by `scripts/atlas.py`. Two kinds of filter, at two scopes:
 
 - **Taxonomy-wide axes** — realm, plus ecomorph type (Schmalfuss), degree of terrestrialization,
-  habitat stratum, trophic guild and reproduction — **span all 11,326 accepted Isopoda species**
+  habitat stratum, trophic guild and reproduction — **span all 11,385 accepted Isopoda species**
   (hobby + non-hobby). Every species note carries these fields, scaffolded **blank until researched** (no
   family-level guessing); **34** studied taxa are populated with **a/b/c** evidence grades and
   CrossRef-verified citations. Note that ecomorph and terrestrialization are *terrestrial-isopod*

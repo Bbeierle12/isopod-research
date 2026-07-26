@@ -1,9 +1,9 @@
 ---
 type: index
 group: Oniscidea
-family_count: 41
-genus_count: 568
-species_count: 4164
+family_count: 43
+genus_count: 584
+species_count: 4187
 realm: terrestrial, marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, oniscidea, master-index]
@@ -11,7 +11,7 @@ tags: [isopod, oniscidea, master-index]
 
 # Oniscidea (Suborder)
 
-This vault section covers **41 families, 568 genera, and 4164 accepted species**. Realm: terrestrial, marine, brackish, freshwater
+This vault section covers **43 families, 584 genera, and 4187 accepted species**. Realm: terrestrial, marine, brackish, freshwater
 
 ## Families
 
@@ -19,7 +19,7 @@ This vault section covers **41 families, 568 genera, and 4164 accepted species**
 |---|---:|---:|
 | [[_Agnaridae Index\|Agnaridae]] | 14 | 202 |
 | [[_Alloniscidae Index\|Alloniscidae]] | 1 | 25 |
-| [[_Armadillidae Index\|Armadillidae]] | 85 | 724 |
+| [[_Armadillidae Index\|Armadillidae]] | 85 | 727 |
 | [[_Armadillidiidae Index\|Armadillidiidae]] | 18 | 291 |
 | [[_Balloniscidae Index\|Balloniscidae]] | 2 | 9 |
 | [[_Bathytropidae Index\|Bathytropidae]] | 9 | 30 |
@@ -32,14 +32,16 @@ This vault section covers **41 families, 568 genera, and 4164 accepted species**
 | [[_Dubioniscidae Index\|Dubioniscidae]] | 3 | 22 |
 | [[_Eubelidae Index\|Eubelidae]] | 51 | 265 |
 | [[_Halophilosciidae Index\|Halophilosciidae]] | 3 | 36 |
+| [[_Hekelidae Index\|Hekelidae]] | 1 | 1 |
 | [[_Irmaosidae Index\|Irmaosidae]] | 1 | 2 |
 | [[_Ligiidae Index\|Ligiidae]] | 7 | 119 |
 | [[_Mesoniscidae Index\|Mesoniscidae]] | 1 | 2 |
 | [[_Olibrinidae Index\|Olibrinidae]] | 5 | 24 |
 | [[_Oniscidae Index\|Oniscidae]] | 13 | 91 |
+| [[_Oniscidea incertae sedis Index\|Oniscidea incertae sedis]] | 13 | 14 |
 | [[_Paraplatyarthridae Index\|Paraplatyarthridae]] | 1 | 7 |
 | [[_Periscyphicidae Index\|Periscyphicidae]] | 0 | 0 |
-| [[_Philosciidae Index\|Philosciidae]] | 116 | 586 |
+| [[_Philosciidae Index\|Philosciidae]] | 118 | 591 |
 | [[_Platyarthridae Index\|Platyarthridae]] | 10 | 141 |
 | [[_Porcellionidae Index\|Porcellionidae]] | 23 | 378 |
 | [[_Pseudarmadillidae Index\|Pseudarmadillidae]] | 0 | 0 |
@@ -58,5 +60,5 @@ This vault section covers **41 families, 568 genera, and 4164 accepted species**
 | [[_Trichoniscidae Index\|Trichoniscidae]] | 92 | 556 |
 | [[_Turanoniscidae Index\|Turanoniscidae]] | 1 | 1 |
 | [[_Tylidae Index\|Tylidae]] | 2 | 23 |
-| **TOTAL** | **568** | **4164** |
+| **TOTAL** | **584** | **4187** |
 

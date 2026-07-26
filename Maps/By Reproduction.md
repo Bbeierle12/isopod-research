@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Reproductive mode / life-history highlight.
 
-**34 of 11339 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**34 of 11398 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## Sexual  <small>(16)</small>
 

@@ -3758,6 +3758,9 @@
   "authority": "Siewing, 1959",
   "status": "accepted"
  },
+ "Anhelkocephalon handlirschi": {
+  "status": "no record"
+ },
  "Anilocra abudefdufi": {
   "accepted": "Anilocra abudefdufi",
   "aphia_id": 257428,
@@ -7304,6 +7307,9 @@
   "authority": "Arcangeli, 1933",
   "status": "taxon inquirendum"
  },
+ "Armadillo insularis": {
+  "status": "no record"
+ },
  "Armadillo interger": {
   "status": "no record"
  },
@@ -7373,6 +7379,9 @@
   "authority": "Budde-Lund, 1904",
   "status": "taxon inquirendum"
  },
+ "Armadillo obliquedens": {
+  "status": "no record"
+ },
  "Armadillo obliquidens": {
   "accepted": "Armadillo obliquidens",
   "aphia_id": 259094,
@@ -7408,6 +7417,9 @@
   "aphia_id": 259099,
   "authority": "Mattern, 1999",
   "status": "accepted"
+ },
+ "Armadillo purpurescens": {
+  "status": "no record"
  },
  "Armadillo pygmaeus": {
   "accepted": "Armadillo pygmaeus",
@@ -11297,6 +11309,9 @@
  "Brunnaega tomhurleyi": {
   "status": "no record"
  },
+ "Brunnella rothgaengerae": {
+  "status": "no record"
+ },
  "Buchnerillo atlanticus": {
   "accepted": "Buchnerillo atlanticus",
   "aphia_id": 1582351,
@@ -15068,6 +15083,10 @@
   "authority": "Taiti, Ferrara & Schmalfuss, 1986",
   "status": "accepted"
  },
+ "Chimaeroniscus spheramator": {
+  "aphia_id": 1595272,
+  "status": "accepted"
+ },
  "Chiridotea almyra": {
   "accepted": "Chiridotea almyra",
   "aphia_id": 257331,
@@ -16727,6 +16746,18 @@
   "authority": "(Arcangeli, 1930)",
   "status": "accepted"
  },
+ "Colombophiloscia alticola": {
+  "aphia_id": 259828,
+  "status": "accepted"
+ },
+ "Colombophiloscia cavernicola": {
+  "aphia_id": 259829,
+  "status": "accepted"
+ },
+ "Colombophiloscia naevigesta": {
+  "aphia_id": 259830,
+  "status": "accepted"
+ },
  "Colombophiloscia romanorum": {
   "accepted": "Colombophiloscia romanorum",
   "aphia_id": 259831,
@@ -16962,6 +16993,10 @@
   "accepted": "Congethelum hauseri",
   "aphia_id": 259857,
   "authority": "Ferrara & Schmalfuss, 1985",
+  "status": "accepted"
+ },
+ "Congloboniscus brevicauda": {
+  "aphia_id": 1550190,
   "status": "accepted"
  },
  "Congocellio uniformis": {
@@ -17621,6 +17656,10 @@
   "authority": "(Avdeev, 1977)",
   "status": "accepted"
  },
+ "Crenisopus acinifer": {
+  "aphia_id": 259913,
+  "status": "accepted"
+ },
  "Crenoicus buntiae": {
   "accepted": "Crenoicus buntiae",
   "aphia_id": 259914,
@@ -17916,6 +17955,10 @@
   "accepted": "Cryptocisus laevis",
   "aphia_id": 259934,
   "authority": "Schultz, 1977",
+  "status": "accepted"
+ },
+ "Cryptocotitus acus": {
+  "aphia_id": 259935,
   "status": "accepted"
  },
  "Cryptoniscus paguri": {
@@ -18819,6 +18862,14 @@
   "accepted": "Cylindroniscus yucatanensis",
   "aphia_id": 260054,
   "authority": "(Mulaik, 1960)",
+  "status": "accepted"
+ },
+ "Cylisticoides angulatus": {
+  "aphia_id": 260055,
+  "status": "accepted"
+ },
+ "Cylisticoides rotundifrons": {
+  "aphia_id": 260056,
   "status": "accepted"
  },
  "Cylisticus albomaculatus": {
@@ -20363,6 +20414,9 @@
   "authority": "Smith, 1906",
   "status": "accepted"
  },
+ "Debodea mellita": {
+  "status": "no record"
+ },
  "Dekanoscia longicornis": {
   "accepted": "Dekanoscia longicornis",
   "aphia_id": 260149,
@@ -21094,6 +21148,9 @@
   "aphia_id": 527660,
   "authority": "(Nierstrasz & Brender à Brandis, 1923)",
   "status": "accepted"
+ },
+ "Discosalaputium aschauerorum": {
+  "status": "no record"
  },
  "Disparella kensleyi": {
   "accepted": "Disparella kensleyi",
@@ -22490,6 +22547,9 @@
   "authority": "(Müller, 1989)",
   "status": "accepted"
  },
+ "Electrolana madelineae": {
+  "status": "no record"
+ },
  "Eleoniscus helenae": {
   "accepted": "Eleoniscus helenae",
   "aphia_id": 260240,
@@ -22498,6 +22558,10 @@
  },
  "Elioserolis alpina": {
   "status": "no record"
+ },
+ "Elocryptus amplitruncus": {
+  "aphia_id": 260241,
+  "status": "accepted"
  },
  "Elthusa acutinasa": {
   "accepted": "Elthusa acutinasa",
@@ -22817,6 +22881,10 @@
   "authority": "(Miers, 1881)",
   "status": "accepted"
  },
+ "Ennurensis hispidus": {
+  "aphia_id": 883581,
+  "status": "accepted"
+ },
  "Enthylacus trivinctus": {
   "accepted": "Enthylacus trivinctus",
   "aphia_id": 260253,
@@ -22894,6 +22962,12 @@
   "aphia_id": 260262,
   "authority": "Richardson, 1903",
   "status": "accepted"
+ },
+ "Eoarmadillidium granulatum": {
+  "status": "no record"
+ },
+ "Eobooralana rhodanica": {
+  "status": "no record"
  },
  "Eocopea oculata": {
   "status": "no record"
@@ -25987,6 +26061,9 @@
   "aphia_id": 1874455,
   "authority": "(Vanhöffen, 1914)",
   "status": "accepted"
+ },
+ "Gelrincola winterswijkensis": {
+  "status": "no record"
  },
  "Gelsana abnormis": {
   "accepted": "Gelsana abnormis",
@@ -29276,6 +29353,10 @@
   "authority": "Mezhov, 1986",
   "status": "accepted"
  },
+ "Hekelus episimus": {
+  "aphia_id": 260583,
+  "status": "accepted"
+ },
  "Helenoniscus prenanti": {
   "accepted": "Helenoniscus prenanti",
   "aphia_id": 260584,
@@ -32516,6 +32597,10 @@
  "Jaera wakishiana": {
   "status": "no record"
  },
+ "Jaerella armata": {
+  "aphia_id": 260852,
+  "status": "accepted"
+ },
  "Janaira gracilis": {
   "accepted": "Janaira gracilis",
   "aphia_id": 260853,
@@ -33021,6 +33106,10 @@
   "accepted": "Javanoscia elongata",
   "aphia_id": 260856,
   "authority": "Schultz, 1985",
+  "status": "accepted"
+ },
+ "Jimenezia heteroclita": {
+  "aphia_id": 260857,
   "status": "accepted"
  },
  "Joeropsis acoloris": {
@@ -33577,6 +33666,9 @@
   "aphia_id": 883842,
   "authority": "Verhoeff, 1942",
   "status": "accepted"
+ },
+ "Kanthyloma crusta": {
+  "status": "no record"
  },
  "Katascaphius sturanus": {
   "accepted": "Katascaphius sturanus",
@@ -37553,6 +37645,10 @@
   "authority": "Juarrero de Varona & de Armas, 1996",
   "status": "accepted"
  },
+ "Mauritaniscus pierrei": {
+  "aphia_id": 884207,
+  "status": "accepted"
+ },
  "Mediophrixus pinuum": {
   "accepted": "Mediophrixus pinuum",
   "aphia_id": 261123,
@@ -41471,6 +41567,10 @@
   "authority": "Arcangeli, 1939",
   "status": "accepted"
  },
+ "Musconiscus romanorum": {
+  "aphia_id": 884329,
+  "status": "taxon inquirendum"
+ },
  "Myanmariscus deboisae": {
   "status": "no record"
  },
@@ -41853,6 +41953,10 @@
   "accepted": "Naiopegia xiphagrostis",
   "aphia_id": 261385,
   "authority": "Wilson & Keable, 2002",
+  "status": "accepted"
+ },
+ "Nalocryptus longicaudatus": {
+  "aphia_id": 261386,
   "status": "accepted"
  },
  "Namibianira aigamasensis": {
@@ -44207,6 +44311,10 @@
   "authority": "(Vandel, 1970)",
   "status": "accepted"
  },
+ "Nococryptus angustus": {
+  "aphia_id": 261554,
+  "status": "accepted"
+ },
  "Norileca borealis": {
   "accepted": "Norileca borealis",
   "aphia_id": 261555,
@@ -44777,6 +44885,10 @@
   "authority": "Paul & Menzies, 1971",
   "status": "accepted"
  },
+ "Oniscomorphus bicornis": {
+  "aphia_id": 1550193,
+  "status": "accepted"
+ },
  "Oniscophiloscia anomala": {
   "accepted": "Oniscophiloscia anomala",
   "aphia_id": 261612,
@@ -44886,6 +44998,10 @@
   "accepted": "Onkokepon beibuensis",
   "aphia_id": 261618,
   "authority": "An, H. Yu & Li, 2006",
+  "status": "accepted"
+ },
+ "Onocryptus alatus": {
+  "aphia_id": 261619,
   "status": "accepted"
  },
  "Onychatrium echiurum": {
@@ -45417,6 +45533,14 @@
   "accepted": "Orthometopon turcicum",
   "aphia_id": 261697,
   "authority": "Verhoeff, 1941",
+  "status": "accepted"
+ },
+ "Osicryptus hirsutus": {
+  "aphia_id": 261698,
+  "status": "accepted"
+ },
+ "Ourachaerus caudatus": {
+  "aphia_id": 884584,
   "status": "accepted"
  },
  "Ourozeuktes bopyroides": {
@@ -46872,6 +46996,10 @@
   "accepted": "Paraleptosphaeroma japonicus",
   "aphia_id": 1767476,
   "authority": "Nunomura, 2017",
+  "status": "accepted"
+ },
+ "Paraleptotrichus teodoroi": {
+  "aphia_id": 884593,
   "status": "accepted"
  },
  "Paralimnoria andrewsi": {
@@ -48623,6 +48751,9 @@
   "authority": "(Budde-Lund, 1904)",
   "status": "accepted"
  },
+ "Perinetia reducta": {
+  "status": "no record"
+ },
  "Periscyphis abyssinicus": {
   "accepted": "Periscyphis abyssinicus",
   "aphia_id": 261993,
@@ -49481,6 +49612,10 @@
   "authority": "Ferrara & Taiti, 1985",
   "status": "accepted"
  },
+ "Philoscodillo pilosus": {
+  "aphia_id": 1550191,
+  "status": "accepted"
+ },
  "Philostomella cigarra": {
   "accepted": "Philostomella cigarra",
   "aphia_id": 262099,
@@ -49980,6 +50115,10 @@
   "accepted": "Platyarthrus sorrentinus",
   "aphia_id": 262171,
   "authority": "Verhoeff, 1931",
+  "status": "accepted"
+ },
+ "Platyburmoniscus granulatus": {
+  "aphia_id": 884867,
   "status": "accepted"
  },
  "Platycerceis hyalina": {
@@ -55808,6 +55947,9 @@
   "authority": "Brandt, 2002",
   "status": "accepted"
  },
+ "Reboursia ranvillensis": {
+  "status": "no record"
+ },
  "Rectarcturus kophameli": {
   "accepted": "Rectarcturus kophameli",
   "aphia_id": 258011,
@@ -56101,6 +56243,10 @@
  },
  "Rhabdoniscus robustus": {
   "status": "no record"
+ },
+ "Rhacura pulchra": {
+  "aphia_id": 262839,
+  "status": "accepted"
  },
  "Rhiganthura capricornica": {
   "accepted": "Rhiganthura capricornica",
@@ -56823,6 +56969,10 @@
   "accepted": "Rostrophiloscia dominicana",
   "aphia_id": 262881,
   "authority": "Arcangeli, 1932",
+  "status": "accepted"
+ },
+ "Rotungus pictus": {
+  "aphia_id": 886677,
   "status": "accepted"
  },
  "Rufuta arganoi": {
@@ -61184,6 +61334,10 @@
   "authority": "(Budde-Lund, 1906)",
   "status": "accepted"
  },
+ "Stymphalus dilatatus": {
+  "aphia_id": 263361,
+  "status": "accepted"
+ },
  "Suarezia differens": {
   "accepted": "Suarezia differens",
   "aphia_id": 263362,
@@ -62198,6 +62352,10 @@
   "authority": "Bourdon, 1981",
   "status": "accepted"
  },
+ "Synuropus granulatus": {
+  "aphia_id": 294452,
+  "status": "accepted"
+ },
  "Syscenus atlanticus": {
   "accepted": "Syscenus atlanticus",
   "aphia_id": 118836,
@@ -62717,6 +62875,10 @@
   "authority": "Karaman, Bedek & Horvatovic, 2009",
   "status": "accepted"
  },
+ "Thermaloniscus cotylophorus": {
+  "aphia_id": 263507,
+  "status": "accepted"
+ },
  "Thermoarcturus venezuelensis": {
   "accepted": "Thermoarcturus venezuelensis",
   "aphia_id": 263508,
@@ -62986,6 +63148,46 @@
   "aphia_id": 263547,
   "authority": "(Hilgendorf, 1893)",
   "status": "accepted"
+ },
+ "Tole alascensis": {
+  "accepted": "Ianthe alascensis",
+  "aphia_id": 255639,
+  "status": "superseded combination"
+ },
+ "Tole extans": {
+  "accepted": "Ianthe extans",
+  "aphia_id": 255642,
+  "status": "superseded combination"
+ },
+ "Tole glabra": {
+  "accepted": "Ianthe glabra",
+  "aphia_id": 255643,
+  "status": "superseded combination"
+ },
+ "Tole laciniata": {
+  "accepted": "Ianthe laciniata",
+  "aphia_id": 118515,
+  "status": "superseded combination"
+ },
+ "Tole libbeyi": {
+  "accepted": "Ianthe libbeyi",
+  "aphia_id": 255644,
+  "status": "superseded combination"
+ },
+ "Tole spinosa": {
+  "accepted": "Ianthe spinosa",
+  "aphia_id": 255646,
+  "status": "superseded combination"
+ },
+ "Tole spinosissima": {
+  "accepted": "Ianthe spinosissima",
+  "aphia_id": 255647,
+  "status": "superseded combination"
+ },
+ "Tole vilhelminae": {
+  "accepted": "Ianthe vilhelminae",
+  "aphia_id": 255649,
+  "status": "superseded combination"
  },
  "Tongadillo punctatus": {
   "accepted": "Tongadillo punctatus",
@@ -64508,6 +64710,10 @@
   "authority": "(Arcangeli, 1925)",
   "status": "accepted"
  },
+ "Trichopleon ramosum": {
+  "aphia_id": 263789,
+  "status": "accepted"
+ },
  "Trichorhina acuta": {
   "accepted": "Trichorhina acuta",
   "aphia_id": 263790,
@@ -65088,6 +65294,10 @@
   "accepted": "Tridentodillo squamosus",
   "aphia_id": 263861,
   "authority": "Jackson, 1933",
+  "status": "accepted"
+ },
+ "Trisopodoniscus abyssorum": {
+  "aphia_id": 293378,
   "status": "accepted"
  },
  "Tristenium acutirostrum": {
@@ -65927,6 +66137,9 @@
   "authority": "Caruso, Pezzino, Messina & Lombardo, 2017",
   "status": "accepted"
  },
+ "Unusuropode castroi": {
+  "status": "no record"
+ },
  "Upogebione bidigitatus": {
   "accepted": "Upogebione bidigitatus",
   "aphia_id": 532042,
@@ -66034,6 +66247,10 @@
  },
  "Urda zelandica": {
   "status": "no record"
+ },
+ "Urias spinosus": {
+  "aphia_id": 118517,
+  "status": "accepted"
  },
  "Urobopyrus processae": {
   "accepted": "Urobopyrus processae",
@@ -66226,6 +66443,9 @@
   "aphia_id": 747382,
   "authority": "Riehl, Wilson & Malyutina, 2014",
   "status": "accepted"
+ },
+ "Vacuotheca dupeorum": {
+  "status": "no record"
  },
  "Vanamea symmetrica": {
   "accepted": "Vanamea symmetrica",
@@ -67509,6 +67729,14 @@
   "accepted": "Xiphoniscus mirabilis",
   "aphia_id": 264135,
   "authority": "Vandel, 1968",
+  "status": "accepted"
+ },
+ "Xostylus longiflagellatus": {
+  "aphia_id": 264136,
+  "status": "accepted"
+ },
+ "Xostylus parallelus": {
+  "aphia_id": 264137,
   "status": "accepted"
  },
  "Xylolana radicicola": {

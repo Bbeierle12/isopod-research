@@ -71,7 +71,7 @@ def fix_note(path, suborder, family, genus, info, moved):
     fm = V.set_field(fm, "family", family)
     fm = V.set_field(fm, "realm", info["realm"])
     if info.get("extinct"):
-        fm = V.set_field(fm, "extinct", "true")
+        fm = V.set_field(fm, "extinct", True)   # real YAML boolean, not the string "true"
     if moved:
         # keep the note's existing token count, only swapping suborder/family
         fm = re.sub(r"^(tags:\s*\[isopod, isopoda), [^,]+, [^\]]+\]",

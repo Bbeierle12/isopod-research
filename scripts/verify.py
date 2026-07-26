@@ -27,7 +27,11 @@ except ImportError:                                    # pragma: no cover
 CHECKS = []
 MAX_SHOWN = 8
 OPEN_NOM = ("sp.", "spp.", "cf.", "aff.", "var.", "nr.")
-REALMS = {"terrestrial", "littoral", "brackish", "freshwater", "interstitial", "marine"}
+# "unknown" is a deliberate member: a handful of species (mostly fossils) have no
+# determined environment in GBIF, WoRMS or PaleoBioDB, and recording that beats
+# guessing one.
+REALMS = {"terrestrial", "littoral", "brackish", "freshwater", "interstitial",
+          "marine", "unknown"}
 
 
 def check(name):

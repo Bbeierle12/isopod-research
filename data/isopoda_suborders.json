@@ -343,6 +343,15 @@
       "worms_aphia_id": 146881,
       "worms_status": "accepted"
     },
+    "Cryptoniscoidea incertae sedis": {
+      "suborder": "Epicaridea",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "placeholder": true,
+      "note": "not a real family — holds species whose family-level placement is unresolved in both GBIF and WoRMS"
+    },
     "Cryptothiridae": {
       "suborder": "Epicaridea",
       "realm": "marine",
@@ -633,6 +642,15 @@
       "worms_aphia_id": 118256,
       "worms_status": "accepted"
     },
+    "Isopoda incertae sedis": {
+      "suborder": "incertae sedis",
+      "realm": "unknown",
+      "realms": [
+        "unknown"
+      ],
+      "placeholder": true,
+      "note": "not a real family — holds species whose family-level placement is unresolved in both GBIF and WoRMS"
+    },
     "Janirellidae": {
       "suborder": "Asellota",
       "realm": "marine",
@@ -651,6 +669,15 @@
       ],
       "worms_aphia_id": 118258,
       "worms_status": "accepted"
+    },
+    "Janiroidea incertae sedis": {
+      "suborder": "Asellota",
+      "realm": "marine",
+      "realms": [
+        "marine"
+      ],
+      "placeholder": true,
+      "note": "not a real family — holds species whose family-level placement is unresolved in both GBIF and WoRMS"
     },
     "Joeropsididae": {
       "suborder": "Asellota",
@@ -846,6 +873,15 @@
       "worms_aphia_id": 147057,
       "worms_status": "accepted"
     },
+    "Oniscidea incertae sedis": {
+      "suborder": "Oniscidea",
+      "realm": "terrestrial",
+      "realms": [
+        "terrestrial"
+      ],
+      "placeholder": true,
+      "note": "not a real family — holds species whose family-level placement is unresolved in both GBIF and WoRMS"
+    },
     "Palaeophreatoicidae": {
       "suborder": "Phreatoicidea",
       "realm": "freshwater",
@@ -916,6 +952,15 @@
       ],
       "worms_aphia_id": 248306,
       "worms_status": "accepted"
+    },
+    "Phreatoicidea incertae sedis": {
+      "suborder": "Phreatoicidea",
+      "realm": "freshwater",
+      "realms": [
+        "freshwater"
+      ],
+      "placeholder": true,
+      "note": "not a real family — holds species whose family-level placement is unresolved in both GBIF and WoRMS"
     },
     "Phreatoicopsidae": {
       "suborder": "Phreatoicidea",

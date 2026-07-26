@@ -20,7 +20,7 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
-extinct: "true"
+extinct: true
 worms_status: no record
 tags: [isopod, isopoda, phreatoicidea, palaeophreatoicidae]
 ---

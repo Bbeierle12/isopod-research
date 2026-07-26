@@ -145,9 +145,31 @@ accepted-species counts (via `_vault.species_note_paths()`), while `build_db.py`
 still loads them as rows with `status='synonym'` and their accepted name, so the
 database records every name and its verdict.
 
+## Closing the GBIF coverage gap
+
+`scripts/place_missing.py` files the 59 GBIF-accepted species the family-first
+crawl could not reach (49 carry no family in the GBIF backbone; 10 were simply
+absent). Placements are recorded in `data/unplaced_species.json` and were
+resolved in this order: a real WoRMS family (5); WoRMS's superfamily-level
+placement kept as an explicit placeholder family with its suborder verified via
+`AphiaClassification` (38 — `Janiroidea incertae sedis` → Asellota,
+`Cryptoniscoidea incertae sedis` → Epicaridea, `Oniscidea incertae sedis` →
+Oniscidea, `Phreatoicidea incertae sedis` → Phreatoicidea); GBIF's family (4);
+otherwise `Isopoda incertae sedis` with `realm: unknown` — undetermined rather
+than guessed (12). Of that last group, **7 are confirmed fossils against
+PaleoBioDB** with age ranges (Triassic–Miocene); the other 5 carry no `extinct`
+flag because no source confirms one.
+
+Placeholder families are registered in the family map with `placeholder: true`
+so they never read as real taxa. Coverage against GBIF is now **11,494 / 11,494**
+— zero missing.
+
 ## Remaining known limitations
 
 - 21 authorships still lack a publication year (absent from both GBIF and WoRMS).
+- 12 species have no family-level placement in any consulted authority and sit
+  under `Isopoda incertae sedis`; 5 of those have no record in WoRMS or
+  PaleoBioDB at all, so their `realm` is `unknown` rather than assumed.
 - `Merulanella *` and `Cubaris *` remain genus-wildcard ecology rows; as the
   audit noted, hobby "Cubaris" is not a monophyletic grouping.
 - The 514 fossil taxa have no WoRMS record by design (WoRMS registers extant

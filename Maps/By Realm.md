@@ -8,9 +8,9 @@ tags: [isopod, atlas, facet-map]
 
 Broad environmental realm (from the WoRMS-sourced family map).
 
-**11339 of 11339 Isopoda species classified.** ← [[_Isopod Atlas]]
+**11398 of 11398 Isopoda species classified.** ← [[_Isopod Atlas]]
 
-## terrestrial  <small>(4177)</small>
+## terrestrial  <small>(4200)</small>
 
 | Species | Family |
 |---|---|
@@ -563,6 +563,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Armadillo immotus]] | Armadillidae |
 | [[Armadillo infuscatus]] | Armadillidae |
 | [[Armadillo insulanus]] | Armadillidae |
+| [[Armadillo insularis]] | Armadillidae |
 | [[Armadillo interger]] | Armadillidae |
 | [[Armadillo intermixtus]] | Armadillidae |
 | [[Armadillo jordanius]] | Armadillidae |
@@ -575,12 +576,14 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Armadillo moncayotus]] | Armadillidae |
 | [[Armadillo montanus]] | Armadillidae |
 | [[Armadillo nigromarginatus]] | Armadillidae |
+| [[Armadillo obliquedens]] | Armadillidae |
 | [[Armadillo obliquidens]] | Armadillidae |
 | [[Armadillo officinalis]] | Armadillidae |
 | [[Armadillo pallidus]] | Armadillidae |
 | [[Armadillo platypleon]] | Armadillidae |
 | [[Armadillo proximatus]] | Armadillidae |
 | [[Armadillo pseudomayeti]] | Armadillidae |
+| [[Armadillo purpurescens]] | Armadillidae |
 | [[Armadillo pygmaeus]] | Armadillidae |
 | [[Armadillo salisburyensis]] | Armadillidae |
 | [[Armadillo sodalis]] | Armadillidae |
@@ -1001,6 +1004,9 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Colomboniscus carpioi]] | Scleropactidae |
 | [[Colomboniscus regressus]] | Scleropactidae |
 | [[Colomboniscus tristani]] | Scleropactidae |
+| [[Colombophiloscia alticola]] | Philosciidae |
+| [[Colombophiloscia cavernicola]] | Philosciidae |
+| [[Colombophiloscia naevigesta]] | Philosciidae |
 | [[Colombophiloscia romanorum]] | Philosciidae |
 | [[Colomboscia andina]] | Scleropactidae |
 | [[Colomboscia bituberculata]] | Scleropactidae |
@@ -1009,6 +1015,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Colomboscia parva]] | Scleropactidae |
 | [[Colomboscia venezuelana]] | Scleropactidae |
 | [[Congethelum hauseri]] | Eubelidae |
+| [[Congloboniscus brevicauda]] | Oniscidea incertae sedis |
 | [[Congocellio uniformis]] | Porcellionidae |
 | [[Congophiloscia albofasciata]] | Philosciidae |
 | [[Congophiloscia annobonensis]] | Philosciidae |
@@ -1153,6 +1160,8 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Cylindroniscus seurati]] | Styloniscidae |
 | [[Cylindroniscus vallesensis]] | Styloniscidae |
 | [[Cylindroniscus yucatanensis]] | Styloniscidae |
+| [[Cylisticoides angulatus]] | Oniscidea incertae sedis |
+| [[Cylisticoides rotundifrons]] | Oniscidea incertae sedis |
 | [[Cylisticus albomaculatus]] | Cylisticidae |
 | [[Cylisticus annulicornis]] | Cylisticidae |
 | [[Cylisticus anophthalmus]] | Cylisticidae |
@@ -1303,6 +1312,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Elumoides coecus]] | Eubelidae |
 | [[Elumoides monocellatus]] | Eubelidae |
 | [[Emydodillo testudo]] | Armadillidae |
+| [[Ennurensis hispidus]] | Oniscidea incertae sedis |
 | [[Eoligiiscus tarraconensis]] | Ligiidae |
 | [[Erophiloscia acanthifera]] | Philosciidae |
 | [[Erophiloscia longistyla]] | Philosciidae |
@@ -1522,6 +1532,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Hawaiodillo danae]] | Armadillidae |
 | [[Hawaiodillo perkinsi]] | Armadillidae |
 | [[Hawaiodillo sharpi]] | Armadillidae |
+| [[Hekelus episimus]] | Hekelidae |
 | [[Helenoniscus prenanti]] | Trichoniscidae |
 | [[Helenoniscus teissieri]] | Trichoniscidae |
 | [[Helleria brevicornis]] | Tylidae |
@@ -1662,6 +1673,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Italoniscus sorattinus]] | Trichoniscidae |
 | [[Iuiuniscus iuiuensis]] | Styloniscidae |
 | [[Javanoscia elongata]] | Philosciidae |
+| [[Jimenezia heteroclita]] | Philosciidae |
 | [[Kameruthelum stylifer]] | Eubelidae |
 | [[Katascaphius sturanus]] | Trichoniscidae |
 | [[Kenyoniscus paradoxus]] | Eubelidae |
@@ -1947,6 +1959,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Marioniscus spatulifrons]] | Scyphacidae |
 | [[Matazonellus eglisi]] | Scleropactidae |
 | [[Matazonellus turquinensis]] | Scleropactidae |
+| [[Mauritaniscus pierrei]] | Oniscidea incertae sedis |
 | [[Merulana bicarinata]] | Armadillidae |
 | [[Merulana boydensis]] | Armadillidae |
 | [[Merulana canaliculata]] | Armadillidae |
@@ -2087,6 +2100,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Moserius percoi]] | Trichoniscidae |
 | [[Moserius talamonensis]] | Trichoniscidae |
 | [[Murgeoniscus anellii]] | Trichoniscidae |
+| [[Musconiscus romanorum]] | Oniscidea incertae sedis |
 | [[Myanmariscus deboisae]] | Styloniscidae |
 | [[Myanmariscus deboiseae]] | Styloniscidae |
 | [[Myrmecethelum camponotorum]] | Eubelidae |
@@ -2274,6 +2288,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Olibrinus tosaensis]] | Olibrinidae |
 | [[Olibrinus truncatus]] | Olibrinidae |
 | [[Omanodillo gardneri]] | Eubelidae |
+| [[Oniscomorphus bicornis]] | Oniscidea incertae sedis |
 | [[Oniscophiloscia anomala]] | Philosciidae |
 | [[Oniscophiloscia kuscheli]] | Philosciidae |
 | [[Oniscophiloscia mirifica]] | Philosciidae |
@@ -2353,6 +2368,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Orthometopon romanicus]] | Agnaridae |
 | [[Orthometopon scheuerni]] | Agnaridae |
 | [[Orthometopon turcicum]] | Agnaridae |
+| [[Ourachaerus caudatus]] | Oniscidea incertae sedis |
 | [[Oxalaniscus ctenoscioides]] | Philosciidae |
 | [[Oxossioniscus akoko]] | Pudeoniscidae |
 | [[Oxossioniscus pataxo]] | Pudeoniscidae |
@@ -2404,6 +2420,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Parakermania longa]] | Armadillidae |
 | [[Parakermania maculata]] | Armadillidae |
 | [[Parakermania minima]] | Armadillidae |
+| [[Paraleptotrichus teodoroi]] | Oniscidea incertae sedis |
 | [[Paranotoniscus capensis]] | Styloniscidae |
 | [[Paranotoniscus latus]] | Styloniscidae |
 | [[Paranotoniscus montanus]] | Styloniscidae |
@@ -2475,6 +2492,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Pericephalus feae]] | Armadillidae |
 | [[Pericephalus galeatus]] | Armadillidae |
 | [[Pericephalus marcidus]] | Armadillidae |
+| [[Perinetia reducta]] | Philosciidae |
 | [[Periscyphis abyssinicus]] | Eubelidae |
 | [[Periscyphis albescens]] | Eubelidae |
 | [[Periscyphis albomarginatus]] | Eubelidae |
@@ -2622,6 +2640,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Philoscina incisa]] | Philosciidae |
 | [[Philoscina insularis]] | Philosciidae |
 | [[Philoscina natalis]] | Philosciidae |
+| [[Philoscodillo pilosus]] | Oniscidea incertae sedis |
 | [[Phylloniscus braunsi]] | Titanidae |
 | [[Phylloniscus contractus]] | Titanidae |
 | [[Phymatoniscus helenae]] | Trichoniscidae |
@@ -2665,6 +2684,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Platyarthrus schoblii]] | Platyarthridae |
 | [[Platyarthrus schoebli]] | Platyarthridae |
 | [[Platyarthrus sorrentinus]] | Platyarthridae |
+| [[Platyburmoniscus granulatus]] | Oniscidea incertae sedis |
 | [[Platycytoniscus spinosus]] | Philosciidae |
 | [[Pleopodoscia isabelensis]] | Philosciidae |
 | [[Pleopodoscia maculata]] | Philosciidae |
@@ -3208,6 +3228,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Rodoniscus anophthalmus]] | Oniscidae |
 | [[Roraimoscia roraimae]] | Philosciidae |
 | [[Rostrophiloscia dominicana]] | Philosciidae |
+| [[Rotungus pictus]] | Oniscidea incertae sedis |
 | [[Rufuta arganoi]] | Eubelidae |
 | [[Rufuta carusoi]] | Eubelidae |
 | [[Saidjahus altimontis]] | Eubelidae |
@@ -3533,6 +3554,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Styloniscus thomsoni]] | Styloniscidae |
 | [[Styloniscus ventosus]] | Styloniscidae |
 | [[Styloniscus verrucosus]] | Styloniscidae |
+| [[Stymphalus dilatatus]] | Oniscidea incertae sedis |
 | [[Suarezia differens]] | Scleropactidae |
 | [[Suarezia heterodoxa]] | Scleropactidae |
 | [[Sulesoscia epigea]] | Philosciidae |
@@ -3573,6 +3595,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Synarmadilloides nitidus]] | Eubelidae |
 | [[Synarmadilloides pila]] | Eubelidae |
 | [[Synarmadilloides pilosus]] | Eubelidae |
+| [[Synuropus granulatus]] | Oniscidea incertae sedis |
 | [[Tachysoniscus austriacus]] | Trichoniscidae |
 | [[Tadzhikoniscus coecus]] | Agnaridae |
 | [[Tamarida differens]] | Trachelipodidae |
@@ -4192,7 +4215,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Zebrascia longicornis]] | Philosciidae |
 | [[Zebrascia plurimaculata]] | Philosciidae |
 
-## freshwater  <small>(634)</small>
+## freshwater  <small>(635)</small>
 
 | Species | Family |
 |---|---|
@@ -4383,6 +4406,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Conasellus packardi]] | Asellidae |
 | [[Conasellus pricei]] | Asellidae |
 | [[Coxicerberus jangsaensis]] | Microcerberidae |
+| [[Crenisopus acinifer]] | Phreatoicidea incertae sedis |
 | [[Crenoicus buntiae]] | Phreatoicidae |
 | [[Crenoicus harrisoni]] | Phreatoicidae |
 | [[Crenoicus mixtus]] | Phreatoicidae |
@@ -4831,7 +4855,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Uramphisopus pearsoni]] | Phreatoicidae |
 | [[Wiyufiloides osornoensis]] | Protojaniridae |
 
-## marine  <small>(6528)</small>
+## marine  <small>(6551)</small>
 
 | Species | Family |
 |---|---|
@@ -6232,6 +6256,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Chelator verecundus]] | Desmosomatidae |
 | [[Chelator vulgaris]] | Desmosomatidae |
 | [[Chelibranchus canaliculatus]] | Desmosomatidae |
+| [[Chimaeroniscus spheramator]] | Cryptoniscoidea incertae sedis |
 | [[Chiridotea almyra]] | Chaetiliidae |
 | [[Chiridotea arenicola]] | Chaetiliidae |
 | [[Chiridotea coeca]] | Chaetiliidae |
@@ -6588,6 +6613,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Cryptobopyrus elongatus]] | Bopyridae |
 | [[Cryptocancrion brevibrachium]] | Entoniscidae |
 | [[Cryptocisus laevis]] | Dajidae |
+| [[Cryptocotitus acus]] | Cryptoniscoidea incertae sedis |
 | [[Cryptoniscus paguri]] | Cryptoniscidae |
 | [[Cryptoniscus planarioides]] | Cryptoniscidae |
 | [[Cryptothir minutus]] | Cryptothiridae |
@@ -7111,6 +7137,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Elaphognathia sugashimaensis]] | Gnathiidae |
 | [[Elaphognathia wolffi]] | Gnathiidae |
 | [[Elioserolis alpina]] | Serolidae |
+| [[Elocryptus amplitruncus]] | Cryptoniscoidea incertae sedis |
 | [[Elthusa acutinasa]] | Cymothoidae |
 | [[Elthusa atlantniroi]] | Cymothoidae |
 | [[Elthusa californica]] | Cymothoidae |
@@ -8376,6 +8403,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Jaera syei]] | Janiridae |
 | [[Jaera tyleri]] | Janiridae |
 | [[Jaera wakishiana]] | Janiridae |
+| [[Jaerella armata]] | Janiroidea incertae sedis |
 | [[Janaira gracilis]] | Janiridae |
 | [[Janaira platyoura]] | Janiridae |
 | [[Janinella brasiliensis]] | Lepidocharontidae |
@@ -9392,6 +9420,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Myopiarolis systir]] | Serolidae |
 | [[Myopiarolis tona]] | Serolidae |
 | [[Naesicopea abyssorum]] | Sphaeromatidae |
+| [[Nalocryptus longicaudatus]] | Cryptoniscoidea incertae sedis |
 | [[Nannoniscoides angulatus]] | Nannoniscidae |
 | [[Nannoniscoides biscutatus]] | Nannoniscidae |
 | [[Nannoniscoides coronarius]] | Nannoniscidae |
@@ -9670,6 +9699,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Nerocila trichiura]] | Cymothoidae |
 | [[Nerocila trivittata]] | Cymothoidae |
 | [[Nikione natalensis]] | Bopyridae |
+| [[Nococryptus angustus]] | Cryptoniscoidea incertae sedis |
 | [[Norileca borealis]] | Cymothoidae |
 | [[Norileca hathai]] | Cymothoidae |
 | [[Norileca indica]] | Cymothoidae |
@@ -9729,6 +9759,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Onisocryptus sagittus]] | Cyproniscidae |
 | [[Onkokepon articulatus]] | Bopyridae |
 | [[Onkokepon beibuensis]] | Bopyridae |
+| [[Onocryptus alatus]] | Cryptoniscoidea incertae sedis |
 | [[Onychatrium entale]] | Stenetriidae |
 | [[Onychatrium euchirum]] | Stenetriidae |
 | [[Onychatrium forceps]] | Stenetriidae |
@@ -9751,6 +9782,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Orthione furcata]] | Bopyridae |
 | [[Orthione griffenis]] | Bopyridae |
 | [[Orthione mesoamericana]] | Bopyridae |
+| [[Osicryptus hirsutus]] | Cryptoniscoidea incertae sedis |
 | [[Ourozeuktes bopyroides]] | Cymothoidae |
 | [[Ovobopyrus alphezemiotes]] | Bopyridae |
 | [[Ovoionella obovata]] | Bopyridae |
@@ -10546,6 +10578,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Renocila trillesi]] | Cymothoidae |
 | [[Renocila waldneri]] | Cymothoidae |
 | [[Renocila yamazatoi]] | Cymothoidae |
+| [[Rhacura pulchra]] | Janiroidea incertae sedis |
 | [[Rhiganthura capricornica]] | Expanathuridae |
 | [[Rhiganthura spinosa]] | Expanathuridae |
 | [[Rhiothra callipia]] | Cymothoidae |
@@ -11137,6 +11170,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Thaumastosoma diva]] | Nannoniscidae |
 | [[Thaumastosoma platycarpus]] | Nannoniscidae |
 | [[Thaumastosoma tenue]] | Nannoniscidae |
+| [[Thermaloniscus cotylophorus]] | Cryptoniscoidea incertae sedis |
 | [[Thermoarcturus venezuelensis]] | Thermoarcturidae |
 | [[Thermosphaeroma cavicauda]] | Sphaeromatidae |
 | [[Thermosphaeroma dugesi]] | Sphaeromatidae |
@@ -11160,6 +11194,14 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Tiarinion texopallium]] | Entoniscidae |
 | [[Tinggianthura alba]] | Anthuridae |
 | [[Tinggianthura mexicana]] | Anthuridae |
+| [[Tole alascensis]] | Janiroidea incertae sedis |
+| [[Tole extans]] | Janiroidea incertae sedis |
+| [[Tole glabra]] | Janiroidea incertae sedis |
+| [[Tole laciniata]] | Janiroidea incertae sedis |
+| [[Tole libbeyi]] | Janiroidea incertae sedis |
+| [[Tole spinosa]] | Janiroidea incertae sedis |
+| [[Tole spinosissima]] | Janiroidea incertae sedis |
+| [[Tole vilhelminae]] | Janiroidea incertae sedis |
 | [[Torwolia creper]] | Desmosomatidae |
 | [[Torwolia subchelatus]] | Desmosomatidae |
 | [[Torwolia tinbiene]] | Desmosomatidae |
@@ -11169,6 +11211,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Triaina makridonte]] | Janirellidae |
 | [[Triassphaeroma magnificum]] | Sphaeromatidae |
 | [[Tricarina gadvanensis]] | Tricarinidae |
+| [[Trichopleon ramosum]] | Janiroidea incertae sedis |
 | [[Tridentella acheronae]] | Tridentellidae |
 | [[Tridentella acherone]] | Tridentellidae |
 | [[Tridentella benguela]] | Tridentellidae |
@@ -11194,6 +11237,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Tridentella tanimbar]] | Tridentellidae |
 | [[Tridentella virginiana]] | Tridentellidae |
 | [[Tridentella vitae]] | Tridentellidae |
+| [[Trisopodoniscus abyssorum]] | Cryptoniscoidea incertae sedis |
 | [[Tristenium acutirostrum]] | Stenetriidae |
 | [[Tristenium bourboni]] | Stenetriidae |
 | [[Tristenium temae]] | Stenetriidae |
@@ -11256,6 +11300,7 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Urda stemmerbergensis]] | Urdidae |
 | [[Urda suevica]] | Urdidae |
 | [[Urda zelandica]] | Urdidae |
+| [[Urias spinosus]] | Janiroidea incertae sedis |
 | [[Urobopyrus processae]] | Bopyridae |
 | [[Uromunna acarina]] | Munnidae |
 | [[Uromunna biloba]] | Munnidae |
@@ -11336,6 +11381,8 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Xigonus patagoniensis]] | Paramunnidae |
 | [[Xiphoarcturus carinatus]] | Antarcturidae |
 | [[Xiphoarcturus kussakini]] | Antarcturidae |
+| [[Xostylus longiflagellatus]] | Janiroidea incertae sedis |
+| [[Xostylus parallelus]] | Janiroidea incertae sedis |
 | [[Xylolana radicicola]] | Cirolanidae |
 | [[Xynosphaera colemani]] | Sphaeromatidae |
 | [[Yucatalana robustispina]] | Cirolanidae |
@@ -11363,4 +11410,21 @@ Broad environmental realm (from the WoRMS-sourced family map).
 | [[Zuzara furcifer]] | Sphaeromatidae |
 | [[Zuzara semipunctata]] | Sphaeromatidae |
 | [[Zuzara venosa]] | Sphaeromatidae |
+
+## unknown  <small>(12)</small>
+
+| Species | Family |
+|---|---|
+| [[Anhelkocephalon handlirschi]] | Isopoda incertae sedis |
+| [[Brunnella rothgaengerae]] | Isopoda incertae sedis |
+| [[Debodea mellita]] | Isopoda incertae sedis |
+| [[Discosalaputium aschauerorum]] | Isopoda incertae sedis |
+| [[Electrolana madelineae]] | Isopoda incertae sedis |
+| [[Eoarmadillidium granulatum]] | Isopoda incertae sedis |
+| [[Eobooralana rhodanica]] | Isopoda incertae sedis |
+| [[Gelrincola winterswijkensis]] | Isopoda incertae sedis |
+| [[Kanthyloma crusta]] | Isopoda incertae sedis |
+| [[Reboursia ranvillensis]] | Isopoda incertae sedis |
+| [[Unusuropode castroi]] | Isopoda incertae sedis |
+| [[Vacuotheca dupeorum]] | Isopoda incertae sedis |
 

@@ -1,9 +1,9 @@
 ---
 type: index
 group: Asellota
-family_count: 34
-genus_count: 282
-species_count: 2373
+family_count: 35
+genus_count: 288
+species_count: 2387
 realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, asellota, master-index]
@@ -11,7 +11,7 @@ tags: [isopod, asellota, master-index]
 
 # Asellota (Suborder)
 
-This vault section covers **34 families, 282 genera, and 2373 accepted species**. Realm: marine, brackish, freshwater
+This vault section covers **35 families, 288 genera, and 2387 accepted species**. Realm: marine, brackish, freshwater
 
 ## Families
 
@@ -29,6 +29,7 @@ This vault section covers **34 families, 282 genera, and 2373 accepted species**
 | [[_Ischnomesidae Index\|Ischnomesidae]] | 9 | 111 |
 | [[_Janirellidae Index\|Janirellidae]] | 3 | 42 |
 | [[_Janiridae Index\|Janiridae]] | 22 | 183 |
+| [[_Janiroidea incertae sedis Index\|Janiroidea incertae sedis]] | 6 | 14 |
 | [[_Joeropsididae Index\|Joeropsididae]] | 3 | 84 |
 | [[_Katianiridae Index\|Katianiridae]] | 2 | 6 |
 | [[_Lepidocharontidae Index\|Lepidocharontidae]] | 3 | 73 |
@@ -51,5 +52,5 @@ This vault section covers **34 families, 282 genera, and 2373 accepted species**
 | [[_Urstylidae Index\|Urstylidae]] | 2 | 4 |
 | [[_Vermectiadidae Index\|Vermectiadidae]] | 1 | 2 |
 | [[_Xenosellidae Index\|Xenosellidae]] | 1 | 1 |
-| **TOTAL** | **282** | **2373** |
+| **TOTAL** | **288** | **2387** |
 

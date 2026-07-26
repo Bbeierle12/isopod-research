@@ -1,9 +1,9 @@
 ---
 type: index
 group: Epicaridea
-family_count: 17
-genus_count: 251
-species_count: 884
+family_count: 18
+genus_count: 260
+species_count: 893
 realm: marine, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
 tags: [isopod, epicaridea, master-index]
@@ -11,7 +11,7 @@ tags: [isopod, epicaridea, master-index]
 
 # Epicaridea (Suborder)
 
-This vault section covers **17 families, 251 genera, and 884 accepted species**. Realm: marine, freshwater
+This vault section covers **18 families, 260 genera, and 893 accepted species**. Realm: marine, freshwater
 
 ## Families
 
@@ -23,6 +23,7 @@ This vault section covers **17 families, 251 genera, and 884 accepted species**.
 | [[_Capitoniscidae Index\|Capitoniscidae]] | 2 | 4 |
 | [[_Crinoniscidae Index\|Crinoniscidae]] | 1 | 6 |
 | [[_Cryptoniscidae Index\|Cryptoniscidae]] | 8 | 30 |
+| [[_Cryptoniscoidea incertae sedis Index\|Cryptoniscoidea incertae sedis]] | 9 | 9 |
 | [[_Cryptothiridae Index\|Cryptothiridae]] | 1 | 1 |
 | [[_Cumoechidae Index\|Cumoechidae]] | 1 | 1 |
 | [[_Cyproniscidae Index\|Cyproniscidae]] | 2 | 7 |
@@ -34,5 +35,5 @@ This vault section covers **17 families, 251 genera, and 884 accepted species**.
 | [[_Microniscidae Index\|Microniscidae]] | 1 | 6 |
 | [[_Podasconidae Index\|Podasconidae]] | 2 | 4 |
 | [[_Stellatoniscidae Index\|Stellatoniscidae]] | 1 | 2 |
-| **TOTAL** | **251** | **884** |
+| **TOTAL** | **260** | **893** |
 
