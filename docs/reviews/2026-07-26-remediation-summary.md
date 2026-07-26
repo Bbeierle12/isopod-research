@@ -49,15 +49,28 @@ accidental.
 ## Verification (re-run any of these)
 
 ```
-python scripts/build_db.py        # 0 CHECK violations, 0 collisions across 11,435 species
-python scripts/atlas.py --dry-run # "33 studied" (was the bogus 11,448)
-python scripts/isopoda_index.py   # regenerates indexes; broken-link audit -> 0
+python scripts/verify.py          # 14/14 invariants — the single command that covers all of this
+python scripts/build_db.py        # 0 CHECK violations, 0 identity collisions
+python scripts/atlas.py --dry-run # "34 studied" (was the bogus 11,448)
 ```
 
+`scripts/verify.py` is the regression net, and CI
+(`.github/workflows/verify.yml`) runs it on every push against Python 3.9 and
+3.12, failing the build if generated notes are stale. It asserts:
+
 - **0** broken wikilinks (was 14,530).
-- **0** path/frontmatter mismatches across 11,435 notes.
+- **0** path/frontmatter mismatches across every species note.
 - **0** open-nomenclature tokens in any `species` field.
 - **0** database CHECK violations loading the entire vault.
+- valid YAML in every frontmatter; ICZN binomial formatting; no duplicate
+  binomials; dual-authority coverage; realm vocabulary; family-map agreement;
+  synonym integrity; ecology citations all resolving; indexes up to date.
+
+Writing it immediately surfaced four defects the earlier hand audits had missed,
+because it scans the whole vault rather than `Isopoda/` alone — including an
+`ecology.json` key typo (`Porcellio hoffmannseggi`) that had silently applied to
+nothing, and 33 species wrongly demoted to synonym records because a
+parenthesised subgenus was read as a demotion (ICZN Art. 6.1 says it is not).
 
 ## Follow-ups — now completed
 
