@@ -54,8 +54,26 @@ CREATE TABLE taxonomy (
     status TEXT NOT NULL CHECK (status IN %s),
     suborder TEXT, family TEXT REFERENCES family(name),
     extinct INTEGER NOT NULL DEFAULT 0,
-    gbif_id INTEGER, worms_aphia_id INTEGER,
+    gbif_id INTEGER, worms_aphia_id INTEGER, worms_status TEXT, worms_accepted TEXT,
     CHECK (species_epithet IS NOT NULL OR open_nomenclature IS NOT NULL)
+);
+CREATE TABLE reference_source (
+    reference_key TEXT PRIMARY KEY,
+    citation TEXT NOT NULL,
+    doi TEXT,
+    year INTEGER,
+    verified TEXT NOT NULL
+);
+CREATE TABLE ecology_claim (
+    claim_id INTEGER PRIMARY KEY,
+    match_name TEXT NOT NULL,
+    ecomorph TEXT, terrestrialization TEXT, stratum TEXT, trophic TEXT, reproduction TEXT,
+    unsourced_note TEXT
+);
+CREATE TABLE ecology_claim_source (
+    claim_id INTEGER NOT NULL REFERENCES ecology_claim(claim_id),
+    reference_key TEXT NOT NULL REFERENCES reference_source(reference_key),
+    PRIMARY KEY (claim_id, reference_key)
 );
 CREATE UNIQUE INDEX uq_identity ON taxonomy (
     genus, COALESCE(species_epithet,''), COALESCE(subspecies_epithet,''),
@@ -99,6 +117,23 @@ def load_families(cur):
                      1 if info.get("extinct") else 0))
     cur.executemany("INSERT INTO family VALUES (?,?,?,?,?,?,?)", rows)
     return len(rows)
+
+
+def load_ecology(cur):
+    """Ecology claims + their citations, as normalized tables (criterion IV.2:
+    a claim's provenance is a FOREIGN KEY, not a free-text field)."""
+    doc = json.loads((V.DATA / "ecology.json").read_text(encoding="utf-8"))
+    for key, r in sorted(doc.get("references", {}).items()):
+        cur.execute("INSERT INTO reference_source VALUES (?,?,?,?,?)",
+                    (key, r["citation"], r.get("doi"), r.get("year"), r.get("verified", "?")))
+    for i, e in enumerate(doc["entries"], 1):
+        cur.execute("INSERT INTO ecology_claim VALUES (?,?,?,?,?,?,?,?)",
+                    (i, e["match"], e.get("ecomorph"), e.get("terrestrialization"),
+                     e.get("stratum"), e.get("trophic"), e.get("reproduction"),
+                     e.get("source_note")))
+        for k in (e.get("source_refs") or []):
+            cur.execute("INSERT INTO ecology_claim_source VALUES (?,?)", (i, k))
+    return len(doc["entries"]), len(doc.get("references", {}))
 
 
 def insert(cur, checkfail, dedup, **kw):
@@ -147,7 +182,7 @@ def load_hobby(cur, checkfail, dedup):
     return n
 
 
-FM_KEYS = re.compile(r"^(scientificName|authorship|suborder|family|realm|gbif_id|extinct):[ \t]*(.*)$", re.M)
+FM_KEYS = re.compile(r"^(scientificName|authorship|suborder|family|realm|gbif_id|extinct|worms_aphia_id|worms_status|worms_accepted):[ \t]*(.*)$", re.M)
 
 
 def load_taxonomy(cur, checkfail, dedup, families):
@@ -172,7 +207,10 @@ def load_taxonomy(cur, checkfail, dedup, families):
                     suborder=fm.get("suborder"),
                     family=fam if fam in families else None,
                     extinct=1 if fm.get("extinct") == "true" else 0,
-                    gbif_id=fm.get("gbif_id") or None)
+                    gbif_id=fm.get("gbif_id") or None,
+                    worms_aphia_id=fm.get("worms_aphia_id") or None,
+                    worms_status=fm.get("worms_status") or None,
+                    worms_accepted=fm.get("worms_accepted") or None)
     return n
 
 
@@ -191,10 +229,11 @@ def main():
     families = {row[0] for row in cur.execute("SELECT name FROM family")}
     nt = load_taxonomy(cur, checkfail, dedup, families)   # canonical taxa first
     nh = load_hobby(cur, checkfail, dedup)
+    nc, nr = load_ecology(cur)
     con.commit()
 
-    print("Loaded: %d families, %d taxonomy species, %d hobby (provisional+morph+orphan) rows."
-          % (nf, nt, nh))
+    print("Loaded: %d families, %d taxonomy species, %d hobby (provisional+morph+orphan) rows, "
+          "%d ecology claims citing %d references." % (nf, nt, nh, nc, nr))
     print("Formatting/CHECK violations (real matrix failures): %d" % len(checkfail))
     for g, sp, tn, err in checkfail[:20]:
         print("   %-22s %-18s %-16s %s" % (g, sp or "-", tn or "-", err))
@@ -207,6 +246,11 @@ def main():
         ("reassigned (parenthesised authorship)", "SELECT COUNT(*) FROM taxonomy WHERE is_reassigned=1"),
         ("open-nomenclature forms", "SELECT COUNT(*) FROM taxonomy WHERE open_nomenclature IS NOT NULL"),
         ("families by realm", "SELECT realm, COUNT(*) FROM family GROUP BY realm ORDER BY 2 DESC"),
+        ("WoRMS status (species)", "SELECT worms_status, COUNT(*) FROM taxonomy WHERE record_kind='taxon' GROUP BY worms_status ORDER BY 2 DESC LIMIT 6"),
+        ("dual-authority (gbif+worms ids)", "SELECT COUNT(*) FROM taxonomy WHERE gbif_id IS NOT NULL AND worms_aphia_id IS NOT NULL"),
+        ("authorship with a year", "SELECT COUNT(*) FROM taxonomy WHERE authority_year IS NOT NULL"),
+        ("ecology claims with >=1 source", "SELECT COUNT(DISTINCT claim_id) FROM ecology_claim_source"),
+        ("references with a DOI", "SELECT COUNT(*) FROM reference_source WHERE doi IS NOT NULL"),
     ]:
         rows = cur.execute(q).fetchall()
         if len(rows) == 1 and len(rows[0]) == 1:

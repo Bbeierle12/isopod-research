@@ -59,14 +59,57 @@ python scripts/isopoda_index.py   # regenerates indexes; broken-link audit -> 0
 - **0** open-nomenclature tokens in any `species` field.
 - **0** database CHECK violations loading the entire vault.
 
-## Known follow-ups (scoped, not done here)
+## Follow-ups — now completed
 
-- **Species-level WoRMS crossmatch** (~290 requests): the audit's 4.7%
-  not-accepted-in-WoRMS figure came from a stratified sample; a full crossmatch
-  would give per-species `worms_aphia_id`/`worms_status` and the real vault-wide
-  number. The family map now carries family AphiaIDs; species ids are the next
-  step.
-- **Per-claim citations** in `data/ecology.json` (matrix IV.2): the schema has
-  the `reference_source` table; the 24 ecology rows still need sources attached.
-- **94 authorships missing a year** are inherited from GBIF's backbone; backfill
-  them during the WoRMS crossmatch rather than by hand.
+All three items previously listed as scoped-but-not-done are finished.
+
+**Species-level WoRMS crossmatch** (`scripts/worms_match.py`). All 11,435 species
+crossmatched; results cached in `data/worms_species.json`. Every note now carries
+`worms_status` (and `worms_aphia_id`/`worms_url` where WoRMS has a record,
+10,921 of them; the 514 without are the fossils WoRMS doesn't register), plus
+`worms_accepted` when WoRMS supersedes the vault's name. The vault-wide figure
+the audit could only sample:
+
+| status | n | % |
+|---|---:|---:|
+| accepted | 10,344 | 90.46% |
+| no record (fossils) | 514 | 4.49% |
+| **not accepted** | **577** | **5.05%** |
+
+The stratified sample predicted 4.7%; the true figure is 5.05%. The 577 break
+down as taxon inquirendum 138, superseded combination 131, alternative
+representation 122, junior subjective synonym 53, uncertain 49, unaccepted 31,
+misspellings 28, nomen nudum 19, other 6. This gives criterion **II.1** a real
+taxonomic-status field and **IV.1** a second authority.
+
+**Authorship years.** 73 of the 94 GBIF-truncated authorships were backfilled
+from the fuller WoRMS authority string. The remaining 21 lack a year in WoRMS
+too and were left as they are rather than guessed.
+
+**Per-claim citations** (`data/ecology.json`, criterion **IV.2**). 22 of 24
+entries now cite a published source via `source_refs` keys into a normalized
+`references` block — 13 works, 12 with DOIs. Every citation's metadata was
+generated from the CrossRef API response for its DOI, not transcribed, so none
+is recalled from memory. Schmalfuss (1984) is the one entry without a DOI (it
+predates registration) and is marked `verified: "manual"` rather than given a
+fabricated identifier. The two remaining entries (`Merulanella *`, `Cubaris *`)
+are hobby-genus wildcards with no located literature and carry an explicit
+`source_note` saying so. Citations surface in the vault via `ecology_evidence`
+(`refs:<keys>`) and a Sources section on the atlas hub.
+
+Two claims the accuracy audit flagged as unsourced now have their actual
+sources: the *Cylisticus convexus* "feminizable by wVulC" claim is Badawi, Grève
+& Cordaux (2015) — the transinfection experiment itself — and the *Trichoniscus
+pusillus* triploid/diploid system is Fussey (1984).
+
+`scripts/build_db.py` loads `reference_source`, `ecology_claim` and
+`ecology_claim_source`, so citation provenance is enforced by FOREIGN KEY.
+
+## Remaining known limitations
+
+- The 577 WoRMS-unaccepted species are **recorded, not resolved** — each note
+  states its status and accepted name, but the notes have not been renamed or
+  merged. That is a taxonomic-curation decision, not a mechanical one.
+- 21 authorships still lack a publication year (absent from both GBIF and WoRMS).
+- `Merulanella *` and `Cubaris *` remain genus-wildcard ecology rows; as the
+  audit noted, hobby "Cubaris" is not a monophyletic grouping.

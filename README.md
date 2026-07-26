@@ -49,6 +49,7 @@ python scripts/validate.py       # verify described records against GBIF (in pla
 python scripts/husbandry.py      # set husbandry DEFAULTS (in place)
 python scripts/generate.py       # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
 python scripts/atlas.py          # build Maps/ facet maps + Patterns + _Isopod Atlas hub
+python scripts/worms_match.py --fetch --write   # cross-match species against WoRMS
 python scripts/build_db.py       # (optional) load into a constraint-checked SQLite db
 ```
 
@@ -57,7 +58,9 @@ All scripts derive the vault root from their own location (override with the
 YAML-frontmatter editing. Suborders/realms follow **WoRMS**
 (`data/isopoda_suborders.json`, with family AphiaIDs); the species tree follows
 the **GBIF backbone**. `data/schema.sql` encodes the taxonomic constraints as a
-database schema.
+database schema. Every species note records both authorities (`gbif_id` and
+`worms_aphia_id`/`worms_status`); ecology claims in `data/ecology.json` cite
+CrossRef-verified references.
 
 **Described species are consolidated onto their `Isopoda/` scientific note** (`generate.py`
 enriches each with husbandry, `conglobation`, `bioactive_use`, fill-if-empty so hand edits always
