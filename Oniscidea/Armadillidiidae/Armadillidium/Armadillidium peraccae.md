@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: SW European pillbug
 status: hobby
+conglobation_type: Roller
+size_class: Medium
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Beginner
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

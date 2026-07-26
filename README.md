@@ -19,7 +19,9 @@ hobby, plus a cited research layer.
 | `Oniscidea/` | Scientific taxonomy — family → genus → species notes (GBIF) |
 | `Hobby/` | Undescribed `sp.` trade forms + morph cultivars; `_Hobby Catalog.md` |
 | `data/isopods.json` · `.csv` | Canonical hobby catalog (source of truth) + flat export |
-| `scripts/` | Idempotent pipeline that builds the notes/catalog/CSV |
+| `data/ecology.json` | Research axes (ecomorph, stratum, trophic, life-history) + evidence grades |
+| `Maps/` | **Isopod Atlas** — facet maps + pattern cross-tabs (`_Isopod Atlas.md`) |
+| `scripts/` | Idempotent pipeline that builds the notes/catalog/CSV/atlas |
 | `Research/` | Categorization outline, per-species ecology data, source PDFs |
 | `docs/superpowers/specs/` | Design spec for the master dataset |
 
@@ -43,6 +45,7 @@ python scripts/seed.py       # one-time bootstrap of data/isopods.json
 python scripts/validate.py   # verify described records against GBIF (in place)
 python scripts/husbandry.py  # set husbandry DEFAULTS (in place)
 python scripts/generate.py   # build Hobby/ notes, _Hobby Catalog.md, data/isopods.csv
+python scripts/atlas.py      # build Maps/ facet maps + Patterns + _Isopod Atlas hub
 ```
 
 **Described species are consolidated onto their `Oniscidea/` scientific note** (`generate.py`
@@ -66,6 +69,19 @@ husbandry defaults on all 146 records.
 > Ecology data is graded: **a** = published fact · **b** = inference from close relatives ·
 > **c** = genuinely unstudied. Trade-name *Cubaris*/*Merulanella* and several tropical taxa are
 > **b/c** — husbandry-sourced. This convention is deliberate: inference must never harden into fact.
+
+## Isopod Atlas (`Maps/`)
+
+`Maps/_Isopod Atlas.md` is a cross-reference layer over the 112 hobby forms with **13 facet maps**
+and a **pattern-matrix** dashboard, built by `scripts/atlas.py`. Two kinds of facet:
+
+- **Husbandry-derived** (all forms): conglobation, size class, biome, region, moisture, difficulty,
+  bioactive role, taxon status.
+- **Research axes** (studied taxa, evidence-graded a/b/c): ecomorph type (Schmalfuss), degree of
+  terrestrialization, habitat stratum, trophic guild, reproduction.
+
+Every form note also carries these as frontmatter, so you can slice the collection along any axis
+or cross-tabulate (e.g. *Ecomorph × Terrestrialization*, *Biome × Conglobation*).
 
 ## Data sources & attribution
 

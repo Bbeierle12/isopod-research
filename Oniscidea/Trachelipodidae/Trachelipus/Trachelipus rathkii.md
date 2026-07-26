@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Temperate cleanup crew
 status: hobby
+conglobation_type: Non-roller
+size_class: Medium
+biome: Temperate
+biogeo_region: Cosmopolitan
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
 tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---
 

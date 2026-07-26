@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Large Iberian / N African woodlouse
 status: hobby
+conglobation_type: Non-roller
+size_class: Large
+biome: Mediterranean
+biogeo_region: North Africa
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

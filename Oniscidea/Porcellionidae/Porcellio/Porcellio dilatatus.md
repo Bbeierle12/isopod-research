@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Robust cleanup crew
 status: hobby
+conglobation_type: Non-roller
+size_class: Large
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
+ecomorph: Clinger
+terrestrialization: mesophilous
+habitat_stratum: EP
+trophic_guild: General detritivore
+reproduction_mode: sexual
+ecology_evidence: "stratum:a/b trophic:b life:b"
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

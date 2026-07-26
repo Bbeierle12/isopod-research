@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: "Large display species; needs depth, calcium and airflow; can stridulate (buzz)"
 status: hobby
+conglobation_type: Roller
+size_class: Large
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
+ecomorph: Roller
+terrestrialization: xerophilous
+habitat_stratum: EP/SA
+trophic_guild: General detritivore
+reproduction_mode: sexual (monolayer marsupial sac)
+ecology_evidence: "stratum:b trophic:b life:b"
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 

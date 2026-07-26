@@ -8,6 +8,13 @@ scientificName: Paxodillidium schmalfussi
 is_described: true
 taxon_status: unmatched
 conglobation: FULL
+conglobation_type: Roller
+size_class: Small
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, hobby, armadillidiidae, described, form]
 common_name: 
 adult_size_mm: 6-10 mm

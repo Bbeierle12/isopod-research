@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Armored Caribbean display species; humidity and calcium critical
 status: stub
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Americas
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Display
 tags: [isopod, oniscidea, delatorreiidae]
 ---
 

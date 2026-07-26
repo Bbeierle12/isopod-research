@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Fast micro cleanup crew
 status: hobby
+conglobation_type: Non-roller
+size_class: Micro
+biome: Temperate
+biogeo_region: Americas
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Micro-cleanup
+ecomorph: Runner
+terrestrialization: hygrophilous
+habitat_stratum: EP
+trophic_guild: Detritivore
+reproduction_mode: sexual (iteroparous)
+ecology_evidence: "stratum:a trophic:b life:a"
 tags: [isopod, oniscidea, philosciidae, hobby]
 ---
 

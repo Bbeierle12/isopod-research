@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Good tolerant cleanup crew
 status: hobby
+conglobation_type: Roller
+size_class: Large
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
+ecomorph: Roller
+terrestrialization: mesophilous
+habitat_stratum: EP
+trophic_guild: General detritivore
+reproduction_mode: sexual (NOT parthenogenetic)
+ecology_evidence: "stratum:a trophic:a life:a/b"
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

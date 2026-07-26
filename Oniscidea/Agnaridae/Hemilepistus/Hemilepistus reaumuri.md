@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: "Specialist social desert species; challenging, not a cleanup crew"
 status: hobby
+conglobation_type: Non-roller
+size_class: Large
+biome: Desert
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Specialist
+ecomorph: Runner
+terrestrialization: xerophilous
+habitat_stratum: EN/EP
+trophic_guild: Detritivore/facultative herbivore
+reproduction_mode: "sexual; subsocial, monogamous, biparental"
+ecology_evidence: "stratum:a trophic:a life:a"
 tags: [isopod, oniscidea, agnaridae, hobby]
 ---
 

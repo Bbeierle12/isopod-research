@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Premier micro cleanup crew for humid / dart-frog vivariums; parthenogenetic
 status: hobby
+conglobation_type: Non-roller
+size_class: Micro
+biome: Tropical
+biogeo_region: Cosmopolitan
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Micro-cleanup
+ecomorph: Non-conformist
+terrestrialization: hygrophilous
+habitat_stratum: EN/EP
+trophic_guild: General detritivore (micro cleanup)
+reproduction_mode: obligate parthenogenesis (all-female)
+ecology_evidence: "stratum:a/b trophic:a/b life:a"
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 

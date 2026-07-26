@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: "Social desert specialist; challenging, not a cleanup crew"
 status: hobby
+conglobation_type: Non-roller
+size_class: Large
+biome: Desert
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Specialist
 tags: [isopod, oniscidea, agnaridae, hobby]
 ---
 

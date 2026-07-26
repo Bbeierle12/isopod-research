@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Coastal sand species
 status: stub
+conglobation_type: Non-roller
+size_class: Medium
+biome: Coastal
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Specialist
 tags: [isopod, oniscidea, porcellionidae]
 ---
 

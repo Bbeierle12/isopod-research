@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Tiny rolling cleanup crew for humid vivs
 status: hobby
+conglobation_type: Roller
+size_class: Small
+biome: Tropical
+biogeo_region: Cosmopolitan
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
+ecomorph: Roller
+terrestrialization: hygrophilous
+habitat_stratum: EP
+trophic_guild: Detritivore (assumed)
+reproduction_mode: sexual (assumed)
+ecology_evidence: "stratum:b trophic:c life:c"
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 

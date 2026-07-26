@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: "Fast, prolific feeder/cleanup crew, similar to P. pruinosus"
 status: hobby
+conglobation_type: Non-roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Americas
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Feeder
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

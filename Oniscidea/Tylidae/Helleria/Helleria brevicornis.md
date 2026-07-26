@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: PARTIAL
 bioactive_use: Large primitive coastal species (Tylidae); a partial roller
 status: hobby
+conglobation_type: Partial roller
+size_class: Large
+biome: Coastal
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Intermediate
+bioactive_role: Specialist
 tags: [isopod, oniscidea, tylidae, hobby]
 ---
 

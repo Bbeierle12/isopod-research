@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Obligate ant associate (myrmecophile); not a standalone cleanup crew
 status: hobby
+conglobation_type: Non-roller
+size_class: Micro
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Advanced
+bioactive_role: Specialist
+ecomorph: Non-conformist
+terrestrialization: hygrophilous
+habitat_stratum: MY
+trophic_guild: Coprophage/detritivore (ant nests)
+reproduction_mode: sexual (parthenogenesis suspected)
+ecology_evidence: "stratum:a trophic:a life:b/c"
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 

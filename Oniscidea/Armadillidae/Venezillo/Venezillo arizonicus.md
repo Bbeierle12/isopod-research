@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Small warm-climate rolling species; more arid-tolerant than its tropical relatives
 status: stub
+conglobation_type: Roller
+size_class: Small
+biome: Temperate
+biogeo_region: Americas
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidae]
 ---
 

@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Display species; needs calcium and ventilation
 status: hobby
+conglobation_type: Roller
+size_class: Large
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Display
+ecomorph: Roller
+terrestrialization: mesophilous
+habitat_stratum: SA
+trophic_guild: General detritivore
+reproduction_mode: sexual
+ecology_evidence: "stratum:a trophic:b life:a/b"
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

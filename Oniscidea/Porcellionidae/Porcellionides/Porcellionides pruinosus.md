@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Extremely fast and prolific feeder/cleanup colony; great starter and feeder species
 status: hobby
+conglobation_type: Non-roller
+size_class: Medium
+biome: Temperate
+biogeo_region: Cosmopolitan
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Feeder
+ecomorph: Runner
+terrestrialization: mesophilous
+habitat_stratum: EP
+trophic_guild: General detritivore
+reproduction_mode: sexual
+ecology_evidence: "stratum:a trophic:a life:a"
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

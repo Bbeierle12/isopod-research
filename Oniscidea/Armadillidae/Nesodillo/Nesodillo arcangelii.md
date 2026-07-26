@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Tropical rolling display species; humidity and calcium important
 status: stub
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidae]
 ---
 

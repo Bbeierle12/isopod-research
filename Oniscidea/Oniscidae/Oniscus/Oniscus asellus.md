@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: "Good cleanup for humid temperate vivariums; prefers cooler, damp conditions"
 status: hobby
+conglobation_type: Non-roller
+size_class: Large
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
+ecomorph: Clinger
+terrestrialization: hygrophilous
+habitat_stratum: EP/CO
+trophic_guild: General detritivore
+reproduction_mode: sexual (sperm storage)
+ecology_evidence: "stratum:a trophic:a life:a/b"
 tags: [isopod, oniscidea, oniscidae, hobby]
 ---
 

@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Specialist coastal species; not a terrarium cleanup crew
 status: hobby
+conglobation_type: Non-roller
+size_class: Large
+biome: Coastal
+biogeo_region: Europe & Mediterranean
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Specialist
+ecomorph: Runner
+terrestrialization: littoral
+habitat_stratum: LI
+trophic_guild: Algivore/detritivore (beach-cast algae)
+reproduction_mode: sexual
+ecology_evidence: "stratum:a trophic:a life:b"
 tags: [isopod, oniscidea, ligiidae, hobby]
 ---
 

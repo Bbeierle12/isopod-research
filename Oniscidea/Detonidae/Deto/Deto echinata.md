@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Coastal specialist; not a standard terrarium cleanup crew
 status: stub
+conglobation_type: Non-roller
+size_class: Medium
+biome: Coastal
+biogeo_region: Australasia
+moisture: Arid
+difficulty_tier: Advanced
+bioactive_role: Specialist
+ecomorph: Runner
+terrestrialization: littoral
+habitat_stratum: LI
+trophic_guild: Detritivore
+reproduction_mode: sexual
+ecology_evidence: "stratum:b trophic:b life:c"
 tags: [isopod, oniscidea, detonidae]
 ---
 

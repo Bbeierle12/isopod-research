@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: PARTIAL
 bioactive_use: Hardy cleanup crew; a partial roller
 status: hobby
+conglobation_type: Partial roller
+size_class: Medium
+biome: Temperate
+biogeo_region: Cosmopolitan
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
+ecomorph: Roller
+terrestrialization: mesophilous
+habitat_stratum: EP/SA
+trophic_guild: General detritivore
+reproduction_mode: sexual (feminizable by wVulC)
+ecology_evidence: "stratum:a trophic:b life:a/b"
 tags: [isopod, oniscidea, cylisticidae, hobby]
 ---
 

@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: "Fast Mediterranean species, frequently ant-associated"
 status: hobby
+conglobation_type: Non-roller
+size_class: Small
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

@@ -9,6 +9,13 @@ is_described: false
 taxon_status: provisional
 trade_name: Arboreal Spiny
 conglobation: FULL
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Micro-cleanup
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
 adult_size_mm: 8-14 mm

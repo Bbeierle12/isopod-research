@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: "Myrmecophile; obligate ant associate, not a standalone cleanup crew"
 status: stub
+conglobation_type: Non-roller
+size_class: Micro
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Advanced
+bioactive_role: Specialist
 tags: [isopod, oniscidea, platyarthridae]
 ---
 

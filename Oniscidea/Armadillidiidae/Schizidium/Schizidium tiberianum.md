@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Roller from the arid E Mediterranean
 status: stub
+conglobation_type: Roller
+size_class: Small
+biome: Mediterranean
+biogeo_region: Asia & Middle East
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidiidae]
 ---
 

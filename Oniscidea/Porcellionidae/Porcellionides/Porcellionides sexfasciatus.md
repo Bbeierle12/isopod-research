@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Fast Mediterranean runner
 status: hobby
+conglobation_type: Non-roller
+size_class: Medium
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Beginner
+bioactive_role: Display
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

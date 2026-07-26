@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Tiny moisture-dependent cleanup
 status: hobby
+conglobation_type: Non-roller
+size_class: Micro
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
+ecomorph: Creeper
+terrestrialization: hygrophilous
+habitat_stratum: EN/EP
+trophic_guild: General detritivore
+reproduction_mode: parthenogenetic triploid + sexual diploid
+ecology_evidence: "stratum:a trophic:a/b life:a"
 tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---
 

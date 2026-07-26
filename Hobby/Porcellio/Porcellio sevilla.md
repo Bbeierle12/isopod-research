@@ -8,6 +8,13 @@ scientificName: Porcellio sevilla
 is_described: true
 taxon_status: needs_review
 conglobation: NONE
+conglobation_type: Non-roller
+size_class: Large
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, hobby, porcellionidae, described, form]
 common_name: 
 adult_size_mm: 12-16 mm

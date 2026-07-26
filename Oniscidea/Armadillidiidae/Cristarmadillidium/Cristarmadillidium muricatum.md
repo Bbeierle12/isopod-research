@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Spiny Mediterranean display species
 status: hobby
+conglobation_type: Roller
+size_class: Medium
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

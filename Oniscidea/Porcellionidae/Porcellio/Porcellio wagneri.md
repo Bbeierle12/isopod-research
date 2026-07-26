@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Hardy display + cleanup
 status: hobby
+conglobation_type: Non-roller
+size_class: Large
+biome: Mediterranean
+biogeo_region: North Africa
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
 tags: [isopod, oniscidea, porcellionidae, hobby]
 ---
 

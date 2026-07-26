@@ -9,6 +9,13 @@ is_described: false
 taxon_status: provisional
 trade_name: Feather
 conglobation: FULL
+conglobation_type: Roller
+size_class: Small
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
 adult_size_mm: 6-10 mm

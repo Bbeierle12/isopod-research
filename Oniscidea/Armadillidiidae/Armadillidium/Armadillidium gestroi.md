@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Colorful display species
 status: hobby
+conglobation_type: Roller
+size_class: Large
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

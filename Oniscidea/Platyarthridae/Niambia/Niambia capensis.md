@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Hardy small cleanup crew
 status: hobby
+conglobation_type: Non-roller
+size_class: Small
+biome: Temperate
+biogeo_region: Sub-Saharan Africa
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Cleanup crew
 tags: [isopod, oniscidea, platyarthridae, hobby]
 ---
 

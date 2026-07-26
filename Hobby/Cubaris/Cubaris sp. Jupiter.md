@@ -9,6 +9,19 @@ is_described: false
 taxon_status: provisional
 trade_name: Jupiter
 conglobation: FULL
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Display
+ecomorph: Roller
+terrestrialization: hygrophilous
+habitat_stratum: CA/SA
+trophic_guild: Detritivore + wood/calcium
+reproduction_mode: sexual (assumed)
+ecology_evidence: "stratum:b/c trophic:b/c life:b/c"
 tags: [isopod, hobby, armadillidae, provisional, form]
 common_name: 
 adult_size_mm: 8-14 mm

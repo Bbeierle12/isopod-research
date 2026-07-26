@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Coastal dune species; sandy substrate and airflow
 status: hobby
+conglobation_type: Roller
+size_class: Medium
+biome: Coastal
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Specialist
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

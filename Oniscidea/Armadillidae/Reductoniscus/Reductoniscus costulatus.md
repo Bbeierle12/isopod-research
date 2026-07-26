@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Tiny tropical rolling species; micro cleanup in humid vivariums
 status: hobby
+conglobation_type: Roller
+size_class: Micro
+biome: Tropical
+biogeo_region: Cosmopolitan
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Micro-cleanup
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 

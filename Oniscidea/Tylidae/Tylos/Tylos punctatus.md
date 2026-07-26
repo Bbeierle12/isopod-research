@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Beach-burrowing specialist; needs deep sand and coastal conditions
 status: stub
+conglobation_type: Roller
+size_class: Large
+biome: Coastal
+biogeo_region: Other
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Specialist
+ecomorph: Roller
+terrestrialization: littoral
+habitat_stratum: LI
+trophic_guild: Algivore/detritivore (beach-cast algae)
+reproduction_mode: sexual
+ecology_evidence: "stratum:a trophic:a life:b"
 tags: [isopod, oniscidea, tylidae]
 ---
 

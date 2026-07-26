@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Cool woodland species; legally protected in parts of Europe
 status: hobby
+conglobation_type: Roller
+size_class: Small
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidiidae, hobby]
 ---
 

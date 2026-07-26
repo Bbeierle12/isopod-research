@@ -9,6 +9,13 @@ is_described: false
 taxon_status: provisional
 trade_name: Dwarf Purple
 conglobation: NONE
+conglobation_type: Non-roller
+size_class: Micro
+biome: Tropical
+biogeo_region: Cosmopolitan
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Micro-cleanup
 tags: [isopod, hobby, platyarthridae, provisional, form]
 common_name: 
 adult_size_mm: 3-5 mm

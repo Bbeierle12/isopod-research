@@ -8,6 +8,13 @@ scientificName: Trachelipus squamatus
 is_described: true
 taxon_status: unmatched
 conglobation: NONE
+conglobation_type: Non-roller
+size_class: Medium
+biome: Temperate
+biogeo_region: Asia & Middle East
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Display
 tags: [isopod, hobby, trachelipodidae, described, form]
 common_name: 
 adult_size_mm: 10-15 mm

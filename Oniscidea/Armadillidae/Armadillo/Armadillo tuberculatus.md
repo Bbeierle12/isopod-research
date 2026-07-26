@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: "Mediterranean roller; warmth, calcium and airflow"
 status: hobby
+conglobation_type: Roller
+size_class: Large
+biome: Mediterranean
+biogeo_region: Europe & Mediterranean
+moisture: Arid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 

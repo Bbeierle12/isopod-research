@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Small damp-loving temperate species
 status: hobby
+conglobation_type: Non-roller
+size_class: Small
+biome: Temperate
+biogeo_region: Europe & Mediterranean
+moisture: Moderate
+difficulty_tier: Beginner
+bioactive_role: Display
 tags: [isopod, oniscidea, trichoniscidae, hobby]
 ---
 

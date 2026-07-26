@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: NONE
 bioactive_use: Tiny tropical micro cleanup crew
 status: hobby
+conglobation_type: Non-roller
+size_class: Micro
+biome: Tropical
+biogeo_region: Cosmopolitan
+moisture: Humid
+difficulty_tier: Beginner
+bioactive_role: Micro-cleanup
 tags: [isopod, oniscidea, trachelipodidae, hobby]
 ---
 

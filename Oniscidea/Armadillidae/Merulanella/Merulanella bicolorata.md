@@ -22,6 +22,19 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Sensitive tropical display; stable humidity and calcium are critical
 status: stub
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Asia & Middle East
+moisture: Humid
+difficulty_tier: Advanced
+bioactive_role: Display
+ecomorph: Spiny
+terrestrialization: hygrophilous
+habitat_stratum: EP/CA
+trophic_guild: Detritivore (assumed)
+reproduction_mode: sexual (assumed)
+ecology_evidence: "stratum:b/c trophic:c life:b/c"
 tags: [isopod, oniscidea, armadillidae]
 ---
 

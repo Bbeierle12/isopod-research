@@ -22,6 +22,13 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation: FULL
 bioactive_use: Australian tropical/subtropical rolling display species
 status: hobby
+conglobation_type: Roller
+size_class: Medium
+biome: Tropical
+biogeo_region: Australasia
+moisture: Humid
+difficulty_tier: Intermediate
+bioactive_role: Display
 tags: [isopod, oniscidea, armadillidae, hobby]
 ---
 
