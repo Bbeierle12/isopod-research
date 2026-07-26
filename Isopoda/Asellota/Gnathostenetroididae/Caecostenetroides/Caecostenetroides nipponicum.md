@@ -5,7 +5,7 @@ authorship: "Nunomura, 1975"
 genus: Caecostenetroides
 family: Gnathostenetroididae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205358
 gbif_url: https://www.gbif.org/species/2205358
 common_name:

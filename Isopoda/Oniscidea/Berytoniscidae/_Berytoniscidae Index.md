@@ -1,17 +1,22 @@
 ---
-type: family
-family: Berytoniscidae
+type: index
+group: Berytoniscidae
 suborder: Oniscidea
 genus_count: 1
 species_count: 1
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, berytoniscidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Berytoniscidae -- family index
+# Berytoniscidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **1 genera . 1 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 1 genera · 1 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Berytoniscus\|Berytoniscus]] | 1 |
+|---|---:|
+| [[_Berytoniscus|Berytoniscus]] | 1 |
+| **TOTAL** | **1** |
+

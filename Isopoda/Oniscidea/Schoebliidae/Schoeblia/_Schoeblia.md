@@ -5,14 +5,10 @@ family: Schoebliidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, schoebliidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Schoeblia -- genus index
+# Schoeblia (Genus)
 
-**Family** [[_Schoebliidae Index|Schoebliidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Schoebliidae Index|Schoebliidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Schoeblia circularis\|Schoeblia circularis]] | Budde-Lund, 1909 |
-| [[Schoeblia fulleri\|Schoeblia fulleri]] | (Silvestri, 1918) |

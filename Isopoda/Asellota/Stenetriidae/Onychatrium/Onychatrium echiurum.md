@@ -5,7 +5,7 @@ authorship: "(Nobili, 1906) "
 genus: Onychatrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 8997990
 gbif_url: https://www.gbif.org/species/8997990
 common_name:

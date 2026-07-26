@@ -5,19 +5,10 @@ family: Paraplatyarthridae
 suborder: Oniscidea
 species_count: 7
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, paraplatyarthridae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Paraplatyarthrus -- genus index
+# Paraplatyarthrus (Genus)
 
-**Family** [[_Paraplatyarthridae Index|Paraplatyarthridae]] . **7 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Paraplatyarthridae Index|Paraplatyarthridae]] · **Suborder** Oniscidea · 7 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Paraplatyarthrus australiensis\|Paraplatyarthrus australiensis]] | (Wahrberg, 1922) |
-| [[Paraplatyarthrus crebesconiscus\|Paraplatyarthrus crebesconiscus]] | Javidkar & King, 2017 |
-| [[Paraplatyarthrus cunyuensis\|Paraplatyarthrus cunyuensis]] | Javidkar & King, 2017 |
-| [[Paraplatyarthrus nahidae\|Paraplatyarthrus nahidae]] | Javidkar & King, 2017 |
-| [[Paraplatyarthrus occidentoniscus\|Paraplatyarthrus occidentoniscus]] | Javidkar & King, 2017 |
-| [[Paraplatyarthrus pallidus\|Paraplatyarthrus pallidus]] | Javidkar & King, 2017 |
-| [[Paraplatyarthrus subterraneus\|Paraplatyarthrus subterraneus]] | Javidkar & King, 2015 |

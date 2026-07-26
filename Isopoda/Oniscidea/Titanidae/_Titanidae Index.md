@@ -1,21 +1,26 @@
 ---
-type: family
-family: Titanidae
+type: index
+group: Titanidae
 suborder: Oniscidea
 genus_count: 5
 species_count: 6
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, titanidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Titanidae -- family index
+# Titanidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **5 genera . 6 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 5 genera · 6 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Antidorcasia\|Antidorcasia]] | 1 |
-| [[_Coatonia\|Coatonia]] | 1 |
-| [[_Kogmania\|Kogmania]] | 1 |
-| [[_Phylloniscus\|Phylloniscus]] | 2 |
-| [[_Titana\|Titana]] | 1 |
+|---|---:|
+| [[_Antidorcasia|Antidorcasia]] | 1 |
+| [[_Coatonia|Coatonia]] | 1 |
+| [[_Kogmania|Kogmania]] | 1 |
+| [[_Phylloniscus|Phylloniscus]] | 2 |
+| [[_Titana|Titana]] | 1 |
+| **TOTAL** | **6** |
+

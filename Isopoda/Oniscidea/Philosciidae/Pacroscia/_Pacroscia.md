@@ -5,14 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Pacroscia -- genus index
+# Pacroscia (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Pacroscia decoui\|Pacroscia decoui]] | Vandel, 1981 |
-| [[Pacroscia elongata\|Pacroscia elongata]] | Vandel, 1981 |

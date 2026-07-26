@@ -5,13 +5,10 @@ family: Tylidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, tylidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Helleria -- genus index
+# Helleria (Genus)
 
-**Family** [[_Tylidae Index|Tylidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Tylidae Index|Tylidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Helleria brevicornis\|Helleria brevicornis]] | Ebner, 1868 |

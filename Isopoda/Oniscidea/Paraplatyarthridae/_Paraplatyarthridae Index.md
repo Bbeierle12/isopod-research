@@ -1,17 +1,22 @@
 ---
-type: family
-family: Paraplatyarthridae
+type: index
+group: Paraplatyarthridae
 suborder: Oniscidea
 genus_count: 1
 species_count: 7
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, paraplatyarthridae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Paraplatyarthridae -- family index
+# Paraplatyarthridae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **1 genera . 7 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 1 genera · 7 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Paraplatyarthrus\|Paraplatyarthrus]] | 7 |
+|---|---:|
+| [[_Paraplatyarthrus|Paraplatyarthrus]] | 7 |
+| **TOTAL** | **7** |
+

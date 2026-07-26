@@ -5,16 +5,10 @@ family: Armadillidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Filippinodillo -- genus index
+# Filippinodillo (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Filippinodillo flavimaculis\|Filippinodillo flavimaculis]] | Jeon & Kwon, 2001 |
-| [[Filippinodillo kimberleyensis\|Filippinodillo kimberleyensis]] | Lewis, 1998 |
-| [[Filippinodillo maculatus\|Filippinodillo maculatus]] | Schmalfuss, 1987 |
-| [[Filippinodillo palawanensis\|Filippinodillo palawanensis]] | Jeon & Kwon, 2001 |

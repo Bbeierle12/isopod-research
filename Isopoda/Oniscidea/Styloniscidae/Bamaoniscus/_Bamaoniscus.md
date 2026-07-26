@@ -5,13 +5,10 @@ family: Styloniscidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, styloniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Bamaoniscus -- genus index
+# Bamaoniscus (Genus)
 
-**Family** [[_Styloniscidae Index|Styloniscidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Styloniscidae Index|Styloniscidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Bamaoniscus lobatus\|Bamaoniscus lobatus]] | Taiti & Montesanto, 2020 |

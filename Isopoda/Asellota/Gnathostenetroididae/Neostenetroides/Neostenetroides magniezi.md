@@ -5,7 +5,7 @@ authorship: "Botosaneanu & Iliffe, 2007"
 genus: Neostenetroides
 family: Gnathostenetroididae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205364
 gbif_url: https://www.gbif.org/species/2205364
 common_name:

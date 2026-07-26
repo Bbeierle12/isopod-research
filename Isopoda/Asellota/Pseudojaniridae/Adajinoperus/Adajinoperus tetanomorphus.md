@@ -5,7 +5,7 @@ authorship: "Serov & Wilson, 1999"
 genus: Adajinoperus
 family: Pseudojaniridae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2213777
 gbif_url: https://www.gbif.org/species/2213777
 common_name:

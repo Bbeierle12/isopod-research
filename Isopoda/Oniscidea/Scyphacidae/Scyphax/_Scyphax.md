@@ -5,15 +5,10 @@ family: Scyphacidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, scyphacidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Scyphax -- genus index
+# Scyphax (Genus)
 
-**Family** [[_Scyphacidae Index|Scyphacidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Scyphacidae Index|Scyphacidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Scyphax crescentia\|Scyphax crescentia]] | Lewis, 1998 |
-| [[Scyphax ornatus\|Scyphax ornatus]] | Dana, 1853 |
-| [[Scyphax setiger\|Scyphax setiger]] | Budde-Lund, 1885 |

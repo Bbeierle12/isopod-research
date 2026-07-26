@@ -1,17 +1,22 @@
 ---
-type: family
-family: Bisilvestriidae
+type: index
+group: Bisilvestriidae
 suborder: Oniscidea
 genus_count: 1
 species_count: 1
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, bisilvestriidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Bisilvestriidae -- family index
+# Bisilvestriidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **1 genera . 1 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 1 genera · 1 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Bisilvestria\|Bisilvestria]] | 1 |
+|---|---:|
+| [[_Bisilvestria|Bisilvestria]] | 1 |
+| **TOTAL** | **1** |
+

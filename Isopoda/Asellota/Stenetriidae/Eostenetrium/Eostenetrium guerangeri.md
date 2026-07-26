@@ -5,7 +5,7 @@ authorship: "Wilson & Morel, 2022"
 genus: Eostenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 11756718
 gbif_url: https://www.gbif.org/species/11756718
 common_name:

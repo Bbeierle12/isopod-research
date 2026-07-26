@@ -22,7 +22,7 @@ sources: [Hobby husbandry consensus — general care guideline; verify for your 
 conglobation_type: Roller
 size_class: Medium
 biome: Tropical
-biogeo_region: Other
+biogeo_region: Cosmopolitan
 moisture: Humid
 difficulty_tier: Advanced
 bioactive_role: Display

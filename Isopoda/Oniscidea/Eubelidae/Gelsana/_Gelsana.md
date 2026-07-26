@@ -5,13 +5,10 @@ family: Eubelidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, eubelidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Gelsana -- genus index
+# Gelsana (Genus)
 
-**Family** [[_Eubelidae Index|Eubelidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Eubelidae Index|Eubelidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Gelsana abnormis\|Gelsana abnormis]] | Budde-Lund, 1910 |

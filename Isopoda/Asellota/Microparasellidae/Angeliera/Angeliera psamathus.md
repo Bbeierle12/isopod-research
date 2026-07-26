@@ -5,7 +5,7 @@ authorship: "Kensley, 1984"
 genus: Angeliera
 family: Microparasellidae
 suborder: Asellota
-realm: marine
+realm: freshwater
 gbif_id: 2212273
 gbif_url: https://www.gbif.org/species/2212273
 common_name:

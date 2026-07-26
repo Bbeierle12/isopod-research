@@ -5,7 +5,7 @@ authorship: "(H.Richardson, 1902) "
 genus: Hansenium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205153
 gbif_url: https://www.gbif.org/species/2205153
 common_name:

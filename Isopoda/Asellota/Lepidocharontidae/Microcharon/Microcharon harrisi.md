@@ -5,7 +5,7 @@ authorship: "Spooner, 1959"
 genus: Microcharon
 family: Lepidocharontidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2212250
 gbif_url: https://www.gbif.org/species/2212250
 common_name:

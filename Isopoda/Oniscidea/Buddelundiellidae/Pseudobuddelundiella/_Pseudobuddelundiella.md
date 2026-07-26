@@ -5,14 +5,10 @@ family: Buddelundiellidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, buddelundiellidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Pseudobuddelundiella -- genus index
+# Pseudobuddelundiella (Genus)
 
-**Family** [[_Buddelundiellidae Index|Buddelundiellidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Buddelundiellidae Index|Buddelundiellidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Pseudobuddelundiella hostensis\|Pseudobuddelundiella hostensis]] | Borutzky, 1967 |
-| [[Pseudobuddelundiella ljovuschkini\|Pseudobuddelundiella ljovuschkini]] | Borutzky, 1967 |

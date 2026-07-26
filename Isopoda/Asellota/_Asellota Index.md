@@ -4,16 +4,14 @@ group: Asellota
 family_count: 34
 genus_count: 277
 species_count: 2387
-realm: marine
+realm: marine, brackish, freshwater
 source: GBIF Backbone Taxonomy (api.gbif.org)
-generated: 2026-07-25
 tags: [isopod, asellota, master-index]
 ---
 
 # Asellota (Suborder)
 
-This vault section covers **34 families, 277 genera, and 2387 accepted species**.
-Realm: marine
+This vault section covers **34 families, 277 genera, and 2387 accepted species**. Realm: marine, brackish, freshwater
 
 ## Families
 
@@ -54,3 +52,4 @@ Realm: marine
 | [[_Vermectiadidae Index\|Vermectiadidae]] | 1 | 2 |
 | [[_Xenosellidae Index\|Xenosellidae]] | 1 | 1 |
 | **TOTAL** | **277** | **2387** |
+

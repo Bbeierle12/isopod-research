@@ -5,7 +5,7 @@ authorship: "Nobili, 1906"
 genus: Stenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 4303753
 gbif_url: https://www.gbif.org/species/4303753
 common_name:

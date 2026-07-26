@@ -5,7 +5,7 @@ authorship: "Chappuis & Delamare-Deboutteville, 1952"
 genus: Angeliera
 family: Microparasellidae
 suborder: Asellota
-realm: marine
+realm: freshwater
 gbif_id: 2212266
 gbif_url: https://www.gbif.org/species/2212266
 common_name:

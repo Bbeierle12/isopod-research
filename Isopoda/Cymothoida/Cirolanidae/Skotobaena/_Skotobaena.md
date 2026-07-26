@@ -1,0 +1,14 @@
+---
+type: genus
+genus: Skotobaena
+family: Cirolanidae
+suborder: Cymothoida
+species_count: 2
+source: GBIF Backbone Taxonomy (api.gbif.org)
+tags: [isopod, cymothoida, genus-index]
+---
+
+# Skotobaena (Genus)
+
+**Family** [[_Cirolanidae Index|Cirolanidae]] · **Suborder** Cymothoida · 2 accepted species.
+

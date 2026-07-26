@@ -5,16 +5,10 @@ family: Armadillidiidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidiidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Eluma -- genus index
+# Eluma (Genus)
 
-**Family** [[_Armadillidiidae Index|Armadillidiidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidiidae Index|Armadillidiidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Eluma caelata\|Eluma caelata]] | (Miers, 1878) |
-| [[Eluma matae\|Eluma matae]] | Cifuentes & Da Silva, 2023 |
-| [[Eluma praticola\|Eluma praticola]] | Taiti & Rossano, 2015 |
-| [[Eluma tuberculata\|Eluma tuberculata]] | Cruz, 1991 |

@@ -1,17 +1,22 @@
 ---
-type: family
-family: Buddelundiellidae
+type: index
+group: Buddelundiellidae
 suborder: Oniscidea
 genus_count: 1
 species_count: 2
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, buddelundiellidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Buddelundiellidae -- family index
+# Buddelundiellidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **1 genera . 2 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 1 genera · 2 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Pseudobuddelundiella\|Pseudobuddelundiella]] | 2 |
+|---|---:|
+| [[_Pseudobuddelundiella|Pseudobuddelundiella]] | 2 |
+| **TOTAL** | **2** |
+

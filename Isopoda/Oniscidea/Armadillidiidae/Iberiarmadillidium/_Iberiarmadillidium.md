@@ -5,15 +5,10 @@ family: Armadillidiidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidiidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Iberiarmadillidium -- genus index
+# Iberiarmadillidium (Genus)
 
-**Family** [[_Armadillidiidae Index|Armadillidiidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidiidae Index|Armadillidiidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Iberiarmadillidium pinicola\|Iberiarmadillidium pinicola]] | Recuero, Rodríguez-Flores & García-París, 2021 |
-| [[Iberiarmadillidium psammophilum\|Iberiarmadillidium psammophilum]] | Recuero, Rodríguez-Flores & García-París, 2021 |
-| [[Iberiarmadillidium sakura\|Iberiarmadillidium sakura]] | Recuero, Rodríguez-Flores & García-París, 2021 |

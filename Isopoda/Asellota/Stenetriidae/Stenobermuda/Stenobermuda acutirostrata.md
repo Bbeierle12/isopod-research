@@ -5,7 +5,7 @@ authorship: "Schultz, 1979"
 genus: Stenobermuda
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205234
 gbif_url: https://www.gbif.org/species/2205234
 common_name:

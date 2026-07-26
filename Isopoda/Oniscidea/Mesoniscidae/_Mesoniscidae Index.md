@@ -1,17 +1,22 @@
 ---
-type: family
-family: Mesoniscidae
+type: index
+group: Mesoniscidae
 suborder: Oniscidea
 genus_count: 1
 species_count: 2
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, mesoniscidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Mesoniscidae -- family index
+# Mesoniscidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **1 genera . 2 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 1 genera · 2 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Mesoniscus\|Mesoniscus]] | 2 |
+|---|---:|
+| [[_Mesoniscus|Mesoniscus]] | 2 |
+| **TOTAL** | **2** |
+

@@ -5,7 +5,7 @@ authorship: "Schultz, 1982"
 genus: Stenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205214
 gbif_url: https://www.gbif.org/species/2205214
 common_name:

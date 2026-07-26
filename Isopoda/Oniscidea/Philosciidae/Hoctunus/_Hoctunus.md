@@ -5,14 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Hoctunus -- genus index
+# Hoctunus (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Hoctunus vespertilio\|Hoctunus vespertilio]] | Mulaik, 1960 |
-| [[Hoctunus vespertillo\|Hoctunus vespertillo]] | Mulaik, 1960 |

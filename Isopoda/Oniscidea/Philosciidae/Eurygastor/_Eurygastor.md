@@ -5,14 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Eurygastor -- genus index
+# Eurygastor (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Eurygastor montanus\|Eurygastor montanus]] | Vandel, 1973 |
-| [[Eurygastor robustus\|Eurygastor robustus]] | Vandel, 1973 |

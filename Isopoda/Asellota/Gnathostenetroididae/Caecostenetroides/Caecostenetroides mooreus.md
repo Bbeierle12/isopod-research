@@ -5,7 +5,7 @@ authorship: "Müller, 1991"
 genus: Caecostenetroides
 family: Gnathostenetroididae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205360
 gbif_url: https://www.gbif.org/species/2205360
 common_name:

@@ -5,16 +5,10 @@ family: Armadillidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Stigmops -- genus index
+# Stigmops (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Stigmops demiclavula\|Stigmops demiclavula]] | (Lewis, 1998) |
-| [[Stigmops howensis\|Stigmops howensis]] | (Lewis, 1998) |
-| [[Stigmops odontotergina\|Stigmops odontotergina]] | Lillemets & Wilson, 2002 |
-| [[Stigmops polyvelota\|Stigmops polyvelota]] | Lillemets & Wilson, 2002 |

@@ -5,7 +5,7 @@ authorship: "Haswell, 1881"
 genus: Stenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205202
 gbif_url: https://www.gbif.org/species/2205202
 common_name:

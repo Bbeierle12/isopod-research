@@ -5,15 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Prosekia -- genus index
+# Prosekia (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Prosekia galapagensis\|Prosekia galapagensis]] | (Andersson, 1960) |
-| [[Prosekia pearsi\|Prosekia pearsi]] | (Vandel, 1952) |
-| [[Prosekia rutilans\|Prosekia rutilans]] | (Vandel, 1952) |

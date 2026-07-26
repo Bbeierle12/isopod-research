@@ -5,7 +5,7 @@ authorship: "(Vanhoffen, 1914) "
 genus: Tenupedunculus
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205257
 gbif_url: https://www.gbif.org/species/2205257
 common_name:

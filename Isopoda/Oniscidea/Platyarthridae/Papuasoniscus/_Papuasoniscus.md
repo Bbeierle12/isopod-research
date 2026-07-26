@@ -5,15 +5,10 @@ family: Platyarthridae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, platyarthridae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Papuasoniscus -- genus index
+# Papuasoniscus (Genus)
 
-**Family** [[_Platyarthridae Index|Platyarthridae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Platyarthridae Index|Platyarthridae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Papuasoniscus golovatchi\|Papuasoniscus golovatchi]] | Dalens, 1988 |
-| [[Papuasoniscus holthuisi\|Papuasoniscus holthuisi]] | Vandel, 1973 |
-| [[Papuasoniscus lutaoensis\|Papuasoniscus lutaoensis]] | Jeon & Kwon, 1996 |

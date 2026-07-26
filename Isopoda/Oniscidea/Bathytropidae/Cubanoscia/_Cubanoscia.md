@@ -5,14 +5,10 @@ family: Bathytropidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, bathytropidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Cubanoscia -- genus index
+# Cubanoscia (Genus)
 
-**Family** [[_Bathytropidae Index|Bathytropidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Bathytropidae Index|Bathytropidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Cubanoscia primitiva\|Cubanoscia primitiva]] | Vandel, 1981 |
-| [[Cubanoscia proxima\|Cubanoscia proxima]] | Vandel, 1981 |

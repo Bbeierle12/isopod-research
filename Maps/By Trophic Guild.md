@@ -8,7 +8,7 @@ tags: [isopod, atlas, facet-map]
 
 Feeding guild.
 
-**33 of 11435 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
+**33 of 11448 Isopoda species classified.**  Research axis — evidence-graded; the rest await study. ← [[_Isopod Atlas]]
 
 ## General detritivore  <small>(21)</small>
 

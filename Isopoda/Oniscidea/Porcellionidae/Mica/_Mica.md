@@ -5,14 +5,10 @@ family: Porcellionidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, porcellionidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Mica -- genus index
+# Mica (Genus)
 
-**Family** [[_Porcellionidae Index|Porcellionidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Porcellionidae Index|Porcellionidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Mica iberica\|Mica iberica]] | Garcia, 2020 |
-| [[Mica tardus\|Mica tardus]] | (Budde-Lund, 1885) |

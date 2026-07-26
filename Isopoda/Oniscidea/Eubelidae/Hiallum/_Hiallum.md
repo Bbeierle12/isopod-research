@@ -5,18 +5,10 @@ family: Eubelidae
 suborder: Oniscidea
 species_count: 6
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, eubelidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Hiallum -- genus index
+# Hiallum (Genus)
 
-**Family** [[_Eubelidae Index|Eubelidae]] . **6 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Eubelidae Index|Eubelidae]] · **Suborder** Oniscidea · 6 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Hiallum affine\|Hiallum affine]] | Richardson, 1909 |
-| [[Hiallum camerunicum\|Hiallum camerunicum]] | Ferrara & Schmalfuss, 1985 |
-| [[Hiallum hilgendorfii\|Hiallum hilgendorfii]] | (Budde-Lund, 1898) |
-| [[Hiallum postflavum\|Hiallum postflavum]] | Richardson, 1909 |
-| [[Hiallum richardsoni\|Hiallum richardsoni]] | Paulian de Félice, 1945 |
-| [[Hiallum rothschildi\|Hiallum rothschildi]] | Richardson, 1909 |

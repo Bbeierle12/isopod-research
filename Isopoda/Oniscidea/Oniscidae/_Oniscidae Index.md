@@ -1,29 +1,34 @@
 ---
-type: family
-family: Oniscidae
+type: index
+group: Oniscidae
 suborder: Oniscidea
 genus_count: 13
 species_count: 94
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, oniscidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Oniscidae -- family index
+# Oniscidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **13 genera . 94 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 13 genera · 94 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Diacara\|Diacara]] | 4 |
-| [[_Exalloniscus\|Exalloniscus]] | 28 |
-| [[_Hanoniscus\|Hanoniscus]] | 6 |
-| [[_Hiatoniscus\|Hiatoniscus]] | 2 |
-| [[_Hora\|Hora]] | 1 |
-| [[_Krantzia\|Krantzia]] | 1 |
-| [[_Oniscus\|Oniscus]] | 13 |
-| [[_Oroniscus\|Oroniscus]] | 11 |
-| [[_Phalloniscus\|Phalloniscus]] | 22 |
-| [[_Rabdoniscus\|Rabdoniscus]] | 1 |
-| [[_Rodoniscus\|Rodoniscus]] | 1 |
-| [[_Sardoniscus\|Sardoniscus]] | 3 |
-| [[_Tasmanoniscus\|Tasmanoniscus]] | 1 |
+|---|---:|
+| [[_Diacara|Diacara]] | 4 |
+| [[_Exalloniscus|Exalloniscus]] | 28 |
+| [[_Hanoniscus|Hanoniscus]] | 6 |
+| [[_Hiatoniscus|Hiatoniscus]] | 2 |
+| [[_Hora|Hora]] | 1 |
+| [[_Krantzia|Krantzia]] | 1 |
+| [[_Oniscus|Oniscus]] | 13 |
+| [[_Oroniscus|Oroniscus]] | 11 |
+| [[_Phalloniscus|Phalloniscus]] | 22 |
+| [[_Rabdoniscus|Rabdoniscus]] | 1 |
+| [[_Rodoniscus|Rodoniscus]] | 1 |
+| [[_Sardoniscus|Sardoniscus]] | 3 |
+| [[_Tasmanoniscus|Tasmanoniscus]] | 1 |
+| **TOTAL** | **94** |
+

@@ -5,14 +5,10 @@ family: Trichoniscidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, trichoniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Helenoniscus -- genus index
+# Helenoniscus (Genus)
 
-**Family** [[_Trichoniscidae Index|Trichoniscidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Trichoniscidae Index|Trichoniscidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Helenoniscus prenanti\|Helenoniscus prenanti]] | Legrand, 1943 |
-| [[Helenoniscus teissieri\|Helenoniscus teissieri]] | Legrand, 1943 |

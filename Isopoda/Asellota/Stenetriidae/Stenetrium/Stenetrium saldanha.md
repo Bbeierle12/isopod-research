@@ -5,7 +5,7 @@ authorship: "Barnard, 1920"
 genus: Stenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205211
 gbif_url: https://www.gbif.org/species/2205211
 common_name:

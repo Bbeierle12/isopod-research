@@ -1,18 +1,23 @@
 ---
-type: family
-family: Balloniscidae
+type: index
+group: Balloniscidae
 suborder: Oniscidea
 genus_count: 2
 species_count: 9
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, balloniscidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Balloniscidae -- family index
+# Balloniscidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **2 genera . 9 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 2 genera · 9 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Balloniscus\|Balloniscus]] | 7 |
-| [[_Plataoniscus\|Plataoniscus]] | 2 |
+|---|---:|
+| [[_Balloniscus|Balloniscus]] | 7 |
+| [[_Plataoniscus|Plataoniscus]] | 2 |
+| **TOTAL** | **9** |
+

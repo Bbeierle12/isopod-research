@@ -20,6 +20,7 @@ reproduction_mode:
 ecology_evidence:
 sources:
 status: stub
+extinct: "true"
 tags: [isopod, isopoda, incertae sedis, urdidae]
 ---
 

@@ -5,7 +5,7 @@ authorship: "(Müller, 1991) "
 genus: Tristenium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205186
 gbif_url: https://www.gbif.org/species/2205186
 common_name:

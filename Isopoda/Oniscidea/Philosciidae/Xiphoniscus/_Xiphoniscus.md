@@ -5,14 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Xiphoniscus -- genus index
+# Xiphoniscus (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Xiphoniscus adisi\|Xiphoniscus adisi]] | Grangeiro, Souza & Christoffersen, 2017 |
-| [[Xiphoniscus mirabilis\|Xiphoniscus mirabilis]] | Vandel, 1968 |

@@ -5,13 +5,10 @@ family: Trachelipodidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, trachelipodidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Tracheoniscus -- genus index
+# Tracheoniscus (Genus)
 
-**Family** [[_Trachelipodidae Index|Trachelipodidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Trachelipodidae Index|Trachelipodidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Tracheoniscus bulgaricus\|Tracheoniscus bulgaricus]] | Verhoeff, 1926 |

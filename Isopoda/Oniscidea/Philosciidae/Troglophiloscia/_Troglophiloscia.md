@@ -5,15 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Troglophiloscia -- genus index
+# Troglophiloscia (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Troglophiloscia belizensis\|Troglophiloscia belizensis]] | Schultz, 1984 |
-| [[Troglophiloscia laevis\|Troglophiloscia laevis]] | Schultz, 1977 |
-| [[Troglophiloscia silvestrii\|Troglophiloscia silvestrii]] | Brian, 1929 |

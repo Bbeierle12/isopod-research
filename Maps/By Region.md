@@ -10,7 +10,7 @@ Biogeographic origin (husbandry-derived).
 
 **112 hobby forms classified.** ← [[_Isopod Atlas]]
 
-## Europe & Mediterranean  <small>(51)</small>
+## Europe & Mediterranean  <small>(50)</small>
 
 | Species | Family |
 |---|---|
@@ -37,7 +37,6 @@ Biogeographic origin (husbandry-derived).
 | [[Cristarmadillidium muricatum]] | Armadillidiidae |
 | [[Eluma caelata]] | Armadillidiidae |
 | [[Helleria brevicornis]] | Tylidae |
-| [[Ligia oceanica]] | Ligiidae |
 | [[Ligidium hypnorum]] | Ligiidae |
 | [[Oniscus asellus]] | Oniscidae |
 | [[Paxodillidium schmalfussi]] | Armadillidiidae |
@@ -116,13 +115,14 @@ Biogeographic origin (husbandry-derived).
 | [[Troglodillo sp. Green Spots]] | Armadillidae |
 | [[Troglodillo sp. Soil]] | Armadillidae |
 
-## Americas  <small>(4)</small>
+## Americas  <small>(5)</small>
 
 | Species | Family |
 |---|---|
 | [[Atlantoscia floridana]] | Philosciidae |
 | [[Porcellionides floria]] | Porcellionidae |
 | [[Pseudarmadillo spinosus]] | Delatorreiidae |
+| [[Tylos punctatus]] | Tylidae |
 | [[Venezillo arizonicus]] | Armadillidae |
 
 ## Australasia  <small>(2)</small>
@@ -132,7 +132,7 @@ Biogeographic origin (husbandry-derived).
 | [[Deto echinata]] | Detonidae |
 | [[Spherillo danae]] | Armadillidae |
 
-## Cosmopolitan  <small>(17)</small>
+## Cosmopolitan  <small>(19)</small>
 
 | Species | Family |
 |---|---|
@@ -150,15 +150,15 @@ Biogeographic origin (husbandry-derived).
 | [[Trachelipus rathkii]] | Trachelipodidae |
 | [[Trichorhina sp. Dwarf Purple]] | Platyarthridae |
 | [[Trichorhina tomentosa]] | Platyarthridae |
+| [[Tuberillo sp. Bumpy]] | Armadillidae |
+| [[Tuberillo sp. Spiny Hedgehog]] | Armadillidae |
 | [[Venezillo parvus]] | Armadillidae |
 | [[Venezillo sp. Maya]] | Armadillidae |
 | [[Venezillo sp. Tank]] | Armadillidae |
 
-## Other  <small>(3)</small>
+## Other  <small>(1)</small>
 
 | Species | Family |
 |---|---|
-| [[Tuberillo sp. Bumpy]] | Armadillidae |
-| [[Tuberillo sp. Spiny Hedgehog]] | Armadillidae |
-| [[Tylos punctatus]] | Tylidae |
+| [[Ligia oceanica]] | Ligiidae |
 

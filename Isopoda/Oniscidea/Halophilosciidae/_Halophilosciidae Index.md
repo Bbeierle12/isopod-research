@@ -1,19 +1,24 @@
 ---
-type: family
-family: Halophilosciidae
+type: index
+group: Halophilosciidae
 suborder: Oniscidea
 genus_count: 3
 species_count: 37
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, halophilosciidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Halophilosciidae -- family index
+# Halophilosciidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **3 genera . 37 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 3 genera · 37 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| [[_Halophiloscia\|Halophiloscia]] | 11 |
-| [[_Littorophiloscia\|Littorophiloscia]] | 23 |
-| [[_Stenophiloscia\|Stenophiloscia]] | 3 |
+|---|---:|
+| [[_Halophiloscia|Halophiloscia]] | 11 |
+| [[_Littorophiloscia|Littorophiloscia]] | 23 |
+| [[_Stenophiloscia|Stenophiloscia]] | 3 |
+| **TOTAL** | **37** |
+

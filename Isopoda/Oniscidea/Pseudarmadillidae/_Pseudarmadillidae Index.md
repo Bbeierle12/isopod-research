@@ -1,17 +1,21 @@
 ---
-type: family
-family: Pseudarmadillidae
+type: index
+group: Pseudarmadillidae
 suborder: Oniscidea
 genus_count: 0
 species_count: 0
+realm: terrestrial
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, pseudarmadillidae, family-index]
+tags: [isopod, oniscidea, family-index]
 ---
 
-# Pseudarmadillidae -- family index
+# Pseudarmadillidae (Family)
 
-Part of suborder [[_Oniscidea Index|Oniscidea]]. **0 genera . 0 accepted species** (GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24).
+Suborder Oniscidea · 0 genera · 0 accepted species.
+
+## Genera
 
 | Genus | Species |
-|---|---|
-| _(no accepted genera recorded)_ | |
+|---|---:|
+| **TOTAL** | **0** |
+

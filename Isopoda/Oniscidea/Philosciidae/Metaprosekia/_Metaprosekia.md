@@ -5,17 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 5
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Metaprosekia -- genus index
+# Metaprosekia (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **5 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 5 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Metaprosekia caupe\|Metaprosekia caupe]] | Campos-Filho, Araujo & Taiti, 2014 |
-| [[Metaprosekia igatuensis\|Metaprosekia igatuensis]] | Campos-Filho, Fernandes & Bichuette, 2020 |
-| [[Metaprosekia nodilinearis\|Metaprosekia nodilinearis]] | Leistikow, 2000 |
-| [[Metaprosekia quadriocellata\|Metaprosekia quadriocellata]] | Campos-Filho, Araujo & Taiti, 2014 |
-| [[Metaprosekia utiariti\|Metaprosekia utiariti]] | Campos-Filho, Sfenthourakis & Bichuette, 2023 |

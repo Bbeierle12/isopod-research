@@ -5,7 +5,7 @@ authorship: "Kensley, 1980"
 genus: Stenetrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205220
 gbif_url: https://www.gbif.org/species/2205220
 common_name:

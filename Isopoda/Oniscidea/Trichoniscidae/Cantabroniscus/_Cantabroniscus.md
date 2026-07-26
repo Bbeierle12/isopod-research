@@ -5,13 +5,10 @@ family: Trichoniscidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, trichoniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Cantabroniscus -- genus index
+# Cantabroniscus (Genus)
 
-**Family** [[_Trichoniscidae Index|Trichoniscidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Trichoniscidae Index|Trichoniscidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Cantabroniscus primitivus\|Cantabroniscus primitivus]] | Vandel, 1965 |

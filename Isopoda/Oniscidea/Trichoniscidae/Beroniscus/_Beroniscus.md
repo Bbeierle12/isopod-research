@@ -5,14 +5,10 @@ family: Trichoniscidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, trichoniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Beroniscus -- genus index
+# Beroniscus (Genus)
 
-**Family** [[_Trichoniscidae Index|Trichoniscidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Trichoniscidae Index|Trichoniscidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Beroniscus capreolus\|Beroniscus capreolus]] | Vandel, 1967 |
-| [[Beroniscus marcelli\|Beroniscus marcelli]] | Vandel, 1969 |

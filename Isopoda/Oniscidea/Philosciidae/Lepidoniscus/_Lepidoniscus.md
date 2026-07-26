@@ -5,15 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Lepidoniscus -- genus index
+# Lepidoniscus (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Lepidoniscus germanicus\|Lepidoniscus germanicus]] | (Verhoeff, 1896) |
-| [[Lepidoniscus minutus\|Lepidoniscus minutus]] | (C.Koch, 1838) |
-| [[Lepidoniscus pruinosus\|Lepidoniscus pruinosus]] | (Carl, 1908) |

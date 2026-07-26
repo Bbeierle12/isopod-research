@@ -5,15 +5,10 @@ family: Scleropactidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, scleropactidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Colomboniscus -- genus index
+# Colomboniscus (Genus)
 
-**Family** [[_Scleropactidae Index|Scleropactidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Scleropactidae Index|Scleropactidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Colomboniscus carpioi\|Colomboniscus carpioi]] | Carpio-Díaz, López-Orozco & Campos-Filho, 2018 |
-| [[Colomboniscus regressus\|Colomboniscus regressus]] | Vandel, 1972 |
-| [[Colomboniscus tristani\|Colomboniscus tristani]] | (Arcangeli, 1930) |

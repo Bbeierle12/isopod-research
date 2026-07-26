@@ -5,17 +5,10 @@ family: Scyphacidae
 suborder: Oniscidea
 species_count: 5
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, scyphacidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Quelpartoniscus -- genus index
+# Quelpartoniscus (Genus)
 
-**Family** [[_Scyphacidae Index|Scyphacidae]] . **5 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Scyphacidae Index|Scyphacidae]] · **Suborder** Oniscidea · 5 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Quelpartoniscus granulatus\|Quelpartoniscus granulatus]] | Kwon, 1995 |
-| [[Quelpartoniscus nipponensis\|Quelpartoniscus nipponensis]] | (Nunomura, 1986) |
-| [[Quelpartoniscus setoensis\|Quelpartoniscus setoensis]] | Nunomura, 2003 |
-| [[Quelpartoniscus toyamaensis\|Quelpartoniscus toyamaensis]] | Nunomura, 2005 |
-| [[Quelpartoniscus tsushimaensis\|Quelpartoniscus tsushimaensis]] | (Nunomura, 1990) |

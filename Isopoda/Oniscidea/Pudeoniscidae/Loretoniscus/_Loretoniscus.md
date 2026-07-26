@@ -5,13 +5,10 @@ family: Pudeoniscidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, pudeoniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Loretoniscus -- genus index
+# Loretoniscus (Genus)
 
-**Family** [[_Pudeoniscidae Index|Pudeoniscidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Pudeoniscidae Index|Pudeoniscidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Loretoniscus mashiriaensis\|Loretoniscus mashiriaensis]] | Ocampo-Maceda, Lopez-Orozco & Campos-Filho, 2023 |

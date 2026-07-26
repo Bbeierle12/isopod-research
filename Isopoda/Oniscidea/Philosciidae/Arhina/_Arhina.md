@@ -5,14 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Arhina -- genus index
+# Arhina (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Arhina barkulensis\|Arhina barkulensis]] | Collinge, 1915 |
-| [[Arhina porcellioides\|Arhina porcellioides]] | Budde-Lund, 1904 |

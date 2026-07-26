@@ -5,7 +5,7 @@ authorship: "(Hansen, 1916) "
 genus: Mictosoma
 family: Mictosomatidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2213549
 gbif_url: https://www.gbif.org/species/2213549
 common_name:

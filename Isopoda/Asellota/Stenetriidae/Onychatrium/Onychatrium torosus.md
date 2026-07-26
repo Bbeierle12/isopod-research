@@ -5,7 +5,7 @@ authorship: "Bruce & Cumming, 2015"
 genus: Onychatrium
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 8146876
 gbif_url: https://www.gbif.org/species/8146876
 common_name:

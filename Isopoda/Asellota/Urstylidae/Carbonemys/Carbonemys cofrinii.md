@@ -5,7 +5,7 @@ authorship: "Cadena et al., 2012"
 genus: Carbonemys
 family: Urstylidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 8587521
 gbif_url: https://www.gbif.org/species/8587521
 common_name:

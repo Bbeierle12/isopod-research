@@ -5,7 +5,7 @@ authorship: "(Schultz, 1982) "
 genus: Tenupedunculus
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2205247
 gbif_url: https://www.gbif.org/species/2205247
 common_name:

@@ -5,15 +5,10 @@ family: Trichoniscidae
 suborder: Oniscidea
 species_count: 3
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, trichoniscidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Macedonethes -- genus index
+# Macedonethes (Genus)
 
-**Family** [[_Trichoniscidae Index|Trichoniscidae]] . **3 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Trichoniscidae Index|Trichoniscidae]] · **Suborder** Oniscidea · 3 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Macedonethes castellonensis\|Macedonethes castellonensis]] | (Cruz & Dalens, 1989) |
-| [[Macedonethes skopjensis\|Macedonethes skopjensis]] | (Buturovic, 1955) |
-| [[Macedonethes stankoi\|Macedonethes stankoi]] | Karaman, 2003 |

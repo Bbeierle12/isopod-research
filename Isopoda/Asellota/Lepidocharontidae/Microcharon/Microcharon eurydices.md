@@ -5,7 +5,7 @@ authorship: "Cvetkov, 1965"
 genus: Microcharon
 family: Lepidocharontidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2212210
 gbif_url: https://www.gbif.org/species/2212210
 common_name:

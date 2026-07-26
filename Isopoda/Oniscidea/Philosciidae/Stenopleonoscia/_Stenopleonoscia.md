@@ -5,16 +5,10 @@ family: Philosciidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, philosciidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Stenopleonoscia -- genus index
+# Stenopleonoscia (Genus)
 
-**Family** [[_Philosciidae Index|Philosciidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Philosciidae Index|Philosciidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Stenopleonoscia albomarginata\|Stenopleonoscia albomarginata]] | Herold, 1931 |
-| [[Stenopleonoscia nitida\|Stenopleonoscia nitida]] | Herold, 1931 |
-| [[Stenopleonoscia setosa\|Stenopleonoscia setosa]] | Herold, 1931 |
-| [[Stenopleonoscia wahrbergi\|Stenopleonoscia wahrbergi]] | Herold, 1931 |

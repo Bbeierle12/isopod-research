@@ -5,7 +5,7 @@ authorship: "Serov & Wilson, 1999"
 genus: Schottea
 family: Pseudojaniridae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2213769
 gbif_url: https://www.gbif.org/species/2213769
 common_name:

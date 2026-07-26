@@ -5,7 +5,7 @@ authorship: "(Coineau, 1968) "
 genus: Janinella
 family: Lepidocharontidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 9280944
 gbif_url: https://www.gbif.org/species/9280944
 common_name:

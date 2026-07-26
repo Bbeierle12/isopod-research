@@ -5,14 +5,10 @@ family: Armadillidiidae
 suborder: Oniscidea
 species_count: 2
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidiidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Trogleluma -- genus index
+# Trogleluma (Genus)
 
-**Family** [[_Armadillidiidae Index|Armadillidiidae]] . **2 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidiidae Index|Armadillidiidae]] · **Suborder** Oniscidea · 2 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Trogleluma machadoi\|Trogleluma machadoi]] | (Vandel, 1946) |
-| [[Trogleluma pilosa\|Trogleluma pilosa]] | Taiti & Montesanto, 2018 |

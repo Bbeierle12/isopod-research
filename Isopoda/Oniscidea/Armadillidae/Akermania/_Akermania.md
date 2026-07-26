@@ -5,16 +5,10 @@ family: Armadillidae
 suborder: Oniscidea
 species_count: 4
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, armadillidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Akermania -- genus index
+# Akermania (Genus)
 
-**Family** [[_Armadillidae Index|Armadillidae]] . **4 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Armadillidae Index|Armadillidae]] · **Suborder** Oniscidea · 4 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Akermania besucheti\|Akermania besucheti]] | Argano & Manicastri, 1979 |
-| [[Akermania coronata\|Akermania coronata]] | Barnard, 1949 |
-| [[Akermania spinosa\|Akermania spinosa]] | Collinge, 1919 |
-| [[Akermania sylvatica\|Akermania sylvatica]] | Barnard, 1958 |

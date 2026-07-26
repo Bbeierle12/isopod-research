@@ -5,7 +5,7 @@ authorship: "(Müller, 1992) "
 genus: Gnathostenetroides
 family: Gnathostenetroididae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 10084071
 gbif_url: https://www.gbif.org/species/10084071
 common_name:

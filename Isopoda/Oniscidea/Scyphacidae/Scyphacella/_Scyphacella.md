@@ -5,13 +5,10 @@ family: Scyphacidae
 suborder: Oniscidea
 species_count: 1
 source: GBIF Backbone Taxonomy (api.gbif.org)
-tags: [isopod, oniscidea, scyphacidae, genus-index]
+tags: [isopod, oniscidea, genus-index]
 ---
 
-# Scyphacella -- genus index
+# Scyphacella (Genus)
 
-**Family** [[_Scyphacidae Index|Scyphacidae]] . **1 accepted species** (source: GBIF Backbone Taxonomy (api.gbif.org), 2026-07-24)
+**Family** [[_Scyphacidae Index|Scyphacidae]] · **Suborder** Oniscidea · 1 accepted species.
 
-| Species | Authorship |
-|---|---|
-| [[Scyphacella arenicola\|Scyphacella arenicola]] | Smith, 1873 |

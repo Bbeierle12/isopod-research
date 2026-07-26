@@ -5,7 +5,7 @@ authorship: "Boulanouar, Yacoubi-Khebiza, Boutin & Coineau, 1997"
 genus: Microcharon
 family: Lepidocharontidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 2212223
 gbif_url: https://www.gbif.org/species/2212223
 common_name:

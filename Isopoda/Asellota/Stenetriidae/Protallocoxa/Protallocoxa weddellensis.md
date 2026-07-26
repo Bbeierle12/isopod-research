@@ -5,7 +5,7 @@ authorship: "Schultz, 1978"
 genus: Protallocoxa
 family: Stenetriidae
 suborder: Asellota
-realm: freshwater
+realm: marine
 gbif_id: 7602665
 gbif_url: https://www.gbif.org/species/7602665
 common_name:
